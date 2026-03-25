@@ -1,0 +1,751 @@
+# ID: histcorp-latin-perseus-phi0474.phi016.perseus-lat2
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: For Aulus Licinius Archias
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 4,716
+# sentences: 460
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+<div type="edition"
+xml:lang="lat"
+n="urn:cts:latinLit:phi0474.phi016.perseus-lat2"
+subtype="edition">
+PRO ARCHIA POETA ORATIO
+si quid est in me ingeni, iudices, quod sentio quam sit
+exiguum, aut si qua exercitatio dicendi, in qua me non infitior mediocriter esse
+versatum, aut si huiuscehuiuscemodi ag
+rei
+ratio aliqua ab optimarum artium studiis ac disciplina profecta, a qua ego nullum
+confiteor aetatis meae tempus abhorruisse, earum rerum omnium vel in primis hic A.
+Licinius
+Licinius
+Archia add.
+Ga
+fructum a me repeterepetere E
+prope suo iure debet. nam quoad longissime potest mens
+mea respicere spatium praeteriti temporis et pueritiae memoriam recordari ultimam,
+inde usque repetens hunc video mihi principem et ad suscipiendam et ad ingrediendam
+rationem horum studiorum exstitisse. quod si haec vox huius hortatu
+praeceptisque conformata non nullis aliquando saluti fuit, a quo id accepimus quo
+ceteris opitulari et alios servare possemus, huic profecto
+ipsi, quantum est situm in nobis, et opem et salutem ferre debemus. 
+
+ac ne quis a nobis hoc ita dici forte miretur, quod
+alia quaedam in hoc facultas sit ingeni neque haec dicendi ratio
+aut
+aut
+ac 
+ςb
+disciplina, nene GEeb: nec cett.
+nos quidem huic
+unihuic uni Lambinus: huic cuncti codd.: huicce uni Puteanus
+studio penitus umquam dediti fuimus. etenim
+omnes artes quae ad humanitatem pertinent habent quoddam commune
+vinclumvinclum Gςgp: vinculum cett.
+et quasi
+cognatione quadam inter se continentur. 
+
+sed ne cui vestrum mirum esse videatur, me in
+quaestione legitima et in iudicio publico, cum res agaturres agitatur Schol.
+apud praetorem populi Romani,
+lectissimumrectissimum Schol.
+virum, et
+apud severissimos iudices, tanto conventu hominum ac frequentia hoc uti genere
+dicendi quod non modo a consuetudine iudiciorum verum etiam a forensi sermone
+abhorreat, quaeso a vobis ut in hachac om. e
+causa mihi detis hanc veniam accommodatam huic reo, vobis, quem ad modum spero, non
+molestam, ut me pro summo poeta atque eruditissimo homine dicentem hoc concursu
+hominum litteratissimorum, hac vestra humanitate, hoc denique praetore exercente
+iudicium, patiamini de studiis humanitatis ac litterarum paulo loqui liberius, et in
+eius modi persona quae propter otium ac studium minime in iudiciis periculisque
+tractata est uti prope novo quodam et inusitato genere dicendi. 
+
+quod si mihimihi om.
+Ee
+a vobis tribui concedique sentiam, perficiam profecto ut hunc A.
+Licinium non modo non segregandum, cum sit civis, a numero civium verum etiam, si
+non esset, putetis asciscendum fuisse. 
+nam ut primum ex pueris excessit Archias atque ab eisiis ς: his cett.
+artibus
+quibus aetas puerilis ad humanitatem informari solet, se ad scribendi studium
+contulit, primum Antiochiae— nam ibi natus est loco nobili—celebri quondam
+urbein urbe Rinkes
+et copiosa atque
+eruditissimis hominibus liberalissimisque studiis adfluenti, celeriter antecellere
+omnibus ingeni gloria coepitcoepit Ernesti: contigit
+(-ingit e) codd.
+.
+post in ceteris Asiae partibus cunctaque Graeciacunctaeque
+Graeciae codd.: corr.
+Puteanus
+sic eius adventus celebrabanturcelebrabatur ap2: celebrantur Eeb
+ut
+famam ingeni exspectatio hominis, exspectationem ipsius adventus
+admiratioqueadmirationemque GEe
+superaret.
+erat Italia tumtum GEeb1g: tunc cett.
+plena
+Graecarum artium ac disciplinarum, studiaque haec et in Latio vehementius tum
+colebantur quam nunc isdem in oppidis, et hic Romae propter tranquillitatem rei
+publicaerei p. b2, ed. R: populi R. cett.
+non neglegebantur. itaque
+hunc
+hunc
+unum Schol.
+et
+Tarentini et Locrenses
+et Locrenses suppl.
+Luterbacher e § 10 (om. Schol.) et
+Regini et Neapolitani civitate ceterisque praemiis donarunt, et omnes qui aliquid de
+ingeniis poterant iudicare cognitione atque hospitio dignum existimarunt.
+hac tanta celebritate famae cum esset iam absentibus notus, Romam
+venit Mario consule et Catulo. nactus est primum consules eos quorum
+alter res ad scribendum maximas, alter cum res gestas tum etiam studium atque auris
+adhibere posset. statim Luculli, cum praetextatus etiam tum Archias
+esset, eum domumdomum Geab2: in domum cett.
+suam receperunt. dedit etiam
+hocdedit etiam hoc scripsi: sed etiam (est b2, et ς) hoc codd.: est iam hoc Garatoni:
+specimen etiam hoc Madvig
+non solum
+lumen
+lumen (i. e. lum~) supplevi
+ingeni ac litterarum verum etiam naturae
+atque virtutis ut domus, quae huius adulescentiae prima favitfavit Madvig: fuerit (fuit 
+ςb1gpς
+)
+codd.: faverit Weiske
+, eadem esset familiarissima senectuti. 
+
+erat temporibus illis iucundus Q. Metello illi
+Numidico et eius Pio filio, audiebatur a M. Aemilio,
+vivebat cum Q. Catulo et patre et filio, a L. Crasso colebatur, Lucullos vero et
+Drusum et Octavios et Catonem et totam Hortensiorum domum devinctam consuetudine cum
+teneret, adficiebatur summo honore, quod eum non solum colebant qui aliquid
+percipere atque audire studebant verum etiam si qui forte simulabant. 
+interim satis longolongo satis 
+ςg
+intervallo,
+cum esset cum M. LuculloM. Schütz: L. codd.
+in Siciliam profectus et cum
+et
+cum
+et Lag. 9 ex ea provincia cum
+eodem Lucullo decederet, venit Heracleam. quae cum esset civitas
+aequissimo iure ac foedere, ascribi se in eam civitatem voluit idque, cum ipse per
+se dignus putaretur, tum auctoritate et gratia Luculli ab Heracliensibus impetravit.
+data est civitas
+SilvaniSillani (Sila-G) codd.: corr. Hotoman
+lege et Carbonis:
+si qui foederatis civitatibus ascripti fuissent, si tum
+cum lex ferebatur in Italia domicilium habuissent et si sexaginta diebus apud
+praetorem essent professi. Cum hic domicilium Romae multos iam annos
+haberet, professus est apud praetorem 
+
+Q. Metellum,
+familiarissimum suum. si nihil aliud nisi de civitate
+ac
+ac
+hac Puteanus
+lege
+dicimus, nihil dico amplius; causa dicta est. quid enim horum infirmari,
+GrattiGratti Bücheler (ita
+§ 12 GEe): gratis (gracche b2: a
+gracchis ς) codd.
+, potest? Heracleaene esse tum
+tum
+tamen
+a: eum c: civem eum k: tu eum Halm
+ascriptum
+negabis? adest vir summa auctoritate et religione et fide, M. Lucullus;
+qui se non opinari sed scire, non audisseaudisse GEe:
+audivisse cett.
+sed vidisse, non interfuisse sed
+egisse dicit. adsunt Heraclienses legati, nobilissimi homines,
+huius iudici causa
+cum mandatis et cum publico testimonio veneruntvenerunt del. Mommsen
+; qui hunc ascriptum Heracliae esseHeracliae
+esse Lambinus: Heracliensem codd.
+dicunt. hic tu tabulastabulas 
+ςb1p, Schol.: tabellas
+cett.
+desiderasdesideres Schol.
+Heracliensium publicaspublicas om. Schol.
+, quas Italico bello incenso tabulario
+interisse scimus omnes? est ridiculum ad ea quae
+habemus
+habemus
+videmus G
+nihil dicere, quaerere quae habere non possumus, et de hominum memoria tacere,
+litterarum memoriam flagitare et, cum habeas amplissimi viri religionem, integerrimi
+municipi ius iurandum fidemque, ea quae depravari nullo modo possunt repudiare,
+tabulas quas idem dicis solere corrumpi desiderare. 
+
+an
+an GEe: at (ad a) cett.
+domicilium Romae non habuit is
+qui tot annis ante
+ante χ: om. cett. civitatem datam GEea:
+civitate data (-am p1) cett.
+civitatem datam sedem omnium rerum ac fortunarum suarum Romae
+conlocavit? an
+an G1Eepk: at cett.
+non est professus? immo vero
+eisiis Manutius: his codd.
+tabulis professus quae solae ex illa professione conlegioque
+praetorum obtinent publicarum tabularum auctoritatem. 
+nam, cum Appi tabulae neglegentius adservatae
+dicerentur, GabiniGabini GEe: Gabii cett.
+, quam diu incolumis fuit, levitas, post damnationem
+calamitas omnem tabularum fidem resignasset, Metellus, homo sanctissimus
+modestissimusque omnium, tanta diligentia fuit ut ad L. Lentulum praetorem et ad
+iudices venerit et unius nominis litura se commotum esse dixerit. his
+igitur in
+in suppl. Eberhard
+tabulis
+nullam lituram in nominenomine eςbgχ2
+: nomen cett.
+A. Licini videtis. 
+
+quae cum ita sint, quid est quod de eius civitate
+dubitetisdubitatis GEa
+, praesertim cum
+aliis quoque inin om. χ1,
+del. Lambinus
+civitatibus fuerit ascriptus? etenim
+cum mediocribus multis etet om. Eχ
+aut nulla aut humili aliqua arte praeditis
+gratuito
+gratuito
+gravat in (sup.
+lin. vel gratuito) G: vel gratuito gravat Ee: haud gravatim E.
+Thomas
+civitatem in Graecia
+in Graecia
+Graii Madvig
+homines impertiebant, Reginos credo aut
+Locrensis aut Neapolitanos aut Tarentinos, quod scaenicisscaen. G2ς
+: scen. cett.
+artificibus largiri solebant, id huic summa
+ingeni praedito gloria noluissenoluisse sed credendum est Ee
+! quid? cumcum del.
+Eberhard
+ceteri non modo post civitatem datam sed etiam post
+legem Papiam aliquo modo in eorum municipiorum tabulas inrepseruntirrepserint
+Manutius
+, hic qui nene c: nec (non a) cett.
+utitur quidem illis in quibus est scriptus,
+quod semper se Heracliensem esse voluit, reicietur? 
+
+census nostros requiris. scilicet
+requiris
+scilicet.; estEst codd.: corr. Manutius
+enim obscurum proximis censoribus hunc cum
+clarissimo imperatore L. Lucullo apud exercitum fuisse, superioribus cum eodem
+quaestore fuisse in Asia, primis Iulio et Crasso nullam populi partem esse
+censamcenseam GEea
+. sed, quoniam
+census non ius civitatis confirmat ac tantum modo indicat eum qui sit census ita se
+iam tum gessisse, pro civepro cive del.
+Richter
+, eisiis Manutius: his codd. is suppl. C. Fr.
+Müller
+temporibus is quemquem Garatoni: quae (-e) codd.
+tu criminaris
+ne ipsius quidem iudicio in civium Romanorum iure esse versatum et testamentum saepe
+fecit nostris legibus, et adiit hereditates civium Romanorum, et in beneficiis ad
+aerarium delatus est a L. Lucullo pro consulepro consule Graevius: praetore consule E: praetore (p. r.
+Ge) et consule cett.
+.
+quaere argumenta, si quaequae
+GEe: qua cett.
+potes;
+numquam enim hichic om. Ea
+neque suo neque
+amicorum iudicio revinceturconvincetur Lambinus
+. 
+
+quaeres
+quaeris ab
+a nobis,
+GrattiGratti GEe: grachi a: gracche (-ce 
+ςbg) cett.
+, cur tanto
+operetanto opere Ge: tantopere cett.
+hoc hominehoc nomine E
+delectemur. quia suppeditat nobis ubi et animus
+exet animus ex (om. ex χ1) b2χ2
+: et (om. ea) enim lex GEeagp: et enim (om. enim k) vox cett.
+hoc forensi
+strepitu reficiatur et aures convicio defessae conquiescant. an tu
+existimas aut suppetere nobis posse quod cotidie dicamus in tanta varietate rerum,
+nisi animos nostros doctrina excolamus, aut ferre animos tantam posse contentionem,
+nisi eos doctrina eadem relaxemus? ego vero fateor me his studiis esse
+deditum. ceteros pudeat, si qui ita sese ita 
+ςbgpς
+litteris abdiderunt ut nihil possint ex
+eisiis c2, Madvig: his cett.
+neque ad communem adferre fructum neque in aspectum
+lucemque proferre; me autem quid pudeat qui tot annos ita vivo, iudices, ut a
+nullius umquam me tempore aut commodo aut otium meum abstraxerit aut voluptas
+avocaritavocaverit G
+aut denique somnus
+retardarit? 
+
+qua re quis tandem me
+reprehendat, aut quis mihi iure suscenseat, si, quantum ceteris ad suas res
+obeundas, quantum ad festos dies ludorum celebrandos, quantum ad alias voluptates et
+ad ipsam requiem animi et corporis conceditur temporumtemporis b1
+, quantum alii tribuunt tempestivis conviviis,
+quantum denique alveoloalveolo GEe: aleae cett.
+, quantum pilae, tantum mihi egomet ad haec
+studia recolenda sumpsero? atque id eoid eo Nauck: hoc adeo GEea: hoc ideo cett.
+mihi concedendum est magis quod ex his
+studiis haec quoque crescit oratio et facultas quae, quantacumque
+est
+est 
+χk: om. cett. (post me suppl. Angelius) in me, numquam
+amicorum periculis defuit. quae si cui levior videtur, illa quidem certe
+quae summa sunt ex quo fonte hauriam sentio. 
+
+nam nisi multorum praeceptis multisque litteris mihi ab
+adulescentia suasissem nihil esse in vita magno opere expetendum nisi laudem atque
+honestatem, in ea autem persequenda omnis cruciatus corporis, omnia pericula mortis
+atque exsiliexilia GEe
+parvi esse ducenda,
+numquam me pro salute vestra in tot ac tantas dimicationes atque in hos
+profligatorum hominum cotidianos impetus obiecissemconiecissem Halm
+. sed pleni omnes suntsunt
+omnes Eeχ
+sapientium
+Gep: sapientum cett.
+libri, plenae sapientium voces, plena exemplorum vetustas; quae iacerent in tenebris
+omnia, nisi litterarum lumen accederetaccenderet Eeχς
+. quam multas nobis
+imagines non solum ad intuendum verum etiam ad imitandum fortissimorum virorum
+expressas scriptores et Graeci et Latini reliquerunt! quas ego mihi semper in
+administranda re publica proponens animum et mentem meam ipsa cogitatione hominum
+excellentium conformabam. 
+
+quaeret quispiam: 'quid? illi ipsi summi viri quorum virtutes litteris
+proditae sunt istane doctrina quam tu effers laudibus eruditi fuerunt?'
+difficile est hoc de omnibus confirmare, sed tamen est certum
+quidquod GEea
+respondeam. ego
+multos homines excellenti animo ac virtute fuisse sine doctrina, etsine
+doctrina et Schütz: et (om. p:
+etiam bχ1
+) sine
+doctrina codd.
+naturae ipsius habitu prope divino
+per se ipsos et moderatos et gravis exstitisse fateor; etiam illud adiungo, saepius
+ad laudem atque virtutem naturam sine doctrinanaturae ... doctrina om. Ee
+quam sine natura valuisse doctrinam.
+atque idem ego hochoc GEe: om. cett.
+contendo, cum ad naturam eximiam
+etet GEe: atque cett.
+inlustrem accesserit ratio quaedam conformatioqueoratio
+ςb1gp conformatio
+GE: confirmatio cett.
+doctrinae, tum illud nescio quid praeclarum ac singulare solere exsistere.
+ex hoc esseesse om. e
+hunc
+hunc
+illum Garatoni
+numero quem patres nostri viderunt,
+divinum hominem, Africanum, ex hoc C. Laelium, L. Furium,
+moderatissimosmodestissimos 
+ςbg
+homines et continentissimos, ex hoc
+fortissimum virum et illis temporibus doctissimum, M.
+M. suppl. Manutius
+Catonem illum senem; qui profecto
+si nihil ad percipiendam colendamque-que om.
+GEe
+virtutem litteris adiuvarentur, numquam se ad earum studium
+contulissent. quod si non hic tantus fructus ostenderetur, et si ex his
+studiis delectatio sola peteretur, tamen, ut opinor, hanc animi
+remissionem humanissimam ac
+liberalissimam iudicaretis. nam ceterae neque temporum sunt neque aetatum
+omnium neque locorum; atat GEe: om.
+cett.
+haec studia adulescentiam acuuntacuunt Gulielmius: agunt codd.: alunt
+ed. Hervag.
+, senectutem oblectant, secundas
+res ornant, adversis perfugiumprofugium Gap
+ac
+solacium praebent, delectant domi, non impediunt foris, pernoctant nobiscum,
+peregrinantur, rusticantur. 
+
+quod si ipsi haec neque attingere neque sensu nostro gustare possemus,
+tamen ea mirari deberemus, etiam cum in aliis videremus. 
+quis nostrum tam animo agrestiquis animo tam
+agresti et Schol.
+ac duro fuit ut Rosci morte
+nuper non commovereturmorte non moveretur Schol.
+? qui cum esset senex mortuus, tamen propter excellentem
+artem ac venustatem videbatur omnino mori non debuisse. ergo ille
+corporis motu tantum amorem sibi conciliarat a nobis omnibus;
+nos
+nos
+hos Ernesti
+animorum incredibilis motus celeritatemque ingeniorum neglegemusnegligimus aςgp
+?
+quotiens ego hunc Archiam vidi,
+iudices,—utar enim vestra benignitate, quoniam me in hoc novo genere dicendi tam
+diligenter attenditis—quotiens ego hunc vidi, cum litteram scripsisset nullam,
+magnum numerum optimorum versuum de eisiis 
+χk, ed. V: his cett.
+ipsis rebus quae tum agerenturagebantur b2
+dicere ex tempore, quotiensquotiens ego
+G
+revocatum eandem rem dicere commutatis
+verbis atque sententiis! quae vero accurate cogitateque scripsisset, ea
+sic vidi probari ut ad veterum scriptorum laudem perveniretperveniret GEe: pervenirent cett.
+.
+hunc ego non diligam, non admirer, non omni ratione defendendum
+putem? atque
+atque GEe: atqui cett.
+sic a summis hominibus eruditissimisque
+accepimus, ceterarum rerum studia exex Müller: et codd.
+doctrina et praeceptis et arte constare,
+poetam natura ipsa valere et mentis viribus excitari et quasi divino quodam spiritu
+inflariinflammari b2: afflari ed. V
+. qua re suo iure noster ille Ennius 'sanctos'
+appellat poetas, quod quasi deorum aliquo dono atque munere
+commendaticommodati Gulielmius
+nobis esse
+videanturvidentur Ee
+. 
+
+sit igitur, iudices, sanctum apud vos, humanissimos
+homines, hoc poetae nomen quod nulla umquam barbaria violavit. Saxa atqueatque
+Quintil. (quinque locis): et
+codd.
+solitudines vocivoci Quintil.: voce codd.
+respondent, bestiae saepe immanes cantu flectuntur atque consistunt; nos instituti
+rebus optimis non poetarum voce moveamur? Homerum Colophonii civem esse dicunt suum,
+Chii suum
+Chii suum
+Chii sibi P.
+Thomas
+vindicant, Salaminii repetunt, Smyrnaei vero suum esse
+confirmant itaque etiam delubrum eius
+eius
+ei Lambinus
+in oppido dedicaverunt, permulti alii praeterea
+pugnant inter se atque contendunt. 
+ergo
+illi alienum, quia poeta fuit, post mortem etiam expetunt; nos hunc vivum qui
+etqui et b2k: qui ab1: et
+qui cett.
+voluntate et legibus noster est
+repudiamus, praesertim cum omne olim studium atque omne
+ingenium contulerit Archias ad populi Romani gloriam laudemque celebrandam?
+nam et Cimbricas res adulescens attigit et ipsi illi C. Mario qui
+durior ad haec studia videbatur iucundus fuit. 
+
+neque enim quisquam estest om. e,
+post enim hab. ςbg
+tam aversus a Musis qui non mandari versibus
+aeternum suorum laborum praeconiumpraeconium facile k,
+Angelius: facile praeconium cett. (cf. Zielinski p. 204) facile patiatur.
+Themistoclem illum, summum Athenis virum, dixisse aiunt, cum ex eo quaereretur
+quod
+quod
+qualia carmina quod Ee
+acroamaACROAMA ς:
+ἀκρόαμα
+b mg.: om. p in lac.
+aut
+cuius vocem libentissime audiret: 'eius a quo sua virtus optime praedicaretur.'
+itaque ille Marius itemitem om. ςbgς
+eximie L. Plotium dilexit, cuius ingenio putabat ea
+quae gesserat posse celebrari. 
+
+Mithridaticum vero
+bellum magnum atque difficile et in multa varietate terra mariquemari terraque
+G
+versatum totum ab hoc expressum est; qui
+libri non modo L. Lucullum, fortissimum et clarissimum virum, verum etiam populi
+Romani nomen inlustrant. populus enim Romanus aperuit Lucullo imperante
+Pontum et regiis quondam opibus et ipsa natura etnatura et Mommsen: naturae (-ra ebχς
+) codd.
+regioneregionis bχς
+vallatum, populi Romani exercitus eodem duce non
+maxima manu innumerabilis Armeniorum copias fudit, populi Romani laus est urbem
+amicissimam Cyzicenorum eiusdem consilio ex omni impetu regio atqueatque GEeb: ac cett.: atque e Halm
+totius belli ore ac faucibus ereptam esse
+atque servatam; nostra semper feretur et praedicabitur L. Lucullo dimicante, cum
+interfectis ducibus depressa hostium classis estest Heumann: et codd.
+, incredibilis apud
+Tenedum pugna illa navalis, nostra sunt tropaea, nostra monumenta, nostri triumphi.
+quae
+quorum ingeniis
+efferunturefferuntur Görenz: haec (hec aςbg) feruntur codd.: ecferuntur Stürenberg
+, ab eis populi Romani fama celebratur. 
+
+carus fuit Africano superiori noster Ennius, itaque
+etiam in sepulcro Scipionum putatur is esse constitutus ex marmore. at
+eisex marmore. At iis Fascitellus: et marmoratis
+codd.: ex marmore; cuius Mommsen
+laudibus certe non solum ipse qui laudaturipse
+... laudatur GEeab2: ipsi ... laudantur (-atur p) cett.
+sed etiam populi
+Romani nomen ornatur. in caelum huius proavus Cato tollitur; magnus honos
+populi Romani rebus adiungitur. omnes denique illi maximi,
+Marcelli, Fulvii non sine communi omnium nostrum laude decorantur. 
+ergo illum qui haec fecerat, RudinumRudinum Schol., A. Augustinus: rudem tum (tu Ee: tamen 
+ςgpς
+) codd.
+hominem, maiores nostri in civitatem
+receperunt; nos hunc Heracliensem multisa multis Lambinus
+civitatibus expetitum, in hac autem legibus
+constitutum de nostra civitate eiciamuseiciamus G:
+eiecimus e: eiciemus cett.
+? 
+
+nam si quis minorem gloriae fructum putat ex Graecis versibus percipi quam
+ex Latinis, vehementer errat, propterea quod Graeca leguntur in omnibus fere
+gentibus, Latina suis finibus exiguis sane continentur. qua re, si res
+eae quas gessimus orbis terrae regionibus definiuntur, cupere debemus, quo hominum
+nostrorumhominum nostrorum Bases: minus (om. c2k, del. Madvig) manuum nostrarum codd.
+tela pervenerint,
+eodem
+eodem
+eandem G: om. e
+gloriam famamque penetrare, quod cum ipsis
+populis de quorum rebus scribitur haec ampla sunt, tum eisiis χς: his cett.
+certe
+qui de vita gloriae causa dimicant hoc maximum et periculorum incitamentum est et
+laborum. 
+
+quam multos scriptores rerum
+suarum magnus ille Alexander secum habuisse dicitur! atque is tamen, cum
+in Sigeo ad Achillis tumulum astitisset: 'o fortunate,' inquit, 'adulescens, qui
+tuae virtutis Homerum praeconem invenerisinveneris ebχc: inveneras (-nisti k) cett.
+!' et
+vere. nam, nisi IliasIlias Naugerius (2):
+illi (illa a: om. E) ars codd.
+illa exstitisset, idem tumulus qui corpus
+eius contexerat nomen etiam obruisset. quid? noster hic Magnus qui cum
+virtute fortunam adaequavit, nonne Theophanem Mytilenaeum, scriptorem rerum suarum,
+in contione militum civitate donavit, et nostri illi fortes viri, sed rustici ac
+milites, dulcedine quadam gloriae commoti quasi participes eiusdem laudis magno
+illud clamore approbaverunt? 
+
+itaque,
+credo, si civis Romanus Archias legibus non esset, ut ab aliquo imperatore civitate
+donaretur perficere non potuit. Sulla cum Hispanos et Gallos donaretdonaret et
+Gallos E
+, credo, hunc petentem repudiasset; quem
+nos
+nos
+in contione add. codd. e
+v. 18 (malo numero): ego
+delevi videmus GEea
+vidimus, cum ei
+libellum malus poeta de populo subiecisset, quod epigramma in eum fecisset tantum
+modo alternis versibus longiusculis, statim ex eisiis Manutius: his codd., Schol.
+rebus quas
+tumtum GEe: tamen a: tunc
+cett.: om. Schol.
+vendebat iubere
+iubere
+iussit a,
+Schol.
+ei praemium tribui, sedsed Schol.: sub codd.
+ea condicione ne quid
+postea scriberet. qui sedulitatem mali poetae duxeritdeduxerit GEe
+aliquo tamen praemio dignam, huiushuius
+ς: cuius cett.
+ingenium et virtutem in scribendo et copiam
+non
+non
+tamen non Ee
+expetisset? 
+
+quid? a Q.
+Metello
+Q.
+P. Ee
+Pio,
+familiarissimo suo, qui civitate multos donavit, neque per se neque per Lucullos
+impetravisset? qui praesertim usque eo de suis rebus scribi cuperet ut etiam
+Cordubae natis poetis pingue quiddam sonantibus atque peregrinum tamen auris suas
+dederetcederet E2e: dederit c,
+Fleckeisen
+. 
+neque
+enim est hoc dissimulandum quod obscurari non potest, sed prae nobis ferendum:
+trahimur omnes studio laudis, et optimus quisque maxime gloria ducitur.
+ipsi illi philosophi etiam in eisin iis Madvig: in his Ammianus xxii. 7: illis (in
+illis 
+χ2k) codd.
+libellis quos de contemnenda gloria
+scribunt nomen suum inscribunt; in eo ipso in quout in eo ipso quo Ammianus
+praedicationem nobilitatemque despiciunt
+praedicari de se
+de se
+se Lambinus
+ac se
+se Ammianus:
+om. codd.
+nominari voluntvelint Ammianus
+. 
+
+Decimus quidem Brutus, summus vir et imperator, Acci, amicissimi sui, carminibus
+templorum ac monumentorummonu. eabpc: moni. cett.
+aditus exornavit suorum. iam
+vero ille qui cum Aetolis Ennio comite bellavit Fulvius non dubitavit Martis
+manubias Musis consecrare. qua re, in qua urbe imperatores prope armati
+poetarum nomen et Musarum delubra coluerunt, in ea non debent togatitogati
+σχς, p mg.: locati
+cett.
+iudices a Musarum honore et a poetarum
+salute abhorrere. 
+
+atque ut id libentius faciatis, iam me vobis, iudices, indicabo et de meo
+quodam amore gloriae nimis acri fortasse, verum tamen honesto vobis confitebor.
+nam quas res nos in consulatu nostro vobiscum simul pro salute huius
+urbis
+atqueatque E: aeque (om. ςk) cett.
+imperi et pro
+vita civium proque universa re publica gessimus, attigit hic versibus atque
+inchoavit. quibus auditis, quod mihi magna res et iucunda visa est, hunc
+ad perficiendum adornaviadornavi Klotz: adoravi schol.: adortavi Ge: adhortatus
+sum E: hortavi aςb1gp: hortatus sum (fui ς) b2χς
+. nullam
+nulla codd: corr. ed. V
+enim
+virtus aliam mercedem laborum periculorumque desiderat praeter hanc laudis et
+gloriae; qua quidem detracta, iudices
+iudices
+unum G
+, quid est quod in hoc tam exiguo vitae
+curriculo et tam brevi tantis nos inin om.
+χ
+laboribus exerceamus? 
+
+certe, si nihil animus praesentiret in
+posterum, et si, quibus regionibus vitae spatium circumscriptum est
+est
+isdem
+iste isdem (in idem a) GEea
+, isdem omnis cogitationes terminaret suas,
+nec tantis se laboribus frangeret neque tot curis vigiliisque angeretur nec totiens
+de ipsa vita dimicaret. nunc insidet quaedam in optimo quoque virtus,
+quae noctes ac dies animum gloriae stimulis concitat atque admonet non cum vitae
+tempore esse dimittendamdimetiendam Manutius
+commemorationem nominis nostri, sed cum omni posteritate adaequandam. 
+
+an vero tam
+parvipravi Ee
+animi videamur esseesse
+om. E
+omnes qui in re publica atque in his
+vitae periculis laboribusque versamur ut, cum usque ad extremum spatium nullum
+tranquillum atque otiosum spiritum duxerimus, nobiscum simul moritura omnia
+arbitremur? an
+an
+an cum b2χ
+statuas et imagines,
+non animorum simulacra, sed corporum, studiose multi summi homines
+reliqueruntreliquerint Manutius
+;
+consiliorum relinquere ac virtutum nostrarum effigiem
+nonne
+nonne
+non Lambinus
+multo malle debemus summis ingeniis expressam et politam? ego vero omnia
+quae gerebam iam tum in gerendo spargere me ac disseminare arbitrabar in orbis
+terrae memoriam sempiternam. haec vero sivesive om. GEea
+a meo sensu post mortem afuturaafut. G: abfut. (affut. Ee) cett.
+estest GEea:
+sunt cett.
+, sive, ut sapientissimi homines
+putaverunt, ad aliquam animianimi om. cod.
+Vrsini
+mei partem pertinebitpertinebunt bp2χς
+, nunc quidem certe
+cogitatione quadam speque delector. 
+
+qua re conservate, iudices, hominem pudore eo quem amicorum videtis
+comprobari cum dignitate, tum etiam vetustatevenustate codd.: corr. Muretus
+, ingenio autem
+tanto quantumquantum ς
+mg., ς, Sylvius:
+quanto cett.
+id convenit existimari, quod
+summorum hominum iudiciisiudiciis Madvig: ingeniis codd.
+expetitum esse videatis, causa vero
+eiushuius E
+modi quae beneficio legis,
+auctoritate municipi, testimonio Luculli, tabulis Metelli comprobetur.
+quae cum ita sint, petimuspetimus om.
+G
+a vobis, iudices, si qua non modo humana verum etiam divina in
+tantis ingeniisingeniis GEe: negotiis cett.
+commendatio debet esse, ut eum qui vos, qui
+vestros imperatores, qui populi RomaniRomani om.
+G
+res gestas semper ornavit, qui etiam his recentibus nostris
+vestrisque domesticis periculis aeternum se testimonium laudislaudis GEeaχ2
+: laudum cett.
+daturum esse profitetur, quique est
+ex
+quique est ex scripsi: quique est k, Angelius: isque est cett.:
+estque ex Madvig
+eo numero qui semper apud omnis
+sancti sunt habiti itaque
+itaque
+atque Ek
+dicti, sic in vestram accipiatis fidem ut humanitate vestra
+levatus potius quam acerbitate violatus esse videatur. 
+
+quae de causa pro mea consuetudine breviter simpliciterque dixi, iudices,
+ea confido probata esse omnibus; quae a foro alienaa foro aliena Garatoni: firme (fer-ak) a me
+codd.: forensi aliena Halm
+(cf. § 3) iudicialiqueiudiciali (sine -que) ek
+consuetudine et de hominis ingenio et communiter de ipsode ipso ed. V: de ipsius codd.: de meo
+atque ipsius Lambinus
+studio locutus sum, ea,
+iudices, a vobis spero esse in bonam partem accepta, ab eo qui iudicium exercet
+certocerto G: certe cett.
+scio.
+
+

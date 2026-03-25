@@ -1,0 +1,241 @@
+# ID: histcorp-latin-perseus-phi0474.phi003.perseus-lat2
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: Quintus Roscius
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 2,104
+# sentences: 171
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO Q. ROSCIO COMOEDO ORATIO
+malitiam naturae crederetur. is scilicet vir optimus et singulari
+fide praeditus in suo iudicio suis tabulis testibus uti conatur. solent
+fere dicere qui per tabulas hominis honesti pecuniam expensam tulerunt: 'egone talem
+virum corrumpere potui, ut mea causa falsum in codicem referret?'
+exspecto quam mox Chaerea hac oratione utatur: 'egone hanc manum
+plenam perfidiae et hos digitos meos impellere potui ut falsum perscriberent nomen?'
+quod si ille suas proferet tabulas, proferet suas quoque Roscius.
+erit in illius tabulis hoc nomen, at in huius non erit.
+
+cur potius illius quam huius
+credetur?— scripsisset ille, si non iussu huius expensum tulisset?
+—non scripsisset hic quod sibi expensum ferre iussisset?
+nam quem ad modum turpe est scribere quod non debeatur, sic improbum
+est non referre quod debeas. aeque enim tabulae condemnantur eius qui
+verum non rettulit et eius qui falsum perscripsit. sed ego copia et
+facultate causae confisus vide quo progrediar. si tabulas C. Fannius
+accepti et expensi profert suas in suam rem suo arbitratu scriptas, quo minus
+secundum illum iudicetis non recuso.
+ 
+quis hoc frater fratri, quis parens filio tribuit ut, quodcumque
+rettulisset, id ratum haberet? ratum habebit Roscius; profer; quod tibi
+fuerit persuasum, huic erit persuasum, quod tibi fuerit probatum, huic erit
+probatum. Paulo ante M. Perpennae, P. Saturi tabulas poscebamus, nunc tuas, C. Fanni
+Chaerea, solius flagitamus et quo minus secundum eas lis detur non recusamus; quid
+ita non profers?
+ non conficit tabulas?
+immo diligentissime. non refert parva nomina in codices?
+immo omnis summas. leve et tenue hoc nomen est? HS <num
+n="100,000">ccciↄↄↄ sunt. quo modo tibi tanta pecunia
+extraordinaria iacet? quo modo HS ccciↄↄↄ in codice accepti
+et expensi non sunt? pro di immortales! essene quemquam tanta audacia
+praeditum qui, quod nomen referre in tabulas timeat, id petere audeat, quod in
+codicem iniuratus referre noluerit, id iurare in litem non dubitet, quod sibi
+probare non possit, id persuadere alteri conetur!
+ 
+nimium cito ait me indignari de tabulis; non habere se hoc nomen in
+codicem accepti et expensi relatum confitetur, sed in adversariis patere contendit.
+Vsque eone te diligis et magnifice circumspicis ut pecuniam non ex tuis tabulis sed
+ex adversariis petas? suum codicem testis loco recitare
+adrogantiae est; suarum perscriptionum et liturarum adversaria proferre non amentia
+est?
+ 
+quod si eandem vim, diligentiam
+auctoritatemque habent adversaria quam tabulae, quid attinet codicem instituere,
+conscribere, ordinem conservare, memoriae tradere litterarum vetustatem?
+sed si, quod adversariis nihil credimus, idcirco codicem scribere
+instituimus, quod etiam apud omnis leve et infirmum est, id apud iudicem grave et
+sanctum esse ducetur? quid est quod neglegenter scribamus adversaria?
+
+quid est quod diligenter conficiamus tabulas?
+qua de causa? quia haec sunt menstrua, illae sunt aeternae; haec delentur
+statim, illae servantur sancte; haec parvi temporis memoriam, illae perpetuae
+existimationis fidem et religionem amplectuntur; haec sunt disiecta, illae sunt in
+ordinem confectae. itaque adversaria in iudicium protulit nemo; codicem
+protulit, tabulas recitavit. 
+tu, C. Piso, tali fide, virtute, gravitate, auctoritate ornatus ex
+adversariis pecuniam petere non auderes.
+ 
+ego quae clara sunt consuetudine diutius dicere non debeo; illud
+vero quod ad rem vehementer pertinet, quaero: quam pridem hoc nomen, Fanni, in
+adversaria rettulisti? erubescit, quid respondeat nescit, quid fingat
+extemplo non habet. sunt duo menses iam, dices. tamen in
+codicem accepti et expensi referri debuit. amplius sunt sex
+menses. cur tam diu iacet hoc nomen in adversariis? quid si
+tandem amplius triennium est? quo modo, cum omnes qui tabulas conficiant menstruas
+paene rationes in tabulas transferant, tu hoc nomen triennium amplius in adversariis
+iacere pateris?
+ 
+Vtrum cetera nomina in codicem
+accepti et expensi digesta habes an non? si non, quo modo tabulas
+conficis? si etiam, quam ob rem, cum cetera nomina in ordinem referebas, hoc nomen
+triennio amplius, quod erat in primis magnum, in adversariis relinquebas?
+nolebas sciri debere tibi Roscium; cur scribebas? rogatus
+eras ne referres; cur in adversariis scriptum habebas? 
+sed haec quamquam firma esse video, tamen ipse mihi satis facere non
+possum, nisi a C. Fannio ipso testimonium sumo hanc pecuniam ei non deberi. Magnum
+est quod conor, difficile est quod polliceor; nisi eundem et adversarium et testem
+habuerit Roscius, nolo vincat.
+ 
+pecunia tibi debebatur certa, quae nunc petitur per
+iudicem, in qua legitimae partis sponsio facta est. hic tu si amplius HS
+nummo petisti, quam tibi debitum est, causam perdidisti, propterea quod aliud est
+iudicium, aliud est arbitrium. iudicium est pecuniae certae, arbitrium
+incertae; ad iudicium hoc modo venimus ut totam litem aut obtineamus aut amittamus;
+ad arbitrium hoc animo adimus ut neque nihil neque tantum quantum postulavimus
+consequamur. ei rei ipsa verba formulae testimonio sunt.
+ 
+quid est in iudicio? derectum,
+asperum, simplex: si paret HS iↄↄↄ
+dari—. hic nisi planum facit HS iↄↄↄ
+ad libellam sibi deberi, causam perdit. quid est in arbitrio?
+mite, moderatum: qvantvm aeqvivs et melivs sit dari.
+ille tamen confitetur plus se petere quam debeatur, sed satis
+superque habere dicit quod sibi ab arbitro tribuatur. itaque alter causae
+confidit, alter diffidit.
+ quae cum ita
+sint, quaero abs te quid ita de hac pecunia, de his ipsis HS <num n="50,000"
+>iↄↄↄ, de tuarum tabularum fide compromissum feceris, arbitrum sumpseris
+qvantvm aeqvivs et melivs sit dari repromittiqve si pareat.
+quis in hanc rem fuit arbiter? Vtinam is quidem Romae esset! Romae est.
+Vtinam adesset in iudicio! adest. Vtinam sederet in consilio C. Pisonis!
+ipse C. Piso est. eundemne tu arbitrum et iudicem sumebas?
+eidem et infinitam largitionem remittebas et eundem in angustissimam formulam
+sponsionis concludebas? quis umquam ad arbitrum, quantum petiit, tantum
+abstulit? nemo; quantum enim aequius esset sibi dari, petiit.
+de quo nomine ad arbitrum adisti, de eo ad iudicem venisti!
+ceteri cum ad iudicem causam labefactari animadvertunt, 
+
+ad arbitrum confugiunt, hic ab arbitro ad iudicem venire
+est ausus! qui cum de hac pecunia tabularum fide arbitrum sumpsit, iudicavit sibi
+pecuniam non deberi. 
+iam duae partes causae sunt confectae; adnumerasse sese negat, expensum
+tulisse non dicit, cum tabulas non recitat. reliquum est ut stipulatum se
+esse dicat; praeterea enim quem ad modum certam pecuniam petere possit non reperio.
+stipulatus es—ubi, quo die, quo tempore, quo praesente? 
+
+quis spopondisse me dicit? nemo. hic ego
+si finem faciam dicendi, satis fidei et diligentiae meae, satis causae et
+controversiae, satis formulae et sponsioni, satis etiam iudici fecisse videar cur
+secundum Roscium iudicari debeat. pecunia petita est certa; cum tertia
+parte sponsio facta est. haec pecunia necesse est aut data aut expensa
+lata aut stipulata sit. datam non esse Fannius confitetur, expensam latam
+non esse codices Fanni confirmant, stipulatam non esse taciturnitas testium
+concedit. quid ergo est?
+ 
+quod et reus is est cui et pecunia levissima et existimatio
+sanctissima fuit semper, et iudex est is quem nos non minus bene de nobis existimare
+quam secundum nos iudicare velimus, et advocatio ea est quam propter eximium
+splendorem ut iudicem unum vereri debeamus, perinde ac si in hanc formulam omnia
+iudicia legitima, omnia arbitria honoraria, omnia officia domestica conclusa et
+comprehensa sint, perinde dicemus. illa superior fuit oratio necessaria,
+haec erit voluntaria, illa ad iudicem, haec ad C. Pisonem, illa pro reo, haec pro
+Roscio, illa victoriae, haec bonae existimationis causa comparata.
+ 
+pecuniam petis, Fanni, a Roscio. quam? dic audacter et aperte.
+Vtrum quae tibi ex societate debeatur, an quae ex liberalitate huius
+promissa sit et ostentata? quorum alterum est gravius et odiosius,
+alterum levius et facilius. quae ex societate debeatur? quid
+ais? hoc iam neque leviter ferendum est neque neglegenter defendendum.
+si qua enim sunt privata iudicia summae existimationis et paene dicam
+capitis, tria haec sunt, fiduciae, tutelae, societatis. aeque enim
+perfidiosum et nefarium est fidem frangere quae continet vitam, et pupillum fraudare
+qui in tutelam pervenit, et socium fallere qui se in negotio coniunxit.
+quae cum ita sint,
+ quis sit qui
+socium fraudarit et fefellerit consideremus; dabit enim nobis iam tacite vita acta
+in alterutram partem firmum et grave testimonium. Q. Roscius? quid ais?
+nonne, ut ignis in aquam coniectus continuo restinguitur et refrigeratur, sic
+refervens falsum crimen in purissimam et castissimam vitam conlatum statim concidit
+et exstinguitur? Roscius socium fraudavit! potest hoc homini huic haerere
+peccatum? qui me dius fidius—audacter dico—plus fidei quam artis, plus veritatis
+quam disciplinae possidet in se, quem populus Romanus meliorem virum quam histrionem
+esse arbitratur, qui ita dignissimus est scaena propter artificium ut dignissimus
+sit curia propter abstinentiam.
+ sed
+quid ego ineptus de Roscio apud Pisonem dico? ignotum hominem scilicet
+pluribus verbis commendo. estne quisquam omnium mortalium de quo melius
+existimes tu? estne quisquam qui tibi purior, pudentior, humanior, officiosior
+liberaliorque videatur? quid? tu, Saturi, qui contra hunc venis,
+existimas aliter? nonne, quotienscumque in causa in nomen huius incidisti, totiens
+hunc et virum bonum esse dixisti et honoris causa appellasti? quod nemo nisi aut
+honestissimo aut amicissimo facere consuevit.
+ 
+qua in re mihi ridicule es visus esse inconstans qui eundem et
+laederes et laudares, et virum optimum et hominem improbissimum esse diceres.
+eundem tu et honoris causa appellabas et virum primarium esse dicebas
+et socium fraudasse arguebas? sed, ut opinor, laudem veritati tribuebas,
+crimen gratiae concedebas; de hoc, ut existimabas, praedicabas, Chaereae arbitratu
+causam agebas. 
+fraudavit Roscius! est hoc quidem auribus animisque omnium
+absurdum. quid si tandem aliquem timidum, dementem, divitem, inertem
+nactus esset qui experiri non posset?
+ 
+tamen incredibile esset. verum tamen quem fraudarit
+videamus. C. Fannium Chaeream Roscius fraudavit! oro atque obsecro vos
+qui nostis, vitam inter se utriusque conferte, qui non nostis, faciem utriusque
+considerate. nonne ipsum caput et supercilia illa penitus abrasa olere
+malitiam et clamitare calliditatem videntur? non ab imis unguibus usque ad verticem
+summum, si quam coniecturam adfert hominibus tacita corporis figura, ex fraude,
+fallaciis, mendaciis constare totus videtur? qui idcirco capite et superciliis
+semper est rasis ne ullum pilum viri boni habere dicatur; cuius personam praeclare
+Roscius in scaena tractare consuevit, neque tamen pro beneficio ei par gratia
+refertur. nam Ballionem illum improbissimum et periurissimum lenonem cum
+agit, agit Chaeream; persona illa lutulenta, impura, invisa in huius moribus, natura
+vitaque est expressa. qui quam ob rem Roscium similem sui in fraude et
+malitia existimarit, mihi vix videtur, nisi forte quod praeclare hunc
+imitari se in persona lenonis animadvertit.
+ 
+quam ob rem etiam atque etiam considera, C. Piso, quis quem
+fraudasse dicatur. Roscius Fannium! quid est hoc? probus improbum, pudens
+impudentem, periurum castus, callidum imperitus, liberalis avidum?
+incredibile est. quem ad modum, si Fannius Roscium
+fraudasse diceretur, utrumque ex utriusque persona veri simile videretur, et Fannium
+per malitiam fecisse et Roscium per imprudentiam deceptum esse, sic, cum Roscius
+Fannium fraudasse arguatur, utrumque incredibile est, et Roscium quicquam per
+avaritiam appetisse et Fannium quicquam per bonitatem amisisse.
+ veteris histrionis exponere societatem. quod suae partis esset, non quod tum abstulit soli sibi exegit? 

@@ -1,0 +1,979 @@
+# ID: histcorp-latin-perseus-phi0474.phi007.perseus-lat2
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: Scriptorum Classicorum Bibliotheca Oxoniensis
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 6,794
+# sentences: 617
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+<div type="edition"
+xml:lang="lat"
+n="urn:cts:latinLit:phi0474.phi007.perseus-lat2"
+subtype="edition">
+PRO M. FONTEIO ORATIO
+oportuisse an ita dissolvit ut omnes alii dissolverunt? nam
+ita ego defendo M. Fonteium, iudices, itaque contendo post legem Valeriam
+latam
+latam
+a Metello suppl.
+Mommsen
+te  quaestore usque ad T. Crispinum quaestorem aliter neminem solvisse;
+hunc omnium superiorum, huius autem omnis qui postea fuerint auctoritatem dico
+secutos. 
+
+quid accusas, quid reprendis?
+nam quod in tabulis dodrantariis et quadrantariis, quas ait ab
+Hirtuleio institutas, Fontei officium desiderat, non possum
+existimare utrum ipse erret an vosvos P: alios Cus.
+in errorem inducereinducere Madvig: induci (ex -ici) Cus.: ducere P
+velit.
+quaero enim abs te, M. Plaetori, possitne tibi ipsi probata esse
+nostra causa, si, qua in re abs te M. Fonteius accusatur, auctorem habet eum quem tu
+maxime laudas Hirtuleium; qua in re autem laudas Hirtuleium, Fonteius idem fecisse
+reperitur. reprehendis solutionis genus; eodem modo Hirtuleium
+dissolvisse publicae tabulae coarguunt. laudas illum quod dodrantarias
+tabulas instituerit; easdem Fonteius instituit et eodem genere pecuniae.
+nam ne forte sis nescius et istas tabulas existimes ad
+diversam veterisdiversam suppl.
+Niebuhr
+aeris alieni rationem pertinere, ob unam causam et in
+uno genere sunt institutae. nam cum publicanis qui Africam, qui
+AquileienseAquilei. Mommsen: Aquili. P
+portorium
+por P: suppl. Niebuhr
+cite
+cite
+recitet Niebuhr
+nemo, nemo, inquam, iudices, reperietur qui unum se in quaestura M.
+Fonteio nummum dedisse, aut illum ex ea pecunia quae pro aerario solveretur
+detraxisse dicat; nullius in tabulis ulla huius furti significatio, nullum in eis
+nominibus intertrimenti aut deminutionis vestigium reperietur. atqui
+homines
+homines
+omnes Niebuhr
+, si qui inin sup. lin. hab.
+P
+hoc genere quaestionis accusati suntaccusati sunt Madvig: accusatos P
+,
+reprehensos videmus primum testibus; difficile est enim eum qui magistratui pecuniam
+dederit non aut induci odio ut dicat aut cogi religione; deinde si qua gratia testes
+deterrentur, tabulae quidem certe incorruptae atque integrae manent. fac
+omnis amicissimos Fonteio fuisse, tantum hominum numerum ignotissimorum atque
+alienissimorum pepercisse huius capiti, consuluisse famae; res ipsa tamen ac ratio
+litterarum confectioque tabularum habet hanc vim ut ex acceptis et datis quidquid
+fingatur, aut surripiatur, aut non constet, appareat. acceptas populo
+Romano pecunias omnis isti rettulerunt; si protinus aliis aeque magnas aut solverunt
+aut dederunt, ut, quod acceptum populo Romano est, id expensum cuipiam sit, certe
+nihil potest esse detractum. sin aliquidaliqui P: corr. Mommsen
+domum tulerunt, ex
+eorum arca, e rara P: rationibus Niebuhr (accepti et expensi constabit suppl.
+Mommsen)
+deorum hominumque fidem! testis non invenitur in ducentiensducentis
+P: corr. Mommsen
+et
+triciens sestertio! quam multorum hominum? sescentorum
+amplius. quibus in terris gestum negotium est? illo, illo,
+inquam, loco quem videtis. extra ordinemne pecunia est data?
+immo vero nummus nullus sine litteris multis commotus est.
+quae est igitur ista accusatio, quae facilius
+possit Alpis quam paucos aerari gradus ascendere, diligentius Rutenorum
+quam populi Romani defendat aerarium, libentius ignotis quam notis utatur,
+alienigenis quam domesticis testibus, planius se confirmare crimen libidine
+barbarorum quam nostrorum hominum litteris arbitretur? 
+
+duorum magistratuum, quorum uterque in pecunia maxima
+tractanda procurandaque versatus est, triumviratus et quaesturae, ratio sic
+redditur, iudices, ut in eis rebus quae ante oculos gestae sunt, ad
+multos pertinuerunt, confectae publicis privatisque tabulis
+suntsint P: corr.
+Niebuhr
+, nulla significatio furti, nulla alicuius delicti suspicio
+reperiaturreperiatur Madvig: referatur P: proferatur Kayser
+.
+Hispaniensis legatio consecuta est
+turbulentissimo rei publicae tempore, cum adventu L. Sullae maximi exercitus in
+ItaliamItalia Niebuhr
+cives vicives
+vi scripsi: civium P
+dissiderent, non
+non suppl. Schenkl
+iudiciis ac legibus; atque hoc rei publicae statu desperato qualis 
+si nulla pecunia numerata est, cuius pecuniae quinquagesima est?
+
+frumenti
+frumenti om. Mart. Cap.
+maximus numerus e Gallia, peditatus amplissimae copiae e Gallia, equites numero plurimi e Gallia.
+
+Gallos post haec dilutius esse poturos, quod illi venenum esse
+arbitrabunturarbitrabantur codd. Ammiani: corr. Bentley
+. 
+
+Plaetori matrem dum vixisset ludum, postquam mortua esset magistros habuisse.
+
+hoc praetore oppressam esse aere alienoaere alieno ς: alieniso V
+Galliam. A quibus versuras tantarum pecuniarum factasfactas 
+χl: tactas V: tractas k
+esse dicunt? a Gallis?
+nihil minus. A quibus igitur? A civibus Romanis qui negotiantur in
+Gallia. cur eorum verba non
+non ς: om. V
+audimus? cur eorum
+tabulae nullae proferuntur? insector ultro atque insto accusatori,
+iudices; insector, inquam, et flagitoflagitio Vχ1
+testis. plus ego in
+hac causa laboris et operae consumo in poscendis testibus quam ceteri defensores in
+refutandis. audaciter
+audaciter V: audacter
+ς
+hoc dico, iudices, non temere
+confirmo. Referta Gallia negotiatorum est, plena civium Romanorum. nemo
+Gallorum sine cive Romano quicquam negoti gerit, nummus in Gallia nullus sine civium
+Romanorum tabulis commovetur. 
+
+videte
+quo descendam, iudices, quam longe videar ab consuetudine mea et cautione ac
+diligentia discedere. Vnaeunae ς: una V
+tabulae proferantur, in quibus vestigium sit
+aliquod quod significet pecuniam M.
+M. suppl.
+Baiter
+Fonteio datam, unumunum ς: unam V
+ex tottot Gulielmius: toto codd.: tanto
+Halm
+negotiatorum, colonorum, publicanorum,
+aratorum, pecuariorum numero testem producantproducant ς: producantur V
+; vere accusatum
+esse concedam. pro di immortales! quae haec estest haec χ
+causa, quae defensio?
+provinciae Galliae M. Fonteius praefuit, quae constat ex eis
+generibus hominum et civitatum qui, ut vetera mittam, partim nostra memoria bella
+cum populo Romano acerba ac diuturna gesserunt, partimpartim del. Madvig
+modo ab nostris imperatoribus
+subacti, modo bello domiti, modo triumphis ac monumentis notati, modo ab senatu
+agris urbibusque multati sunt, partim qui cum ipso M. Fonteio ferrum ac manus
+contulerunt multoque eius sudore ac labore sub populi Romani imperium dicionemque
+ceciderunt. 
+
+est in eadem provincia
+Narbo Martius, colonia nostrorum civium, specula populi Romani ac propugnaculum
+istis ipsis nationibus oppositum et obiectum; est item urbs Massilia, de qua ante
+dixi, fortissimorum fidelissimorumque sociorum, qui Gallicorum bellorum pericula
+praecipuis populi Romani praemiispraecipuis p. R. praemiis scripsi: P. R. copiis .. r. mis V1: P. R. copiisq; remis V2 (que i. e. quaere omissum aliquid
+significat, cf. Mur. 51): P. R. copiis remisque ς: populi Romani copiis atque praemiis Madvig
+compensaruntcompensarunt V
+; est praeterea maximus
+maximus suppl. Hotoman
+numerus civium Romanorum atqueatque del. Hotoman
+equitumequitum supplevi (i. e.
+Gallicorum, cf. § 26, Caes. B. G. vi.
+15), hominum honestissimorum. 
+huic provinciae quae ex hac generum varietate constaret M.
+Fonteius, ut dixi, praefuit; qui erant hostes, subegit, qui proximeproximi codd.: corr. Hotoman
+fuerant, eos ex eis agris quibus erant multati decedere coegit, ceteris quihis
+qui V
+idcirco magnis saepe erant bellis superati
+ut semper populo Romano parerent, magnos equitatus ad ea bella quae tum in toto orbe
+terrarum a populo Romano gerebantur, magnas pecunias ad eorum stipendium, maximum
+frumenti numerum ad Hispaniense bellum tolerandum imperavit. 
+
+is qui gessit in iudicium vocatur, vos qui in re non
+interfuistis causam una cum populo Romano cognoscitis, dicunt contra quibus
+invitissimis imperatum est, dicunt qui ex agris
+ex agris
+agris
+Schütz
+exex om.
+l
+Cn. Pompei decreto decedere sunt coacti, dicunt qui ex
+bellibelli Madvig: bello codd.
+caede et fuga nunc primum audent contra M. Fonteium
+inermem consistere. quid? coloni Narbonenses quid volunt, quid
+existimant? hunc per vos salvum
+salvum supplevi
+volunt, se perse per Naugerius (1): semper codd.
+hunc
+incolumisincolumem codd.: corr.
+Naugerius (1) existimant esse. quid Massiliensium
+civitas? hunc praesentem eis adfecit honoribus quos habuit amplissimos;
+vos autem absens orat atque obsecrat ut sua religio, laudatio, auctoritas aliquid
+apud vestros animos momenti habuisse videatur. 
+
+quid? civium Romanorum quae voluntas est? nemo est ex
+tanto numero quinquin ς: quia V
+hunc optime de provincia, de imperio, de sociis
+et civibus meritum esse arbitretur. 
+quoniam igitur, iudicesiudices k:
+vidctis cett. (cf. § § 21,
+42), qui oppugnatumoppugnent 
+χl, ed. R
+M. Fonteium
+cognostiscognostis post velint hab. k
+, qui defensum velint, statuite nunc quid vestra
+aequitas, quid populi Romani dignitas postulet, utrum colonis vestris,
+negotiatoribus vestris, amicissimis atque antiquissimis sociis et credere et
+consulere malitis, an eismalitis an iis k: malitisanis
+V: an adversariis 
+χl
+quibus neque propter iracundiam
+fidem neque propter infidelitatem honorem habere debetis. 
+
+quid? si maiorem etiam hominum honestissimorum copiam
+adferamadferam Halm: adferta V: affert 
+χl: affero k quae] qui 
+χl, ed. R
+quae
+huius virtuti atque innocentiae testimonio possitpossint l,
+ed. R
+esse, tamenne plus Gallorum consensio valebit quam
+summasumma 
+χl:
+summae Vk
+auctoritasauctoritas l, Angelius: auctoritatis cett.
+omnium
+omnium
+hominum k, Faernus
+? Cum Galliae Fonteius praeesset, scitis, iudices,
+maximos populi Romani exercitus in duabus Hispaniis clarissimosque imperatores
+fuisse. quam multi equites Romani, quam multi tribuni militum, quales et
+quot et quotiens legati ad eos exierunt
+exierunt suppl. Pluygers
+! exercitus praeterea Cn. Pompei
+maximus atque ornatissimus hiemavit in Gallia M. Fonteio imperante.
+satisne vobis multos, satis idoneos testis et consciosconscios
+ς: conscissos V
+videtur ipsa fortuna esse voluisse earum rerum quae M. Fonteio
+praetore gererentur in Gallia? quem ex tanto hominum numero testem in hac
+causa producere potestis? quis est ex eo numero qui vobis auctor placeat? eo nos iam
+laudatore et teste utemur. 
+
+dubitabitis
+etiam diutius, iudices, quin illud quod initio vobis proposui verissimum sit, aliud
+per hoc iudicium nihil agi nisi ut M. Fonteio oppresso testimoniis eorum quibus
+multa rei publicae causa invitissimis imperata sunt, segniores posthac ad imperandum
+ceteri sint, cum videatisvideatis V: videant ς
+eos oppugnareoppugnare V: oppugnari ς
+quibus victoribus
+victoribus Niebuhr:
+oppressis 
+χl: om. Vk: si cesseritis Müller
+populi Romani imperium incolume esse non possit? 
+obiectum est etiam quaestum M. Fonteium ex viarum munitione fecisse, ut
+aut ne cogeret munire, aut id quod munitum esset ne improbaret. si et
+coacti sunt munire omnes et multorum opera improbata sunt, certe utrumque falsum
+est, etest et k: esset V:
+esset et 
+χl, ed.
+R
+ob vacationem pretium datum, cum immunis nemo fuerit, et ob
+probationem, cum multa improbata sintsint ed. R: sunt
+codd.
+. quid? 
+
+si hoc crimen optimis nominibus
+nominibus
+hominibus Angelius
+delegaredenegare 
+χl, ed. R
+possimuspossumus l, ed. R
+, et ita non ut
+culpam in alios transferamus, sed uti doceamus eos isti munitioni praefuisse qui
+facile officium suum et praestare et probare possunt, tamenne vos omnia in M.
+Fonteium iratis testibus freti conferetis? Cum maioribus rei publicae negotiis M.
+Fonteius impediretur, et cum ad rem publicam pertineret viam Domitiam
+munirimuniri Hotoman: munire codd.
+, legatis suis, primariis viris, C. Annio Bellieno et C.
+Fonteio, negotium dedit; itaque praefuerunt; imperaverunt pro dignitate
+sua
+sua
+sua cuique Sylvius
+quod visum est et probaverunt; quod vos, si nulla alia ex
+re, ex litteris quidem nostris quas exscripsistisquas exscripsistis Faernus: ex quas exscripsistis V: quas scripsistis ς, ed. R
+et missis et adlatis certe scire potuistis.
+quas si antea non legistis, nunc ex nobis quid de eis rebus Fonteius
+ad legatos suos scripserit, quid ad eum illi rescripserint, cognoscite. L. M.
+ad C. Annivmad Cannium (ad C. Cann. k2) Vk: ad C. Canninium χ: corr. Angelius
+leg., ad C.
+Fonteivm leg., L. A.
+A. (i. e. adlatae)
+suppl. Orelli
+abab Müller: a codd.
+C.
+AnnioC. Cannio k: Canninio Vχl: corr. Angelius
+leg., ab C.Fonteio leg.
+satis opinor esse perspicuum, iudices,
+hanc rationem munitionis neque ad M. Fonteium pertinere et ab eis esse
+tractatamtractatum V1: tractatum V2
+quos nemo possit reprehendere. 
+cognoscite nunc de crimine vinario, quod illi invidiosissimum et maximum
+esse voluerunt. crimen a Plaetorio, iudices, ita constitutum est, M.
+FonteioM. k, Halm: a Vχl
+non in Gallia primum venisse in
+mentem ut portorium vini institueret, sed hachac V:
+om. ς
+inita
+iam acinita iam ac Kayser: in Italiam (-a ς) ac (hac 
+χl, om. k) codd.
+proposita ratione Roma profectum. itaque Titurium
+Tolosae quaternos denarios in singulas vini amphoras portori nomine exegisse;
+Croduni Porcium et munium ternos et
+et supplevi
+victoriatumvictoriatum scripsi: victoriatos m. codd.: victoriatos Angelius: del. Mommsen
+,
+Vulchalone Servaeum binos et victoriatum; atque in his
+locis
+locis
+secrodunt (= scilicet Croduni et) Vulchalone
+add. codd.: del. Vrsinus his
+codd.: corr. Halm
+ab
+eis portorium esse exactum si qui CobiomagoCobiomacho (-ia- ς) codd.: corr. Mommsen
+—qui vicus inter Tolosam et Narbonem
+est—deverterenturdevort. V2
+neque Tolosam
+ire vellent; ElesiodulisElesiodulis (an -duni?) C.
+Annium ... exegisse Pantagathus: elesioduluscantum ...
+exegissent codd.
+C. Annium senos denarios ab eis
+qui ad hostem portarent exegisse. 
+
+video, iudices, esse crimen et genere ipso magnum—vectigal enim esse
+impositum fructibus nostris dicitur, et pecuniam permagnam ratione ista cogi
+potuisse confiteor—et invidiainvidiam codd.: corr. Ernesti
+vel maximum
+maximum
+suppl. Pluygers
+; maxime enim inimici hanc rem
+sermonibus divolgaredivulgari Pluygers
+voluerunt. sed ego ita existimo, quo maius crimen sit id quod ostendatur
+esse falsum, hoc maiorem ab eo iniuriam fieri qui id confingat. volt enim
+magnitudine rei sic occupare animos eorum qui audiunt ut difficilis aditus veritati
+relinquatur. 
+de crimine vinario.
+de bello VocontiorvmContionum V
+.
+de
+dispositione hibernorvm.
+'at hoc Galli negant.' at ratioat ratio l, Faernus: atrio V: actio
+ς
+rerum et vis argumentorum
+coarguit. potest igitur testibus iudex non credere? cupidis et
+iratis et coniuratis et ab religione remotis non solum potest sed etiam debet.
+etenim si, quia Galli dicunt, idcirco M. Fonteius nocens existimandus
+est, quid mihi opus est sapiente iudice, quid aequo quaesitore, quid oratore non
+stulto? dicunt enim Galli; negare non possumus. hic si ingeniosi et
+periti et aequi iudicis has partis esse existimatis ut, quoniam quidem testes
+dicunt, sine ulla dubitatione credendum sit, salus
+Salus Manutius: salus priores
+ipsa virorum fortium innocentiam tueri non potest; sin autem in rebus iudicandis non
+minimam partem tenere
+tenere supplevi
+ad unam quamque rem aestimandamaestimandam Naugerius
+(2): existimandam codd.
+momentoque suo
+ponderandam sapientiamsapientia ς
+iudicisiudicis V: iudicis tenet 
+χl: iudicis adhibetur k
+, videte
+videte suppl. Faernus
+ne multo vestraevostrae V2
+maiores gravioresque partes sintsint V: sunt ς
+ad
+cogitandum quam ad dicendum meae. 
+
+mihi
+enim semper una quaque de re testis non solum semel verum etiam breviter
+interrogandus estest Klotz: et codd.: est et Orelli
+, saepe etiam non
+interrogandus, ne aut irato facultas ad dicendum data aut cupido auctoritas
+attributa esse videatur; vos et saepius eandem rem animis agitare et diutius uno
+quoque
+quoque suppl. ed. Hervag.
+de teste cogitare potestis et, si quem nos interrogare noluimusnolumus ed. R
+, quae causa nobis tacendi fuerit existimare
+debetis. quam ob rem, si hoc iudici praescriptum lege aut officio
+putatis, testibus credere, nihil est cur alius alio iudice melior aut sapientior
+existimetur. Vnum
+est enim et simplex aurium iudicium et promiscepromiscue 
+χ2kl
+et communiter
+stultis ac sapientibus ab natura datum. 
+
+quid est igitur ubi elucere possit prudentia, ubi discerni stultus
+auditor et credulus ab religioso et sapienti iudice? nimirum illud in quo
+ea quae dicuntur a testibus coniecturaeconiectura 
+χl
+et cogitationicogitationi
+k, Hotoman: cogitatione cett. (fort. coniectura et cogitatione
+tractantur) traduntur, quanta auctoritate, quanta animi aequitate, quanto
+pudore, quanta fide, quanta religione, quanto studio existimationis bonae, quanta
+cura, quanto timore dicantur. 
+an vero
+vos id in testimoniis hominum barbarorum dubitabitis quod persaepe et nostra et
+patrum memoria sapientissimi iudices de clarissimis nostrae civitatis viris
+dubitandumclariss. dubitandum nostrae civ. viris dubitandum V
+non putaverunt? qui Cn. et Q. Caepionibus, L.
+et Q. Metellis testibus in Q. Pompeium, hominem novum, non crediderunt, quorum
+virtuti, generi, rebus gestis fidem et auctoritatem in testimonio cupiditatis atque
+inimicitiarum suspicio derogavit. ecquem hominem vidimus, 
+
+ecquemhaec quem V: et quem
+ς: corr. ed. R
+(ita mox) vere
+vere
+fort. fere commemorare possumus parem consilio,
+gravitate, constantia, ceteris virtutibusvirtutis Koch
+, honoris, ingeni, rerum gestarum ornamentis M. Aemilio Scauro
+fuisse? tamen huius cuiuseius Schütz
+iniurati nutu prope terrarum orbis regebatur iurati testimonio neque in C. Fimbriam
+neque in C. Memmium creditum est; noluerunt ei
+ii
+.11. V
+qui iudicabant hanc patere inimicitiis viam,
+quem quisque odisset, ut eum testimonio possetposset kl,
+ed. R: possit Vχ
+tollere. quantus in L. Crasso pudor
+fuerit, quod ingenium, quanta auctoritas, quis ignorat? tamen is cuius
+etiam sermo testimoni auctoritatem habebat, testimonio ipso, quae in M. Marcellum
+inimico animo dixit, probare non potuit. 
+
+fuit, fuit illis iudicibus divinum ac singulare,
+iudicesiudices l, Naugerius (1): iudicium (-ii k) cett.
+, consilium, qui
+se non solum de reo
+reo
+iudicium (iud. facere k) add. codd.: del.
+Naugerius (1) sed etiam de accusatorede accusatore del. Müller
+, de teste iudicare arbitrabantur,
+quid fictum, quid fortuna ac tempore adlatum, quid pretio corruptum, quid spe aut
+metu depravatum, quid a cupiditate aliqua aut inimicitiis profectum videretur.
+quae si iudex non amplectetur omnia consilio, non animo ac mente
+circumspiciet, si, ut quidque
+ut quidque
+quicquam 
+χl: quidquid Naugerius (1) ex illo loco dicetur, ex oraculo
+aliquo dici arbitrabitur, profecto satis erit, id quod dixi antea, non surdum
+iudicemiudicem del. Madvig
+huic muneri
+atque officio praeesse; nihil erit quam ob rem ille nescio quis sapiens homo ac
+multarum rerum peritus ad res iudicandas requiratur. 
+
+an vero illi
+equites Romani quos nos vidimus, qui nuper in re publica iudiciisque
+maximemaximis codd.: corr.
+Klotz
+floruerunt, habuerunt tantum animi, tantum roboris ut L.
+Crasso, M. ScauroL. Crasso M. Scauro k:
+L. Scauro V: M. Scauro χ
+testi non crederent; vos VolcarumVulgarum V: Belgarum ς: corr. Graevius
+atque Allobrogum testimoniis non
+credere timetis? si inimico testi credi non oportuit, inimicior Marcello
+Crassus aut Fimbriae Scaurus ex civilibus studiis atque obtrectatione domestica quam
+huic Galli? quorum qui optimaoptima k: optumo V: optumi 
+χl
+in causa sunt, equites, frumentum pecuniam
+semel atque iterum ac saepius
+saepius
+semper Mommsen
+invitissimi dare coacti sunt, ceteri partim ex
+veteribus bellis agro multati, partim ab hoc ipso bello superati et oppressi.
+si, qui ob aliquod emolumentum suum
+cupidius aliquid dicere videntur, eis credi non convenit, credo maius emolumentum
+Caepionibus et Metellis propositum fuisse ex Q. Pompei damnatione, cum studiorum
+suorum obtrectatorem sustulissent, quam cunctae Galliae ex M. Fontei calamitate, in
+qua illailla 
+χl, ed.
+R: ille Vk
+provincia prope suam
+immunitatem ac libertatem positam esse arbitratur. an, si homines ipsos
+spectare convenit, id quod in teste profecto valere plurimum debet, non modo cum
+summis civitatis nostrae viris sed cum infimoinfimo 
+χl: infirmo Vk
+cive Romano quisquam amplissimus Galliae comparandus est?
+scit Indutiomarus quid sit testimonium dicere? movetur eo timore quo
+nostrum unus quisque, cum in eum locum productus est? 
+
+recordamini,
+iudices, quanto opere laborare soleatis non modo quid dicatis pro testimonio sed
+etiam quibus verbis utamini, ne quod minus moderate positum, ne quod ab aliqua
+cupiditate prolapsum verbum esse videatur; voltu denique laboratis ne qua
+significari possit suspicio cupiditatis, ut et, cum proditis, existimatio
+sitsit ed. R: sic χ: est Vk: om.
+l
+quaedam tacita de vobis pudoris ac religionis et, cumet cum
+χl: at cum V: ac cum b
+disceditis,
+ea diligenter conservata ac retenta videatur. 
+
+credo haec eadem Indutiomarum in testimonio timuisse aut
+cogitavisse, qui primum illud verbum consideratissimum nostrae consuetudinis
+'arbitror', quo nos etiam tunc utimur cum ea dicimus iurati quae comperta habemus,
+quae ipsi vidimus, ex toto testimonio suo sustulit atque omnia se 'scire' dixit.
+verebatur enim videlicet ne quid apud vos populumque Romanum de
+existimatione sua deperderet, ne qua fama consequeretur eius modi, Indutiomarum,
+talem virum, tam cupide, tam temere dixisse; non
+non
+hoc Bake
+intellegebat se in testimonio nihil praeter
+vocem etvocem et del. Bake
+os et audaciam neque
+civibus suis neque accusatoribus nostris praestare debere. 
+
+an vero istas nationes religione iuris iurandi ac
+metu deorum immortalium in testimoniis dicendis commoveri arbitramini? quae tantum a
+ceterarum gentium more ac natura dissentiunt, quod ceterae pro religionibus suis
+bella suscipiunt, istae contra omnium religiones; illae in bellis gerendis ab dis
+immortalibus pacem ac veniam petunt, istae cum ipsis dis immortalibus bella
+gesserunt. 
+hae sunt nationes quae
+quondam tam longe ab suis sedibus Delphos usque ad Apollinem Pythium atque ad
+oraculum orbis terrae vexandum ac spoliandum profectae sunt. ab isdem
+gentibus sanctis et in testimonio religiosis obsessum Capitolium est atque ille
+Iuppiter cuius nomine maiores nostri vinctam
+vinctam
+sanctam 
+χl
+testimoniorum fidem esse voluerunt. 
+
+postremo his
+his
+iis kl
+quicquamquicquam 
+χ2kl: quisquam V
+χ1
+sanctum ac religiosum videri potest
+qui, etiam si quando aliquo metu adducti deos placandos esse
+arbitranturarbitrantur ς, ed. R: arbitrabantur V
+,
+humanis hostiis eorum aras ac templa funestant, ut ne religionem quidem colere
+possint, nisi eam ipsam prius scelere violarint? quis enim ignorat eos
+usque ad hanc diem retinere illam immanem ac barbaram consuetudinem hominum
+immolandorum? quam ob rem quali fide, quali pietate existimatis esse
+eoseos ς: nos V:
+hos Klotz
+qui etiam deos immortalis arbitrentur
+hominum scelere
+scelere
+caede Pluygers
+et sanguine facillime posse placari? Cum his vos testibus
+vestram religionem coniungetis, ab his quicquamab his quicquam ed. Hervag.: ab quicquam V: aut
+his quicquam χ: aut cuiusquam k
+sancte aut moderatesancte aut moderate
+χl, ed. R: sancta
+faui moderatae V: sancte fieri moderate k
+dictum putabitis? hoc vestrae mentes
+tam castae, 
+
+tam integrae sibi suscipient ut, cum
+omnes legati nostri qui illo triennio in Galliam venerunt, omnes equitesomnes
+in equites V
+Romani qui in illa provincia
+fuerunt, omnes negotiatores eius provinciae, denique omnes in Gallia qui sunt socii
+populi Romani atque amici, M. Fonteium incolumem esse cupiant, iurati privatim et
+publice laudent, vos tamen cumcum om. χl
+Gallis iugulareiugulare
+Müller: iurare Vk: credere
+χl: peierare Koch
+malitis? quid ut secuti esse
+videamini? voluntatemne hominum? gravior igitur vobis erit hostium voluntas quam
+civium? an dignitatem testium? potestis igitur ignotos notis, iniquos
+aequis, alienigenas domesticis, cupidos moderatis, mercennarios gratuitis, impios
+religiosis, inimicissimos huic imperio ac nominiac nomini om. Cus.
+bonis ac fidelibusac fid. 
+χl: ad fid. V: et fid. k
+et sociis et civibus
+anteferre? 
+
+an vero dubitatis, iudices, quin insitas inimicitias istae gentes omnes et
+habeant et gerant cum populi Romani nomine? sic existimatis eos
+hiceos hic Naugerius (1): eosic V: eos sic 
+χl: eos k
+sagatos bracatosque
+versari, animo demissoanimos V demissos V1
+atque humili, ut solent ei qui adfecti
+iniuriis ad opem iudicum supplices inferioresque confugiunt? nihil vero
+minus. hi
+ii 
+χl, ed. R
+contra vagantur laeti atque
+erectierecti 
+χl:
+recti Vk
+passim toto foro cum quibusdam minis et
+barbaro atque immani terrore verborum; quod ego profecto non crederem, nisi
+aliquotiens ex ipsis accusatoribus vobiscum simul, iudices, audissem, cum
+praeciperent ut caveretis ne hoc absoluto novum aliquod bellum Gallicum
+concitaretur. 
+
+si M. Fonteium, iudices,
+in causa deficerent omnia, si turpi adulescentia, vita infami, magistratibus quos
+ante oculos vestros gessit male gestis
+male gestis suppl. Lambinus
+, convictusconvictus
+ς, ed. R:
+convictis V
+virorum bonorumvirorum bon.
+testimoniis del. Madvig
+testimoniis, legationibus
+flagitiose obitis, invisusinvitus V: invitis ς: corr. Manutius
+suis omnibus in iudicium vocaretur, si in eo iudicio colonorum populi Romani
+Narbonensium, fidelissimorum sociorum Massiliensium, civium Romanorum omnium
+testimoniis tabulisque premeretur, tamen esset vobis
+vobis
+vel
+vobis V2
+magno opere providendum ne, quos ita
+adflictos a vestris patribus maioribusque accepissetis ut contemnendi essent, eos
+pertimuisse et eorum minis et terrore commoti esse videremini. 
+
+nunc vero cum laedat nemo bonus, laudent omnes vestri
+cives atque socii, oppugnent idemidem Müller: id V: ii ς
+qui
+saepissime hanc urbem et hoc imperium oppugnarunt, cumque inimici M. Fontei vobis ac
+populo Romano minentur, amici ac propinqui supplicent vobis, dubitabitis non modo
+vestris civibus, qui maxime gloria ac laude ducuntur, verum etiam exteris nationibus
+et
+gentibus ostendere vos in sententiis
+ferendis civi parcere quam hosti cedere maluisse? 
+
+Magna me herculesmehercule ς
+causa, iudices, absolutionis cum ceteris
+causis haec est, ne quaequae Halm: que V: qua ς
+insignis huic imperio macula atque ignominia suscipiatur, si hoc ita perlatum erit
+in Galliam, senatoressenatores Faernus: senates V: senatus (-um k) ς
+equitesque populi Romani non testimoniis
+Gallorum, sed minis commotos rem ad illorum libidinem
+lib.
+lub.
+V2
+iudicasse. ita vero, si illi
+bellum facere conabuntur, excitandus nobis erit ab inferis C. Marius qui Indutiomaro
+isti minaci atque adroganti par in bello gerendobelligerendo V1: belligerando V2ς
+: corr.
+Faernus
+esse possit, excitandus Cn. Domitius et Q. MaximusQ.
+k, Faernus: O. V: om.
+χ
+qui nationem Allobrogum et
+belli
+belli supplevi (cf. Prov. Cons. 19, Verr. v. 39, et ad Phil. xiii. 2 et
+47) reliquiasreliquas Lambinus
+suis
+iterum armis conficiat atque opprimat, aut, quoniam id quidem non potest, orandus
+erit nobis amicus meus, M. Plaetorius, ut suos novos clientis a bello faciendo
+deterreat, ut eorum iratos animos atque horribilis impetus deprecetur, aut, si non
+poterit, M. Fabium, subscriptorem eius, rogabimus ut Allobrogum animos mitiget,
+quoniam apud illos Fabiorum nomen amplissimum est
+est k: om. Vχl (est ampl. Halm) volunt] ut
+velint Angelius
+. volunt isti aut
+quiescere, id quod victi ac subacti solent, aut, cum minantur, intellegere se populo
+Romano non metum belli sed spem triumphitriumphos (-is 
+χl, -i k) tendere codd.: corr.
+Naugerius (2) ostendere? 
+
+quod si in turpi reo patiendum non esset ut quicquam isti se minis
+profecisse arbitrarentur, quid faciendum vobis in
+in 
+χl: de k: om. V
+M.
+FonteioFontei V
+arbitramini? de quo homine,
+iudices—iam enim mihi videor hoc prope causa duabus actionibus perorata debere
+dicere—de quo vos homine ne ab inimicis quidem ullum fictum probrorumprobrorum
+scripsi (cf. § 39):
+probrosum codd.
+non modo crimen sed ne maledictum
+quidem audistis. ecquis
+ecquis (et- kl)
+ς: haec quis V
+umquam reus, praesertim in hac vitae ratione
+versatusvorsatus V2
+, in honoribus petendis,
+in potestatibuspotestatibus obtinendis Mommsen
+,
+in imperiis gerendis, sic accusatus est ut nullum probrum, nullum facinus, nulla
+turpitudo quae a libidine
+lib.
+lub. V
+aut a petulantia aut ab audacia nata esset, ab accusatore
+obiceretur, si non verasi vera non V
+, at
+fictaat ficta k: atdeficta (ex atficta credo) V:
+at tamen ficta 
+χl: at
+commode ficta Halm
+cum aliqua ratione ac
+suspicione? 
+
+M.
+Aemilium Scaurum, summum nostrae civitatis virum, scimus accusatum a M. Bruto.
+exstant orationes, ex quibus intellegi potest multa in illum ipsum
+Scaurum esse dicta, falso; quis negat? verum tamen ab inimico dicta et obiecta.
+quam multa M'. AquiliusM'. Manutius: M.
+codd.
+audivit in suo iudicio, quam multa L.
+Cotta, denique P. Rutilius! qui, etsi damnatus est, mihi videtur tamen inter viros
+optimos atque innocentissimos esse numerandus. ille igitur ipse homo
+sanctissimus ac temperantissimustemperatissimus ς
+multa audivit in sua causa quae adad libidinem codd.: corr. Faernus
+suspicionem stuprorum ac libidinum pertinerent. 
+
+exstat oratio hominis, ut opinio mea fert, nostrorum hominum longe
+ingeniosissimi atque eloquentissimi, C. Gracchi; qua in oratione permulta in L.
+Pisonem turpia ac flagitiosa dicuntur. at in quem virum! qui tanta
+virtute atque integritate fuit ut etiam illis optimisoptumis V
+temporibus, cum hominem invenire nequam neminem
+posses, solus tamen Frugi nominaretur. quem cum in contionem Gracchus
+vocari iuberet et viatoriuberet et viator 
+χl: iubertet vator V: iuberet viator k
+quaereret, quem
+Pisonem, quod erant plures: 'cogis me,' inquit, 'dicere inimicum meum Frugi.'
+is igitur vir quem ne inimicus quidem satis inin del. Bake
+appellando significare poterat, nisi
+ante laudasset, qui uno cognomine declarabatur non modo quis esset sed etiam qualis
+esset, tamen in falsam atque iniquam probrorum insimulationem vocabatur; M.
+Fonteius ita duabus actionibus accusatus est
+ut obiectum nihil sit quo significari vestigium libidinis
+lib.
+lub. V2
+, petulantiae, crudelitatis, audaciae
+possit; non modo nullum facinus huius protulerunt sed ne dictum quidem aliquod
+reprehenderuntreprehenderint χ
+.
+quod si aut quantam voluntatem
+habent ad hunc opprimendum aut quantam ad male dicendum licentiam, tantum haberent
+aut ad ementiendumaut ad ement. 
+χl: aut ement. Vk
+animi aut ad fingendum ingeni, non meliore fortuna ad probra
+non
+probra non
+probra nunc l, ed.
+R
+audienda M. Fonteiusaudienda M. Halm: audiendam V: audienda ς
+quam illi de quibus antea commemoravi
+fuisset. Frugi igitur hominem, iudices, frugi, inquam, et in omnibus vitae partibus
+moderatum ac temperantem, plenum pudoris, plenum offici, plenum religionis videtis
+positum in vestra fide ac potestate, atque ita ut commissus sit fidei, permissus
+potestati. 
+
+videte
+videte
+vitęV
+igitur utrum sit aequius hominem honestissimum, virum
+fortissimum, civem optimum dedi inimicissimis atque immanissimis nationibus an reddi
+amicis, praesertim cum tot res sint quae vestris animis pro huius innocentis salute
+supplicentsupplicem V Tusculo del. Bake
+, primum generis antiquitas, quam Tusculo, ex
+clarissimo municipio, profectam in monumentis rerum gestarum incisam ac notatam
+videmus, tum autem continuae praeturae, quae et ceteris ornamentis et existimatione
+innocentiae maximemaximae V
+floruerunt, deinde
+recens memoria parentis, cuius sanguine non solum Asculanorum manus, a qua
+interfectus esta qua ... est del. Pluygers
+, sed
+totum illud sociale bellum macula sceleris imbutum est, postremo ipse cum in omnibus
+vitae partibus honestus atque integer, tum in re militari cum summi consili et
+maximi animi, tum vero usu quoque bellorum gerendorum in primis eorum hominum qui
+nunc sunt exercitatus. 
+
+qua re si etiam monendi estis a me,
+iudicesestis a me iudices V: estis a me 
+χl: estis iudices k videor] iudices 
+χl, ed. R
+, quod non estis, videor
+hoc leviterleniter k, Klotz
+pro
+mea
+mea
+me V
+auctoritate
+vobis praecipere posse, ut ex eo genere homines quorum cognita virtus, industria,
+felicitas in re militari sit diligenter vobis retinendos existimetis.
+fuit enim
+enim
+olim Mommsen
+maior talium tum
+tum supplevi
+virorum in hac re publica copia; quae cum esset, tamen
+eorum non modo saluti sed etiam honori consulebatur. quid nunc vobis
+faciendum est studiis militaribus apud iuventutem obsoletis,
+fortissimis
+fortissimis suppl. hoc loco
+Müller (post hominibus Orelli) autemautem V: aut 
+χl: aut claris k
+hominibus ac summis ducibus partim aetate,
+partim civitatis discordiis ac rei publicae calamitate consumptis, cum tot bella aut
+a nobis necessario suscipiantur aut subito atque improvisaimproviso Lambinus
+nascantur? nonne et hominem ipsum ad
+dubia rei publicae tempora reservandum et ceteros studio laudis ac virtutis
+inflammandos putatis? 
+
+recordamini quos
+legatos nuper in bello Italico
+Italico supplevi
+L. Iulius, quos P. Rutilius, quos L. Cato, quos Cn.
+Pompeius habuerit; scietis fuisse tum M. Cornutum, L. Cinnam, L. Sullam, praetorios
+homines, belli gerendi peritissimos; praeterea C. Marium, P. Didium, Q. Catulum, P.
+Crassum, non litteris homines ad rei militaris scientiam, sed rebus gestis ac
+victoriis eruditos. age vero, nunc inferteinferte l mg., ed. R: inserite cett.
+(cf. v. 27) oculos in curiam, introspicite
+penitus in omnis rei publicae partis; utrum videtis nihil posse accidere ut tales
+viri desiderandi sint, an, si acciderit, eorum hominum copia populum Romanum
+abundare? quae si diligenter attendetis, profecto, iudices, virum ad
+labores belli impigrum, ad pericula fortem, ad usum ac disciplinam peritum, ad
+consilia prudentem, ad casum fortunamque felicem domi vobis ac liberis vestris
+retinere quam inimicissimis populo Romanopopulo R. Klotz: rei p. codd.
+nationibus et
+crudelissimis tradere et condonarecondonare k,
+Faernus: condemnare Vχl
+maletismaletis kl,
+Naugerius (1): malitis Vχl
+. 
+
+at
+at V: an 
+χl: et k
+infestis prope signis inferunturinferuntur 
+χl, ed. R: inseruntur V: instruuntur k
+Galli in M.
+FonteiumGalli in M. Halm: Gallim V: Galli in ς
+et instant atque urgent summo cum studio, summa cum audacia. video,
+iudices; sedsed Halm: c. et V:
+et ς
+multis et firmis praesidiis vobis
+adiutoribus isti immani atque intolerandae barbariae resistemus. primum
+obicitur contra istorum impetus Macedonia, fidelis et amica populo Romano provincia;
+quae cum se ac suas urbis non solum consilio sed etiam manu M. Fonteimanu M.
+Halm: manum V: manu ς
+conservatam esse dicat, utut om. V1
+ipsaipsa scripsi (cf vv. 14, 18): illa codd.
+per hunc a Thraecuma Thraecum 
+χl: atgrecum V: a Graecorum k
+adventu
+ac depopulatione defensa est
+est Faernus:
+om. Vχ
+: fuit k
+, sic ab huius nunc capite Gallorum impetus
+terroresque depellit. 
+
+constituitur ex
+altera parte ulterior Hispania, quae profecto non
+non ς: om. V modo Vχl: solum k
+modo religione sua resistere istorum cupiditati
+potest sed etiam sceleratorum hominum periuria testimoniis ac laudationibus suis
+refutare. atque ex ipsa etiam Gallia fidelissima et gravissima auxilia
+sumuntur. venit huic subsidio misero atque innocenti Massiliensium cuncta
+civitas, quae non solum ob eam causam laborat ut huic, a quo ipsa servata est, parem
+gratiam referrereferre kl, ed. R: referri Vχ
+videatur sed
+etiam quod ea condicione atque eo fato se in eisiis l,
+Manutius: his cett.
+terris conlocatam
+esse arbitratur ne quid nostris hominibus istae gentes nocere possint. 
+
+propugnat pariter pro salute M. Fontei
+Narbonensis colonia, quae per hunc ipsa nuper obsidione hostium liberata nunc
+eiusdem miseriis ac periculis commovetur. denique ut oportet bello
+Gallico, ut maiorum iura moresque praescribunt, nemo est civis Romanus qui sibi ulla
+excusatione utendum putet; omnes illius provinciae publicani, agricolae, pecuarii,
+ceteri negotiatores uno animo M. Fonteium atque una voce defendunt. 
+quod si tantas auxiliorum nostrorum copias
+Indutiomarus ipse despexerit, dux Allobrogum ceterorumque Gallorumdux ...
+Gallorum del. Bake
+, num etiam de matris hunc
+complexu, lectissimae miserrimaeque feminae, vobis inspectantibus avellet atque
+abstrahet? praesertim cum virgo Vestalis ex altera parte germanum fratrem complexa
+teneat vestramque, iudices, ac populi Romaniac populi R. ς: a p. R. V
+fidem
+imploret; quae pro vobis liberisque vestris tot annos in dis immortalibus placandis
+occupata est ut ea nunc pro salute sua fratrisque sui animos vestros placare possit.
+cui miserae quod praesidium, quod
+solacium reliquumreliquum k:
+relicum V: om. χl
+est hoc amisso? nam
+ceterae feminae gignere ipsae sibi praesidia et habere domi fortunarum omnium socium
+participemque possunt; huic vero virgini quid est praeter fratrem quod aut iucundum
+aut carum esse possit? nolite pati, iudices, aras deorum immortalium
+Vestaeque matris cotidianis virginis lamentationibus de vestro iudicio
+commonericommoneri V: commoveri ς
+; prospicite ne ille ignis aeternus
+nocturnis Fonteiae laboribus vigiliisque servatus sacerdotis
+vestrae
+vestrae
+Vestae ed.
+R
+lacrimis exstinctus esse dicatur. 
+
+tendit
+tendit kl, Faernus: tendet Vχ
+ad vos virgo
+Vestalis manus supplices easdem quas pro vobis dis immortalibus tendere consuevit.
+Cavete ne periculosum superbumque sit eius vos obsecrationem repudiare cuius preces
+si di aspernarentur, haec salva esse non possentpossent ς: possunt V
+.
+videtisne subito, iudices, virum fortissimum, M. Fonteium, parentis
+et sororis commemoratione lacrimas profudisse? qui numquam in acie
+pertimuerit, qui se armatus saepe in hostium manum multitudinemque immiserit, cum in
+eius modi periculis eadem se solacia suis relinquere arbitraretur quae suus pater
+sibi reliquisset, idem nunc conturbatoperturbato χ
+animo pertimescit ne non modo ornamento et adiumento non
+sit suis sed etiam cum acerbissimo luctu dedecus aeternum miseris atque ignominiam
+relinquat. 
+
+O fortunam longe disparem, M. Fontei,
+si deligere potuisses ut potius telis tibi Gallorum quam periuriis intereundum
+esset! tum enimtum enim ς: tuam
+enim V cuius Cus.
+vitae
+socia virtus, mortismorti Cus.
+comes gloria
+fuisset; nunc vero qui est dolor victoriae te atque imperi poenas ad eorum arbitrium
+sufferre qui aut victi armis sunt aut invitissimi paruerunt! A quo periculo
+defendite, iudices, civem fortem atque innocentem; curate ut nostris testibus plus
+quam alienigenis credidisse videamini, plus saluti civium quam hostium libidini
+consuluisse, graviorem duxisse eius obsecrationem quae vestris sacris
+praesitpraeest Madvig
+quam eorum audaciam
+qui cum omnium sacris delubrisque bella gesserunt.
+postremo prospicite, iudices, id quod ad dignitatem populi Romani
+maxime pertinet, ut plusut plus 
+χl: vitiis V: ut potius k
+apud vos preces virginis Vestalis quam minae
+Gallorum valuisse videantur. 
+

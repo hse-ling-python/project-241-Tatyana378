@@ -1,0 +1,95 @@
+# ID: histcorp-latin-perseus-phi0474.phi020.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: Address to the Priests 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 972
+# sentences: 103
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+DE DOMO SVA AD PONTIFICES ORATIO
+Cum multa divinitus, pontifices, a
+maioribus nostris inventa atque instituta sunt, tum nihil praeclarius quam
+quod
+eosdem et religionibus deorum immortalium et summae rei publicae praeesse voluerunt,
+ut amplissimi et clarissimi cives rem publicam bene gerendore p. bene gerenda
+Muell. (ut ad Quir. §
+21) religionesreligiones scripsi ante
+sapienter: religionibus codd. (ut
+pro omnis l. 8 habent
+PB omnibus): religionum ius Halm: religionibus
+sap. interpretandis ut Lange ita k, religiones
+sapienter interpretando rem publicam conservarent. quod si ullo tempore
+magna causa inin ut Baiter ita k: <hi rend="italics"
+>ante iudicio conl. Lange sacerdotum
+populi Romani iudicio ac potestate versata est, haec profecto tanta est ut omnis rei
+publicae dignitas, omnium civium salus, vita, libertas, arae, foci, di penates,
+bona, fortunae, domicilia vestrae sapientiae, fidei, potestati commissa creditaque
+esse videantur. vobis hodierno die
+constituendum est utrum posthac amentis ac perditos magistratus improborum ac
+sceleratorum civium praesidio nudare, an etiam deorum immortalium religione armare
+malitis. nam si illa labes ac flamma rei publicae suum illum pestiferum
+et funestum tribunatum, quem aequitate humana tueri non potest, divina religione
+defenderit, aliae caerimoniae nobis erunt, alii antistites deorum immortalium, alii
+interpretes religionum requirendi; sin autem vestra auctoritate sapientiaque,
+pontifices, ea quae furore improborumpost improborum
+habent PBS amore
+bonorum (timore bonorum M): om.
+Hbk in re publicain re p. ut Orelli ita
+Hbc: rei p. P et pler.: re p. <hi
+rend="italics">GMK ab aliis oppressa, ab aliis deserta, ab aliis
+prodita gesta sunt rescindunturrescidentur Rueck:
+-antur Ernesti, erit causa cur consilium maiorum
+in amplissimis viris ad sacerdotia deligendis iure ac merito laudare possimus.
+sed quoniam ille demens, si ea quae
+per hos dies ego in senatu de re publicapub. om. PB<foreign
+xml:lang="grc">S sensi vituperasset, aliquem se
+aditum ad auris vestras esse habiturum putavit, omittam ordinem dicendi meum:
+respondebo hominis furiosi non orationi, qua ille uti non potest, sed convicio,
+cuius exercitationem cum intolerabili petulantia tum etiam diuturna impunitate
+munivit. 
+
+ac primum illud a te, homine vesano ac furioso, requiro, quae te tanta
+poena tuorum scelerum flagitiorumque vexet ut hos talis viros,—qui non solum
+consiliis suis sed etiam specie ipsa dignitatem rei publicaedignitatem rei p.
+P rell. praeter M (et dignitate rem publicam)
+sustinent,—quod ego in sententia dicenda salutem civium cum honore Cn. Pompei
+coniunxerim mihi esse iratos, et aliudaliud Hb<foreign
+xml:lang="grc">s et in P man. rec.: aliter <hi
+rend="italics">M, fort. recte (§ 31): alios P
+rell. (alias Ge) de summa religione hoc
+tempore sensuros ac me absente senserint arbitrere? sine ullis copiis ac manu, verum etiam cum paucis amicis. Lange qui agebant condemnare deberem? (putarunt b2)? omnibus fuit ut materiem subtraheremus furori tuo? pontifices, suspicemini, nisi videritis. illo ipso die carissimam annonam necopinata vilitas consecuta est. vilitatem boni viri dictitabant, annona flagitabatur. ordinem bellum cum Mithridate Tigraneque gessit. suum defenderet, bello gerendo M. Catonem praefecisti. Catonis honore illarum litterarum recitatione patefactum est. meae saluti opem et auxilium tulisset. aut caerimoniarum ius aut civitatis salus coegerit. nostri vos solos et consuli et scire voluerunt? rend="italics">Baiter. per aetatem pater esse potuisti. tribunatum tuum concidisse. an etiam apertius aliquod ius populi atque legum? legem nominatim de capite civis indemnati tulisti? ordines, omnes di atque homines iudicaverunt. sanciri aut suffragiis confirmari potest? nisi furem ac sicarium reperire potuisti. supplicare mutata veste prohiberent, ne tum quidem vis erat? institutoque maiorum, ut possem praesens sustinere? exspectatum atque revocatum queratur? quidem luctu meo mentis eorum satiare potui. est ex vestro ferro ac manibus elapsus! videretur codd. * * * etiam spectator meae laudis esse potuissem? turpissimum, alter per honestissimam calamitatem. publica labes in posterum demovebatur. neque hoc Cn. videbatur P1 rell., senatum tecum una rettulit, iudicavit. conservatam esse fateatur. fuissem, nec futuram esse ullam si non redissem. civis Romanus libertatem nemo possit invitus amittere. Muell.. interdictum est, scriptum est in legibus. rend="italics">Graevius est? esset cum ego aberam, meo loco senatorem recitaturum fuisse. maledicti locum aut criminis obtinebit? memoriam temporis calamitas propagavit. venerunt codd.. respondere an demisse respondere decuit? defuisse? falsum est. me mortem timuisse? turpe est. quam virtutem putarem. videam constituta. eum quem patres conscripti custodem patriae iudicassent. sempiterna religione obligare? est ita sanctum omnibus ut inde abripi neminem fas sit. responderes id nisi eversa civitate accidere non posse? quorsum igitur haec oratio pertinet? modo adfuit, quem tu impulisti, soror rogavit, mater coegit. inruerit quem perculsum ipsa res publica suis manibus extolleret. fraudi Metello fuit, summo illi et clarissimo viro? aspicere non licuit? religiones omnis pollueris aut ementiundo aut stuprando? quod uno adulescente quam quod contione tota teste fecisti? causa cur prohibendo non tam deterrere videretur quam admonere. testimonium huius urbis atque imperi conservati dedissent? >Momms., quid tangi, quid teneri ius fuerit. consisteret? cum pro detestatione tot scelerum unam aram nefarie consecraret? erunt restituti. tum denique convictam esse et commissam putabo. >Karsten) velle esse privatum. quam et in utendo rationem et in carendo patientiam. 

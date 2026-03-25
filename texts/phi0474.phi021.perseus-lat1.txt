@@ -1,0 +1,55 @@
+# ID: histcorp-latin-perseus-phi0474.phi021.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: Respecting the Answers of the Soothsayers 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 354
+# sentences: 43
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+ORATIO DE HARVSPICVM RESPONSOresponso Ascon.:
+responsis codd., Quint. v. 11,42 IN P. CLODIVM IN
+SENATV HABITA
+hesterno die, patres conscripti, cum me et vestra dignitas et frequentia
+equitum Romanorum praesentiumpraesentium om. HEMb<foreign
+xml:lang="grc">s, quibus senatus dabatur, magno
+opere commosset, putavi mihi reprimendam esse P. Clodi impudicam impudentiam, cum is
+publicanorum causam stultissimis interrogationibus impediret, P. Tullioni Syro
+navaret operam atque ei se, cui totus
+venierat, etiam vobis inspectantibus venditaret. itaque hominem furentem
+exsultantemque continui simul ac periculum iudici intendi: duobus inceptis verbis
+omnem impetum gladiatoris ferociamque compressi. periculum est ne se stuporis excusatione defendat. >codd. oporteret. riseritis impudentiam hominis, tum a me de tota contione audietis. causa esse dixit domum meam a religiosissimo sacerdote, P. promoveri, permoveri rell.. civium adstante, omni religione una mente omnes liberaverunt. meam iudicio pontificum religione liberatam videri. huius gladiatoris tot senati consultis munita atque saepta est. amicis quid respondeat admoneri. coniurationem non obscure nobis paulo ante praedixerint. gubernarique perspeximus, omnis gentis nationesque superavimus. impeditum turba et angustiis tradidisset. dubitabimus quos ille fremitus nuntiet ludos esse pollutos? Etruscorum scriptis haruspices ut a servitio caveremus monerent. non voce sed manu liberos a se segregabant. hac igitur vate suadente quondam, telluri postilio deberi dicitur. tu meam domum religiosam facere potuisti? tu ne aspicias urbem eam quam delere voluisti. salutem sed ad necem utatur? pler. quibuscum coniurasti non vocari. oculos, ut opinio illius religionis est, non perdidisti. >rell.. suae crudelissima morte mactaret. resistentem longius quam voluit popularis aura provexit. volaticos impetus in se ipsos posse converti. potuisset? reconciliationem esse gratiae factam. principibus quantum a puris, quantum ab religiosis. nostras et perniciosam viam audiendi consuetudine esse munitam. labefacta, vix, inquam, nixa in omnium nostrum umeris cohaerebunt. convenit aut eorum responsis commoveri necesse est. 
