@@ -1,0 +1,228 @@
+# ID: histcorp-latin-perseus-phi0972.phi001f.perseus-lat1
+# author: Petronius Arbiter
+# pseudonym: 
+# translator: 
+# title: FRAGMENTA 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Michael Heseltine
+# publisher: William Heinemann
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,071
+# sentences: 98
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+I
+Servius ad Vergili Aen. III 57: auri sacra fames sacra id
+est execrabilis. Tractus est autem sermo ex more Gallorum. Nam Massilienses quotiens
+pestilentia laborabant, unus se ex pauperibus offerebat alendus anno integro
+publicis sumptibus et purioribus cibis. Hic postea ornatus
+verbenis et vestibus sacris circumducebatur per totam civitatem cum exsecrationibus,
+ut in ipsum reciderent mala totius civitatis, et sic proiciebatur. Hoc autem in
+Petronio lectum est
+
+II
+Servius ad Vergili Aen. XII 159 de feminino nominum in tor
+exeuntium genere: Si autem a verbo non venerint,
+communia sunt. Nam similiter et masculina et feminina in tor exeunt, ut hic et haec
+senator, hic et haec balneator, licet Petronius usurpaverit
+balneatricem dicens
+
+III
+Pseudacro ad Horati epod. 5, 48: Canidia rodens pollicem
+habitum et motum Canidiae expressit furentis. Petronius ut monstraret furentem,
+pollice ait usque ad periculum roso
+
+IV
+Sidonius Apollinaris carminis XXIII:
+quid vos eloquii canam Latini,
+Arpinas, Patavine, Mantuane?—
+Et te Massiliensium per hortos
+sacri stipitis, Arbiter, colonum
+Hellespontiaco parem Priapo?
+V
+Priscianus institutionum VIII 16 p.
+381 et XI 29p. 567 <hi
+rend="italics">Hertzii inter exempla quibus deponentium verborum participia
+praeteriti temporis passivam significationem habere declarat: Petronius
+animam nostro amplexam pectore
+
+Vb
+Boethius in Porphyrium a Victorino translatum dialogo II extreme
+p. 45 exemplarium Basiliensium: Ego faciam, inquit, libentissime. Sed
+quoniam iam matutinus, ut ait Petronius, sol tectis arrisit, surgamus, et si quid
+est illud, diligentiore postea consideratione tractabitur
+
+VI*
+Fulgentius mythologiarum I p. 23 Munckeri: Nescis . . quantum
+saturam matronae formident. Licet mulierum verbialibus undis et causidici cedant nec
+grammatici muttiant, rhetor taceat et clamorem praeco compescat, sola est quae modum
+imponit furentibus, licet Petroniana subet Albucia
+
+VII*
+Fulgentius mythologiarum III 8 p. 124 ubi sucum myrrhae valde
+fervidum esse dixit: Unde et Petronius Arbiter ad libidinis concitamentum
+myrrhinum se poculum bibisse refert
+
+VIII*
+Fulgentius in expositione Virgilianae continentiaep. 156:
+Tricerberi enim fabulam iam superius exposuimus in modum iurgii forensisque litigii
+positam. Unde et Petronius in Euscion ait Cerberus forensis erat
+causidicus
+
+IX*
+Fulgentius in expositione sermonum antiquorum 42 p. 565
+Merceri: Ferculum dicitur missum carnium. Unde et Petronius Arbiter ait
+postquam ferculum allatum est
+
+X*
+Fuigentius ibidem 46 p. 565: Valgia vero sunt labellorum
+obtortiones in supinatione factae. Sicut et Petronius ait obtorto valgiter
+labello
+
+XI*
+Fulgentius ibidem 52 p. 566: Alucinare dicitur vana somniari,
+tractum ab alucitis, quos nos conopes dicimus. Sicut Petronius Arbiter ait
+nam contubernalem alucitae molestabant
+
+XII*
+Fulgentius ibidem 60 p. 567: Manubiae dicuntur ornamenta
+regum. Unde et Petronius Arbiter ait tot regum manubiae penes fugitivum
+repertae
+
+XIII*
+Fulgentius ibidem 61 p. 567: Aumatium dicitur locum secretum
+publicum sicut in theatris aut in circo. Unde et Petronius Arbiter ait in
+aumatium memet ipsum conieci
+
+XIV
+Isidorus originum V 26, 7: Dolus est mentis calliditas ab eo
+quod deludat: aliud enim agit, aliud simulat. Petronius aliter existimat dicens
+quid est, iudices, dolus? Nimirum ubi aliquid factum est quod legi dolet.
+Habetis dolum: accipite nunc malum
+
+XV
+Glossarium S. Dionysii: Petaurus genus ludi. Petronius
+petauroque iubente modo superior.
+
+XVI
+Petronius satis constaret eos nisi inclinatos non solere transire cryptam
+Neapolitanamex glossario S. Dionysii.
+
+XVII*Wrongly attributed to Petronius by Pithoeus through
+misunderstanding a marginal note of Scaliger.
+In alio glossario:
+Suppes suppumpis, hoc est supinis pedibus.
+Tullia, media vel regia.
+XVIII*
+Nicotaus Perottus Cornu copiae p. 200, 26 <hi rend="italics"
+>editionis Aldinae anni 1513: Cosmus etiam excellens unguentarius fuit, a
+quo unguenta dicta sunt Cosmiana. idem luvenalis 8, 86
+Cet Cosmi toto mergatur aheno. Petronius affer nobis,
+inquit, alabastrum Cosmiani
+
+XIX
+Terentianus Maurus de metris:
+Horatium videmus
+versus tenoris huius
+nusquam locasse iuges,
+at Arbiter disertus
+libris suis frequentat.
+Agnoscere haec potestis,
+cantare quae solemus:
+“Memphitides puellae
+sacris deum paratae.
+Tinctus colore noctis
+manu puer loquaci”
+Marius Victorinus III 17 (in Keilii grammaticis VIp. 138):
+Huius tenoris ac formae quosdam, versus poetas lyricos carminibus suis indidisse
+cognovimus, ut et apud Arbitrum invenimus, cuius exemplum
+“Memphitides puellae
+sacris deum paratae.”
+“Tinctus colore noctis
+Aegyptias choreas”
+XX
+Terentianus Maurus de metris:
+Nunc divisio, quam loquemur, edet
+metrum, quo memorant Anacreonta
+dulces composuisse cantilenas.
+Hoc Petronius invenitur usus,
+Musis cum lyricum refert eundem
+consonantia verba cantitasse,
+et plures alii. Sed iste versus
+quali compositus tome sit, edam.
+Iuverunt segetes meum laborem.
+Iuverunt caput est id hexametri—
+quod restat segetes meum laborem,
+tale est ceu “triplici vides ut ortu
+Triviae rotetur ignis
+volucrique Phoebus axe
+rapidum pererret orbem”
+XXI
+Diomedes in arte IIIp. 518 Keilii: Et illud hinc est comma
+quod Arbiter fecit tale
+
+“Anus recocta vino
+trementibus labellis”
+XXII
+Servius in artem Donati p. 432,22 Keilii: Item Quirites dicit
+numero tantum plurali. Sed legimus apud Horatium hunc Quiritem, ut sit nominativus
+hic Quiris. Item idem Horatius quis te
+Quiritem? cuius nominativus erit hic Quirites, ut dicit Petronius
+
+Pompeius in commento artis Donatip. 167,9 K: Nemo dicit
+hic Quirites sed hi Quirites, licet legerimus hoc.
+Legite in Petronio, et invenietis de nominativo singulari hoc factum. Et ait
+Petronius hic Quirites
+
+XXIII
+grammaticus de dubiis nominibus p. 578,23 <hi rend="italics"
+>K: Fretum generis neutri et pluraliter freta, ut Petronius freta
+Nereidum
+
+XXIV*
+Hieronymus in epistula ad
+Demetriadem CXXX p. 995 Vallarsii: Cincinnatulos
+pueros et calamistratos et peregrini muris olentes pelliculas, de quibus illud
+Arbitri est
+Non bene olet qui bene semper olet,
+quasi quasdam pestes et venena pudicitiae virgo devitet
+
+XXV*
+Fulgentius mythologiarum II 6 p. 80 de Prometheo: Quamvis
+Nicagoras  quod vulturi iecur praebeat, livoris quasi pingat imaginem. Unde et
+Petronius Arbiter ait
+“qui voltur iecur intimum pererrat
+et pectus trahit intimasque fibras,
+non est quem lepidi vocant poetae,
+sed cordis mala, livor atque luxus”
+
