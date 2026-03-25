@@ -1,0 +1,53 @@
+# ID: histcorp-latin-perseus-phi0474.phi031.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: In Defense of Titus Annius Milo 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Curtis Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 423
+# sentences: 65
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO T. ANNIO MILONE ORATIO
+etsi vereor, iudices, ne turpe sit pro fortissimo viro dicere incipientem
+timere minimeque deceat, cum T. Annius ipse magis de rei publicae salute quam de sua
+perturbetur, me ad eius causam
+parem animi magnitudinem adferre non posse, tamen haec novi iudici nova forma terret
+oculos qui, quocumque inciderunt, veteremveterem <foreign
+xml:lang="grc">SBHd:
+om. ET, Quintil. xi. 3. 50 consuetudinem fori
+et pristinum morem iudiciorum requirunt. non enim corona consessus vester
+cinctus est, ut solebat; non usitata frequentia stipati sumus; sed etiam gloriam per talis viros infringendam. est, cum sua manu sororem esse interfectam fateretur. ea nos utamur pro salute bonorum contra amentiam perditorum. oppressa sunt, rem publicam tamen volnerarunt. interitus quaerendam, non interitum putavit. certe nulla. quid ita? populus uteretur, sed ubi impune sui posteri latrocinarentur! ianua se ac parietibus, non iure legum iudiciorumque texit. servasset, quis tandem de interitu meo quaestionem tulisset? salutarem, tam mansuetum civem desiderant. pertinere arbitraretur, non potuit legere non studiosos mei. adulescentia documenta maxima. quadriduo esse periturum; quam vocem eius ad hunc M. facinoris locum tempusque voluisset, numquam reliquisset. ac delicato ancillarum puerorumque comitatu. re facere voluisset. modo igitur nihil prodest sed obest etiam Clodi mors Miloni. quam etiam iustum fuisse? in me; nuper quidem, ut scitis, me ad regiam paene confecit. >H quid fecerit? rend="italics">om. H potuit? >cett. P. Clodi, C. Clodius. ne suspicari quidem potuerim, videar id cogitasse. xml:lang="grc">S Etruria. nocturnum fuisse metuendum. domini vita expetiverunt. cur igitur eos manu misit? servo accusatoris cum quaeritur, verum inveniri potest? imperitorum? negabant eum Romam esse rediturum. H suspicantur! >d. >Wolff. >d, quod nunc etiam facit. libere iudicare. >contra B)' >cett. nec tantam. HETa habere potuissent? ceteros, lugere eum solum propter quem ceteri laetarentur? vicisset habiturus esset impunitatem et licentiam sempiternam. rend="italics">ab1 damnata. meo casu contempserat: Milo unus urgebat. rend="italics">cett. fide. tetigero bene moratam et liberam civitatem, in ea conquiescam. >om. cett. ablaturum esse dicit. etiam in caelum homines viderentur ascendere. exitio occasura esse videatis. quo deprecante? me. 

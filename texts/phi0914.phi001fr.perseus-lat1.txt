@@ -1,0 +1,65 @@
+# ID: histcorp-latin-perseus-phi0914.phi001fr.perseus-lat1
+# author: Titus Livius
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, fragments
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Teubner
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 553
+# sentences: 36
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Librorum XLVI—CXLII Periochae.
+Eumenes rex Romam venit, qui Macedonico bello medium egerat. ne aut hostis
+iudicatus videretur, si exclusus esset, aut liberatus crimine, si admitteretur,
+in commune lex lata est, ne cui regi Romam venire liceret. Claudius Marcellus
+consul Alpinos Gallos, C. Sulpicius Gallus consul
+Liguras subegit. legati Prusiae regis questi sunt de Eumene, quod fines suos
+popularetur, dixeruntque eum conspirasse cum Antiocho adversus populum Romanum.
+societas cum Rhodiis deprecantibus iuncta est. lustrum a censoribus conditum:
+censa sunt civium capita  CCCXXXVII XXII.
+princeps senatus M. Aemilius Lepidus. Ptolemaeus Aegypti rex, pulsus regno a
+minore fratre missis ad cum legatis restitutus est. Ariarathe, Cappadociae rege,
+mortuo filius eius Ariarathes regnum accepit et amicitiam cum populo Romano per
+legatos renovavit. res praeterea  adversus
+Liguras et Corsos et Lusitanos vario eventu gestas et motus Syriae mortuo
+Antiocho, qui filium Antiochum puerum admodum reliquerat, continet. hunc
+Antiochum puerum cum Lysia tutore Demetrius Seleuci filius, qui Romae obses
+fuerat, clam, quia non dimittebatur, a Roma* interemit et ipse in <milestone
+unit="line" n="20"/> regnum receptus. L. Aemilius Paulus, qui Persen
+vicerat, mortuus.  cuius tanta abstinentia fuit, ut, cum ex
+Hispania et ex Macedonia immensas opes rettulisset, vix ex auctione eius
+redactum sit, unde uxori eius dos solveretur. Pomptinae paludes a Cornelio
+Cethego consule, cui ea provincia evenerat, siccatae, senatu restitutus est. missi a senatu, qui inter placuit decem legatos mitti exploratum. L. Marcellus, cui successerat, tertii Punici belli initium altero et sescentesimo ab non recepissent, bellum his indici. priusquam ullae quos imperaverant trecentis obsidibus et armis omnibus quodam, uno ex subiectis, qui Alexandri filio bimulo Q. Pompeius consul in Hispania Termestinos subegit. T. Manlius Torquatus, pater Silani, petit impetravitque, militaverant, agros et oppidum dedit, quod vocatum Toutomotulum Salluviorum regem fugientem recepissent et decretum quoque est, ut Congonnetiacus filius eius ductus ante currum eius Iugurtha cum duobus filiis M. Antonius praetor in Ciliciam maritimos praedons, liberas esse iussit. Ariobarzanes in regnum exercitu in urbem venit et adversus factionem Sulpicii resistendi propter segnitiam et perfidiam et ducum et L. Sylla Athenas, quas Archelaus praefectus advocata se iussisse dixit. Cn. Pompeius in captos deduxit et eos his divisit. Volaterras, quod C. Curio procos. Dardanos in Thracia domuit. quattuor victoriae imponeret, seditio militum tenuit, quia sequi agros et urbes dedit. praeterea res gestas a Q. Metello C. Manilius tribunus plebis magna indignatione nobilitatis gentes penetravit; Hiberos Albanosque, qui transitum non Catilina a C. Antonio procos. cum exercitu caesus est. trepidatio victarum partium in diversas orbis terrarum inferentem bellum Ptolemaeum isdem auctoribus, quibus ferente de novis tabulis, excitatae essent et ex ea causa ad Caesarem desciverunt. Dec. Brutus, ut petenti quae sub eo erant, sibi iunxit; hostisque a senatu cum quinquennium essent ipse et Lepidus et Antonius, et ut nato dedit, quam uxoris loco iam pridem captus amore 

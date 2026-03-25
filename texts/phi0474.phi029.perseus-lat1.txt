@@ -1,0 +1,49 @@
+# ID: histcorp-latin-perseus-phi0474.phi029.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: In Defense of Marcus Aemilius Scaurus 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 224
+# sentences: 41
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO M. SCAVRO ORATIO
+maxime fuit optandum M. Scauro, iudices, ut nullo suscepto cuiusquam odio
+sine offensione ac molestia retineret, id quod praecipue semper studuit, generis,
+familiae, nominis dignitatemmaxime ... retineret <hi rend="italics"
+>August.: id quod ... dignitatem Arusian.: <hi
+rend="italics">conexuit Beier. >corr. ed. Iunt. plebis est. prius illum sepultum quam huic cenam esse sublatam. suppl. Beier. Cum dare nollet Aris, clam ex Sardinia est fugere conatus. rend="italics">suppl. Peyron. et mori quam id perpeti maluisse. fuit quaerenda, illi quae volebat mori non fuit. >A: suppl. Heinrich. rend="italics">A considerabo. disputando ignoti hominis impudentiam confutare? atque pugnandum; tota est acies illa uno impetu prosternenda. constituta, nullam accusationis partem pertimescam. rend="italics">om. A putavi. casas aratorum, a stiva ipsa homines mecum conloquebantur. gratia T arbitrabatur; dedecus vero certe numquam attulerunt. Ascon., fratris sui, competitorem fore putasset. animum tam facile potuisse sanari? pollicentem. de quo plura iam non dicam. >Beier: int A. hoc nomine audito quod per omnis gentis pervagatum est. subvenissent. Capitolium illud templis tribus inlustratum, 

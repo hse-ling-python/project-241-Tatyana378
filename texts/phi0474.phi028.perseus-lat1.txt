@@ -1,0 +1,52 @@
+# ID: histcorp-latin-perseus-phi0474.phi028.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: In Defense of Cnaeus Plancius 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 491
+# sentences: 70
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO CN. PLANCIO ORATIO
+Cum propter egregiam et singularem Cn. Planci, iudices, in mea salute custodienda
+fidem tam multos et bonos viros eius honori viderem esse fautores, capiebam animo
+non mediocrem voluptatem quod, cuius officium mihi saluti fuisset, ei meorum
+temporum memoriam suffragari videbam. Cum autem audirem meos partim inimicos, partim
+invidos huic accusationi esse fautores, eandemque rem adversariam esse in iudicio
+Cn. Plancio quae in petitione fuisset adiutrix, dolebam, iudices, et acerbe ferebam,
+si huius salus ob eam ipsam causam esset infestior quod is meam salutem atque vitam
+sua benivolentia praesidio custodiaque texisset. accusatores plura paene quam de re reoque dixerunt. rend="italics">cf. § 13) deducit. proprium laudis tuae quin id tibi sit commune cum Plancio. ulla contumelia coner attingere. non tibi id rescindendum est sed ferendum. consequare, condiscas censeo mihi paulo diligentius supplicare.' requiramus cett.? cett. veniamus. habemus hoc nos, habent nostra municipia. tanta quanta in hominibus iam saturatis honoribus esse potuerunt. moventur. valuit causa rogandi, non gratia. non huius in me misericordia grata fuerit. attrectatur; procul apparet, non excutitur, non in manus sumitur. rend="italics">om. Schol. dicta commemorem? plorando non sit concessa libertas. praetermitteret, hoc tamen unum praetereundum putarit. coniuncta tribus ederetur, vix recusandum. acerbitatem, remota ratione illa quam in decernendo secuti sumus? reiecisti, in tenebris quam in luce causam versari maluisti. exoptandum fuisse videatis. sunt, sed ne voltus quidem ferre possemus. poposceris redditurum. testimonium, non beneficium ambitioni dedit. praeterierint, aut te ne gratuita quidem eorum suffragia tulisse. rend="italics">cett. laudem excitaret? natus, sed haec pari loco orti sunt innumerabiles alii consecuti. om. cett.. optimis et ornatissimis civibus est futurum? geruntur ut vix ea quae fiunt in provinciis audiantur. 'etiam me hercule,' inquit, 'ut opinor, ex Africa.' >cett. feci qui ad aquas venissent. minima invidia novi homines plurimi sunt eosdem honores consecuti. nec Q. Metelli cett. Calidius. dicere. rend="italics">cett. non esse appetitam. quod permagnum est alieno debere idem quod parenti. rend="italics">cett.? et quid a me cuiusque tempus poscat. quam Cn. Planci salutem tradidero contentioni tuae. cett. disputare? locupletis, perditi in bonos, servi in dominos armabantur. >cett. videbam. idem perditor rei publicae nominarer qui servator fuissem? neque te neque quemquam diutius patiar errare. deligere partem ad quam nos illius utilitas salusque converterit. >cett., sed hominibus amicum aut inimicum fuisse. praecludebat hiemis magnitudo. tu in meis acerbitatibus plurimas effudisti. huic saepe promisi, id a vobis ei persolvere. 

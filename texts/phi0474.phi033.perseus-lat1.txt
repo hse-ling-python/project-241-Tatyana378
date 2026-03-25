@@ -1,0 +1,64 @@
+# ID: histcorp-latin-perseus-phi0474.phi033.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: In Defense of Quintus Ligarius 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Curtis Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 298
+# sentences: 32
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO Q. LIGARIO ORATIO
+novum crimen, C. Caesar, et ante hunchanc <hi rend="italics"
+>Quintil. xi. 3. 108, 110 diem non auditumnon auditum <hi
+rend="italics">aBDL et Quintil.: in
+auditum Eg et Aquila Rom.
+Rhet. L. p. 24 propinquus meus ad te Q. Tubero detulit, Q.
+Ligarium in Africa fuisse, idque C. Pansa, praestanti vir ingenio, fretus fortasse
+familiaritate ea quae est ei tecum ausus est confiteri. itaque quo me
+vertam nescio. paratus enim veneram, cum tu id neque per te
+sciresscires ba:
+scire ahm neque
+audire aliunde potuisses, ut ignoratione tua ad hominis miseri salutem
+abutererabuterer
+mallem uterer (numeri gratia)
+sed vulg tuetur Quintil.. sed
+quoniam diligentia inimici investigatum est quod latebat, confitendum est,
+opinoropinor a: ut opinor <foreign
+xml:lang="grc">bg, praesertim cum meus necessarius Pansa
+fecerit ut id integrum iam non esset, omissaque controversia omnis oratio ad
+misericordiam tuam conferenda est, qua plurimi sunt conservati, cum a te non
+liberationem culpae, sed errati veniam impetravissent. fides. Tertium tempus quod post adventum Vari in Africa restitit, m) populus Romanus exaudiat. quid optabas? nimis urgeo; commoveri videtur adulescens. omnia b. >a conveniret? occiderit nemo nisi armatus? fuit: Varus imperium se habere dicebat; fascis certe habebat. >bhm. >ah summa cum iniuria. >bg. possit bg depellere. anteponas illi victoriae. xml:lang="grc">ag. eorum studiis qui a te pro Ligario petunt tui necessarii. si penitus perspicere posses concordiam Ligariorum, esset eorum similis quos tu tamen salvos esse voluisti. quibusdam quaestoribus reminiscentem recordari. 

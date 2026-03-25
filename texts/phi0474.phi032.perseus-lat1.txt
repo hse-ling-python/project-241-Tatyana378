@@ -1,0 +1,118 @@
+# ID: histcorp-latin-perseus-phi0474.phi032.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: On Behalf of Marcus Claudius Marcellus 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Curtis Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 689
+# sentences: 58
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO M. MARCELLO ORATIO
+diuturni silenti, patres conscripti, quo eram his temporibus usus, non
+timore aliquo, sed partim dolore, partim verecundia, finem hodiernus dies attulit,
+idemque initium quae vellem quaeque sentirem meo pristino more dicendi.
+tantam enim mansuetudinem, tam inusitataminvisitatam <hi
+rend="italics">Eberhard inauditamque clementiam, tantum in summa
+potestate rerum omnium modum, tam denique incredibilem sapientiam ac paene divinam
+tacitus praeterire nullo modonullo modo praet. <foreign xml:lang="grc"
+>b possum. M. enim
+Marcello vobis, patres conscripti, reique publicae reddito non illius
+solum sed etiam
+meammeam hoc loco hab. HBDE, post vocem <hi
+rend="italics">Lg, om. AV
+vocem et auctoritatem vobis etet vobis <foreign xml:lang="grc"
+>b rei publicae conservatamconservatam ac <hi
+rend="italics">om.
+a ac restitutam puto.
+dolebam enim, patres conscripti, et vehementer angebar, cum
+videremcum viderem g: <hi rend="italics"
+>om. ab cum <hi rend="italics"
+>BDL: qui cum a: qui <hi
+rend="italics">Eg virum talem,
+cum in eadem causa in qua ego fuissetfuisset <foreign xml:lang="grc"
+>a: fuisse h: fuissem <hi rend="italics"
+>Bam, non in eadem esse fortuna, nec mihi persuadere poteram nec
+fas esse ducebam versari me in nostro veterevetere <hi rend="italics"
+>Vg: veteri <hi rend="italics"
+>Hb: om.
+A curriculo illo aemulo atque imitatore studiorum ac laborum
+meorum quasi quodam socio a me et comite distracto. ergo et mihi
+meaeet mihi meae k, ed. Cratand.: mihi et meae <hi
+rend="italics">L: et mihi et meae cett.
+pristinae vitae consuetudinem, C. Caesar, interclusam aperuisti et his omnibus ad
+bene de re publicade re p. a: de omni re p.
+bg sperandum quasi signum aliquod
+sustulisti. intellectum est enim mihi
+quidem in multis et maxime in me ipso, sed paulo ante omnibusomnibus <hi
+rend="italics">Victorius: in omnibus <hi rend="italics"
+>codd., cum M. Marcellum senatui reique publicae concessisti,
+commemoratis praesertim offensionibus, te auctoritatem huius ordinis dignitatemque
+rei publicae tuis vel doloribus vel suspicionibus anteferre. ille quidem
+fructum omnis ante actae vitaevitae om.
+s: aetatis h
+hodierno die maximum cepit, cum summo consensu senatus tumtum praeterea
+g iudicio tuo gravissimo et maximo.
+ex quo profecto intellegis quanta in dato beneficio sit laus, cum in
+accepto sit tanta gloria. estes
+H vero fortunatusfortun. <hi
+rend="italics">ahm: fortun. ille <hi
+rend="italics">ba cuius ex
+salute non minor paene ad omnis quam ad illumipsum <hi rend="italics"
+>Ernesti ventura sit laetitia pervenerit: quod quidem
+meritomerito a: ei merito <foreign
+xml:lang="grc">bg atque optimo iure contigit.
+quis enim est illo aut nobilitate aut probitate aut optimarum artium
+studio aut innocentia aut ullo inin a: <hi
+rend="italics">om.
+bg laudis genere praestantior?
+nullius tantum flumen est ingeni, nullanulla <hi rend="italics"
+>ahm: nulli <hi rend="italics"
+>DELa: nullius R. Klotz dicendi aut
+scribendi tanta vis, tantaquetantaque a:
+tanta bg copia quae non dicam exornare,
+sed enarrare, C. Caesar, res tuas gestas possit. tamen hoc adfirmo
+et pace dicam
+tua, nullam in his esse laudem ampliorem quam eam quam hodierno die consecutus es.
+Soleo saepe ante oculos ponere idque libenter
+crebris usurpare sermonibus, omnis nostrorum imperatorum, omnis exterarum gentium
+potentissimorumque populorum, omnis regum clarissimorumclariss. regum <foreign
+xml:lang="grc">b res gestas cum tuis nec contentionum
+magnitudine nec numero proeliorum nec varietate regionum nec celeritate conficiendi
+nec dissimilitudine bellorum posse conferri, nec vero disiunctissimas terras citius
+passibus cuiusquam potuisse peragrari quam tuis non dicam cursibus, sed victoriis
+lustrataelustratae b: illustratae
+ag sunt. casus admittitur. prudens et sciens tamquam ad interitum ruerem voluntarium. vincere. nimis iracundam futuram fuisse victoriam. quibus praeter te mederi nemo potest. avidissimum, quamvis sis sapiens, non negabis. hominum fama meritorum. et corporum pollicemur. xml:lang="grc">bg salute sentio. 

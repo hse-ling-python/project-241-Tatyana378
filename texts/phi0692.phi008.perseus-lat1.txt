@@ -1,0 +1,91 @@
+# ID: histcorp-latin-perseus-phi0692.phi008.perseus-lat1
+# author: 
+# pseudonym: 
+# translator: 
+# title: Appendix Vergiliana
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 334
+# sentences: 21
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Priapea
+vere rosa, autumno pomis, aestate frequentor
+spicis: una mihi est horrida pestis hiemps.
+nam frigus metuo, et uereor ne ligneus ignem
+hic deus ignaris praebeat agricolis.
+Ego haec, ego arte fabricata rustica,
+ego arida, o uiator, ecce populus,
+agellulum hunc sinistra et ante quem uides,
+erique uillulam hortulumque pauperis
+tuor malaque furis arceo manu. 
+mihi corolla picta uere ponitur,
+mihi rubens arista sole feruido,
+mihi uirente dulcis uua pampino,
+mihi caduca oliua, cocta frigore.
+meis capella delicata pascuis 
+in urbem adulta lacte portat ubera,
+meisque pinguis agnus ex ouilibus
+grauem domum remittit aere dexteram.
+teneraque matre mugiente uaccula
+deum profundit ante templa sanguinem. 
+proin, uiator, hunc deum uereberis
+manumque sursum habebis: hoc tibi expedit,
+parata namque trux stat ecce mentula.
+'uelim pol' inquis. at pol ecce uilicus
+uenit, ualente cui reuulsa bracchio 
+fit ista mentula apta claua dexterae.
+Hunc ego, o iuuenes, locum uillulamque palustrem,
+tectam uimine iunceo caricisque maniplis,
+quercus arida rustica &dagger;formitata securi,
+nutrior, magis ut magis sit beata quotannis.
+huius nam domini colunt me deumque salutant 
+pauperis tuguri pater filiusque adulescens,
+alter assidua colens diligentia ut herbae,
+aspera ut rubus a meo sit remota sacello,
+alter parua manu ferens semper munera larga.
+florido mihi ponitur picta uere corolla, 
+primitus tenera uirens spica mollis arista,
+luteae uiolae mihi lacteumque papauer,
+pallentesque cucurbitae et suaue olentia mala,
+uua pampinea rubens educata sub umbra.
+sanguine hanc etiam mihi&mdash;sed tacebitis&mdash;aram 
+barbatus linit hirculus cornipesque capella.
+pro quis omnia honoribus &dagger;hoc necesse Priapo est
+praestare et domini hortulum uineamque tueri.
+quare hinc, o pueri, malas abstinete rapinas.
+uicinus prope diues est neglegensque Priapus. 
+inde sumite, semita haec deinde uos feret ipsa.
+

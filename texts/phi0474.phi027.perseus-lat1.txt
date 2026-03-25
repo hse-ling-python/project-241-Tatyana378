@@ -1,0 +1,61 @@
+# ID: histcorp-latin-perseus-phi0474.phi027.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: Against Lucius Calpurnius Piso 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 461
+# sentences: 61
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+IN L. CALPVRNIVM PISONEM ORATIO
+FRAGMENTA
+pro di inmortales! qui hic inluxit dies mihi quidem, patres
+conscripti, peroptatus, ut hoc portentum huius loci, monstrum urbis, prodigium
+civitatis viderem! 
+
+equidem nihil malui; vos fortasse consumptum istum cruciatu aut
+demersum fluctibus audire malletis. 
+
+perturbatio istum mentis et quaedam scelerum offusa caligo et ardentes
+Furiarum faces excitaverunt. 
+
+quem enim iste in scopulum non incidit, quod in telum non inruit?
+quid est negare ausus aut potius quid non confessus? <milestone
+n="fr6" unit="section"/>
+
+quid enim illo inertius, quid sordidius, quid nequius, quid
+enervatius, quid stultius, quid abstrusius? turbulenti, seditiosi, factiosi, perniciosi. Placentinus haberi coeptus est. appellatum. homini levi et subito filiam conlocavit. maiorem sibi Insuber ille avus adoptavit. Cum tibi tota cognatio serraco advehatur. simulata ista, ficta, fucata sunt omnia. video tenebris occultantem libidines suas. putavi gravem, unit="section"/> video adulterum, video ganeonem. imaginum, quarum simile habes nihil praeter colorem. tabella quam voce priorem consulem declaravit. gesserimus consulatum quam quem ad modum ceperimus. publicam provinciae praemio vendidisti? Romani occasum atque interitum rei publicae lugere vetuisti. advocato aut adstipulatore paratiorem fore putaret. abstulisti. consules quisquam existimabit? qui latrones igitur, species, fuit incessus saltem Seplasia dignus et Capua. scelerum tela revellente revocarant. faces furiis Clodianis paene ipse consul ministrabas. civitas tuo et Gabini sceleri furorique cessisset? Pompeium interimendum conlocatum fuisse constabat. tristissimis ut hostes aut proditores prosequebantur. mihi fuisse illam expetendamque fortunam. sponte fecistis. sed quantum tua libido conscripserat; aerarium exhauseras. imperator. audeat?—a senatu supplicationem per litteras postulare. foedissimae turpitudinis notas subieritis? odium, nota inusta senatus, amissio dignitatis. recordatione denique ipsa consulatus vestri perhorrescat. sed ut mortuus infamis referri videretur? ceterorum sed tuorum legatorum obviam venit? imperio praeditus ex Macedonia non triumphares. petere, ut non praetexat cupiditatem triumphi. referre ad voluptatem corporis possis. illum iam escendentem in currum revocare possis. tu appellas, praeclara duxerunt. revixisse putat; mensam tolli iubet. acriter intellegenti et saepe praeceps. tamen, tumultum paci atque otio concessurum. redundantem Germanorum immanissimis gentibus obicio et oppono; nisi eius a quo missus eras simillimus exstitisses. tuis publicanis a te factam esse meministi? quid? Baebius, vir fortis, interfectus iussu tuo? cognoscere. qui ita iudicarant pari scelere obstrictos arbitraretur? depeculatorem, vexatorem, praedonem, hostem venisse senserunt. nemini committere audeat, qui se ipse condemnet? 

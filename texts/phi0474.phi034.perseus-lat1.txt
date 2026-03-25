@@ -1,0 +1,55 @@
+# ID: histcorp-latin-perseus-phi0474.phi034.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: On Behalf of King Deiotarus 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Curtis Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 298
+# sentences: 33
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO REGE DEIOTARO AD C. CAESAREM ORATIO
+cum in omnibus causis gravioribus, C. Caesar, initio dicendi commoveri
+soleam vehementius quam videtur vel usus vel aetas mea postulare, tum in hac causa
+ita multa memulta me a, <hi rend="italics"
+>Prisc. K. iii. p. 369: me multa <foreign
+xml:lang="grc">bg perturbant ut, quantum mea fides studi
+mihi adferat ad salutem regis Deiotari defendendam, tantum facultatis timor
+detrahat. primum dico pro capite fortunisque regisregis Deiotari
+g, quod ipsum, etsietsi
+aba: si gh
+non iniquum est in tuo dumtaxat periculo, tamen est ita inusitatum, regem reum
+capitis esse, ut ante hoc tempus non sit auditum. Deiotaro, quam intellego quid de te ceteros velis iudicare. impetum dicendi contentionemque leviora. causam non sine aliqua spe et cogitatione venerunt. amicum et placatum Deiotari regis arae focique viderunt. alienigena quibus nos in media re publica nati semperque versati. Caesar, ut eum amplissimo regis honore et nomine adfeceris. perfecto sed etiam cogitato? multum res abhorrebat. quid ait medicus? servavit: negavisti tum te inspicere velle.' potest cur te lautum voluerit, cenatum noluerit occidere? rend="italics">H? maiores copias alere poterat; nunc exiguas vix tueri potest. b aciem praesto fuit. saltavit? esse contenti? corruptum, tuis promissis in fraudem impulsum esse confessus est? >BE nostrae civitatis humanitatem inquinares? eo praetermissus quia nihil volgare te dignum videri potest. est, nec umquam succumbet inimicis, ne fortunae quidem. modo ad bene sed etiam ad beate vivendum contentam esse virtutem. xml:lang="grc">b clementiae tuae. bene sperare non frustra esse iussum. victore timuerunt, 

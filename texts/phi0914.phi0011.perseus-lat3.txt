@@ -1,0 +1,45 @@
+# ID: histcorp-latin-perseus-phi0914.phi0011.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 1-5 - 1
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Charles Flamstead Walters
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 970
+# sentences: 120
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+facturusne operae pretium sim si a primordio urbis res populi Romani
+perscripserim nec satis scio nec, si sciam, dicere ausim, ac magnitudine eorum me qui nomini officient meo consoler. traduntur, ea nec adfirmare nec refellere in animo est. humanae patiantur aequo animo quam imperium patiuntur. uitia nostra nec remedia pati possumus peruentum est. Latinum pacem cum Aenea, deinde adfinitatem iunxisse tradunt: domo quidue quaerentes in agrum Laurentinum exissent, uel paci paratum, dextra data fidem futurae amicitiae sanxisse. ratus, haud grauatim socia arma Rutulis iunxit. uerecundia aetatis: pulso fratre Amulius regnat. urbis maximique secundum deorum opes imperii principium. deinde, quicumque alius transiliet moenia mea,' interfectum. reficeret boues et ipsum fessum uia procubuisse. ampliorem augustioremque humana intuens rogitat qui uir esset. creato rege singulos singuli populi lictores dederint. idque primum ad coeptam magnitudinem roboris fuit. concelebrant ut rem claram exspectatamque facerent. ipsum nomen Caeninum in agrum Romanum impetum facit. fusum persequitur: regem in proelio obtruncat et spoliat: est, a parentibus maxime ac propinquis raptarum. caelesti uoce iussi: ipse ad primores Romulus prouolat. uiuemus.' mouet res cum multitudinem tum duces; uirorumue an sorte lectae sint, quae nomina curiis darent. uisi erant circumagerent frenis equos, terga uertunt; non condendae urbis consilium, non bello ac pace firmandae. traditur, quamuis magnae rei auctor in contionem prodit. peruenerat: factionibus inter ordines certabatur†. nisi regem et ab ipsis creatum uidebantur passuri. quisquam esse aetate poterat, omnis diuini atque humani iuris. unus per tot gentes dissonas sermone moribusque peruenisset? meridiem partes, laeuas ad septentrionem esse dixit; nobis certa adclarassis inter eos fines quos feci.' uirginitate aliisque caerimoniis uenerabiles ac sanctas fecit. fierent, atque unde in eos sumptus pecunia erogaretur. neglegendo patrios ritus peregrinosque adsciscendo turbaretur; fidem tutandam sedemque eius etiam in dexteris sacratam esse. Sabinos fuerat, regem populus iussit; patres auctores facti. Albano agro, Albani ex Romano praedas in uicem agerent. negaturum Albanum; ita pie bellum indici posse. repetitum se uenisse; ni reddantur bellum indicere iussos. stabant, cum paucis procerum in medium duces procedunt. Romanos Horatios uocent; hos ut sequar inclinat animus. longo effata carmine non operae est referre, peragit. suspensique in minime gratum spectaculum animo incenduntur. procul aberat—consequi posset, et alterum Curiatium conficit; usurum se eorum opera si bellum cum Ueientibus foret. itaque gladio simul uerbis increpans transfigit puellam. inquit. itaque prouocatione certatum ad populum est. cum egregia stirpe conspexissent orbum liberis facerent. decora eum a tanta foeditate supplicii uindicent?' populos, suis per speciem societatis proditionem reseruat. ergo nec transire aperte ausus sensim ad montes succedit; re trepida duodecim uouit Salios fanaque Pallori ac Pauori. iungere iubet; sacrificium lustrale in diem posterum parat. res est, sic nunc in unum redeat.' ad haec Albana pubes, iniuriae factae ac res nequiquam erant repetitae. populi Albani auctam, circumspicere et ipsi externa auxilia. inferrent, occupat Tullus in agrum Sabinum transire. fortunae, ut fit, obirati cultum reliquerant deum. ferret et non minus tribus puberibus praesentibus diceret: eius fuit Romanis ne hostium semper receptaculum esset. exercitus Latinus comminus cum Romanis signa contulerat. sublicio, tum primum in Tiberi facto, coniungi urbi placuit. superpositum capiti decus ut diuinitus eidem redderet. Numam ignarum urbis, non petentem, in regnum ultro accitum: ut mille et octingenti equites in tribus centuriis essent. Sabino perfecto Tarquinius triumphans Romam redit. patrum seu plebis animos periclitaretur, Romam rediit. corporis essent: tela in hostem hastaque et gladius. stipendia facerent; datum munus ut machinas in bello ferrent. uiginti milium, totidem centuriae factae, arma mutata: distributi; undecim milibus haec classis censebatur. equitum ex primoribus ciuitatis duodecim scripsit centurias; aggere et fossis et muro circumdat urbem; ita pomerium profert. sororem, quod uirum nacta muliebri cessaret audacia. pollicendo tum regis criminibus omnibus locis crescere. non auctoribus patribus, muliebri dono regnum occupasse. inquit, 'Tarquini, rei est? qua tu audacia me uiuo per gradus deiecit; inde ad cogendum senatum in curiam rediit. qui missi ab Tarquinio fugientem consecuti erant interficitur. se exemplum capi posse, armatis corpus circumsaepsit; neque populi iussu neque auctoribus patribus regnaret. modo cum primoribus eorum sed adfinitates quoque iungebat. confestim Latinorum concilium magno cum tumultu aduocatur. simuletur, et per occasionem eum incautos inuasurum. ciuibus esse quam ferre ne liberi quidem potuissent. Tarquinius potentior Romae quam filius Gabiis esset. exaedificare manibus suis quam postquam et ad alia, tempestate terras, ignotiora maria in Graeciam misit. Apollini dicitur, per ambages effigiem ingenii sui. redisset, matri osculum daret, sorti permittunt. seruili tam diu habitos opere ab rege indignabantur. parum processit, obsidione munitionibusque coepti premi hostes. liberi commeatus erant, primoribus tamen magis quam militibus; uxoribus mentio. suam quisque laudare miris modis; inscio Collatino cum comite uno Collatiam uenit. ita facto maturatoque opus esse; rem atrocem incidisse. peccare, non corpus, et unde consilium afuerit culpam abesse. inde ad expugnandum regnum uocantem sequuntur ducem. miraculo, ut fit, rei nouae atque indignitate homines. magistratu forte Brutus erat, populum aduocauit. itineribus, Brutus Ardeam, Tarquinius Romam uenerunt. 

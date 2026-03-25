@@ -1,0 +1,65 @@
+# ID: histcorp-latin-perseus-phi0474.phi030.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: In Defense of Caius Rabirius Postumus 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 487
+# sentences: 35
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO C. RABIRIO POSTVMO ORATIO
+si quis est, iudices, qui C. Rabirium, quod fortunas suas, fundatas
+praesertim atque optime constitutas opes, potestati regiae libidinique commiserit,
+reprehendendum putet, ascribat ad iudicium suum non modo meam sed huius etiam ipsius
+qui commisit sententiam; nec enim cuiquam eius consilium vehementius quam ipsi
+displicet. quamquam hoc plerumque facimus ut consilia eventis ponderemus
+et, cui bene quid processerit, multum illum providisse, cui secus, nihil sensisse
+dicamus. si exstitisset in rege fides, nihil sapientius Postumo, quia
+fefellit rex, nihil hoc amentius dicitur, ut iam nihil esse videatur nisi divinare
+sapientis. sed tamen, si quis est,
+iudices, qui illam Postumi sive inanem spem sive inconsultam rationem sive, ut
+gravissimo verbo utar, temeritatem vituperandam putet, ego eius opinioni non
+repugno; illud tamen deprecor ut, cum ab ipsa fortuna crudelissime videat huius
+consilia esse multata, ne quid ad eas ruinas quibus hic oppressus est addendum
+acerbitatis putet. satis est homines imprudentia lapsos non erigere,
+urgere vero iacentis aut praecipitantis impellere certe est inhumanum, praesertim,
+iudices, cum sit hoc generi hominum prope natura datum ut, si qua in
+familia laus aliqua forte floruerit, hanc fere qui sint eius stirpis, quod sermone
+hominum ac memoria patrum virtutes celebrantur, cupidissime persequantur, si quidem
+non modo in gloria rei militaris Paulum Scipio ac maximus filii, sed
+etiam in devotione vitae et in ipso genere mortis imitatus est P. Decium filius.
+sint igitur similia, iudices, parva magnis. avaritiae praedam, sed instrumentum bonitati quaerere videretur. restitueretur a senatu populoque Romano. ingressus, id non exsequi usque ad extremum. inducatur sane etiam consuetudo huius generis iudiciorum nova; testium dictis aut tabulis privatorum aut rationibus civitatum. postea. quod cum fecissent, permulti saepe vicerunt. etiam ordo solutus ac liber est. credite, longius quam putatis. redeo igitur ad crimen et accusationem tuam. aspide ad corpus admota vita esse privatum. fortunas atque famam libidini regiae commisisse. abiciendae, si togam retinuisset. suas pervenire? nam ut ventum est Alexandream, maximo dedecore tam impeditis suis rebus potuisset emori. quasi praeiudicata res ad has causas deferri solet. habere. nam si me invitum putas, ne Cn. me scilicet maxime, sed proxime illum quoque fefellissem. mihi longius quicquam est, iudices, quam videre hominum voltus. tam praeposterum dici aut excogitari potest? esset tandem causae cur existimari vellet nihil habere? esse se facile possit probare. concupiverit. gloriae. sint sane illa magna, quae re vera magna sunt; id amiserit quod posse non speret recuperari. misericordia opitulari debebat invidia quaesita est. 
