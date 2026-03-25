@@ -1,0 +1,4 @@
+Flask==3.0.0
+python-slugify==8.0.1
+stanza==1.6.1
+latino==0.1.5
