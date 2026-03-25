@@ -1,0 +1,82 @@
+# ID: histcorp-latin-perseus-stoa0238.stoa009.perseus-lat2
+# author: Prudentius
+# pseudonym: 
+# translator: 
+# title: Epilogus
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: H.J. Thomson
+# publisher: Heinemann; Harvard University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 170
+# sentences: 14
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+<div xml:lang="lat"
+type="edition"
+n="urn:cts:latinLit:stoa0238.stoa009.perseus-lat2">
+Epilogus
+Inmolat Deo Patri
+pius, fidelis, innocens, pudicus
+dona conscientiae,
+quibus beata mens abundat intus.
+alter et pecuniam 
+recidit, unde victitent egeni.
+nos citos iambicos
+sacramus et rotatiles trochaeos
+sanctitatis indigi
+nec ad levamen pauperum potentes. 
+approbat tamen Deus
+pedestre carmen et benignus audit.
+multa divitis domo
+sita est per omnes angulos supellex:
+fulget aureus scyphus
+nec aere defit expolita pelvis,
+est et olla fictilis
+gravisque et ampla argentea est parapsis,
+sunt eburna quaepiam,
+nonnulla quercu sunt cavata et ulmo. 
+omne vas fit utile
+quod est ad usum congruens erilem;
+instruunt enim domum
+ut empta magno, sic parata ligno.
+me paterno in atrio 
+ut obsoletum vasculum caducis
+Christus aptat usibus
+sinitque parte in anguli manere.
+munus ecce fictile
+inimus intra regiam salutis. 
+attamen vel infimam
+Deo obsequellam praestitisse prodest.
+quidquid illud accidit,
+iuvabit ore personasse Christum. 1
+

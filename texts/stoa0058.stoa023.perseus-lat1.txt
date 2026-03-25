@@ -1,0 +1,138 @@
+# ID: histcorp-latin-perseus-stoa0058.stoa023.perseus-lat1
+# author: Boethius
+# pseudonym: 
+# translator: 
+# title: Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: H.F. Stewart
+# publisher: William Heinemann Ltd.; Harvard University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,204
+# sentences: 66
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+contra Eutychen
+Anicii Manui Severini Boethii V.C. et inl. excons. ord. pathicii
+incipit liber contra Eutychen et Nestorium domino sancto ac venerabili patri Iohanni
+diacono Boethius filius
+Anxie te quidem diuque sustinui, ut de ea quae in conuentu mota est quaestione
+loquerentur. Sed quoniam et tu quominus uenires occupatione distractus es et ego
+in crastinum constitutis negotiis  implicabor,
+mando litteris quae coram loquenda seruaueram. Meministi enim, cum in concilio
+legeretur epistola, recitatum Eutychianos ex duabus naturis Christum consistere
+confiteri, in duabus negare: catholicos uero utrique dicto fidem praebere,
+nam et ex duabus eum naturis consistere et
+in duabus apud uerae fidei sectatores aequaliter credi. Cuius dicti nouitate
+percussus harum coniunc-  tionum quae ex duabus naturis uel in
+duabus consisterent differentias inquirebam, multum scilicet referre <milestone
+unit="loebline" n="15"/> ratus nec inerti neglegentia praetereundum, quod
+episcopus scriptor epistolae tamquam ualde necessarium praeterire noluisset. Hic
+omnes apertam esse differentiam nee quicquam in eo esse caliginis inconditam
+confusumque strepere nee ullus in tanto 
+tumultu qui leuiter attingeret quaestionem, nedum qui expediret inuentus est.
+Adsederam ego ab eo quem maxime intueri cupiebam longius atque adeo, si situm
+sedentium recorderis, auersus pluribusque oppositis, ne si aegerrime quidem
+cuperem, uultum nutumque eius aspicere
+poteram ex quo mihi aliqua eius darentur signa iudicii. Atqui ego quidem nihil
+ceteris amplius afferebam, immo uero aliquid etiam minus. Nam de re proposita
+aeque nihil ceteris sentiebam; minus uero quam ceteri ipse <milestone
+unit="loebline" n="30"/> afferebam, falsae scilicet scientiae praesumptionem.
+Tuli aegeirime, fateor, compressusque indoctorum grege conticui metuens ne iure
+uiderer insanus, si sanus inter furiosos haberi contenderem. Meditabar igitur
+dehine omnes animo quaestiones nec degluticbam 
+quod acceperam, sed frequentis consilii iteratione ruminabam. Tandem igitur
+patuere pulsanti animo fores et ueritas inuenta quaerenti omnes nebulas Eutychiani
+reclusit erroris. Vnde mihi maxime subiit admirari, quaenam haec indoctorum
+hominum  esset audacia qui inscientiae uitium
+praesumptionis atque inpudentiae nube conentur obducere, cum non 
+modo saepe id quod proponatur ignorent, uerum in huiusmodi contentionibus ne id
+quidem quod ipsi loquantur intellegant, quasi non deterior fiat inscientiae
+causa, dum tegitur. Sed ab illis ad te
+transeo, cui hoc quantulumcumque est examinandum prius perpendendumque transmitto.
+Quod si recte se habere pronuntiaueris, peto ut mei nominis hoc quoque inseras
+chartis; sin uero uel  minuendum aliquid uel
+addendum uel aliqua mutatione uariandum est, id quoque postulo remitti, meis
+exemplaribus ita ut a te reuertitur transcribendum. Quae ubi ad calcem ducta
+constiterint, tum demum eius cuius soleo iudicio censenda transmittam. Sed
+quoniam semel res a conlocutione
+transfertur ad stilum, prius extremi sibique contrarii Nestorii atque Eutychis
+summoueantur errores; post uero adiuuante deo, Christianae medietatem fidei
+temperabo. Quoniam uero in tota quaestione contrariarum sibimet <foreign
+xml:lang="grc">αἱρεσέων
+de personis dubitatur atque naturis, haec
+primitus defimenda sunt et propriis differentiis segreganda.
+
+Natura igitur aut de solis corporibus dici potest aut de solis substantiis, id
+est corporeis atque incorporeis, aut de omnibus rebus quae quocumque modo esse
+dicuntur. Cum igitur tribus modis natura dici 
+possit, tribus modis sine dubio definienda est. Nam si de omnibus rebus naturam
+dici placet, talis definitio  dabitur quae res omnes quae sunt
+possit includere. Erit ergo huiusmodi;  natura est earum
+rerum quae, cum sint, quoquo modo intellectu capi possunt.
+In hac igitur definitione et accidentia et
+substantiae definiuntur; haec enim omnia intellectu capi possunt. Additum uero est
+quoquo modo, quoniam deus et materia integro
+perfectoque intellectu intellegi non possunt, sed aliquo tamen <milestone
+unit="loebline" n="15"/> modo ceterarum rerum priuatione capiuntur. Idcirco
+uero adiunximus quae cum sint, quoniam etiam ipsum
+nihil significat aliquid sed non naturam. Neque enim quod sit aliquid sed potius
+non esse significat; omnis uero natura est. Et si de omnibus <milestone
+unit="loebline" n="20"/> quidem rebus naturam dici placet, haec sit naturae
+definitio quam superius proposuimus. Sin uero de solis substantiis natura dicitur,
+quoniam substantiae omnes aut corporeae sunt aut incorporeae, dabimus definitionem
+naturae substantias significanti huiusmodi: 
+natura est uel quod facere uel quod pati possit.
+Pati Quidem ac i£ facere, ut omnia corporea atque
+corporeorum anima; haec enim in coi pore et a corpore et facit et patitur. <q
+type="unspecified">Facere uero tantum ut deus ceteraque diuina. Habes
+igitur  definitionem eius quoque
+significationis naturae quae tantum substantiis applicatur. Qua in re substantiae
+quoque est reddita definitio. Nam si nomen naturae substantiam monstrat, cum
+naturam descripsimus substantiae quoque est assignata descriptio. Quod si
+naturae nomen relictis incorporeis
+substantiis ad corporales usque contiahitur, ut corporeae tantum substantiae
+naturam habere uideantur, sicut Aristoteles  ceterique et eiusmodi
+et multimodae philosophiae sectatores putant, definiemus eam, ut hi etiam qui
+naturam non nisi in corporibus esse
+posuerunt. Est autem eius definitio hoc modo: natura est
+motus principium per se non per accidens. Quod <q type="unspecified"
+>motus principium dixi hoc est, quoniam corpus omne habet proprium motum,
+ut ignis sursum, terra deorsum.  Item quod <q
+type="unspecified">per se principium motus naturam esse proposui et non
+per accidens, tale est, quoniam lectum quoque
+ligneum deorsum ferri necesse est, sed non deorsum per accidens fertur. Idcirco
+enim quia lignum est, quod est terra, pondere et grauitate <milestone
+unit="loebline" n="50"/> deducitur. Non enim quia lectus est, deorsum cadit,
+sed quia terra est, id est quia terrae contigit, ut lectus esset; unde fit ut
+lignum naturaliter esse dicamus, lectum uero artificialiter. Est etiam alia
+significatio naturae per quam dicimus diuersam esse inter naturam personamque possit esse discretio; aut si substantiarum aliae sunt corporeae, aliae incorporeae. Vniuersales sunt quae de singulis praedicantur ut propriis et specificis differentiis et accidentibus appellari, ecclesiasticae sit locutionis arbitrium. quisquam, utqui utramque earum a ratione seiungat), esse necesse est. Nam si duae personae essent, unus etiam fuere naturae? Ita enim personis manentibus inter se homines bouesque disiuncti quam diuinitas in Eundem quippe saluum fecit quem creditur adsumpsisse; fieri arbitrantur modis; aut enim genito Christo et non sanctis diuinationibus, ut ex eorum semine toti originali subiaceret poenae, aut noua quaedam uera humana diuinaque natura, id tribus effici potuit proprias mutant; sola enim mutari transformarique communi atque eadem materia subiecta. Omne enim fundamento nititur ut corpus, alia omnino materiae corruptum quiddam tertium fecit, ita illud quidem quod constet in se inuicem qualitatum mutatione transfusis. ex aliquibus constantia et in his constare dicimus conseruet quae in utrisque consistere confitetur. uirtute disceditur. Medietatem igitur uirtus tenet. diximus Eutychen confiteri duas quidem in Christo ante indigentiam fuisse in Christo nullus ignorat, sed 

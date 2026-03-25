@@ -1,0 +1,1897 @@
+# ID: histcorp-latin-perseus-phi0474.phi024.perseus-lat2
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: In Defense of Marcus Caelius 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Curtis Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 13,258
+# sentences: 1,214
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO M. CAELIO ORATIO 
+si quis, iudices, forte nunc adsit ignarus legum iudiciorum 
+consuetudinisqueconsuetudinisque 
+ςB: consuetudinis cett.
+nostrae, miretur profecto quae sit 
+tanta atrocitas huiusce causae, quod
+quod quia 
+ςB
+diebus festis ludisque 
+publicis, omnibus forensibus negotiis intermissis, unum hoc 
+iudicium exerceatur, nec dubitet quin tanti facinoris reus 
+arguatur
+arguatur accusatus 
+ςB
+ut eo neglecto civitas stare non possit. idem cum 
+audiat esse legem quae de seditiosis consceleratisque civibus 
+qui armati senatum obsederint, magistratibusmagistratibus 
+ςBπδ
+: om. P
+vim attulerint, 
+rem publicam oppugnarint cotidie quaeri iubeat: legem non 
+improbet, crimen quod versetur in iudicio requirat; cum 
+audiat nullum facinus, nullam audaciam, nullam vim in 
+iudicium vocari, sed adulescentemadulescentem nobilem 
+ςB
+inlustri ingenio, industria, 
+gratia accusari ab eius filio quem ipse in iudicium et vocet et 
+vocarit, oppugnari autem opibus meretriciis: Atratini ipsiusAtratini ipsius scripsi: Atratini illius BPπδ
+: illius Muretus
+pietatem non reprehendat, libidinem muliebremlibidinem muliebrem 
+ςB: muliebrem Jibidinem cett.
+comprimendam 
+putet, vos laboriosos existimet quibus otiosis ne in 
+communi quidem otio liceat esse.
+etenim si attendere 
+diligenter atqueatque ς: om. Pπδ
+: et Angelius
+existimare vere de omni hac causa volueritis, 
+sic constituetis, iudices, nec descensurum quemquam 
+ad hanc accusationem fuisse cui utrum vellet liceret nec, 
+cum descendisset, quicquam habiturum spei fuisse, nisi 
+alicuius intolerabili libidine et nimis acerbo odio niteretur.  
+sed ego Atratino, humanissimo atque optimo adulescenti, 
+meo necessario, ignosco, qui habet excusationem vel pietatis 
+vel necessitatis vel aetatis. si voluit accusare, pietati 
+tribuo, si iussus est, necessitati, si speravit aliquid, pueritiae. 
+ceteris non modo nihilnihil om. ς
+ignoscendum sed etiam acriter est 
+resistendum. 
+ac mihi quidem videtur, iudices, hic introitus defensionis 
+adulescentiae M.Marci Caeli maxime convenire, ut ad ea quae 
+accusatores deformandi huius causa etcausa et Bake: causae ς: causa Pπδ
+detrahendae spoliandaeque 
+dignitatis gratia dixerunt primum respondeam. 
+obiectus est pater varie, quod aut parum splendidus ipse 
+aut parum pie tractatus a filio diceretur. de dignitate 
+M.Marcus CaeliusM. ς, Lambinus: om. Pπδ
+notis ac maioribus natu etiam sine mea oratione 
+tacitusetiam sine...tacitus ed. R: et sine...tacitus ς: et sine...et tacitus Pπδ
+facile ipse respondetrespondit 
+ςb2ψ
+; quibus autem propter senectutem, 
+quod iam diu minus in foro nobiscumque versatur, 
+non aeque est cognitus, hi sic habeant, quaecumque in 
+equite Romano dignitas esse possit, quae certe potest esse 
+maxima, eam semper in M.Marco Caelio habitam esse summam 
+hodiequesummam hodieque 
+ςP1ψ2
+: summamque hodie P2πδ
+haberi non solum a suis sed etiam ab omnibus 
+quibus potuerit aliqua de causa esse notus.
+equitis autem 
+Romaniautem Romani Quintil. xi. I. 28: Romani autem Pπδ
+esse filium criminis loco poni ab accusatoribus 
+neque his iudicantibus oportuit neque defendentibus nobis. 
+nam quod de pietate dixistis, est ista quidemista quidem ς, Lambinus: quidem ista Pπδ
+nostravestra b, Halm
+existimatio 
+sed iudicium certe parentis. quid nos opinemur 
+audietis ex iuratis; quid parentes sentiant lacrimae matris 
+incredibilisque maeror, squalor patris et haec praesens 
+maestitia quam cernitis luctusque declarat.
+nam quod est 
+obiectum municipibus esse adulescentem non probatum  
+suis, nemini umquam praesenti †Praestutiani†Praestutiani ς: praetoriani (-tori-P2 in ras.) Pπδ
+: Praetutiani Gruter (cf. Plin. N. H. iii. 13-14): Puteolani Beroaldus (cf. Val. Max. ix. 3. 8): Tusculani Baiter (cf. C. I. L. xiv. 2622) maiores 
+honores habuerunt, iudicesiudices ς: om. Pπδ
+, quam
+quam per ς
+absenti M.Marco Caelio; quem 
+et absentem in amplissimum ordinem cooptarunt et ea non 
+petenti detulerunt quae multis petentibus denegarunt. 
+idemque nunc lectissimos viros et nostri ordinis et equites 
+Romanos cum legatione ad hoc iudicium et cum gravissima 
+atque ornatissima laudatione miserunt. videor mihi iecisseiecisse ex legisse P: egisse Halm
+fundamenta defensionis meae, quae firmissima sunt si nituntur 
+iudicio suorum. neque enim vobis satis commendata 
+huius aetas esse posset, si non modo parenti, tali viro, 
+verum etiam municipio tam inlustri ac tam gravi displiceret. 
+equidem,
+ut ad me revertar, ab his fontibus profluxi ad 
+hominum famam, et meus hic forensis labor vitaeque ratio 
+demanavitdemanavit 
+ςB: dimanavit Pπδ
+(ἅπαξ λεγ.) ad existimationem hominum paulo latius commendatione 
+ac iudicio meorum. 
+
+nam quod obiectum est de pudicitia quodque omnium 
+accusatorum non criminibus sed vocibus maledictisque 
+celebratum est, id numquam tam acerbe feret M.Marcus Caelius 
+ut eum paeniteat non deformem esse natum. sunt enim 
+ista maledicta pervolgata in
+in per ς
+omnis quorum in adulescentia 
+forma et speciesfuit forma et species ς
+fuit liberalis. sed aliud est male dicere, 
+aliud accusare. accusatio crimen desiderat, rem ut definiat, 
+hominemhominem 
+ςB: hominem ut Pπδ
+: nomine ut Manutius
+notet, argumento probet, teste confirmet; maledictio 
+autem nihil habet propositi praeter contumeliam; 
+quae si petulantius iactaturiaciatur Muretus
+, convicium, si facetius, urbanitas 
+nominatur.
+quam quidem partem accusationis admiratus 
+sum et moleste tuli potissimum esse Atratino datam. neque 
+enim decebat neque aetas illa postulabat neque, id quod  
+animum advertereanimum advertere ς (cf. Clu. § 1): animadvertere Pπδ
+poteratis, pudor patiebatur optimi adulescentis 
+in tali illum oratione versari. vellem aliquisaliquis σπδ: aliqui P
+ex 
+vobis robustioribus hunc male dicendi locum suscepisset; 
+aliquanto liberius et fortius et magis more nostro refutaremus 
+istam male dicendi licentiam. tecum, Atratine, 
+agam leniuslenius agam 
+ςB
+, quod et pudor tuustuus om. ςB
+moderatur orationi meae 
+et meummeum om. ςB
+erga te parentemque tuum beneficium tueri debeodebet ς
+. 
+illud tamen te esse admonitum volo,
+primum utut ς, Lambinus: om. Pπδ
+qualis es 
+talem te omnes essete omnes esse (se) ς: te Pπδ
+: te esse omnes Klotz
+existiment, ut quantum a rerum turpitudine 
+abes tantum te a verborum libertate seiungas; 
+deinde ut ea in alterum ne dicas quae, cum tibi falso 
+responsa sint, erubescas. quis est enim cui via ista non 
+pateat, quis estquis est ς: om. Pπδ
+qui huic aetati atque istihuic aetati atque isti (huic Agroetius) dignitati ς, Agroetius (K. vii. 118): isti aetati Pbh: isti aetati atque etiam isti dignitati cett.
+dignitati non 
+possit quam velit petulanter, etiam si sine ulla suspicione, at 
+non sinenon sine ullo ς
+argumento male dicere? sed istarum partium 
+culpa est eorum qui te agere voluerunt; laus pudoris tui, 
+quod ea te invitum dicere videbamus, ingeni, quod ornate 
+politeque dixisti.
+verum ad istam omnemomnem om. ς
+orationem 
+brevis est defensio. nam quoad aetas M.Marci Caeli dare potuit 
+istipotuit isti ς, Naugerius: potuisti Pe: potuit cett.
+suspicioni locum, fuit primum ipsius pudore, deinde 
+etiam patris diligentia disciplinaque munita. qui ut huic 
+togam virilemtogam virilem ς: virilem togam Pπδ
+dedit — nihil dicam hoc loco de me; tantum 
+sit quantum vos existimatisexistimetis Ernesti
+; hoc dicam, hunc a patre continuo 
+ad me esse deductum — nemo hunc M.Marcum Caelium in 
+illo aetatis flore vidit nisi aut cum patre aut mecum aut in 
+M.Marci Crassi castissima domo cum artibus honestissimis 
+erudiretur.  
+nam quod Catilinae familiaritas obiecta Caelio est, longe 
+ab ista suspicione abhorrere debet. hoc enim adulescente 
+scitis consulatum mecum petisse Catilinam. ad quem si 
+accessit aut si a
+si a si ς
+me discessit umquam — quamquam multi 
+boni adulescentes illi homini nequam atque improbo studuerunt — tumtum ς, Angelius: tamen Pπδ
+existimetur Caelius Catilinae nimium familiaris 
+fuisse. at enim postea scimus et vidimus esse hunc 
+in illius etiametiam ς: om. Pπδ
+amicis. quis negatneget ς
+? sed ego illud tempus 
+aetatis quod ipsum sua sponte infirmum, aliorum autemautem 
+ςB: om. Pπδ
+libidinelibidini ς, Ascens. 3 in mg.
+infestum est, id hoc loco defendo. fuit adsiduus 
+mecum praetore me; non noverat Catilinam; Africam tum 
+praetor ille obtinebat. secutus est tum annustum annus ς: annus Pπδ
+: annus cum Garatoni
+, causam de 
+pecuniis repetundis Catilina dixit. mecum erat hic; illi 
+ne advocatus quidem venit umquam. deinceps fuit annus 
+quo ego consulatum petivi; petebat Catilina mecum. numquam 
+ad illum accessit, a me numquam recessit.
+tot igitur 
+annos versatus in foro sine suspicione, sine infamia, studuit 
+Catilinae iterum petenti. quem ergo ad finem putas custodiendam 
+illam aetatem fuisse? nobis quidem olim annus 
+erat unus ad cohibendum bracchium toga constitutus, et ut 
+exercitatione ludoque campestri tunicati uteremur, eademque 
+erat, si statim mereremerere 
+ςB: mereri Pπδ
+stipendia coeperamus, castrensis ratio ac 
+militaris. qua in aetate nisi qui se ipse sua gravitate et castimonia 
+et cum disciplina domestica tum etiam naturali 
+quodam bono defenderetdefenderet (-rit h) πδ: defenderat P
+, quoquo modo a suis custoditus 
+esset, tamen infamiam veram effugere non poterat. sed qui 
+prima illailla prima ς
+initia aetatis integra atque inviolata praestitisset, de 
+eius fama ac
+ac et ς
+pudicitia, cum iam seseiam sese ς: is iam se Pπδ
+: iam se Vollgraf
+conroboravisset ac vir 
+inter viros esset, nemo loquebatur.
+at
+at Francken: ac ς: om. Pπδ
+studuit Catilinae, cum  
+iam aliquot annos esset in foro, Caelius. et multi hoc 
+idem ex omni ordineordine omni ς
+atque ex omni aetate fecerunt. habuit 
+enim ille, sicuti meminisse vos arbitror, permulta maximarum 
+non expressa signa sed adumbrata virtutum. Vtebatur 
+hominibus improbis multis; et quidem optimis se 
+viris deditum esse simulabatsimulaverat ς
+. erant apud illum inlecebrae 
+libidinum multae; erant etiam industriae quidam stimuli 
+ac laboris. flagrabant vitia libidinis apud illum
+illum eum ς
+; vigebant 
+etiam studia rei militaris. neque ego umquam fuisse tale 
+monstrum in terris ullum puto, tam ex contrariis diversisque 
+atque
+atque Lambinus: om. Pπδ
+: et unus det.
+inter se pugnantibus naturae studiis cupiditatibusque 
+conflatum.
+quis clarioribus viris quodam tempore
+quodam tempore quondam ς (contra Frontonem, ad Anton. ii. 6) iucundior, 
+quis turpioribusturpioribus viris ς
+coniunctior? quis civis meliorum 
+partium aliquando, quis taetrior hostis huic civitati? quis 
+in voluptatibus inquinatior, quis in laboribus patientior? 
+quis in rapacitate avarior, quis in largitione effusior? illa 
+vero, iudices, in illo homine admirabiliaadmirabilia ς: mirabilia Pπδ
+fuerunt, comprehendere 
+multos amicitia, tueri obsequio, cum omnibus communicare 
+quod habebat, servire temporibus suorum omnium 
+pecunia, gratia, labore corporiscorporibus ς esset et 
+ςb2ψ2
+: esset (ante ras. P) cett.
+, scelere etiam, si opus esset, 
+et audacia, versare suam naturam et regere ad tempus atque 
+huc et illuc torquere ac
+ac et ς
+flectere, cum tristibus severe, cum 
+remissis iucunde, cum senibus graviter, cum iuventute 
+comiter, cum facinerosis audaciteraudaciter 
+ςBeg: audacter Ph
+, cum libidinosis luxuriose 
+vivere.
+hac ille tam varia multiplicique natura cum 
+omnis omnibus exex omnibus ς
+terris homines improbos audacisque 
+conlegerat, tum etiam multos fortis viros et bonos specie 
+quadam virtutis adsimulataequadam rei p. adsimulatam ς
+tenebat. neque
+neque ne ς
+umquam ex  
+illo delendi huius imperi tam consceleratus impetus exstitisset, 
+nisi tot vitiorum tanta immanitas quibusdam facilitatisfacultatis Madvig
+et patientiae radicibus niteretur. qua re ista condicio, 
+iudices, respuatur, nec Catilinae familiaritatis crimen haereat. 
+est enim commune cum multis et cum quibusdamquibusdam ς: quibusdam etiam Pπδ
+(cf. Zielinski p. 77) bonis. 
+me ipsum, me, inquam, quondam paene ille decepit, cum 
+et civis mihi bonus et optimi cuiusque cupidus et firmus 
+amicus ac fidelis videretur; cuius ego facinora oculis prius 
+quam opinione, manibus ante quam suspicione deprendi. 
+cuius in magnis catervis amicorum si fuit etiam Caelius, 
+magis est ut ipse moleste ferat errasse se, sicuti non numquam 
+in eodem homine me quoque erroris mei paenitet, 
+quam ut istiusipsius ς
+amicitiae crimen reformidet. 
+itaque a maledictis impudicitiaeimpudicitiae ς, Garatoni ex Quintil. iv. 2. 27: pudicitiae Pπδ
+ad coniurationis invidiam 
+oratio est vestra delapsaoratio delapsa est ς
+. posuistis enim, atque id tamen 
+titubanter et strictim, coniurationis hunc propter amicitiampropter amicitiam hunc ς
+Catilinae participem fuisse; in quo non modo crimen non 
+haerebat sed vix diserti adulescentis cohaerebat oratio. 
+qui enim tantus furor in Caelio, quod tantum aut in moribus 
+naturaque volnus aut in re atque fortuna? ubi denique est 
+in ista suspicione Caeli nomen auditum? nimium multa 
+de re minime dubia loquor; hoc tamentamen Pπδ
+: tantum Lambinus
+dico. non modo 
+si socius coniurationis, sed nisi inimicissimus istius sceleris 
+fuisset, numquam coniurationis accusatione adulescentiam 
+suam potissimum commendare voluisset.
+quod haud scio 
+an de ambitu et de criminibus istis sodalium ac sequestriumsequestrum B
+, 
+quoniam huc incidi, similiter respondendum putem. numquam 
+enim tam Caelius amens fuisset ut, si sesesi sese scripsi: ses se ς: si se Pπδ
+isto 
+infinito ambitu commaculasset, ambitus alterum accusaret,  
+neque eius facti in altero suspicionem quaereret cuius ipse 
+sibi perpetuam licentiam optaret, nec, si sibi semel periculum 
+ambitus subeundum putaret, ipse alterum iterum ambitus 
+crimine arcesseret. quod quamquam nec sapienter et me 
+invito facit, tamen est eius modi cupiditascupiditas b2ψ2
+: cupiditatis ς: cupidus (-idinis g) cett.: del. Lambinus
+ut magis insectari 
+alterius innocentiam quam de se timide cogitare videatur. 
+nam quod aes alienum obiectum est, sumptus reprehensi, 
+tabulae flagitatae, videte quam pauca respondeam. tabulas 
+qui in patris potestate est
+est sit ς
+nullas conficitconfecit ed. R
+. versuram numquam 
+omnino fecit ullam. sumptus unius generis obiectus 
+est, habitationis; triginta milibus dixistis
+dixistis eum add. Pπδ, ego delevi (clausulae gratia) habitare. nunc 
+demumdemum || || || P: demum, iudices Halm
+intellego P.Publii Clodi insulam esse venalem, cuius 
+hic in aediculis habitat decem, ut opinor, milibus. vos 
+autem dum illi placere voltis, ad tempus eius
+eius eris ς: num eri? mendacium 
+vestrum
+vestrum 
+sequuntur in Peg verba renuerit qui unguenta § 27 usque ad inanes metus § 36 accommodavistis. 
+reprehendistis a patre quod semigrarit. quod quidem 
+in hacin hac ς, Lambinus: iam in hac Pπδ
+aetate minime reprendendum est. qui cum et ex 
+publica causaex publica causa 
+ςb2ψ2, Francken: et (om. et π) ex rei p. causa Pπδ
+iam esset mihi quidem molestam, sibi tamen 
+gloriosam victoriam consecutus et per aetatem magistratus 
+petere posset, non modo permittente patre sed etiam 
+suadente ab eo semigravit et, cum domus patris a foro 
+longe abesset
+et cum...abesset cum...abesset, et Schwartz
+, quo facilius et nostras domus obire et ipse 
+a suis coli possetposset 
+ςP2bg2ψ
+: possit cett.
+, conduxit in Palatio non magno domum. 
+quo loco possum dicere id quod vir clarissimus, M.Marcus Crassus, 
+cum de adventu regis Ptolemaei quereretur, paulo ante 
+dixit: 
+
+Vtinam ne in nemore Pelio —   
+ac longius mihimihi quidem ς: quidem mihi Pπδ
+quidem contexere hoc carmen liceret: 
+
+nam numquam era errans 
+hanc molestiam nobis exhiberet 
+
+Medea animo aegro, amore saevo saucia. 
+sic enim, iudices, reperietis quod, cum ad id loci venero, 
+ostendam, hanc Palatinam Medeam migrationemquemigrationemque hanc scripsi: migrationemque huic Pπδ
+: eamque migrationem huic Kayser
+hanc 
+adulescenti causam sive malorum omnium sive potius 
+sermonum fuisse. 
+quam ob rem illa quae ex accusatorum oratione praemuniri 
+iam et fingi intellegebam, fretus vestra prudentia, 
+iudices, non pertimesco. aiebant
+aiebant || aiebant (-i- m. 2 in ras.) P: iaciebant ς
+enim fore testem senatorem 
+qui se pontificiis comitiis pulsatum a Caelio diceret. 
+A quo quaeram, si prodierit, primum cur statim nihil egerit, 
+deinde, si id queri quam agere maluerit, cur productus 
+a vobis potius quam ipse per se, cur tanto post potius quam 
+continuo queri maluerit. si mihi ad haec acute arguteque 
+responderit, tum quaeram denique ex quo istequo iste b2ψ
+: quote P1eg: quoto P2bh: quo g2
+fonte senator 
+emanet. nam si ipse orietur et nascetur ex sese, fortasse, 
+ut soleo, commovebor; sin autem est rivolus arcessitusarcessitus ς: accersitus cett.
+et ductus ab ipso capite accusationis vestrae, laetabor, cum 
+tanta gratia tantisque opibus accusatio vestra nitatur, unum 
+senatorem esse solumesse solum ς: solum esse Pπδ
+qui vobis gratificari vellet inventum. 
+
+de teste FufioDE TESTE FVFIO ς, om. Pπδ
+(cf. Mur. 57). 
+nec tamen
+tamen tantum ψ1
+illud genus alterum nocturnorum testium perhorrescoperhorresco ς: pertimesco Pπδ
+. 
+est enim dictum ab illis fore qui dicerent uxores 
+suas a cena redeuntis attrectatas esse a Caelio. graves erunt 
+homines qui hoc iurati dicere audebuntaudeant bψ2
+, cum sit eis confitendum 
+numquam se ne congressu quidem et constituto 
+coepissecoepisse 
+ςegδ
+: caedisse Ph
+de tantis iniuriis experiri. 
+sed totum genus 
+oppugnationis huius, iudices, et iam prospicitis animis et, 
+cum inferetur, propulsare debebitisdebebitis propulsare ς
+. non enim ab isdem 
+accusatur M.Marcus Caelius a quibus oppugnatur; palam in eum 
+tela iaciuntur, clam subministranturadministrantur ς
+.
+neque ego idego id ς: id ego Pπδ
+: eo id Schütz
+dico 
+ut invidiosum sit in eos quibus gloriosum etiam hoc esseesse hoc ς
+debet. funguntur officio, defendunt suos, faciunt quod 
+viri fortissimi solent; laesi dolent, irati efferuntur, pugnant 
+lacessiti. sed vestrae sapientiae tamen est, iudices, non, si 
+causa iusta est viris fortibus oppugnandi M.Marcum Caelium, ideo 
+vobis quoquevobis quoque ς, Garatoni: vobis quoque vos Pπδ
+: vos quoque ed. R
+causam putare esse iustam alieno dolori 
+potius quam vestrae fidei consulendi. iam
+consulendi. Iam scripsi: consulendum ς: consulendi (-i add. m. 2)...P: consulendi πδ
+quae sit multitudo 
+in foro, quae genera, quae studia, quae varietas 
+hominum videtisvidistis ς
+. ex hac copia quam multos esse arbitramini 
+qui hominibus potentibus, gratiosis, disertis, cum 
+aliquid eos velle arbitrentur, ultro se offerre soleant, operam 
+navare, testimonium polliceri?
+hoc ex genere si qui se in 
+hoc iudicium forte proiecerint, excluditote eorum cupiditatem, 
+iudices, sapientia vestra, ut eodem tempore et huius saluti 
+et religioni vestrae et contra periculosas hominum potentias 
+condicioni omnium civium providisse videamini. equidem 
+vos abducam a testibus neque huius iudici veritatem quae 
+mutari nullo modo potest in voluntate testium conlocari 
+sinam quae facillime fingifingi gψ1
+: effingi Pehbψ2
+, nullo negotio flecti ac detorqueri 
+potest. argumentis agemus, signis luce omni clarioribus 
+crimina refellemus; res cum re, causa cum causa, ratio cum 
+ratione pugnabit. 
+itaque illam partem causae facile patior graviter et ornate  
+a M.Marco Crasso peroratam de seditionibus Neapolitanis, de 
+Alexandrinorum pulsatione Puteolana, de bonis pallae
+Paliae ς
+. 
+vellem
+vellem vellem ς
+dictum esset ab eodem etiam de Dione. de quo 
+ipso tamen quid est quod exspectetis? quod is qui fecit 
+aut non timet aut etiam fatetur; est enim rex; qui autem 
+dictus est adiutor fuisse et conscius, P.Publius Asicius, iudicio est 
+liberatus. quod igitur est eius modi crimen ut qui commisit 
+non neget, qui negavit absolutus sit, id hic pertimescat qui 
+non modo a factifacti Naugerius: facto P
+πδ
+verum etiam a conscientiae suspicione 
+afuit? et, si Asicio causacausa P
+πδ: in causa Müller: fort. ea plus profuit quam nocuit invidia, 
+huic oberit maledictum tuummaledictum tuum ς: tuum maledictum P
+πδ
+qui istius facti non modo 
+suspicione sed ne infamia quidem est aspersus?
+at praevaricatione 
+est
+est sit ς
+Asicius liberatus. perfacile est isti loco 
+respondere, mihi praesertim a quo illa causa defensa est. 
+sed Caelius optimam causam Asici esse arbitratur; cuicuimodicuicuimodi Ant. Augustinus: cuiusmodi P
+πδ
+autem sit, a sua putat esseesse ς, edd. VR: eius esse P
+πδ
+seiunctam. neque solum 
+Caelius sed etiam adulescentes humanissimi et doctissimi, 
+rectissimis studiis atque optimis artibus praediti, Titus 
+Gaiusque Coponii qui ex omnibus maxime Dionis mortem 
+dolueruntCoponii  doluerunt ς
+b2ψ2 (de Coponiis cf. Balb. § 53): om. P in lac., sine lac. 
+πδ
+, qui cum doctrinae studioqui cum doctrinae studio ς
+b2ψ2: omni cum (om. cum eg) doctrina P2πδ
+atque humanitatis tum 
+etiam hospitio Dionis tenebantur. habitabat apud Titumapud Titum ς: is apud L. Lucceium P2πδ
+, 
+ut audistis, DioDio erat ς: fuerat ei P2πδ
+, eratqui cum  erat om. P1 in lac.
+ei cognitus Alexandriae. quid aut 
+hic aut summo splendore praeditus frater eius de M.Marco Caelio 
+existimet ex ipsis, si producti erunt, audietis.
+ergo haec 
+removeanturremoveantur ς, ed. Mediol. removentur P
+πδ
+, ut aliquando, in quibus causa nititur, ad ea 
+veniamus.  
+animadverti enim, iudices, audiri a vobis meum familiarem, 
+L.Lucium Herennium, perattente. in quo etsi magna ex parte 
+ingenio eius et dicendi genere quodam tenebamini, tamen 
+non numquam verebar ne illa subtiliter adsubtilis et ad B
+criminandum 
+inducta oratio ad animos vestros sensim ac leniter accederetad animos  accederet] animos  accenderet h
+. 
+dixit enim multa de luxurie, multa de libidine, multa de 
+vitiis iuventutis, multa de moribus et, quiet qui ς
+g2: ut qui cett.
+in reliqua vita 
+mitis esset et in hac suavitate humanitatis qua prope iam 
+delectantur omnes versari periucunde soleret, fuit in hac 
+causa pertristis quidamquidam om. 
+ς
+patruus, censor, magister; obiurgavit 
+M.Marcum Caelium, sicut neminem umquam parens; multa de 
+incontinentia intemperantiaque disseruit. quid quaeritis, 
+iudices? ignoscebam vobis attente audientibus, propterea 
+quod egomet tam triste illud, tamillud tam ς: illud et tam P
+πδ
+asperum genus orationis 
+horrebam.
+ac prima pars fuit illa quae me minus movebat, 
+fuisse meo necessario Bestiae Caelium familiarem, cenasse 
+apud eum, ventitasse domum, studuisse praeturae. non 
+me haec movent quae perspicue falsa sunt; etenim eos 
+una cenasse dixit qui aut absunt aut quibus necesse est 
+idem dicereidem dicere P2πδ: idem d  
+P1. neque vero illud me commovet quod sibi in 
+Lupercis sodalem esseesse sodalem ς
+Caelium dixit. fera quaedam 
+sodalitas et plane pastoriciapastoricia BP2πδ: pa  
+P1: pastoralis coni. Halm
+atque agrestis germanorum 
+Lupercorum, quorum coitio illa silvestris ante est instituta 
+quam humanitas atque leges, si quidem non modo nomina 
+deferunt inter se sodales sed etiam commemorant sodalitatem 
+in accusando, ut ne quisne quis P1: ne quis si ς: ne si quis P2πδ
+id forte nesciat timere 
+videanturvideantur Abram: videatur P
+πδ
+!
+sed haec omittoomitto ς: omittam P
+πδ
+; ad illa quae me magis 
+moverunt respondeorespondebo b2ψ
+.  
+
+deliciarum obiurgatio fuit longa, etiametiam scripsi: et ea P
+πδ: et eo Kayser
+lenior, plusque 
+disputationis habuit quam atrocitatis, quo etiam audita est 
+attentius. nam 
+P.Publius Clodius, amicus meus, cum se gravissime 
+vehementissimeque iactaret et omnia inflammatus
+inflammatus 
+fort. inflatius ageret 
+tristissimis verbis, voce maxima, tametsi probabamprobem ς
+eius 
+eloquentiam, tamen non pertimescebam; aliquot enim in 
+causis eum videram frustra litigantem. tibi autem, Balbe, 
+respondeo primum precario, si licet, si fas est defendi a me 
+eum qui nullum convivium renueritrenuerit h
+δ: reminierit P: inierit ς
+eg
+, qui in hortis fueritqui  fuerit Donatus: om. P
+πδ
+, qui 
+unguenta sumpserit, qui Baias viderit.
+equidem multos et 
+vidi in hac civitate et audivi, non modo qui primoribus labris 
+gustassent genus hoc vitae et extremis, ut dicitur, digitis 
+attigissent sed qui totam adulescentiam voluptatibus dedidissentdedidissent Ascens. (3) mg.: dedissent P
+πδ
+, 
+emersisse aliquando et se ad frugem bonam, ut 
+dicitur, recepisse gravisque homines atque inlustris fuisse. 
+datur enim concessu omnium huic aliqui ludus aetati, et 
+ipsa natura profundit adulescentiae cupiditates. quae si 
+ita erumpunt ut nullius vitam labefactent, nullius domum 
+evertant, faciles et tolerabiles haberi solent.
+sed tu mihi 
+videbare ex communi infamia iuventutis aliquam invidiam 
+Caelio velle conflare. itaque omne illud silentium quod est 
+orationi tributum tuae fuit ob eam causam quod uno reo 
+proposito de multorum vitiis cogitabamus. facile est 
+accusare luxuriem. dies iam me deficiatdeficiat P, Ernesti: deficiet πδ
+, si quae dici in 
+eam sententiam possuntpossint Ernesti
+coner
+coner -er add. P2 in ras.
+expromere; de corruptelis, 
+de adulteriis, de protervitate, de sumptibus immensa oratio 
+est. Vt tibi reum neminem sed vitia istaista scripsi: ipsa ς: om. P
+πδ
+proponas, res 
+tamen ipsa et copioseet copiose ς, Naugerius (2): om. P
+πδ
+et graviter accusari potest. sed  
+vestrae sapientiae, iudices, est
+iudices est est in ras. hab. P: est, iudices, Halm
+non abduci ab reo nec, quos 
+aculeos habeathabet ς
+severitas gravitasque vestra, cum eos accusator 
+erexerit in rem, in vitia, in mores, in tempora, emittere in 
+hominem et in reum, cum is non suo crimine sed multorum 
+vitio sit in quoddam odium iniustum vocatus.
+itaque egoego ς: om. P
+πδ
+severitati tuae itaita ut oportet ς: ut oportet ita P
+πδ
+ut oportet respondere non audeo. erat 
+enim meum deprecari vacationem adulescentiae veniamque 
+petere. non, inquam, audeo; perfugiis nihilnihil ς: non P
+πδ
+utor aetatis, 
+concessa omnibus iura dimitto; tantum peto ut, si quasi quae Halm
+est 
+invidia communis hoc tempore aeris alieni, petulantiae, 
+libidinum iuventutis, quam video esse magnam, tamentamen Wrampelmeyer: tam ς: om. P
+πδ
+ne 
+huic aliena peccata, ne aetatis ac temporum vitia noceant. 
+atque ego idem qui haec postulo quin criminibus quae in 
+hunc proprie conferuntur diligentissime respondeam non 
+recuso. 
+sunt autem duo crimina, auri et veneni; in quibus una 
+atque eadem persona versatur. aurum sumptum a Clodia, 
+venenum quaesitum quod Clodiae daretur, utut ς: om. P
+πδ (cf. Zielinski p. 207) dicitur. omnia
+somnia ς
+sunt alia
+alia talia ς: illa Ernesti
+non crimina sed maledicta, iurgi petulantis magis 
+quam publicae quaestionis. 'adulter, impudicus, sequester' 
+convicium est, non accusatio. nullum est enim fundamentum 
+horum criminum, nullaenullae ς: nulla P
+πδ
+sedes; voces sunt contumeliosae 
+temere ab irato accusatore
+ab irato accusatore arbitratu accusatoris b2ψ
+nullo auctore emissae. 
+Horum duorum criminum video auctorem,
+video fontemauctorem video fontem ς: fontem video auctorem P
+πδ
+, 
+video certum nomen et caput. auro opus fuit; sumpsit 
+a Clodia, sumpsit sine teste, habuit quamdiu voluit. maximum 
+video signum cuiusdam egregiae familiaritatis. necare
+necare b1g2ψ: negare P
+π
+b2  
+eandem voluit; quaesivit venenum, sollicitavit servos, 
+potionemservos, potionem Bährens: quos potuit P
+πδ
+paravit, locum constituit, clam attulitclam attulit scripsi: quam ante locum hab. 
+ς: om. P
+πδ
+. Magnum 
+rursus odium video cum crudelissimo discidio exstitisse. 
+res est omnis in hac causa nobis, iudices, cum Clodia, 
+muliere non solum nobili verumnobili verum ς, Quintil. ix. 4. 97: nobili sed (nobi  
+P1) P
+πδ
+etiam nota; de qua ego 
+nihil dicam nisi depellendi criminis causa.
+sed intellegis 
+pro tua praestanti prudentia, Cn.Gnaei Domiti, cum hac sola rem 
+esse nobis. quae si se aurum Caelio commodasse non 
+dicit, si venenum ab hoc sibi paratum esse non arguit, 
+petulanter facimus, si matrem familias secus quam matronarum 
+sanctitas postulat nominamus. sin ista muliere 
+remota nec crimen ullum nec opes ad oppugnandum M.M. ς: om. P
+πδ
+Caelium illis relinquuntur, quid est aliud quod nos patroni 
+facere debeamus, nisi ut eos qui insectantur repellamus? 
+quod quidem facerem vehementius, nisi intercederent mihi 
+inimicitiae cum istius mulieris viro — fratremfratrem ς
+Bb2, Claud. Sac. (K. vi. 468): fratre P
+πδ, Rufinian. (Rhet. M. 40) volui dicere; 
+semper hic erro. nunc agam modice nec longius progrediar 
+quam me mea fides et causa ipsa cogetcogit ς
+b2: necnec ς: neque P
+πδ
+enim muliebris 
+umquam inimicitias mihimihi inimicitias ς
+gerendas putavi, praesertim cum 
+ea quam omnes sempersemper om. Quintil.
+amicam omnium potius quam 
+cuiusquam inimicam putaverunt. 
+sed tamen ex ipsa quaeram prius utrum me secum 
+severe et graviter et prisce agere malit, an remisse et leniter 
+et urbane. si
+si Ernesti: sin BP
+πδ: si enim Bährens
+illo austero more ac modo, aliquis mihi ab 
+inferis excitandus est ex barbatis illis, non hac barbula
+hac barbula ex barbula illa ς
+B
+qua 
+ista delectatur sed illased illa ς
+B: sed ex illa cett.
+horrida quam in statuis antiquis 
+atque imaginibus videmus, qui obiurget mulierem et quiet qui ς: et P
+πδ
+pro me loquatur ne mihi ista forte suscenseat. exsistat 
+igitur ex hac ipsa familia aliquis ac potissimum Caecus ille; 
+minimum enim dolorem capiet qui istam non videbit. qui 
+profecto, si exstiterit, sic aget ac sic loquetur: 'mulier, 
+quid tibi cum Caelio, quid cum homine adulescentulo, quid 
+cum alieno? cur aut tam familiarisfamiliaris Severian. (Rhet. M. 360): famil. huius ς
+B: famil. huic P
+πδ
+fuisti ut aurum commodaresaccommodares ς
+B
+, 
+aut tam inimica ut venenum timeres? non 
+patrem tuum videras, non patruum, non avum, non proavumnon proavum ς
+B: proavum cett.
+, 
+non abavum, non atavumnon abavum, non atavum scripsi (cf. Nipperdey, Leges Ann. p. 42): non atavum non ς
+B: atavum cett.
+audieras consules fuisse;
+non 
+denique modo te Q.Quinti Metelli matrimonium tenuisse sciebas, 
+clarissimi ac fortissimi viri patriaeque amantissimi, qui simul 
+ac pedem limine extulerat, omnis prope civis virtute, gloria, 
+dignitate superabat? cum ex amplissimo genere in familiam 
+clarissimam nupsisses, cur tibi Caelius tam coniunctus fuit? 
+cognatus, adfinis, viri tui familiaris? nihil eorum
+eorum horum b1, Ernesti
+. quid 
+igitur fuit nisi quaedam temeritas ac libido? nonne te, si 
+nostrae imagines viriles non commovebant, nene et quidem om. B
+progenies 
+quidem mea, Q. illa Claudia, aemulam domesticae laudis 
+in gloria muliebri esse admonebat, non virgo illa Vestalis 
+Claudia quae patrem complexa triumphantem ab inimico 
+tribuno plebei de curru detrahi passa non est? cur te 
+fraterna vitia potius quam bona paterna et avita et usque 
+a nobis cum in viris tum etiam in feminis repetita moverunt? 
+ideone ego pacem Pyrrhi diremi ut tu amorum turpissimorum 
+cotidie foedera ferires, ideo aquam adduxi ut ea tu 
+inceste uterere, ideo viam munivi ut eam tu alienis viris 
+comitata celebrares?' 
+sed quid ego, iudices, ita gravem personam induxi utut ς: ut et P
+πδ: ut etiam Wesenberg
+verear ne se idem Appius repente convertat et Caelium 
+incipiat accusare illa sua gravitate censoria? sed videro 
+hoc posterius atque ita, iudices, ut velut vel ς: vel (om. g) P
+πδ
+severissimis disceptatoribus 
+M.Marci Caeli vitam me probaturum esse confidam. tu 
+vero, mulier — iam enim ipse tecum nulla persona introducta 
+loquorloquar ς
+— si ea quae facis, quae dicis, quae insimulas, quae 
+moliris, quae arguisfacis  arguis (quae ante moliris om. b2: quae insimulas om. 
+ψ2) ς
+b2ψ2: om. P1: facis, quae dicis, quae in sororem tuam moliris, quae argumenta P2πδ
+, probare cogitas, rationem tantae familiaritatis, 
+tantae consuetudinis, tantae coniunctionis reddas 
+atque exponas necesse est. accusatores quidem libidines, 
+amores, adulteria, Baias, actasactas P: acta πδ
+, convivia, comissationes, 
+cantus, symphonias, navigia iactant, idemque significant 
+nihil se te invita dicere. quae tu quoniam mente nescio 
+qua effrenata atque praecipitipraeceps ς
+in forum deferri iudiciumque 
+voluisti, aut diluas oportet acac Halm: aut P
+πδ
+falsa esse doceas aut nihil 
+neque crimini tuo neque testimonio credendum esse fateare. 
+sin autem urbanius me agere mavis, sic agam tecum. 
+removebo illumillum illum ς
+senem durum ac paene agrestem; ex his 
+igiturhis igitur P1: his igitur tuis P2πδ: istis tuis Madvig
+sumam aliquem ac potissimum minimum fratrem qui 
+est in isto genere urbanissimus; qui te amat plurimum, qui 
+propter nescio quam, credo, timiditatem et nocturnos 
+quosdam inanis metus tecum semper pusio cum maiore 
+sorore cubitabatcubitabat Quintil. viii. 3. 22: cubitavit P
+πδ
+. Eum putato tecum loqui: 'quid tumultuaris, 
+soror? quid insanis? 
+
+quid clamoremclamorem Ribbeck: clamore P
+πδ
+exorsa verbis parvam rem magnam facis? 
+vicinum adulescentulum aspexisti; candor huius te et proceritas 
+voltus oculique pepuleruntpepulerunt σπδ: perpulerunt P
+; saepius videre voluisti; 
+fuisti non numquam in isdem hortis; visvis P1, Madvig: visa P2πδ
+nobilis mulier  
+illum filium familias patre parco ac tenaci habere tuis copiis 
+devinctum. non potespotest ς: potes || P
+; calcitrat, respuit, repellitrepellit ς
+B: om. cett.
+, non 
+putat tua dona esseesse dona ς
+tanti. confer te alio. habes hortos 
+ad Tiberim ac diligenter eo loco paratosparatos ς
+B: parasti P: praeparasti πδ
+quo omnis iuventus 
+natandi causa venit; hinc licet condiciones cotidie legas; 
+cur huic qui te spernit molesta es?' 
+redeo nunc ad te, Caeli, vicissim ac mihi auctoritatem 
+patriam severitatemque suscipio. sed dubito quem patrem 
+potissimum sumam, Caecilianumne aliquem vehementem 
+atque durum: 
+
+nunc enim demum midemum mi Ribbeck: demum mihi P
+πδ: mihi demum B
+animus ardet, nunc meum cor 
+
+cumulatur ira
+ira cura B
+aut illum: 
+
+O infelix, o sceleste! 
+ferrei sunt isti patres: 
+
+egone quid dicam, quid velimquid velim Spengel: egone quid velim P
+πδ
+? quae tu omnia 
+
+tuis foedis factis facis ut nequiquam velim, 
+vix ferendi. diceret talis pater: 'cur te in istam vicinitatem 
+meretriciam contulisti? cur inlecebris cognitis non 
+refugisti?' 
+cur alienamalienam om. 
+ς dissice ς, Puteanus: disce P
+πδ
+ullam mulierem nosti? Dide ac dissice; 
+per me tibi
+tibi Francken: om. P
+πδ
+licet. si egebis, tibi dolebit, non mihi
+non mihi Francken: om. P
+πδ
+. 
+mihi sat est qui aetatis quod relicuom est oblectem 
+meae.
+huic tristi ac derecto seni responderet Caelius se nullase nulla  in tam om. P1 in 4 versuum lac.
+cupiditate inductum de via decessisse. quid signi? nulli 
+sumptus, nulla iactura, nulla versura. at fuit fama. quotus  
+quisquequisque BP2πδ: quisque est qui T
+istam effugere potest, praesertimeffugere potest, praesertim scripsi: praesertim effugere potest ς
+B: effugere potest (ante 12 litt. lac. P2) cett.: effugere possit Halm
+in tam maledica 
+civitate? vicinum eius mulieris miraris male audisse cuius 
+frater germanus sermones iniquorum effugere non potuit? 
+leni vero et clementi patrepatre Schwartz: patri P
+πδ
+cuius modi ille est: 
+fores ecfregitecfregit Müller: etfregit P1: effregit P2πδ
+, restituentur; discidit 
+vestem, resarcietur,
+CaeliCaelii Angelius: filii PT
+πδ
+causa est expeditissima. quid enim esset in quo se 
+non facile defenderet? nihil iam in istam mulierem dico; 
+sed, si esset aliqua dissimilis istius quae se omnibus pervolgaret, 
+quae haberet palam decretum
+decretum 
+fort. devinctum (cf. § 36) semper aliquem, 
+cuius in hortos, domum, Baias iure suo libidines omnium 
+commearent, quae etiam aleret adulescentis et parsimoniam 
+patrum suis sumptibus sustineretsustineret ς (cf. Liv. xxxix. 9. 6): sustentaret cett.
+; si vidua libere, proterva 
+petulanter, dives effuse, libidinosa meretricio more viveret, 
+adulterum ego putarem si quis
+quis qui Quintil. viii. 4. 1 hanc paulo liberius salutasset? 
+dicet aliquis: 'haec igitur est tua disciplina? sic tu 
+instituis adulescentis? ob hanc causam tibi hunc puerum 
+parensparens tibi hunc puerum ς
+commendavit et tradidit, ut in amoreamoribus ς
+atque in voluptatibus 
+adulescentiam suam conlocaret, et utut T
+ς: om. P
+πδ
+hanc tu vitam 
+atque haec studia defenderes?' ego, si quissi quis ς
+g: si quid TB: si qui cett. (variant codd. Quintil.), iudices, hoc 
+robore animi atque hac indole virtutis acac BP
+πδ, Quintil.: ad (ex adq.) T: atque Halm
+continentiae fuit 
+ut respueret omnis voluptates omnemque vitae suaesuae vitae ς
+B
+cursum 
+in labore corporis atque in
+atque in atque ς
+B
+animi contentione conficeret,  
+quem non quies, non remissio, non aequalium studia, non 
+ludi, non conviviumconvivium TB: convivia P
+πδ
+delectaretdelectaret scripsi: delectarent codd.
+, nihilqui nihil Halm
+in vita expetendum 
+putaret nisi quod esset cum laude et cum dignitate coniunctum, 
+hunc mea sententia divinis quibusdam bonis 
+instructum atque ornatum puto. ex hoc genere illos fuisse 
+arbitror Camillos, FabriciosFabricios ante fuisse hab. T
+, CuriosFurios B
+, omnisque eos qui haec 
+ex minimis tanta fecerunt.
+verum haec genera virtutum 
+non solum in moribus nostris sed vix iam in libris reperiuntur. 
+chartae quoque quae illam pristinam severitatem 
+continebant obsoleverunt; neque solum apud nos qui hanc 
+sectam rationemque vitae re magis quam verbis secuti 
+sumus sed etiam apud Graecos, doctissimos homines, 
+quibus, cum facere non possent, loqui tamen et scribere 
+honeste et magnifice licebat, aliaalia T
+ς
+g2: aliqua P
+πδ
+quaedam mutatis Graeciae 
+temporibus praecepta exstiterunt.
+itaque alii voluptatis 
+causa omnia sapientes facere dixerunt, neque abnec ab ς
+hac 
+orationis turpitudine eruditi homines refugerunt; alii cum 
+voluptate dignitatem coniungendam putaverunt, ut res 
+maxime inter se repugnantis dicendi
+dicendi verborum ς
+facultate coniungerent; 
+illud unum derectum iter ad laudem cum labore qui probaverunt, 
+prope soli iam in scholis sunt relicti. multa enim 
+nobis blandimenta natura ipsa genuit quibus sopita virtus 
+coniveret interdum; multas vias adulescentiae lubricas 
+ostendit quibus illa insistere aut ingredi sine casu aliquo acac TB: aut P
+πδ
+prolapsione vix posset; multarum rerum iucundissimarum 
+varietatem dedit qua non modo haec aetas sed etiam 
+iam conroborata caperetur.
+quam ob rem si quem forte 
+inveneritis qui aspernetur oculis pulchritudinem rerum, non 
+odore ullo, non tactu, non sapore capiatur, excludat auribus  
+omnem suavitatem, huic homini ego fortasse et pauci deos 
+propitios, plerique autem iratos putabuntputaverunt T
+. 
+ergo haec 
+deserta via et inculta atque interclusa iam frondibus et 
+virgultis
+et virg. ac virg. ς
+relinquatur. detur aliqui ludusaliqui ludus T: aliquid P
+πδ
+aetati; sit adulescentia 
+liberior; non omnia voluptatibus
+voluptatibus cupiditatibus ς
+denegentur; non 
+semper superetsuperent ς
+vera illa et
+et ac ς derecta ς
+P: directa πδ
+derecta ratiovia et ratio ς
+; vincat aliquando 
+cupiditas voluptasque rationem, dum modo illa in hoc 
+genere praescriptio moderatioque teneatur. parcat iuventus 
+pudicitiae suae, ne spoliet alienam, ne effundat patrimonium, 
+ne faenore trucidetur, ne incurrat in alterius domum atque 
+familiamfamiliam ς: famam cett.
+, ne probrum castis, labem integris, infamiam bonis 
+inferat, ne quem vi terreat, ne intersit insidiis, scelere 
+careat. postremo cum paruerit voluptatibus, dederit aliquid 
+temporis ad ludum aetatis atque ad inanis hasce adulescentiae 
+cupiditates, revocet se aliquando ad curam rei domesticae, 
+rei forensis reique publicae, ut ea quae ratione antea non 
+perspexerat satietate abiecisse etet ς: om. P
+πδ
+experiendo contempsisse 
+videatur. 
+ac multi quidemquidem ς: om. P
+πδ
+et nostra et patrum maiorumque memoria, 
+iudices, summi homines et clarissimi cives fuerunt 
+quorum, cum adulescentiae cupiditates defervissent
+deferv. deferuu- P1: deseru- ς
+, eximiae 
+virtutes firmata iam aetate exstiterunt. ex quibus neminem 
+mihi libetlibet ς, Madvig: liquet P: necesse est πδ
+nominare; vosmet vobiscum recordamini. nolo 
+enim cuiusquam fortis atque inlustris viri ne minimum 
+quidem erratum cum maxima laude coniungere. quod si 
+facere vellem, multi a me summi atque ornatissimi viri 
+praedicarentur quorum partim nimia libertas in adulescentia, 
+partim profusaprofluxa ς
+luxuries, magnitudo aeris alieni, sumptus, 
+libidines nominarentur, quae multis postea virtutibus obtectaobiecta ς
+adulescentiae qui vellet excusatione defenderet.
+at vero 
+in M.Marco Caelio — dicam enim iam
+iam hoc ς
+confidentius de studiis eius 
+honestis, quoniamquoniam ς, Muretus: quondam P
+πδ
+audeo quaedam fretus vestra sapientia 
+libere confiteri — nulla luxuries reperietur, nulli sumptus, 
+nullum aes alienum, nulla conviviorum ac lustrorum
+lustrorum stuprorum ς
+libido. 
+quod quidem vitium ventris et gurgitisgutturis ed. R
+non modo non 
+minuit aetas hominibus sed etiam auget. amores autem 
+et deliciaedeliciae ς: hae deliciae P
+πδ
+quae vocantur, quae firmiorefirmo ingenio ς
+animo praeditis 
+diutius molestae non solent esse — mature enim et celeriter 
+deflorescunt — numquam hunc occupatum impeditumveimpeditumve scripsi: ne impeditum que ς: impeditumque P
+πδ
+tenuerunt. 
+Audistis cum pro se diceret, audistis antea cum 
+accusaret — defendendi haec causa, non gloriandi loquorloquor ς, Naugerius: eloquor P
+πδ
+—  
+genus orationis, facultatem, copiam sententiarum atque verborum, 
+quae vestra prudentia est, perspexistis. atque in eo 
+non solum ingenium elucere eius videbatis, quod saepe, 
+etiam si industria non alitur, valet tamen ipsum suis viribus, 
+sed inerat, nisi me propter benivolentiam forte fallebat, ratio 
+et bonis artibus instituta et cura et vigiliis elaborata. atqui
+atqui ς, Lambinus: atque P
+πδ
+scitote, iudices, eas cupiditates quae obiciuntur Caelio 
+atque haec studia de quibus disputo
+disputo disputavi ς: disputato P1 non facile in eodem 
+homine esse posse. fieri enim non potest ut animus libidini 
+deditus, amore, desiderio, cupiditate, saepe nimia copia, 
+inopia etiam non numquam impeditus hoc quicquid est 
+quod nos facimus in dicendo, quoquo modo facimus, nonmodo facimus non ς, suppl. Madvig: om. P
+πδ
+modo agendo verum etiam cogitando possit sustinere.
+an 
+vos aliam causam esse ullam putatis cur in tantis praemiis 
+eloquentiae, tanta voluptate dicendi, tanta laude, tanta  
+gratia, tanto honore, tam sint pauci semperque fuerint qui 
+in hoc labore versentur? obterendae sunt omnes voluptates, 
+relinquenda studia delectationis, ludus, iocus, convivium, 
+sermo paene estest paene ς
+familiarium deserendus. qua re in hoc 
+genere labor offendit homineslabor offendit homines ς, Madvig: labore fiendi homines P: labor confitendi homines eg: homines a labore studioque discendi bh
+ψ2
+a studioque deterret, non 
+quo aut ingenia deficiant aut doctrina puerilis.
+an hichic om. 
+ς (contra Arusian. K. vii. 465), si 
+sese isti vitae dedidissetdedidisset Arusian. (s. v. dedo): dedisset mei
+, consularem hominem admodum 
+adulescens in iudicium vocavisset? hic, si laborem fugeret, 
+si obstrictus voluptatibus teneretur, hac inhac in ς: in hac P
+πδ
+acie cotidie 
+versaretur, appeteret inimicitias, in iudicium vocaret, subiret 
+periculum capitis, ipsecapitis, ipse Ph: capitis, ipso ed. R: capitis ipse, Halm
+inspectante populo Romano tot iamtot iam ς, Lambinus: tot t || P: tot πδ
+mensis aut de salute aut de gloria dimicaret? 
+nihilne 
+igitur illa vicinitas redolet, nihilnenihilne  nihilne ς: nihil  nihil P
+πδ
+hominum fama, nihil 
+Baiae denique ipsae loquuntur? illae vero non loquuntur 
+solum verum etiam personant, huc unius mulieris libidinem 
+esse prolapsam ut ea non modo solitudinem ac tenebras 
+atque haec flagitiorum integumenta non quaerat sed in 
+turpissimis rebus
+rebus viris ς
+frequentissima celebritate et clarissima 
+luce laetetur. 
+verum si quis est qui etiam meretriciis amoribus interdictum 
+iuventuti putet, est ille quidem valde severus — negare 
+non possum — sed abhorret non modo ab huiushuius ς
+g2h: eius cett.
+saeculi 
+licentia verum etiam a maiorum consuetudine atque concessisconcessu Ernesti
+. 
+quando enim hoc non factitatumfactitatum ς, Lambinus: factum P
+πδ
+est, quando reprehensum, 
+quando non permissum, quando denique fuit ut 
+quod licet non liceret? hic ego ipsam rem definiamipsam rem definiam Halm: iam rem definiam (iam rem P2 in ras.) P
+πδ: iam definiam rem ς
+,  
+mulierem nullam nominabo; tantum in medio relinquam. 
+si quae non nupta mulier domum suam patefecerit omnium 
+cupiditati palamque sese in meretricia vita conlocaritcollocaverit ς
+, virorum 
+alienissimorum conviviis uti instituerit, si hoc in urbein urbe ς
+g2h: urbe cett.
+, 
+si in hortis, si in Baiarum illa celebritate faciatfaciat duo dett.: facit P1: faciet P2π: faceret b
+, si denique 
+ita sese geratgerat ς: geret (gereret b) P
+πδ
+non incessu solum sed ornatu atque comitatu, 
+non flagrantia oculorum, non libertate sermonumsermonum ς: sermonis P
+πδ
+, sed etiam 
+complexu, osculatione, actisactis Ernesti: aquis P
+πδ
+, navigatione, conviviis, ut non 
+solum meretrix sed etiamsed etiam proterva meretrix ς
+b2ψ2: om. P
+πδ
+proterva meretrix procaxque 
+videatur: cum hac si qui adulescens forte fuerit, utrum hic 
+tibi, L.Luci Herenni, adulter an amator, expugnare pudicitiam 
+an explere libidinem voluisse videatur?
+obliviscor iam 
+iniurias tuastuas ς, Arusian. (s. v. obliviscor), Servius ad Aen. ii. 148: om. P
+πδ
+, Clodia, depono memoriam doloris mei; quae 
+abs te crudeliter in meos me absente facta sunt neglego; 
+ne sint haec in te dicta quae dixi. sed ex te ipsa requiro, 
+quoniam et crimen accusatores abs te et testem eius criminis 
+te ipsam dicunt se habere. si quae mulier sit eius modi 
+qualem ego paulo ante descripsi, tui dissimilis, vita institutoque 
+meretricio, cum hac aliquid adulescentem hominem 
+habuisse rationis num tibi perturpe aut perflagitiosum esse 
+videatur? ea si tu non es, sicut ego malo, quid est quod 
+obiciant Caelio? sin eam te volunt esse, quid est cur nos 
+crimen hoc, si tu contemnis, pertimescamus? qua re nobis 
+da viam rationemque defensionis. aut enimaut enim ς: nam aut P
+πδ
+pudor tuus 
+defendet nihil a M.Marco Caelio petulantius esse factumesse factum P
+πδ: factum esse ς
+, aut 
+impudentia et huic et ceteris magnam ad seet ceteris magnam ad se ς: om. P
+πδ
+defendendum 
+facultatem dabit. 
+sed quoniam emersisse iam e vadise vadis ς, ed. R: evades P1: evadens P2π: e vado b2ψ2
+et scopulos praetervecta 
+videtur esseesse ς
+B: om. P
+πδ
+oratio mea, perfacilis mihi reliquus cursus 
+ostenditur. duo sunt enim crimina una in muliere summorum 
+facinorum, auri quod sumptum a Clodia dicitur, et 
+veneni quod eiusdem Clodiae necandae causa parasse Caelium 
+criminantur. aurum sumpsit, ut dicitis, quod L.L. P2πδ: om. 
+ς
+P1 
+Luccei servis daret, per quos Alexandrinus Dio qui tum 
+apud Lucceium habitabat necaretur. Magnum crimen vel 
+in legatis insidiandisinsidiandis ς
+B: insidiantes (-is gh) P
+πδ
+vel in servis ad hospitem domini 
+necandum sollicitandis, plenum sceleris consilium, plenum 
+audaciae!
+quo quidem in crimine primum illud requirorequiro ς: requiram P
+πδ
+, 
+dixeritne Clodiae quam obob σδ: ad P2π sumeret ς: tum sumeret δ: tum iret P2π
+rem aurum sumeret, an non 
+dixerit. si nonquam ob  si non om. P1 in 1 1/2 vers. lac.
+dixit, cur dedit? si dixit, eodem se conscientiae 
+scelere devinxit. tune aurum ex armario tuo 
+promere ausa es, tune venerem illam tuam spoliare ornamentis, 
+spoliatricem ceterorumceterorum σψ1, Gulielmius, Madvig: ceterum cett.
+, cum scires quantum ad 
+facinus aurum hoc quaereretur, ad necem legati, ad L.Lucii LucceiL. Luccei bg2: L. Lucullum P
+πψ
+, 
+sanctissimi hominis atque integerrimi, labem sceleris 
+sempiternamsempiternam Pantagathus: sempiterni P
+πδ
+? huic facinori tanto tua mens liberalis conscia, 
+tua domus popularis ministra, tua denique hospitalis 
+illa Venus adiutrix esse non debuit.
+vidit hoc Balbus; 
+celatam esse Clodiam dixit, atque ita Caelium ad illam 
+attulisse, se ad ornatum ludorum aurum quaerere. si tam 
+familiaris erat
+erat fuit ς
+Clodiae quam tu esse vis cum de libidine 
+eius tam multa dicis, dixit profecto quo vellet aurum; si 
+tam familiaris non erat, non dedit. ita si verum tibi 
+Caelius dixit, o immoderata mulier, sciens tu aurum ad 
+facinus dedisti; si non est aususausus ς
+h
+ψ: rursus cett.
+dicere, non dedisti. 
+quid ego nunc argumentis huic crimini, quae sunt innumerabilia, 
+resistam? possum dicere mores M.Marci Caeli longissime 
+a tanti sceleris atrocitate esse disiunctos; minime esse 
+credendum homini tam ingenioso tamque prudenti non 
+venisse in mentem rem tanti sceleris ignotis alienisque 
+servis non esse credendamcredendam bg2: credendum (-u- in ras. P) P
+πψ
+. possum etiam aliaalia ς: illa P
+πψ
+et ceterorum 
+patronorum et mea consuetudine ab accusatore perquirere, 
+ubi sit congressus cum servis Luccei Caelius, qui ei fueritfuerit ei ς
+aditus; si per se, qua temeritate! si per alium, per quem? 
+possum omnis latebras suspicionum peragrare dicendo; 
+non causa, non locus, non facultas, non conscius, non perficiendi, 
+non occultandi malefici spes, non ratio ulla, non 
+vestigium maximi facinoris reperietur.
+sed haec quae sunt 
+oratoris propria, quae mihi non propter ingenium meum 
+sed propter hanc exercitationem usumque dicendi fructum 
+aliquem ferre potuissent, cum a me ipso elaborataelaborata ς, Ant. Augustinus: laborata P
+πψ
+proferri 
+viderentur, brevitatis causa relinquo omnia. habeo enim, 
+iudices, quem vos socium vestrae religionis iurisque iurandi 
+facile esse patiamini, L.Lucium LucceiumL. om. 
+ς
+, sanctissimum hominem 
+et gravissimum testem, qui tantum facinus in famam atque 
+inin famam atque in (in om. 
+δ) σδ: infamat atque P
+π
+fortunas suas neque nonnon om. 
+ς
+audisset inlatum a M.Marco CaelioM. ς
+P2g: om. P1eh
+neque neglexisset neque tulisset. an ille vir illa humanitate 
+praeditus, illis studiis, illis artibusillis artibus T
+ς, Lambinus: artibus P
+πδ
+atque doctrina illius 
+ipsius periculum quem propter haec ipsa studia diligebat, 
+neglegere potuisset et, quod facinus inin T
+ς
+h: per g2: om. cett.
+alienum hominem 
+intentumintentum T: inlatum P
+πδ
+severe acciperet, id omisisset curare in hospitemhospitem T: hospite P
+πδ
+? 
+quod per ignotos actum si comperissetsi comperisset T
+ς: cumpetisset Pg1e: comperisset g2δ: cum comperisset h
+doleret, id a suis 
+servisservis T
+ς: om. P
+πδ
+temptatum esse neglegeret? quod in agris locisvelocisque T
+publicis factum reprehenderet, id in urbe ac domi suaedomi suae T
+ς: suae domi P
+πδ
+coeptum esse leniter ferret? quod in alicuius agrestis periculo 
+non praetermitteretpraetermitteret T
+ς
+b1e: prae||mitteret Pg1 (per- g2): postmitteret b2h
+ψ
+, id homo eruditus inin T
+ς
+h
+δ: om. Peg
+insidiis doctissimi 
+hominis dissimulandum putaret?
+sed cur diutius vos, 
+iudices, teneo? ipsius iurati religionem auctoritatemque 
+percipite atquepercipite atque om. T
+omnia diligenter testimoni verba cognoscite. 
+recita. 
+L.Lucii Luccei testimoniumL. Luccei test. T: test. Luccei P
+πδ
+. 
+quid exspectatis amplius? 
+an aliquamaliam Ernesti
+vocem putatis ipsam proPro (-ro m. 2 in ras.) se P: posse pro se h
+se causam et veritatem 
+posse
+posse possem. mittere? haec est innocentiae defensio, haec ipsius 
+causae oratio, haec una
+una viva Pluygers
+vox veritatis. in crimine ipso nulla 
+suspicio est, in re nihil est argumenti, in negotio quod actum 
+esse dicitur nullum vestigium sermonis, loci, temporis; 
+nemo testis, nemo conscius nominatur, totum crimen profertur 
+ex inimica, ex infami, ex crudeli, ex facinerosa, ex 
+libidinosa domo. domus autem illa quae temptata esseesse T: om. P
+πδ
+scelere isto nefario dicitur plena est integritatis, dignitatisdignitatis T
+ς: om. P
+πδ
+, 
+offici, religionis; ex qua domo recitatur vobis iure iurando 
+devincta auctoritas, ut res minime dubitanda in contentione 
+ponatur, utrum temeraria, procax, irata mulier finxisse 
+crimen, an gravis sapiens moderatusque vir religiose testimonium 
+dixisse videatur. 
+reliquum est igitur crimen de veneno; cuius ego necnec T
+ς: de (idem P2) P: neque πδ
+principium invenire neque evolvereevolvere T
+σψ2: volvere cett.
+exitum possum. quae 
+fuit enim causa quam ob rem isti mulieri venenum dare 
+velletdare vellet T: vellet dare P
+πδ
+Caelius? ne aurum redderet? num petivit? ne 
+crimen haereret? num quis obiecit? num quis denique 
+fecisset mentionem, si hic nulliusnullius T: nemini P
+πδ
+nomen detulisset? quin  
+etiam L.Lucium HerenniumL. ς, Lambinus: om. cett.
+dicere audistis verbo se molestum non 
+futurum fuisse Caeliofuturum Caelio T qui in hoc verbo desinit: fut. Caelio fuisse Halm
+, nisi iterum eadem de re suo familiari 
+absoluto nomen hic detulisset. credibile est igitur tantum 
+facinus nullam obnullam ob ς: ob nullam P
+πδ
+causam esse commissum? et vos non 
+videtis fingi sceleris maximi crimen ut alterius sceleris suscipiendi 
+fuisse causacausa ς, edd. VR, ante sceleris hab. 
+ψ: om. cett.
+videatur?
+cui denique commisit, quo 
+adiutore usus est, quo socio, quo conscio, cui tantum 
+facinus, cui se, cui salutem suam credidit? servisne mulieris? 
+sic enim est obiectumest obiectum ς: obiectum est ψ, ed. R: obiectum cett.
+. et erat tam demens isis ς: hic P
+πδ
+cui 
+vos ingenium certe tribuitistribuistis ς
+, etiam si cetera inimica oratione 
+detrahitis, ut omnis suas fortunas alienis servis committeret? 
+at quibus servis? — refert enim magno opere id ipsum — eisneeisne Lambinus: eiusne ς: hisne P
+πδ
+quos intellegebat non communi condicione servitutis uti 
+seduti sed ς
+b2ψ2: ut (sed b1) esset cett.
+licentius liberius familiariusquefamiliarius-que ς: familiarius P
+πδ
+cum domina vivere
+vivere dere ς
+? 
+quis enim hoc non videt, iudices, aut quis ignorat, in eius 
+modi domo in qua mater familias meretricio more vivat, in 
+qua nihil geratur quod foras proferendum sit, in qua inusitataeinusitatae ς: illustria P
+π: lustra δ
+libidines, luxuries, omnia denique inaudita vitia ac 
+flagitia versentur, hic servos non esse servos, quibus omnia 
+committantur, per quos gerantur, qui versentur isdem inin om. 
+ς
+voluptatibus, quibus occulta credantur, ad quos aliquantum 
+etiam ex cotidianis sumptibus ac luxurie redundet? id 
+igitur Caelius non videbat?
+si enim tamtam σψ: iam Pbh: om. eg
+familiaris erat 
+mulieris quam vos voltis, istos quoque servos familiaris 
+dominae essedominae esse ς
+g: esse domina || esse P: esse dominae cett.
+sciebat. sin ei tanta consuetudo quanta 
+a vobis inducitur non erat, quae cum servis eiuseius ς: om. P
+πδ
+potuit  
+familiaritas esse tanta? 
+ipsius autem veneni quae ratio 
+fingitur? ubi quaesitum est, quem ad modum paratum, quo 
+pacto, cui, quo in loco traditum? habuisse aiunt domi 
+vimque eius esse expertum in servo quodam ad eam remad eam rem ς, Madvig: ad eadem rem P1: ad rem cett.
+ipsam parato; cuius perceleri interitu esse ab hoc comprobatum 
+venenum.
+pro di immortales! cur interdum in 
+hominum sceleribus maximis aut conivetis aut praesentis 
+fraudis poenas in diem reservatis? vidi enim, vidi et 
+illum hausi dolorem vel acerbissimum in vita, cum Q.Quintus Metellus 
+abstraheretur e sinue sinu ed. R: sinu ς: e sinu e P
+πδ
+gremioque patriae, cumque ille 
+vir qui se natum huic imperio putavit tertio die post quam 
+in curia, quam in rostris, quam in re publica floruisset, integerrima 
+aetate, optimo habitu, maximis viribus eriperetur 
+indignissime bonis omnibus atque universae civitati. quo 
+quidem tempore ille moriens, cum iam ceteris ex partibus 
+oppressa mens esset, extremum sensum ad memoriam rei 
+publicae reservabat, cum me intuens flentem significabat 
+interruptis ac morientibus vocibus quanta inpenderet procella 
+mihimihi ς
+B, Orelli: ibi Peg: urbi h
+δ
+, quanta tempestas civitati et cum parietem saepe 
+feriens eum qui cum Q.Quinto Catulo fuerat ei communis crebro 
+Catulum, saepe me, saepissime rem publicam nominabat, ut 
+non tam se morimori P: emori πδ
+quam spoliari suo praesidio cum patriam 
+tum etiam me doleret.
+quem quidem virum si nulla vis 
+repentini sceleris sustulisset, quonam modo illeille om. 
+ς
+furenti 
+fratri suo
+fratri suo patrueli add. P
+πδ: del. Orelli
+consularis restitisset qui consulconsul Manutius: consulem P
+πδ
+incipientem furere 
+atque tonantemtonantem scripsi (cf. Mur. 81): conantem P
+πδ
+sua se manu interfecturum audiente senatu 
+dixerit? ex hac igitur domo progressa ista
+ista illa ς
+mulier de 
+veneni celeritate dicere audebit? nonne ipsam domum 
+metuet ne quam vocem eiciateiciat Muretus: eieciat ς: eliciat (-eat P1) P
+πδ (cf. Tusc. ii. 56), non parietes conscios, non  
+noctem illamillam ς
+b
+ψ2: aliam cett.
+funestam ac luctuosam perhorrescet? sed 
+revertorrevertor ς: revertar P
+πδ
+ad crimen; etenimetenim ς, Gruter: sed (set P) enim P
+πδ
+haec facta illius clarissimi ac 
+fortissimi viri mentio et vocem meam fletu debilitavit et 
+mentem dolore impedivit. 
+sed tamen venenum unde fuerit, quem ad modum paratum 
+sitsit paratum ς
+non dicitur. datum esse aiunt huichuic ς, Madvig: hoc P
+πδ
+P.Publio Licinio, 
+pudenti adulescenti et bono, Caeli familiari; constitutumconstitutum Naugerius: constitutum pactum ς: constitutum factum P
+πδ
+esse cum servis ut venirent ad balneas Senias; eodem 
+Licinium esse venturum atque eis veneni pyxidem traditurum. 
+hic primum illud requiro, quid attinuerit ferriferri b1, ed. Mediol.: fieri P
+π
+b2ψ
+in 
+eum locum constitutum, cur illi servi non ad Caelium 
+domum venerint. si manebat tanta illa consuetudo Caeli, 
+tanta familiaritas cum Clodia, quid suspicionis esset si apud 
+Caelium mulieris servus visus esset? sin autem iamiam ς
+B, Oettling: iam iam P
+πδ
+suberat simultas, exstincta erat consuetudo, discidium 
+exstiterat, hinc illae lacrimae nimirum et haec causa est 
+omnium horum scelerum atque criminum.
+'immo' inquit 
+'cum servi ad dominam rem totamrem totam ς: remittam P1: rem istam cett.
+et maleficium Caeli 
+detulissent, mulier ingeniosa praecepit his uthis ut ς, ed. R: suis P
+πδ
+omnia Caelio 
+pollicerentur; sed utsed ut ς
+h: sed cett.
+venenum, cum a Licinio traderetur, 
+manifesto comprehendi posset, constitui locumlocum del. Ernesti
+iussit balneas 
+Senias, ut eo mitteret amicos qui delitiscerent, deindedeinde ς: dein P
+πδ
+repente, cum venisset Licinius venenumquevenenumque ς, Lambinus: venenum P
+πδ
+traderet, prosilirent 
+hominemque comprenderent.' 
+quae quidem omnia, 
+iudices, perfacilem rationem habent reprendendi. cur 
+enim potissimum balneas publicas constitueratconstituebat ς
+? in quibus 
+non invenio quae latebra togatis hominibus esse possetpossit edd. VR
+.  
+nam si essent in vestibulo balnearum, non laterent; sin se 
+in intimum conicere vellent, nec satis commode
+nec satis commode quomodo ς
+B
+calceati 
+et vestiti id facere possent et fortasse non reciperenturreciperentur σδ: reciperetur P
+π
+, nisi 
+forte mulier potens quadrantaria illa permutatione
+permutatione pensitatione Pantagathus
+familiaris 
+facta erat balneatori.
+atque equidem vehementer 
+exspectabam quinam isti viri boni testes huius manifesto 
+deprehensi veneni dicerentur; nulli enim sunt adhuc nominati. 
+sed non dubito quin sint pergraves, qui primum sint 
+talis feminae familiares, deinde eam provinciam susceperint 
+ut in balneas contruderenturconducerentur ς
+, quod illa nisi a viris honestissimis 
+ac plenissimis dignitatis, quam velit sit potens, numquam 
+impetravisset. sed quid ego de dignitate istorum 
+testium loquor? virtutem eorum diligentiamque cognoscite. 
+'in balneis delitueruntdelituerant ς
+.' Testis egregios! 'dein temere 
+prosiluerunt.' homines temperantistemperantes P: gravitati deditos πδ fingitis ς: fing... P1: fingunt cett.
+! sic enim fingitis, 
+cum Licinius venisset, pyxidem teneret in manu, conaretur 
+tradere, nondum tradidisset, tum repente evolasse istos 
+praeclaros testis sine nomine; Licinium autem, cum iam 
+manum ad tradendam pyxidem porrexisset, retraxisse atque 
+exex ς: om. 
+P
+πδ
+illo repentino hominum impetu se in fugam coniecisse. 
+O magnam vimmagnam vim ς: magna vis P
+πδ
+veritatis, quae contra hominumhominum ed. V: omnium P
+πδ
+ingenia, 
+calliditatem, sollertiam contraque fictas omnium insidias 
+facile se per se ipsaipsa ς
+P1ψ2: ipsam cett.
+defendat!
+velut
+velut ut ς: verum b1ψ2
+haec tota fabellafabellarum ς
+veteris et plurimarum fabularum poetriae quam est sine 
+argumento, quam nullum invenire exitum potest! quid 
+enim? isti tot viri — nam necesse est fuisse non paucosnon paucos fuisse ς
+ut et 
+comprehendi Licinius facile posset et res multorum oculis  
+esset testatior — cur Licinium de manibus amiserunt? qui 
+minus enim Licinius comprehendi potuit cum se retraxit 
+ne pyxidem traderet, quam si tradidisset? erant enim illiillic g2, Rau
+positi ut comprehenderent Licinium, ut manifesto Licinius 
+teneretur aut cum retineret venenum aut cum tradidisset. 
+hoc fuit totum consilium mulieris, haec istorum
+istorum est horum ς
+provincia 
+qui rogati sunt; quos quidem tu quam ob rem temere 
+prosiluisse dicas atque ante tempus non reperio. fuerant 
+ad hocad hoc ς, Lambinus: hoc Ph: enim e: autem g
+rogati, fuerant ad hanc rem conlocati, ut venenum, 
+ut insidiae, facinus denique ipsum ut manifesto comprenderetur. 
+potueruntne magismagis ς
+BP1: meliori (meliori magis ψ2) P2πδ
+tempore prosilire quam cum 
+Licinius venisset, cum in manu teneret veneni pyxidem? 
+quae cum iam erat tradita servis, si evasissentquae cum iam erat... si evas. Ernesti, Müller: quae si iam erat... evas. Pπδ
+: quae si cum iam erat... evas. Bake
+subito ex 
+balneis mulieris amici Liciniumque comprehendissent, 
+imploraret hominumhominum Angelius: omnium Pπδ
+fidem atque a se illam pyxidem traditam 
+pernegaret. quem quo modo illi reprehenderent? 
+vidisse se dicerent? primum ad se vocarentad se vocarent scripsi: at revocarent ς: ad se revocarent Pπδ
+maximi facinoris 
+crimen; deinde id se vidisse dicerent quod quo loco 
+conlocati fuerant non potuissent videre. tempore igitur 
+ipso se ostenderunt, cum Licinius venisset, pyxidem expediret, 
+manum porrigeret, venenum traderet. mimi ergo 
+iamiam ς: est etiam Pπδ
+: est iam Ascens. (3) exitus, non fabulae; in quo cum clausula non invenitur, 
+fugit aliquis e manibus, deindein ς: deinde Pπδ
+scabilla concrepant, aulaeum 
+tollitur.
+quaero enim cur Licinium titubantem, haesitantem, 
+cedentem, fugere conantem mulieraria manus ista de manibus 
+emiseritemiserit σπδ: miserit P: amiserit codd. Lambini
+, cur non comprenderint, cur noncur non comprehenderint σπδ: om. P
+ipsius confessione, 
+multorum oculis, facinoris denique voce tanti sceleris crimen  
+expresserint. an timebant ne tot unum, valentes imbecillum, 
+alacres perterritum superare non possent? 
+
+nullum argumentum in re, nulla suspicio in causa, nullus 
+exitus criminis reperieturreperitur ς
+g
+. itaque haec causa ab argumentis, 
+a coniectura, ab eis
+eis illis ς
+signis quibus veritas inlustrari solet ad 
+testis tota traducta est. quos quidem ego, iudices, testistestis, iudices Tς
+non modo sine ullo timore sed etiam cum aliqua spe delectationis 
+exspecto.
+praegestit animus iam videre, primumprim. (sic) iam videre ς
+B
+lautos iuvenes mulieris beatae ac nobilis familiaris, deinde 
+fortis viros ab imperatrice in insidiis atque in
+atque in atque ς
+praesidio 
+balnearum conlocatoscollocatos T: locatos Pπδ
+. ex quibus requiram quem ad modumquem ad modum T: quonam modo Pπδ
+latuerint aut ubi, alveusne ille an equus Troianus fuerit 
+qui tot invictos viros muliebre bellum gerentis tulerit ac 
+texerit. illud vero respondere cogam, cur tot viri ac tales 
+hunc et unum et tam imbecillum quemquem ς: quam cett.
+videtis non aut 
+stantem comprehenderint aut fugientem consecuti sint; qui 
+se numquam profecto, si in istum locum processerint, explicabunt. 
+quam volentquam volent Pπδ
+: quam volunt ς: quamvis T
+in conviviis faceti, dicaces, non 
+numquam etiam ad vinum diserti sint, alia fori vis est, alia 
+triclini, alia subselliorum ratio, alia lectorum; non idem 
+iudicum comissatorumque conspectus; lux denique longe 
+alia est solis, aliasolis alia Bb2ψ
+: solis ac T: solis et Pπb1 (cf. Fortunatian. Rhet. M. p. 124 aliud fori lumen est, aliud lychnorum) lychnorum. quam ob rem excutiemus 
+omnis istorum delicias, omnis ineptias, si prodierint. sed 
+me audiant, navent aliam operam, aliam ineant gratiam, in 
+aliis se rebus ostententostendent (-ant ς) T1ς
+, vigeant apud istam mulierem venustate, 
+dominentur sumptibus, haereant, iaceant, deserviant; 
+capiti vero innocentis fortunisque parcant. 
+at sunt servi illi de cognatorum sententia, nobilissimorum  
+et clarissimorum hominum, manu missi. tandem aliquid 
+invenimus quod ista mulier de
+de e ς
+suorum propinquorum, fortissimorum 
+virorum, sententia atque auctoritate fecisse 
+dicatur. sed scire cupio quid habeat argumenti ista manumissio; 
+in qua aut crimen est Caelio quaesitum aut quaestio 
+sublatasublata Tςb2ψ2, Manutius: sublevata cett.
+aut multarum rerum consciis servis cum causa 
+praemium persolutum. 'at propinquis' inquitinquit T: om. Pπδ
+'placuit.' cur 
+non placeret, cum rem tuterem tute σψ, ed. R: tu (tu || P) rem te cett.
+ad eos non ab aliis tibi adlatam 
+sed a te ipsa compertam deferre diceres?
+hic etiam 
+miramur, si illam commenticiam pyxidem obscenissima sit
+sit est Halm
+fabula consecuta? nihil est quod in eius modi mulierem 
+non cadere videatur. audita
+audita et pervulgata add. bhψ2
+et percelebrata sermonibus 
+res est. percipitis animis, iudices, iam dudum quid velim 
+vel potius quid nolim dicere. quod etiam si est factum, 
+certe a Caelio quidemquidem σψ1: om. cett.
+non est factumfactum ς
+b2ψ1: om. cett.
+— quid enim attinebat? — est 
+enim ab aliquo adulescente fortasseadulescente fortasse ς, Francken: fortasse adulescente Pπδ
+non tam 
+insulso quam inverecundoinverecundo ς: non verecundo P
+πδ
+. sin autem est fictum, non illud 
+quidem modestum sed tamen est non infacetum mendacium; 
+quod profecto numquam hominum sermo atque 
+opinio comprobasset, nisi omnia quae cum turpitudine aliqua 
+dicerentur in istam quadrare apte viderentur. 
+Dicta est a me causa, iudicesiudices, causa ς
+, et perorata. iam intellegitis 
+quantum iudicium sustineatis, quanta res sit commissa 
+vobis. de vi quaeritis. quae lex ad imperium, ad maiestatem, 
+ad statum patriae, ad salutem omnium pertinet, quam 
+legem Q.Quintus Catulus armata dissensione civium rei publicae 
+paene extremis temporibus tulit, quaeque lex sedata illa 
+flamma consulatus mei fumantis reliquias coniurationis 
+exstinxit, hac nunchac nunc Halm: hac enim P
+πδ: hacine Müller
+lege Caeli adulescentia non ad rei  
+publicae poenas sed ad mulieris libidineslibidinosae ς: libidines et (-es et P2 in ras.) Pπδ
+et delicias deposcitur. 
+atque hoc etiam loco M.Marci
+M. om. ς
+CamurtiCamurii Garatoni
+et C.
+C. Orelli: om. Pπδ
+Caeserni 
+damnatio praedicatur. O stultitiam! stultitiamnestultitiam stultitiamne ς, Naugerius: stultitiamne Pπδ
+dicam an 
+impudentiam singularem? audetisne, cum ab ea muliere 
+veniatis, facere istorum hominum mentionem? audetisaudetis ς: audetisne Pπδ
+excitare 
+tanti flagiti memoriam, non exstinctam illam quidem 
+sed repressam vetustate? quo enim illi crimine peccatoque 
+perierunt? nempe quod eiusdem mulieris dolorem et iniuriam 
+Vettiano nefario sunt stuprosunt stupro σπδ: sunt stupro sunt P: stupro sunt Halm
+persecuti. ergo ut audiretur 
+Vetti nomen in causa, ut illa vetus aerariaaeraria ς, Garatoni: afraria Pπδ
+fabula 
+referreturreferretur ς: reficeretur Pπδ
+: refricaretur ed. R
+, idcirco Camurti et Caeserni est causa renovata? 
+qui quamquam lege de vi certe non tenebantur, eo maleficio 
+tameneo maleficio tamen Aσδ
+: et maleficio Pπ
+erant implicati ut ex nullius legis laqueis eximendieximendi A: emittendi Pπ
+viderentur.
+M. vero Caelius cur in hoc iudicium vocatur? 
+cui neque proprium quaestionis crimencrimen quaestionis Aς
+obicitur nec vero 
+aliquod eius modi quod sit a lege seiunctum, cumcum Aς
+: et cum P2π
+(cum   coniunctum om. P1) vestra 
+severitate coniunctum. cuius prima aetas disciplinae deditadisciplinae dedita (deb. ς) Aς
+: dedita disciplinis (ad disc. P1) Pπδ
+fuit eisque artibus quibus instruimurinstruimur Aσδ
+: instituimur Pπ
+ad hunc usum forensem, 
+ad capessendam rem publicam, ad honorem, gloriam, dignitatem. 
+Eis autem fuit amicitiis maiorum natu quorum 
+imitari industriam continentiamque maxime vellet, eisquorum   vellet, iis (his) ς
+bψ2: quorum   velit is cett.: quorum eum   velitis Madvig
+studiis 
+aequaliumstudiis aequalium Aς
+: aequalium studiis Pπδ
+ut eundem quem optimi ac nobilissimi 
+petere cursum laudis videretur.
+cum autem paulum iam roboris 
+accessisset aetati, in Africam profectus est Q.Quinto Pompeio 
+pro consule contubernalis, castissimo hominihomini AςB: viro cett.
+atque omnis  
+offici diligentissimo; in qua provincia cum res eranterat Aς
+et 
+possessiones paternae, tum etiam usus quidam provincialis 
+non sine causa a maioribus huic aetati tributus. decessit
+decessit Aς
+: discessit Pπδ
+illinc Pompei iudicio probatissimus, ut ipsius testimonio 
+cognoscetis. voluit vetere instituto etet ς: om. cott.
+eorum adulescentium 
+exemplo qui post in civitate summi viri et
+viri et viri et clarissimi viri et ς
+clarissimi cives 
+exstiterunt industriam suam a populo Romano ex aliqua 
+inlustri accusatione cognosci.
+vellem alio potius eum 
+cupiditas gloriae detulisset; sed abiit huius tempus querelaesedaret huius temporis querellam ς
+. 
+accusavit 
+C.Gaium
+C. om. ςB
+Antonium, conlegam meum, cui misero 
+praeclari in rem publicam benefici memoria nihil profuit, 
+nocuit opinio malefici cogitati. postea nemini umquamumquam A: om. Pπδ
+concessit aequalium plus ut in foro, plus utut   ut om. A
+in negotiis 
+versaretur causisque amicorum, plus ut valeret inter suos 
+gratia. quae nisi vigilantes homines, nisi sobrii, nisi industrii 
+consequi non possunt, omnia labore et diligentia est 
+consecutus.
+in hoc flexu quasi aetatis — nihil enim occultabo 
+fretus humanitate ac sapientia vestra — fama adulescentis 
+paululumpaululum ς
+B: paulum cett.
+haesit ad metas notitia nova eiusnova eius scripsi: novae ς: nova Pπδ
+mulieris 
+et infelici vicinitate et insolentia voluptatum, quae, cum 
+inclusae diutius et prima aetate compressae et constrictae 
+fuerunt, subito se non numquam profundunt atque eiciunteiciuntur ς
+universae. qua ex vita vel dicam quo ex sermone — nequaquam 
+enim tantum erat quantum homines loquebantur —  
+verum ex eo quicquid erat emersit totumque se eiecit atque 
+extulit, tantumque abest ab illius familiaritatis infamia ut 
+eiusdem nunc ab sese inimicitias odiumque propulset. 
+atque ut iste interpositus sermo deliciarum desidiaeque 
+moreretur — fecit me invito me herculeme invito meherc. ς: me (om. me b) meherc. invito Pπδ
+et multum repugnante  
+meme ς: om. Pπδ
+, sed tamen fecit — nomen amici mei de ambitu detulit; 
+quem absolutum insequitur, revocat; nemini nostrum 
+obtemperat, est violentior quam vellem. sed ego non 
+loquor de sapientia, quae non cadit in hanc aetatem; de 
+impetu animi loquor, de cupiditate vincendi, de ardore 
+mentis ad gloriam; quae studia in his iam aetatibus nostris 
+contractiora esse debent, in adulescentia vero tamquam in 
+herbis significantsignificant ς
+Bδ
+: significat Pπ
+quae virtutis maturitas et quantae fruges 
+industriae sint futurae. etenim semper magno ingenio 
+adulescentes refrenandi potius a gloriaad gloriam ς
+B
+quam incitandi fuerunt; 
+amputanda plura sunt illi aetati, si quidem efflorescit
+efflorescit etflorescit ς
+P1: florescit P2πδ
+ingeni laudibus, quam inserenda.
+qua re, si cui nimium 
+effervisse videtur huius vel in suscipiendis vel in gerendis 
+inimicitiis visvis del Madvig
+, ferocitas, pertinaciapertinacia ς
+bψ2: om. Pπψ1
+, si quem etiam minimorum 
+horum aliquidaliquod ς
+offendit, si purpurae genus, si amicorum 
+catervae, si splendor, si nitor, iam ista deferverint
+deferv. deferuu. P: deseru. ς (cf. § 43), 
+iam aetas omnia, iam res, iam dies mitigarit. 
+conservate igitur rei publicae, iudices, civem bonarum 
+artium, bonarum partium, bonorum virorum
+virorum morum Weiske: studiosum add. Müller (cf. Zielinski p. 208). promitto hoc 
+vobis et rei publicae spondeo, si modo nos ipsi rei publicae 
+satis fecimus, numquam hunc a nostris rationibus seiunctum 
+fore. quod cum fretus nostra familiaritate promitto, tum 
+quod durissimis sese durissimis ς
+ipse legibus iamiam om. 
+ς
+obligavit.
+non enim 
+potest qui hominem consularem, cumcum ς: quod Pπδ
+ab eo rem publicam 
+violatam esseesse ς, Lambinus: om. Pπδ
+diceret, in iudicium vocarit ipseipse ee (e P1) Pπ
+: ipse σδ
+esse in re publica 
+civiscivis Pπ
+: civis si ς: civis esse δ
+turbulentus; non potest qui ambitu ne absolutum 
+quidem patiaturpatiatur ς, Wesenberg: patitur bψ2
+: datur (dat g2ψ1
+) cett.
+esse absolutumabsolutum esse ς
+ipse impune umquam esse  
+largitor. habet a M.Marco Caelio res publica, iudices, duas 
+accusationes vel obsides periculi vel pignora voluntatis. 
+qua re oro obtestorque vos, iudices, ut qua in civitate paucis 
+his diebus Sex. Clodius absolutus estest ς 
+Baiter: sit Pπδ
+, quem vos per biennium 
+aut ministrum seditionis aut ducem vidistis, hominem sine 
+re, sine fide, sine spe, sine sede, sine fortunis, ore, lingua, 
+manu, vita omni inquinatumhominem   inquinatum post incendit hab. Pπδ, huc transposuit Garatoni
+, qui aedis sacras, qui censum 
+populi Romani, qui memoriam publicam suis manibus 
+incendit, qui Catuli monumentum adflixit, meam domum 
+diruit, mei fratris incendit, qui in Palatio atque in urbis 
+oculis servitia ad caedem et ad inflammandamad inflammandam Bake: ad flammandam ς
+B: inflammandam Pπ
+urbem incitavit: 
+in eaea ς
+Bδ
+: hac Pπ
+civitate ne patiamini illum absolutum muliebri 
+gratia, M.Marcum Caelium libidini muliebrimuliebri   muliebri] mulieris   mulieris ς
+condonatum, ne eadem 
+mulier cum suo coniuge et fratre et turpissimumet turp. Bake: si turp. ς: turp. Pπδ
+latronem 
+eripuisse et honestissimum adulescentem oppressisse videatur. 
+quod cum huius vobis adulescentiam proposueritis, 
+constituitote ante oculos etiam huius miseri senectutem qui 
+hoc unico filio nititur, in huius spe requiescit, huius unius 
+casum pertimescit; quem vosvos om. ς
+supplicem vestrae misericordiae, 
+servum potestatis, abiectum non tam ad pedes quam 
+ad mores sensusque vestros, vel recordatione parentum 
+vestrorum vel liberorum iucunditate sustentate, ut in alterius 
+dolore vel pietati vel indulgentiae vestrae serviatis. nolite, 
+iudices, aut hunc iam natura ipsaipsa natura ς
+occidentem velle maturius 
+exstingui volnere vestro quamquam σδ: quamquam Pπ
+suo fato, aut hunc nunc 
+primum florescentem firmata iam stirpe virtutis tamquam 
+turbine aliquo aut subita tempestate pervertere.
+conservate 
+parenti filium, parentem filio, ne aut senectutem iam prope 
+desperatam contempsisse aut adulescentiam plenam spei  
+maximae non modo non aluisse vosaluisse vos (al   
+P1) P2πδ
+: adlevasse Müller
+verumverum ς
+B: sed cett. (in lac. P2) etiam perculisseperfluxisse atque perpulsisse ς
+B
+atque adflixisse videamini. quem si nobis, si suis, si rei 
+publicae conservatis, addictum, deditum, obstrictum vobis 
+ac liberis vestris
+vestris servis B: fort. servum vestris (cf. Mart. Cap., Rhet. M. p. 471 Caeli in omni vita servitium obstrictum vobis ac liberis vestris habebitis) habebitis omniumque huius nervorum ac 
+laborum vos potissimum, iudices, fructus uberes diuturnosque 
+capietis.  
+
+

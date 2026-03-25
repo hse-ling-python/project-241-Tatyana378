@@ -1,0 +1,76 @@
+# ID: histcorp-latin-perseus-phi0474.phi022.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: In Defense of Publius Sestius 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 843
+# sentences: 85
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+PRO P. SESTIO ORATIO
+si quis antea, iudices, mirabatur quid esset quod, pro tantis opibus rei
+publicae tantaque dignitate imperi, nequaquam satis multi cives forti et magno animo
+invenirentur qui auderent se et salutem suam in discrimen offerre pro statu
+civitatis et pro communi libertatelibertate libertates <hi
+rend="italics">P1unde lib. ⟨is⟩ ex hoc Mommsen:
+lib. is hoc Bake (del.
+ex), ex hoc tempore miretur potius si quem bonum et fortem civem viderit,
+quam si quem aut timidum aut sibi potius quam rei publicae consulentem.
+nam ut omittatis de unius cuiusque casu cogitando recordari, uno
+aspectu intueri potestis eos qui cum senatu, cum bonis omnibus, rem publicam
+adflictam excitarint et latrocinio domestico liberarint, maestos sordidatos reos, de
+capite, de fama, de civitate, de fortunis, de liberis dimicantis; eos autem qui
+omnia divina et humana violarint vexarint perturbarint everterint, non solum alacris
+laetosque volitare, sed etiam fortissimis atque optimis civibus periculum moliri, de
+se nihil timere. in quo cum multa sunt
+indigna, tum nihil minus est ferendum quam quod iam non per latrones suos, non per
+homines egestate et scelere perditos, sed per vos nobis, per optimos viros optimis
+civibus periculum inferre conantur, et quos lapidibus, quos ferro, quos facibus,
+quos vi manu copiis delere non potuerunt, hos vestra auctoritate, vestra religione,
+vestris sententiis se oppressuros arbitrantur. ego
+autem,
+iudices, qua
+voce mihi in agendis gratiis commemorandoque eorum qui de me optime meriti sunt
+beneficio esse utendum putabam, ea nunc uti cogor in eorumeorum <hi
+rend="italics">susp. Landgraf (cf. § 144):
+reorum Stangl: amicorum Weidner:
+meorum coni. Mueller periculis depellendis,
+utut supplevi, a librario aliquo, ut
+videtur, omissum, qui illud uti (VTIIS) male post
+vocabulum cogor iterari opinatus est (<hi
+rend="italics">Cl. Qu. iii. 266) iis potissimum vox haec serviat
+quorum opera et mihi et vobis et populo Romano restituta est. eloquentiae, doloris quam ingeni partis esse susceptas. defensoribus bellum esse sibi gerendum iudicaverunt. excitatae sint. sanguine ac sine totius Italiae vastitate miserrima concidisset. potuerunt hominis fraternis flagitiis, sororiis stupris, facta occurrent mentibus vestris, si ora ipsa oculis proposueritis. rend="italics">et 30, 27) videretur. hominem vocabant materni generis obliti. loquor, quorum fide res publica niti debuit. merito civi, pro amico, pro re publica deprecari. defensione esse coniunctam. aut sibi maerere aut ceteris supplicare? gesseram ut meum factum semper omnes praestare tuerique deberent. arma, exercitus, imperatores, castra denuntiabat. exercitu ipsius tribuni plebis, inimici mei, fratrem praefecerat. esse renovatam:—haec cum viderem, quid agerem, iudices? decertassem, cum consulibus ceterisque eius ultoribus dimicarem. horam meae pestis et suorum praemiorum esse voluissent. vitam exhausisse qua mortem saepe hostibus obtulisset. quam illam labefactari ab improbis malui. hanc civitatem futuram? recordatione mei casus a consiliis fortibus refugiatis. et ea lex quae ut ne ferretur senatus fuerat veste mutata. meis incommodis laetabantur, urbis tamen periculo commoverentur. bonis omnibus publicaretur. constitutum a se regem quam constrictum videri. tribuni plebis concilio ex civitate exturbari? sperabant improbi, agebat tribunus plebis, consules adiuvabant. rettulissent. patribus conscriptis dixit et temporibus rei publicae permissurum. revocari senatus auctoritate oportere. liceret; sed tamen actum nihil nisi de me. posset defendere? quod codd. reprehenditis? iudicare oporteat, dubitandum putatis? acerbissimi sceleris infamiam grato quodam scelere minuissent. >S. exercitu Clodiano. rend="italics">Rau saepserunt. praesidioque contra vim et manum comparando. escunt codd.. accusatur per senatus auctoritatem non est situs. officio vestro, nec ab ipsa causa P. Sesti abhorrebit oratio mea. et clarissimi cives numerantur et principes civitatis. Zielinski. >Balb. § 44), id illi velle audire videantur. populus horum auctoritate maxime commovebatur. concitatae tamquam ad funus rei publicae convolant? honore dignissimos iudicet. haec quantis ab illo clamoribus agebantur! fletum etiam inimicis atque invidis excitaret! possunt qui adfuerunt. peculiaris populus, cui nos offensi invisique fuerimus? familias comparatas et homines armatos? si vis non fuisset, nulla res labefactare potuisset. publicis monumentis studium salutis meae, testimonium dignitatis? res redeuntes ut venirent rogarentur. dolerem, civitatem tam gratam tam miseram atque oppressam fuisse. rend="italics">G) nullo meo merito, >Paul habitura sit exitum pertimescit? socero eius et ab hoc adsecula neglegatur! exsecant pestem aliquam tamquam strumam civitatis. atque augere voluerunt. qui autem bonam famam bonorum, habiti sunt. >all. sit quam oppugnantem rerum potiri? etiam hostem litteris nostris et memoria videmus esse celebratum. consecutos. scelus infidelium, fraudem invidorum. 

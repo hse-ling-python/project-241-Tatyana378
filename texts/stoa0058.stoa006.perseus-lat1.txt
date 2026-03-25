@@ -1,0 +1,58 @@
+# ID: histcorp-latin-perseus-stoa0058.stoa006.perseus-lat1
+# author: Boethius
+# pseudonym: 
+# translator: 
+# title: De Fide Catholica
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: H.F. Stewart
+# publisher: William Heinemann Ltd.; Harvard University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 212
+# sentences: 7
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+de fide catholica
+Christianam fidem noui ac ueteris testamenti pandit auctoritas; et quamuis nomen
+ipsum Christi uetus intra semet continuerit instrumentum eumque semper signauerit
+affuturumquem credimus per partum  uirginis iam
+uenisse, tamen in orbem terrarum ab ipsius nostri saluatoris mirabili manasse
+probatur aduentu. Haec autem religio nostra, quae uocatur Christiana atque
+catholica, his fundamentis principaliter nititur asserens: ex aeterno, id est ante
+mundi constitutionem,  ante omne uidelicet quod
+temporis potest retinere uocabulum, diuinam patris et filii ac spiritus sancti
+exstitisse substantiam, ita ut deum dicat patrem, deum filium, deum spiritum
+sanctum, nec tamen tres deos sed unum: patrem itaque habere <milestone
+unit="loebline" n="15"/> filium ex sua substantia genitum et sibi nota ratione
+coaeternum, quem filium eatenus confitetur, ut non sit idem qui pater est: neque
+patrem aliquando fuisse filium, ne rursus in infinitum humanus animus <pb n="p.54"
+/> diuinam progeniem cogitaret, neque filium iri eadem naturae uitium, quod praeuaricationis primus auctor erudire per Moysen data lege constituit, quemadmodum imperasse. Sub quo exstitit beata uirgo Maria quae decreuerat, ascendit in caelos ubi, in eo quod numero superna illa ciuitas impleatur, ubi rex est 

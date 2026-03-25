@@ -1,0 +1,75 @@
+# ID: histcorp-latin-perseus-stoa0045.stoa017.perseus-lat2
+# author: Ausonius, Decimus Magnus
+# pseudonym: 
+# translator: 
+# title: Ausonius. Works.
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Hugh G. Evelyn-White
+# publisher: William Heinemann Ltd.; Harvard University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 226
+# sentences: 14
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+<div n="urn:cts:latinLit:stoa0045.stoa017.perseus-lat2"
+xml:lang="lat"
+type="edition">            
+AUSONIUS HESPERIO FILIO SAL (Consulari Libro subiciendi quem ego ex cunctis Consulibus unum coegi. Gregorio ex Praef. )
+IGNOTA aeternae ne sint tibi tempora Romae,
+regibus et patrum ducta sub imperiis,
+digessi fastos et nomina praepetis aevi,
+sparsa iacent Latiam si qua per historiam,
+sit tuus hic fructus, vigilatas accipe noctes: 
+obsequitur studio nostra lucerna tuo.
+tu quoque venturos per longum censere Ianos,
+ut mea digessit pagina praeteritos.
+exemplum iam patris habes, ut protinus 3 et te
+adgreget Ausoniis purpura consulibus. 
+SUPPUTATIO AB URBE CONDITA IN CONSULATUM
+NOSTRUM 
+ANNIS undecies centum coniunge quaternos,
+undecies unumque super trieterida necte.
+haec erit aeternae series ab origine Romae.
+IN FINE EIUSDEM LIBRI ADDITI 
+HACTENUS adscripsi fastos, si sors volet, ultra
+adiciam: si non, qui legis, adicies,
+scire cupis, qui sim? titulum, qui quartus ab imo est,
+quaere: leges nomen consulis Ausonii.
+DE EODEM
+urbis ab aeternae deductam rege Quirino
+annorum seriem cum, Procule, accipies,
+mille annos centumque et bis fluxisse novenos
+consulis Ausonii nomen ad usque leges,
+fors erit, ut, lustrum cum se cumulaverit istis, 
+confectam Proculus signet Olympiadam.
+

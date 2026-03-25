@@ -1,0 +1,70 @@
+# ID: histcorp-latin-perseus-phi0474.phi023.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: Against Publius Vatinius 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 368
+# sentences: 37
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+IN P. VATINIVM TESTEM INTERROGATIO
+si tantumSi tant. PB<foreign xml:lang="grc"
+>S: si tua tant. H<foreign
+xml:lang="grc">s (cf. tua
+indignitas § 11). Si tantum modo tua Halm, haud
+prob. modo, Vatini, quid indignitas postularet spectare<hi
+rend="italics">Cf. Sest. § 60 ignari quid gravitas ... valeret, <hi
+rend="italics">Cl. Qu. iv. 173 4 voluissem, fecissem id quod his
+vehementer placebat, ut te, cuius testimonium propter turpitudinem vitae sordisque
+domesticas nullius momenti putaretur, tacitus dimitterem; nemo enim horum aut ita te
+refutandum ut gravem adversarium aut itaita HGk: <hi
+rend="italics">om. PB, fort. recle rogandum ut religiosum testem
+arbitrabatur. sed fui paulo anteante PB<foreign
+xml:lang="grc">S: in te Hb<foreign
+xml:lang="grc">s: ante in te <hi rend="italics"
+>Lamb. intemperantiorintemperatior <hi rend="italics"
+>PBSG fortasse quam debui;
+odio enim tui, in quo etsi omnis propter tuum in me scelus superare debeo, tamen ab
+omnibus paene vincor, sic sum incitatus ut, cum te non minus contemnerem quam
+odissem, tamen vexatum potius quam despectum vellem dimittere. qua re ne
+tibi hunc honorem a me haberi forte mirere, quod
+interrogem quem nemo congressu, nemo aditu, nemo suffragio, nemo civitate, nemo luce
+dignum putet, nulla me causa impulisset nisi ut ferocitatem istam tuam comprimerem
+et audaciam frangerem et loquacitatem paucis meis interrogationibus inretitam
+retardarem. etenim debuisti, Vatini, etiam si falso venisses in
+suspicionem P. Sestio, tamen mihi ignoscere, si in tanto hominis de me optime meriti
+periculo et tempori eius et voluntati parere voluissem. cum tu mihi Corneli defensionem in maledictis obiciendam putaris. civibus rei publicae causa diligi! responsa atque eius conlegi adrogantiam impedimento non futura? quod Caesari? >Hs? augur dissoluturus? tuis terreas? in carcere conlocatam audire maluit quam videre. quidem ipsae dignitatis. esse non modo furori, verum etiam inrisioni tuae? auxilium nefarium confugisse? possit codd.? fiat codd.? omnia in pecunia posuisset honore animo aequo carere debere. 

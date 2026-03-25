@@ -1,0 +1,57 @@
+# ID: histcorp-latin-perseus-phi0474.phi025.perseus-lat1
+# author: M. Tullius Cicero
+# pseudonym: 
+# translator: 
+# title: On the Subject of the Consular Provinces 
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Albert Clark
+# publisher: e Typographeo Clarendoniano
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 343
+# sentences: 39
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+DE PROVINCIIS CONSVLARIBVS IN SENATV ORATIO
+si quis vestrum, patres conscripti, exspectat quas sim provincias
+decreturus, consideret ipse secum qui mihi homines ex provinciis potissimum
+detrahendi sint: non dubitabit quid sentire me conveniat, cum quid mihi sentire
+necesse sit cogitarit. ac si princeps eam sententiam dicerem, laudaretis
+profecto; si solus, certe ignosceretis; etiam si paulo minus utilis vobis sententia
+videretur, veniam tamen aliquam dolori meo tribueretis. nunc vero, patres
+conscripti, non parva adficior voluptate, vel quod hoc maxime rei publicae conducit,
+Syriam Macedoniamque decerni, ut dolor meus nihil a communi utilitate dissentiat,
+vel quod habeo auctorem P. Servilium, qui ante me sententiam dixit, virum
+clarissimum et cum inin ut Angelius ita mg. H, bk
+Harl. 2681 (cum abl. c), om.
+P rell. praeter t (ad) universam rem publicam tum etiam erga
+meam salutem fide ac benivolentia singulari. diligentissimos satellites scelerum, ministros cupiditatum suarum. gravissima sint, sed quia nunc sine teste dico. et reliqua urbis ornamenta sanctissime custodita tenuerunt: probrosior? an infelicior esset iudicare. rend="italics">om. esse). contra illius helluonis et praedonis audaciam. all. unus omnium nequissimus existimaretur. extortis quae erant pro scelere atque eversione patriae consecuti. videamus quos animo aequo videre non possumus. sociorum aerumna, sceleratissimorum hominum impunitas propagatur. mihi censuerim petenda. communi animo ac voluntate defenderent? novis nominibus gentium nationum locorum? nulli in eodem defendendo suo plus otio quam communi prospexerint? laudatorem vidistis. ergo ille cumulus dierum hominis est dignitati tributus. relatum est ad nos nuper de stipendio exercitus: sentirem facere uberius propter ipsius Caesaris dignitatem. patres conscripti, C. prope iam explicatam perturbare atque impedire debemus. >Muell. accidat providendum. aut potens huic ordini iure irasci posse videatur. >Naugerius, suum generum, sentiebam. impendere a consulibus proximis non suspicabar. 

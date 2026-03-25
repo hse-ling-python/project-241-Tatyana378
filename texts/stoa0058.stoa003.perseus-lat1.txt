@@ -1,0 +1,56 @@
+# ID: histcorp-latin-perseus-stoa0058.stoa003.perseus-lat1
+# author: Boethius
+# pseudonym: 
+# translator: 
+# title: Theological Tractates and the Consolation of Philosophy
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: H.F. Stewart
+# publisher: William Heinemann Ltd.; Harvard University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 152
+# sentences: 7
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+quomodo substantiae
+Item eiusdem ad eundem quomodo substantiae in eo quod sint bonae sint cum non
+sint substantialia bona
+postulas, ut ex Hebdomadibus nostris eius quaestionis obscuritatem quae continet
+modum quo substantiae in eo quod sint bonae sint, cum non sint substantialia bona,
+digeram et paulo euidentius monstrem; idque  eo
+dicis esse faciendum, quod non sit omnibus notum iter huiusmodi scriptionum. Tuus
+uero testis ipse sum quam haec uiuaciter fueris ante complexus. Hebdomadas uero ego
+mihi ipse commentor potiusque ad memoriam meam speculata conseruo quam cuiquam
+participo quorum lasciuia ac petulantia nihil
+a ioco risuque patitur esse seiunctum. 1 Prohinc tu ne sis obscuritatibus breuitatis
+aduersus, quae cum sint arcani fida custodia tum id habent commodi, quod <pb n="p.40"
+/> cum his solis qui digni sunt conloquuntur. Vt igitur quod ipsum est album non est. Et de ceteris qualitatibus 
