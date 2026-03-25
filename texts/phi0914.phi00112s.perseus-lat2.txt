@@ -1,0 +1,59 @@
+# ID: histcorp-latin-perseus-phi0914.phi00112s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 128
+# sentences: 10
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XII Periocha
+cum legati Romanorum a Gallis Senonibus interfecti essent, bello ob
+id Gallis indicto, L. Caecilius praetor ab his cum legionibus caesus est.
+cum a Tarentinis classis Romana direpta esset, IIviro qui
+praeerat classi occiso, legati ad eos a senatu, ut de his iniuriis quererelitur,
+missi pulsati sunt. ob id bellum his indictum est.
+Samnites defecerunt. adversus eos et Lucanos et
+Brittios et Etruscos aliquot proeliis a conpluribus ducibus bene pugnatum est.
+Pyrrhus , Epirotarum rex, ut auxilium Tarentinis ferret, in
+Italiam venit. cum in praesidium Reginorum legio Campana cum
+praefecto Decio Vibellio missa esset, occisis Reginis Regium <note
+anchored="true" place="unspecified"> Regium vulg.:
+regnum MSS.
+occupavit. 
+
+

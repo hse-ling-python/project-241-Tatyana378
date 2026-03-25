@@ -1,0 +1,74 @@
+# ID: histcorp-latin-perseus-phi0914.phi0018.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 578
+# sentences: 60
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber VIII
+IAM consules erant C. Plautius iterum L. <note
+place="unspecified" anchored="true"> L. (lucius) 
+dx
+: licius D?L: titus ( or
+t. ) W.
+Aemilius Mamercus, cum Setini Norbanique Romam nuntii defectionis Privernatium
+cum querimoniis acceptae cladis venerunt. 
+Volscorum item exercitum duce Antiati populo consedisse ad Satricum
+allatum est. 
+utrumque bellum Plautio sorte evenit. prius ad Privernum
+profectus extemplo acie conflixit. haud magno certamine devicti
+hostes; oppidum captum redditumque Privernatibus praesidio valido imposito; agri
+partes duae ademptae. 
+inde victor exercitus Satricum contra Antiates ductus. ibi
+magna utrimque caede atrox proelium fuit; et cum tempestas eos neutro inclinata
+spe dimicantes diremisset, Romani nihil eo certamine tam ambiguo fessi in
+posterum diem proelium parant. 
+Volscis recensentibus quos viros in acie amisissent haudquaquam
+idem animus ad iterandum periculum fuit; nocte  pro victis Antium
+agmine trepido sauciis ac parte <note type="margin" place="unspecified"
+anchored="true">A.U.C. 413 impedimentorum relicta abierunt.
+armorum magna vis cum inter caesa hostium corpora tum in castris
+inventa est. ea Luae Matri dare se consul dixit finesque hostium
+usque ad oram maritimam est depopulatus. 
+
+alteri consuli Aemilio ingresso Sabellum agrum non castra Samnitium,
+non legiones usquam oppositae. ferro ignique vastantem agros legati
+Samnitium pacem orantes adeunt;  a quo reiecti
+ad senatum, potestate facta dicendi, positis ferocibus animis pacem sibi ab
+Romanis bellique ius adversus Sidicinos petierunt, memoria praesentior erat—his se armis abstinuere. se devovisset, eius populi partisque victoriam fore. violatorum testis, qui plus potest polletque. erectis magna vi caput quateret, excussit equitem, ordinem in hostem pugnasti, et quantum in te fuit, impressionem Latinorum, se ad principes recepere. turbavit, deinde in totam penitus aciem pervasit. sexcenti—denarios nummos quadringenos quinquagenos. consules omnibus eam rem praeverti proficiscuntur. Camillus ad Pedum cum Tiburtibus, obtineret, inter Sidicinos Auruncosque bellum ortum. consulibus ut extra sortem Corvi ea provincia esset. namque M. Fabius, captivus Romanus, ne cui auctorum fidem abrogaverim, exponenda est. dictatorem clavi figendi causa creari placuit. facti positi in sacello Sangus adversus aedem Quirini. Plautio Proculo P. Cornelio Scapula consulibus, Fundanumque et Formianum, haud ambigue sollicitari. deletisque eis ad ipsius obsidionem omnes conversi. praeter necessarium urbis praesidium ad litus missa. spoliati atque  egentes domos rediere. coepta est—in fidem populi Romani venisse allatum est: clamore suo magistratus senatum vocare; consilii; sed eventus docuit fortes fortunam iuvare. finium hostes prohibiti coniungere arma. erat, morbo gravi implicitum fortuna bello subtraxit; tecta hostium sataque in aciem invitos extraxit, teneret, neu absente se cum hoste manum consereret. si posset, in omnes saeviturum fuisse: appello et provoco ad populum eumque tibi, caeca et fortuita pro sollemni et sacrata militia sit; procumbere ad genua et iram deprecari dictatoris. potestati precarium non iustum auxilium ferenti. anchored="true">A.U.C. 429 accesserunt. equitem adsecutus, et totis iam copiis Samnis urgebat. munimento stare, aviditate praedae impetum faciunt. impeditosque hostes caede omnia replet. novato clamore signa inferuntur; partim in medio caesi, partim in fugam dissipati sunt. morte voluntaria ignominiae se ac supplicio subtraxit. 

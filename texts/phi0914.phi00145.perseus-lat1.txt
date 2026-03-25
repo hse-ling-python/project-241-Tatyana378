@@ -1,0 +1,94 @@
+# ID: histcorp-latin-perseus-phi0914.phi00145.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklürt von M. Weissenborn, book 45
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 851
+# sentences: 78
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+-->
+victoriae nuntii,
+Q.
+Fabius et L.
+Lentulus et <persName n="2"
+>Q.
+Metellus, quanta potuit adhiberi festinatio,
+celeriter Romam cum venissent, praeceptam tamen eius rei laetitiam invenerunt.
+quarto post die, quam cum rege est pugnatum,
+cum in circo ludi fierent, murmur repente populi tota spectacula pervasit pugnatum
+in Macedonia et devictum regem esse; <pb
+n="vol.10.2.p.2" type="notedatea"/> dein fremitus increvit; a. u. c.
+586.postremo clamor plaususque velut
+certo nuntio victoriae allato est exortus.  mirari
+magistratus et quaerere auctorem repentinae laetitiae; qui postquam nullus erat,
+evanuit quidem tamquam certae rei gaudium, omen tamen laetum insidebat animis.
+quod postquam veris nuntiis Fabi Lentulique et
+Metelli adventu firmatum est, cum victoria ipsa, tum augurio animorum suorum
+laetabantur.  et altera traditur circensis turbae
+non minus similis veri laetitia. ante diem quintum decimum kal. Octobres, ludorum
+Romanorum secundo die, C.
+Licinio consuli ad quadrigas mittendas escendenti
+tabellarius, qui se ex Macedonia venire diceret, laureatas litteras <hi
+rend="italics">reddidisse dicitur. <pb
+n="vol.10.2.p.3" type="notedatea"/> quadrigis missis consul currum conscendit
+et, cum per circum reveheretur ad foros 
+publicos, laureatas tabellas populo ostendit. 
+quibus conspectis repente inmemor spectaculi populus in medium decurrit. eo senatum
+consul vocavit recitatisque tabellis ex auctoritate patrum pro foris publicis
+denuntiavit populo L.
+Aemilium collegam signis conlatis cum rege Perseo
+pugnasse; Macedonum exercitum caesum fusumque;
+regem cum paucis fugisse; civitates omnes Macedoniae in dicionem populi Romani
+venisse.  his auditis clamor cum ingenti plausu
+ortus; ludis relictis domus magna pars hominum ad coniuges <hi rend="italics"
+>liberosque laetum nuntium portabant. 
+tertius decimus dies erat ab eo, quo in Macedonia pugnatum est. <milestone
+unit="chapter" n="2"/> postero die senatus in
+curia habitus, supplicationesque decretae, et senatus consultum factum est, ut
+consul, quos praeter milites sociosque navales coniuratos haberet, dimitteret;
+de militibus sociisque navalibus dimittendis
+referretur, cum legati ab L.
+Aemilio consule, a quibus praemissus tabellarius
+esset, venissent. <pb
+n="vol.10.2.p.4" type="notedatea"/> ante diem sextum a. u.
+c. 586.kal. Octobres hora fere secunda legati urbem ingressi
+sunt. ingentem secum occurrentium, quacumque ibant, prosequentiumque trahentes
+turbam in forum ad curiam perrexerunt.  senatus
+forte in curia erat; eo legatos consul introduxit. ibi tantum temporis retenti, dum
+exponerent, quantae regiae copiae peditum equitumque
+fuissent, quot milia ex his caesa, quot capta forent; omni, sumptuosum ac damnosum ipsis Romanis esset. regis per Euandrum Delphis prope perpetrata caedes. damnatus auctorem se nefandi facinoris protraheret. Samothracum in se converteret, interfici Euandrum iussit. in lembum ad Cotym deveheret. templo erat, nulla ope supplicem iuvantis accusans. accessio Punici belli fuerat, sicut Gentius Macedonici; inmenso spatio imperium fuerat, suae dicionis fecit; est, in contionem quoque eos iidem precibus pertraxerunt. populum, sed penes paucos concitores volgi esse dixit: vellet, quam hostis ex socio factus vi atque armis ageret, responsum acciperet. comitibus omnibus, liberis servisque, vestimenta data. rustica pluris sestertium triginta milium haberent, — cuiquam homini, nedum ordini universo adimere posse. omnes, qui servitutem servissent, coicerent. Macedoniam, quinque in Illyricum. imperatores possent. universos omnia et huic tribuere et illi vero negare. praecipuum capitis insigne gerat, omnes fratres regnent. rend="italics">ad ultimum mori iussurum? dicentes venisse petissent, ut senatus sibi daretur, antea semper prius senatus de bello consultus esset, noxii essemus, quod nostrum in hoc bello crimen esset? bello Antiochum et Ptolemaeum reges misistis, loqueretur. iidem universae genti auctores desciscendi ab Romanis. bello exercentes, nunc in pace miscentes ritus suos. castra posuit; inde profectus Pellam quinto die pervenit. Epirum petens quintis decimis castris Passaronem pervenit. quarta signum ad diripiendas urbes datum est militibus; castris haberet, nullam in exercitu seditionem habuit. eloquentiae dare voluit, non triumphum inpedire debuit, antea fecisti, cum ipse imperator ut exactor circumiret; translaturus in triumpho est et in aerarium laturus.’ Atheniensem lacerantem invidia principes suos videatur. domitoris Africae, Literni sepulcrum ostendi erubescamus. quibus vota nuncupavit, merita dona portans redit. auctore Ser. cicatricibus, omnibus adverso corpore exceptis, habeo. Perseus contra praedives bellare cum Romanis coepit. ductus, sed etiam victor Paulus auro purpuraque fulgens. conparare eo, quo debeo, animo privatam meam fortunam. exercitibusque et classibus vestris sacrificavi. coacto acie vici; Pauli nomen ferat. posset, aestimaturum, filium atque obsides ei remissurum. Thracibus munera data in singulos binum milium aeris. civibus et sociis navalibus dedit quantum militibus. 

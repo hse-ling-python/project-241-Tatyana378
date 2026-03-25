@@ -1,0 +1,148 @@
+# ID: histcorp-latin-perseus-phi0914.phi00142.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 41-42 - 42
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,208
+# sentences: 86
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+L.
+Postumius
+Albinus
+M.
+Popilius
+Laenas
+cum omnium primum de provinciis et
+exercitibus ad senatum rettulissent,Ligures utrique decreti sunt,  ut novasambo, quibus eam provinciam optinerent, legiones — binae singulis decretae — et
+socium Latini nominis dena milia peditum et sescenos equites, et supplementum
+Hispaniae tria milia peditum Romanorum scriberent et ducentos equites.
+ad hoc mille et quingenti pedites Romani
+cum centum equitibus scribi iussi, cum quibus praetor, cui Sardinia obtigisset,
+in Corsicam transgressus bellum gereret: 
+interim 
+M.
+Atilius
+vetus praetor provinciam optineret Sardiniam. <milestone
+unit="section" n="5"/> praetores deinde provincias sortiti sunt, <persName
+n="3">
+A.
+Atilius
+Serranus
+urbanam, 
+C.
+Cluvius
+Saxula
+inter cives et peregrinos, 
+N.
+Fabius
+Buteo
+Hispaniam citeriorem, 
+C.
+Matienus
+ulteriorem, 
+M.
+Furius
+Crassipes
+Siciliam, 
+C.
+Cicereius
+Sardiniam.  priusquam in <hi
+rend="italics">provincias magistratus proficiscerentur, senatui placuit
+L.
+Postumium
+consulem ad agrum publicum a privato terminandum in Campaniam ire,
+cuius ingentem modum possidere privatos paulatim proferendo fines constabat.
+hic iratus Praenestinis, quod, cum eo
+privatus sacrificii in templo Fortunae faciundi causa profectus <note
+place="unspecified" anchored="true">
+a. Ch. 173.
+esset, nihil in se honorifice neque publice neque privatim factum a
+Praenestinis esset, priusquam ab Roma proficisceretur, litteras Praeneste misit,
+ut sibi magistratus obviam exiret, locum publice pararet, ubi deverteretur,
+jumentaque, cum exiret inde, praesto essent. 
+ante hunc consulem nemo umquam sociis ulla re oneri aut sumptui fuit. <milestone
+unit="section" n="9"/> ideo magistratus mulis tabernaculisque et omni alio
+instrumento militari ornabantur, ne quid tale imperarent sociis. <milestone
+unit="section" n="10"/> privata hospitia habebant; ea benigne comiterque
+colebant, domusque eorum Romae hospitibus patebant, apud quos ipsis deverti mos
+esset.  legati, qui repente aliquo
+mitterentur, singula iumenta per oppida, iter qua faciundum erat, imperabant;
+aliam inpensam socii in magistratus Romanos non faciebant. <milestone
+unit="section" n="12"/>
+ira consulis, etiamsi iusta, non tamen
+in magistratu exercenda, et silentium nimis aut modestum aut timidum
+Praenestinorum ius, velut probato exemplo, magistratibus fecit graviorum in dies
+talis generis imperiorum.principio huius anni legati, qui in Aetoliam
+et Macedoniam missi erant, renuntiarunt, sibi conveniendi regis Persei, cum alii
+abesse eum, alii aegrum esse, falso utrumque, fingerent, potestatem non factam;
+facile tamen apparuisse sibi bellum parari
+nec ultra ad arma ire dilaturum. item in Aetolia seditionem gliscere in dies,
+neque discordiarum principes auctoritate sua coerceri potuisse. <milestone
+unit="section" n="3"/> cum bellum Macedonicum in expectatione esset,
+priusquam id susciperetur, prodigia expiari pacemque deum peti precationibus,
+qui editi ex fatalibus libris essent, placuit. 
+Lanuvi classis magnae species in caelo visae dicebantur et Priverni lana pulla
+terra enata et in Veienti apud Rementem lapidatum, Pomptinum omne velut nubibus
+lucustarum coopertum esse, 
+in Gallico agro, qua induceretur
+aratrum, sub existentibusglebis pisces emersisse.  ob haecprodigia libri fatales inspecti editumque ab decemviris est, et quibus diis
+quibusque hostiis sacrificaretur,  et ut
+supplicatio prodigiis expiandis fieret, alteraque, quae
+priore anno valetudinis populi causa vota esset, ea uti <hi rend="italics"
+>fieret feriaeque essent. ita  sacrificatumque est, ut decemviri
+scriptum ediderunt. 
+
+eodem anno aedis Iunonis Laciniae detecta.
+Q.
+Fulvius
+Flaccus
+censor aedem Fortunae equestris, quam in Hispania praetor bello
+Celtiberico voverat, faciebat enixo studio, ne ullum Romae amplius aut
+magnificentius templum esset.  magnum ornatum
+ei templo ratus adiecturum, si tegulae marmoreae essent, profectus in Brittios
+aedem Iunonis Laciniae ad partem dimidiam detegit, id satis fore ratus ad
+tegendum quod aedificaretur. 
+naves paratae fuerunt, quae tollerent
+atque asportarent, auctoritatecensoria sociis deterritis id sacrilegium prohibere. <milestoneunit="section" n="4"/> postquam censor rediit, tegulae expositae de navibus
+ad templum portabantur.  quamquam, unde essent,
+silebatur, non tamen celari potuit. fremitus igitur in curia ortus est; ex
+omnibus partibus postulabatur, ut consules eam rem ad senatum referrent. ut vero
+accersitus in curiam censor venit, multo infestius singuli universique
+praesentem lacerare:  templum augustissimum
+regionis eius, quod non Pyrrhus, non Hannibal violassent, violare parum
+habuisse, nisi detexisset foede ac prope diruisset. sint, sed spoliis aliorum alii colendi exornandique. essent imperanda; se nullo usquam cessaturum officio. Romani vix pacatis servire. , decemvir sacrorum, eo anno mortuus est. supplementum veteribus liceret, utrumque negatum est. perenni fonte unde hauriat, Threciam subiectam esse. se nihil hostile dixisse aut fecisse fides habeatur; opportunitatem, omnia circumeuntes, quaerebant. coeptum nec consulte et timide reliquerunt. appellere tuto et copias per commodum exponere posset. fuit, tota ad imum fulmine discussa est. dies Iovi optimo maximo primo quoque die faciendos. libertatem expositam ad iniurias Masinissae malle; eorum posset, Romam ad magistratus creandos veniret. Perse auctore missos, ut, quid ageretur, scirent. tantum bellum immineret, e re publica visum erat. Bellonae de rebus in Liguribus gestis dissereret. pontifex, qui priore anno fuerat censor. omnia belli pacisque se consociaverat consilia. potentes sese in civitatibus suis futuros rati. ingenium, quia Perseus magis aurae popularis erat. populo Romano satisfecissent, bello persequeretur. nec posse collegam salvo iure iurando secum sortiri: decumum ordinem hastatum adsignavit. consule in Hispaniam sum profectus. consul ex contione in senatum duxit. Macedonibus et senatus decresset et populus iussisset. commisissent, ea corrigendi occasionem illis oblatam; renuntiare domum certa, quae audissent, volebant. “ad maiorem et” — quod Philippo ipsi cognomen erat — respondere, ne nimis acerbum audienti tibi videatur. societatem, quam non licebat, iureiurando pepigisti; quae damnati sunt, auctores vos fuisse fateamini. , paternum amicum et hospitem, habebam. fecerim, quam quo modo id vos factum accipiatis. quin ab exulibus fautoribusque eorum interficeretur. superior fuisse in disceptatione videri posset. decepto per indutias et spem pacis rege. cetera, uti e re publica maxime visum esset, agere. accersere ad eam rem agendam iussus. exercitui diem primam quamque diceret ad conveniendum. promunturium [in] Ionio mari Dyrrhachium traicit. iniurias populi Romani in patrem seque conmemoravit: instar, quantum ab tota gente equitum [erat] venerat, iaculatoribusque, qui praecesserant, proelio orto. transductis copiis castra in ulteriore ripa communiit. proelio Romanos molliores factura sit ad paciscendum. posset, non destitit animum consulis temptare. spatium ad obiciendum interiorem murum haberent. nec accendi facile pateretur et extingueret accensa. sua quemque tentoria spicas fascibus desecantem, >est, ut prima luce adgressus falleret. praesidium, ratus haud magno certamine opprimi posse. hastili semicubitali infixum erat crassitudine digiti; consul anteveniens extemplo proelium conseruit. 

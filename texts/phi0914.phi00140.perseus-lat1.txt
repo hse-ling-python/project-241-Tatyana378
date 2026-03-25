@@ -1,0 +1,94 @@
+# ID: histcorp-latin-perseus-phi0914.phi00140.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 39-40 - 40
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 666
+# sentences: 65
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+principio insequentis anni consules
+praetoresque sortiti provincias sunt. consulibus nulla praeter Ligures quae
+decerneretur erat. iuris dicto urbana M. Ogulnio Gallo,
+inter peregrinos 
+M.
+Valerio
+evenit,  Hispaniarum <persName
+n="3">
+Q.
+Fulvio
+Flacco
+citerior, 
+P.
+Manlio
+ulterior, 
+L.
+Caecilio
+Dentri
+Sicilia, 
+C.
+Terentio
+Istrae
+Sardinia.  dilectus habere consules
+iussi. 
+Q.
+Fabius
+ex Liguribus scripserat Apuanos ad rebellionem spectare periculumque
+esse, ne impetum in agrum Pisanum facerent;  et
+ex Hispaniis citeriorem in armis esse et cum Celtiberis bellari sciebant, in
+ulteriore, quia diu aeger esset praetor, luxuria et otio solutam disciplinam
+militarem esse.  ob ea novos exercitus
+conscribi placuit, quattuor legiones in Ligures, uti singulae quina milia et
+ducenos pedites, trecenos haberent equites; sociorum iisdem Latini nominis
+quindecim milia peditum addita et octingenti equites; hi duo consulares
+exercitus essent.  scribere praeterea iussi
+septem milia peditum sociorum ac Latini nominis et quadringentos equites et
+mittere ad 
+M.
+Marcellum
+in Galliam, cui ex consulatu prorogatum imperium erat. <milestone
+unit="section" n="7"/> in Hispaniam utramque quae ducerentur quattuor milia
+peditum civium Romanorum et ducenti equites et sociorum septem milia peditum cum
+trecentis equitibus scribi iussa. 
+et 
+Q.
+Fabio
+Labeoni
+cum exercitu, quem habebat, in Liguribus prorogatum in annum
+imperium esset.Ver procellosum eo anno fuit. pridie Parilia,
+medio ferme die, atrox cum vento tempestas coorta multis sacris profanisque
+locis stragem fecit, signa aenea in Capitolio deiecit; interfecturam, quam in potestatem Philippi venirent. ferrum quicquam defuit ad iustam belli speciem. ipsis quidem ducibus abstineretur, iactabantur. tamquam ad caedem suam venientes, aditu ianuae arcet. foedus icisse et privatas multorum simultates finitas; insidiantibus sit inpune. defuit interdiu, convivae fratris noctu sumpserunt. unus omnia est; eum iam regem vivo patre adpellant. huius, sed proditionis [meae] ante me accusatum; ad sceleris ultimam spem confugisse me insimulat. praevecti sumus et secutum est Macedonum agmen— intervenissent, insidiatores nos sopiti iaceremus. et ea, quae gloriae esse debent, in crimen vertis. pudori, ne regno tuo, ne genti Macedonum essem. meo. ubi praesidium esse oportebat, ibi exitium est. direpta est; praedam militibus praetor concessit. Latini nominis sex milia peditum, trecenti equites. praetor secum in Sardiniam traiceret, adversus fratrem de regno habitorum. gente simul in rebus dubiis periclitari auderet. haud secus quam hostium fines Macedones populati sunt; quos ad exploranda omnia Romam miserat, censebat. Didae mandata dedisse dicitur de filio occidendo. indutias sibi quam primum veniret subsidio. subitarios milites scriberent ducerentque secum. legato, erumpere praetoria porta iussit. milium armatorum non amplius relictum erat praesidium. pugnantibus conspici poterat, iniecit Acilius ignem. bello—, altera in foro olitorio Pietatis. prospere gestas ut diis inmortalibus honos haberetur, quod ita deberet, etiam prope necessarium esse: numerus, quindecim milia peditum, octingenti equites. ire in Hispaniam placuit citeriorem. legionibus quam decem milia et quadringenti pedites, Fortunae equestri Iovique optimo maximo ludos vovit. renovata priore gloria Tarraconem est perductus. coacti in deditionem venerunt armaque tradiderunt. publicam religione votis solvendis dixit velle: prodigia nuntiatum et ab Reate tripedem natum mulum. equites recenseatis, agatis censum, lustrum condatis; Celtiberorum erant, a quibus venerant nuper legati. deditionem accepit; praeda potitus ingenti est. luce ad sextam horam diei signis conlatis pugnasse, manentes intra vallum; spolia per totum diem legisse; pontifex maximus; tres eiecti de senatu; , qui per fundum suum duci non est passus. dedicavit eas aedes, utramque in circo Flaminio, consumptus post mortem filii, decessit. fide sua obligata pacato agmine transituros Bastarnas. 

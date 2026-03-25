@@ -1,0 +1,68 @@
+# ID: histcorp-latin-perseus-phi0914.phi00113s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 223
+# sentences: 20
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XIII Periocha
+VALERIUS LAEVINUS COS. parum prospere adversus Pyrrhum pugnavit, elephantorum
+maxime inusitata facie territis militibus. post id proelium cum
+corpora Romanorum qui in acie ceciderant Pyrrhuis inspiceret, omnia versa in
+hosted invenit  invenit <hi
+rend="italics">vulg.: venit MSS.
+populabundusque ad urbem Romanam processit. C. Fabricius missus ad eum a
+senatu, ut de redimendis captivis ageret, frustra ut patriam desereret a rege
+temptatus est. captivi sine pretio remissi sunt. cineas
+legatus a Pyrrho ad senatum missus petit ut conponendae pacis causa rex in urbem
+reciperetur. de qua re cum ad frequentiorem senatum referri
+placuisset, Appius Claudius, qui propter valetudinem oculorum iam diu consiliis
+publicis se abstinuerat,  venit in curiam et sententia sua tenuit
+ut id Pyrrho negaretur. Cn . Domitius censor primus ex plebe
+lustrum condidit. censa sunt civium capita ccxxxxvii ccxxii.
+iterum adversus Pyrrhum dubio eventu pugnatum est. cum
+Carthaginiensibus quarto foedus renovatum est. cum C. Fabricio
+consuli is qui ad eum a Pyrrho transfugerat polliceretur venenum se regi
+daturum, cum indicio ad regem remissus est. res praeterea contra
+Lucanos et Bruttios, Samnites et Etruscos <note anchored="true"
+place="unspecified"> et Etruscos vulg.: etruscos <hi
+rend="italics">MSS.
+prospere gestas continet. 
+
+

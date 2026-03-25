@@ -1,0 +1,97 @@
+# ID: histcorp-latin-perseus-phi0914.phi00122.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Boooks XXI-XXII With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 894
+# sentences: 69
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XXII
+IAM ver adpetebat; itaque <note
+place="unspecified" anchored="true"> adpetebat; itaque 
+woelfflan :  adpetebatque P.
+Hannibal ex hibernis movit, et nequiquam <note place="unspecified"
+anchored="true"> nequiquam (nequicquam) 
+valla :  neque eo qui iam P.
+ante conatus transcendere Appenninum intolerandis frigoribus et cum
+ingenti periculo moratus ac metu. 
+Galli , quos praedae populationumque conciverat spes, postquam pro
+eo ut ipsi ex alieno agro raperent agerentque, suas terras sedem belli esse
+premique utriusque partis exercituum hibernis videre, <note place="unspecified"
+anchored="true"> videre 
+Alschefski :  uiderent P.  verterunt retro in
+Hannibalem  in Hannibalem <foreign
+xml:lang="greek">s: hannibalem P.  ab Romanis odia;
+petitusque saepe principum insidiis,
+ipsorum inter se fraude eadem levitate qua consenserant consensum indicantium
+servatus erat, et mutando nunc vestem nunc tegumenta capitis errore etiam sese
+ab insidiis munierat. 
+ceterum hic quoque ei timor causa fuit maturius movendi ex hibernis.
+per idem tempus Cn. Servilius consul Romae idibus Martiis
+magistratum iniit. 
+ibi cum de re publica rettulisset, redintegrata in C. Flaminium <pb
+n="p.200"/> invidia est: duos se consules creasse, unum habere; <note
+type="margin" place="unspecified" anchored="true">A.U.C. 537 quod
+enim illi iustum imperium, quod auspicium esse? <note place="unspecified"
+anchored="true"> esse s: esset P. 
+magistratus id a domo, publicis privatisque penatibus, Latinis feriis
+actis, sacrificio in monte perfecto, votis rite in Capitolio nuncupatis secum
+ferre;  nec privatum auspicia sequi, nec sine
+auspiciis profectum in externo ea solo nova atque integra concipere posse.
+augebant metum prodigia ex pluribus simul locis nuntiata: in Sicilia
+militibus aliquot spicula, in Sardinia autem in muro circumeunti vigilias equiti
+scipionem quem manu tenueratarsisse, et litora crebris ignibus fulsisse, et scuta duo sanguinesudasse, et milites quosdam ictos fulminibus, 
+et solis orbem minui visum, et Praeneste ardentes lapides caelo cecidisse, et
+Arpis parmas in caelo visas pugnantemque cum luna solem, <milestone
+unit="section" n="10?"/> et Capenae duas interdiu lunas ortas, et aquas
+Caeretes sanguine mixtas fluxisse fontemque ipsum Herculis cruentis manasse
+respersum maculis, et Antiimetentibus cruentas in corbem spicas cecidisse, <milestoneunit="section" n="11?"/> et Faleriis caelum findi velut magno hiatu visum,
+quaque patuerit ingens lumen effulsisse; sortes adtenuatas unamque sua <pb
+n="p.202"/> sponte excidisseita scriptam: mavors telum suum <note type="margin" place="unspecified"
+anchored="true">A.U.C. 537 concutit; 
+et per idem tempus Romae signum Martis Appia
+via ac simulacra luporum sudasse, et Capuae speciem caeli ardentis fuisse
+lunaeque  lunaeque <hi rend="italics"
+>P: lanaeque 
+Drakenborch . 
+inter imbrem cadentis. 
+inde minoribus etiam dictu prodigiis fides habitat: capras lanatas
+quibusdam factas, et gallinam in marem, gallum in feminam sese vertisse. 
+
+his sicut erant nuntiata expositis auctoribusque in curiam
+introductis consul de religione patres consuluit. hostiis sacrificaretur matronaeque pecunia conlata, ut id agminis medium esset, novissimos ire equites, corpora animis aut animos spe sustinebant; obiecto equitatu clausa omnia lacu ac montibus essent. nullam nisi in dextera ferroque salutis spem esse, in sua legione miles aut cohorte aut manipulo esset: ac laborare senserat suos, impigre ferebat opem; omnem Etruriam diversis itineribus urbem petiere; iacturam; pars non id quod acciderat per se aestimare, piacula irae deum essent ipsos deos consulendos esse, quaeque duella cum Gallis sunt qui cis Alpes sunt, multis aliis divis bubus albis atque ceteris hostiis. tenore eodem consiliorum aestatis reliquum extraxit, pacatum sociorum Romanorum ad populandum venerunt. civium sociorumque portum Tarraconis ex alto tenuit. sunt barbarorum ingenia, cum fortuna mutaverat fidem. mandatis ad rem  agendam accipiendis. cladibus Romanis sollers cunctatio Fabi fecisset; dixerim quam prospero eventu pugnatum fuerat. novi praesidii cum Q. Fabio ab Roma venientis. clades per temeritatem atque inscitiam ducum acceptas liberalioris fortunae fecit togaque et forum placuere bonorum primum in notitiam  populi, primum ait esse quem ad modum imperio aequato utantur: primo statim conspectu contempta paucitas, dissipati erant undique confugerunt ad integram aciem; diem quam iussissent comitia edicturum. in urbe sciret quae sibi agenda armato forent, donec res eaedem manebunt, immutabilis est. non commeatus, non supplementum, non pecuniam habeat? gloria neque tua falsa infamia moverit. corporum tum  specie terribilis erat. cum ab suis parmas post terga habentes adequitassent, exiguum tempus e manibus hostium evadendi absumas. prope civium sociorumque pars caesi dicuntur; sua voluntate milites in legionibus facti essent. praetores deducendos curent—suae quisque fortunae domi socios, sicut ante ad Trebiam Trasumennumque lacum, ut suae in vicem simul felicitati et virtuti cedatur. redimendorum gratia Tarentum misisse. avarior an crudelior sit vix existimari potest? stratas Cannensibus campis legiones vestras. conscripti, quae illic acta sunt ignorare patiar. Romanis, non captivi in hostium potestate essent. pervenire in tuta loca, in sociorum urbes posse. necne, ita admissos esse ne tamen iis senatus daretur; 

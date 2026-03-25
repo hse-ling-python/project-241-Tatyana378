@@ -1,0 +1,240 @@
+# ID: histcorp-latin-perseus-phi0914.phi00144.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XLIII-XLV With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Alfred C. Schlesinger, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,918
+# sentences: 175
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XLIV
+PRINCIPIO veris, quod hiemem eam, qua haec
+gesta sunt, insecutum est, ab Roma profectus Q. Marcius Philippus consul cum
+quinque milibus militum,  militum <hi
+rend="italics">H. J. Müller: om. V.
+quos  quos <hi rend="italics"
+>H. J. Müller: quod V: quot 
+Drakenborch :  quod supplementum J.
+F. Gronovius.
+in supplementum legionum secum traiecturus erat, Brundisium pervenit.
+M. Popilius consularis et alii pari
+nobilitate adulescentes tribuni militum in Macedonicas legiones consulem secuti
+sunt. 
+per eos dies et C. Marcius Figulus praetor, cui classis provincia
+evenerat, Brundisium venit; et simul ex Italia profecti Corcyram altero die,
+tertio Actium, Acarnaniae portum, tenuerunt. 
+inde consul ad Ambraciam egressus itinere terrestri petit Thessaliam;
+praetor superato Leucata Corinthium sinum invectus et Creusae relictis navibus
+terra et ipse per mediam Boeotiam—diei unius expedito iter est— Chalcidem ad
+classem contendit. 
+
+castra eo tempore A. Hostilius in Thessalia circa Palaepharsalum
+habebat, sicut nulla re bellica  memorabili gesta, ita ad intentam
+intentam 
+nov ák Giarratano:  iunctam V:
+cunctam 
+Fr :  unicam J. F. Gronovius:
+iustam 
+kreyssig :  iniunctam 
+Zingerle :  arctam 
+damst é:  adstrictam vel
+strictam 
+roobol . 
+militaremdisciplinam ab effusa licentia formato milite et sociis cum fidecultis et ab omni genere iniuriae defensis. 
+audito successoris adventu cum arma viros equos cum cura inspexisset,
+inspexisset 
+manutius :  inexisset V.
+ornato exercitu obviam venienti consuli processit. <milestone
+unit="section" n="7"/>
+et primus eorum congressus ex dignitate ipsorum ac Romani nominis, et
+in rebus  deinde gerendis—proconsul enim ad
+exercitum mansit  mansit <hi
+rend="italics">add. H. J. Müller: om. V.
+—summa concordia fuit.paucis post diebus consul contionem apud milites habuit. <milestone
+unit="section" n="10"/>
+orsus a parricidio Persei perpetrato in fratrem, cogitato in
+parentem, adiecit post scelere partum regnum veneficia, caedes, latrocinio
+nefando petitum Eumenen, iniurias in populum Romanum, direptiones sociarum
+urbium contra foedus. ea omnia quam diis quoque invisa essent,
+sensurum in exitu rerum suarum:  favere enim
+pietati fideique deos, per quae populus Romanus ad tantum fastigii venerit.
+vires deinde populi Romani, iam terrarum orbem complectentis, cum
+viribus Macedoniae, exercitus cum exercitibus comparavit: quanto maiores
+Philippi Antiochique opes non maioribus copiis fractas esse? 
+
+huius generis adhortatione accensis militum <note type="margin"
+place="unspecified" anchored="true">A.U.C. 585 animis consultare de
+summa gerendi belli coepit. eo et C. Marcius praetor a Chalcide
+classe accepta venit. 
+placuit non ultra morando in Thessalia tempus terere, sed movere
+extemplo castra atque inde pergere inMacedoniam,  et praetorem dare operam,ut eodem tempore classis quoque invehatur hostium litoribus. 
+
+praetore dimisso consul menstruum frumentum <note place="unspecified"
+anchored="true"> frumentum  add. Madvig :
+om. V. 
+iusso milite secum ferre profectus decumo post die, quam exercitum
+acceperat,  castra movit; et unius diei
+progressus iter convocatis itinerum ducibus cum exponere in consilio <note
+place="unspecified" anchored="true"> exponere in consilio <hi rend="italics"
+>J. F. Gronovius: exponerent in concilio V.
+iussisset, qua quisque ducturus esset, summotis iis, quam potissimum
+viam  viam  add.
+nov ák, Ceské: post  quam 
+Sigonius : om. V. 
+peteret, rettulit ad consilium. 
+aliis per Pythoum placebat via, aliis per Cambunios montes, qua
+priore anno duxerat Hostilius consul, aliis praeter Ascuridem paludem.
+restabat aliquantum viae communis; itaque in id tempus, quo prope
+divortium itinerum castra posituri erant, deliberatio eius rei differtur.
+in Perrhaebiam inde ducit, et inter Azorum et Dolichen stativa habuit
+ad consulendum rursus, quam potissimum capesseret viam. <milestone
+unit="section" n="9"/>
+per eosdem dies Perseus cum adpropinquare hostem sciret, quod iter
+petiturus esset, ignarus, omnis saltus insidere <note
+type="margin" place="unspecified" anchored="true">A.U.C. 585
+praesidiis statuit. 
+in iugum Cambuniorum montium —Volustana ipsi vocant—decem milia levis
+armaturae iuvenumcum duce Asclepiodoto mittit;  adcastellum, quod super Ascuridem paludem erat—Lapathus vocatur locus—, Hippias
+tenere saltum cum duodecim milium Macedonum praesidio iussus. <milestone
+unit="section" n="12"/>
+ipse cum reliquis copiis primo circa Dium stativa habuit; deinde adeo
+inops consilii,ut obtorpuisse videretur, cum equitibus expeditis litore nunc Heracleum,Heracleum J.
+F. Gronovius: Heracleam V.
+nunc Philam percurrebat, eodem inde cursu Dium repetens. 
+
+interim consuli sententia stetit eo saltu ducere, ubi propter
+Ottolobum dux regius castra habebat.praemitti tamen quattuor milia armatorum ad loca opportuna
+praeoccupanda placuit, quibuspraepositi sunt M. Claudius, Q. Marcius consulis filius. <milestoneunit="section" n="3"/>
+confestim et universae copiae sequebantur. ceterum adeo
+ardua et aspera et confragosa fuit via, <note place="unspecified"
+anchored="true"> via add. H. J. Miller: om. V:
+confragosa via fuit 
+Fr . 
+ut praemissi expediti biduo quindecim milium passuum aegre itinere
+confecto castra  posuerint. dierum , quem <note
+place="unspecified" anchored="true"> posuerint. dierum quem <hi
+rend="italics">
+novdk :  posuerint fuerimque dierumquē V: posuerint
+quieverintque. dierum quem 
+Madvig :  posuerint requieverintque. dierum
+quem 
+vahlen :  posuerint fuerintque ibi illa nocte.
+dierum quem 
+goldbacher . 
+cepere, locum appellant. <note type="margin" place="unspecified"
+anchored="true">A.U.C. 585
+inde postero die septem milia progressi, tumulo haud procul hostium
+castris capto, nuntium ad consulem remittunt perventum ad hostem esse; loco se
+tuto et ad omnia opportune consedisse; quantum <note place="unspecified"
+anchored="true"> quantum H. J. Müller: ut quantum
+V.
+extendere iter posset, consequeretur. 
+sollicito consuli et propter itineris difficultatem, quod ingressus
+erat, et eorum vicem, quos paucos inter media praesidia hostium praemiserat,
+nuntius ad Ascuridem paludem occurrit. 
+addita igitur et ipsi fiducia est, coniunctisque copiis castra
+tumulo, qui tenebatur, qua aptissimum ad loci naturam erat, sunt acclinata.
+non hostium modo castra, quae paulo plus mille passuum aberant, sed
+omnis regio ad Dium et Philam oraque maris late patente ex tam alto iugo
+prospectu oculis subicitur. 
+quae res accendit militi animos, postquam summam belli ac regias
+omnis copias terramque hostilem tam e propinquo conspexerunt. <milestone
+unit="section" n="9"/>
+itaque cum alacres, protinus duceret ad castra hostium, consulem
+hortarentur, dies unus fessis labore viae ad quietem datus est. <milestone
+unit="section" n="10"/>
+tertio die parte copiarum ad praesidium castrorum relicta consul ad
+hostem ducit. 
+
+Hippias nuper ad tuendum saltum ab rege missus erat; qui ex quo
+castra Romana in tumulo conspexit, praeparatis ad certamen animis suorum
+venienti agmini consulis obvius fuit. et Romani 
+expediti ad pugnam exierant, et hostes levis armatura <note type="margin"
+place="unspecified" anchored="true">A.U.C. 585 erat, <milestone
+unit="section" n="2?"/> promptissimum genus ad lacessendum certamen.
+congressi igitur extemplo tela coniecerunt; multa utrimque volnera
+temerario incursu et accepta et inlata;  pauci
+utriusque partis ceciderunt. inritatis in posterum diem animis
+maioribus copiis atque infestius concursum est; decrevissentque de summa belli,
+si locisatis ad explicandam aciem fuisset; sed <note place="unspecified"anchored="true"> sed  add. vahlen : om. V.
+iugum montis in angustum dorsum cuneatum vix ternis ordinibus armatorum
+in fronte patuit. 
+itaque paucis pugnantibus cetera multitudo praecipue qui gravium
+armorum erant, spectatores pugnae stabant; 
+levis armatura etiam per anfractus iugi procurrere et ab lateribus cum levi
+armatura conserere per iniqua atque aequa loca pugnam poterat.
+pluribus
+poterat. pluribus
+Madvig :  patere ad pluribus <hi rend="italics"
+>V.
+ea  ea <hi rend="italics"
+>V: eo 
+fraenkel . 
+die volneratis quam interfectis proelium nocte diremptum est. 
+
+tertio die egere consilio Romanus imperator; nam neque manere in iugo
+inopi neque regredi sine flagitio atque etiam periculo, si cedenti <note
+place="unspecified" anchored="true"> periculo, si cedenti 
+muretus :  periculose cedenti V.
+ex superioribus locis instaret <note place="unspecified" anchored="true"
+> instaret 
+muretus :  stare V.
+hostis, poterat;  nec aliud restabat
+restabat  ed.
+bas .  1535: stabat V: instabat 
+rossbach . 
+quam audacter commissum pertinaci audacia,quae prudens interdum in exitu
+est, corrigere. 
+ventum quidem erat eo ut, si hostem similem antiquis Macedonum
+regibus habuisset consul, magna clades  accipi potuerit.
+sed cum ad Dium per litora cum <note type="margin"
+place="unspecified" anchored="true">A.U.C. 585 equitibus vagaretur
+rex et ab duodecim milibus prope clamorem et strepitum pugnantium audiret, nec
+auxit copias integros fessis summittendo neque ipse, quod plurimum intererat,
+certamini adfuit, cum Romanus imperator,
+maior sexaginta annis et praegravis corpore, omnia militaria munera ipse impigre
+obiret. 
+egregie ad ultimum in audaciter commisso perseveravit et Popilio
+relicto in custodia iugi per invia transgressurus praemissis, <note
+place="unspecified" anchored="true"> transgressurus praemissis <hi
+rend="italics">
+Weissenborn :  transgressus peremissis <hi
+rend="italics">V.
+qui  qui 
+add. Fr : om. V. 
+repurgarent iter, Attalum et Misagenem cum suae gentis utrumque
+auxiliaribus praesidio esse saltum aperientibus iubet; plures ex ordine, qua rupes abscisae erant, fiebant. ex insperato stabilem ad insistendum nanctis locum. immunesque ac suis legibus victuros est pollicitus. de manibus ea quae mox repeti non possent. divisis partibus oppugnare adorti. altera parte euripus est; inde Eumenes oppugnabat. Ab Demetriade certe abscessum est. adduxerat relinqueret, impetrari ab eo potuisse. longe aliter disserentes legati auditi sunt. sibi faciendum esset, Rhodios consideraturos esse. attributum ex senatus consulto a quaestoribus esset, tempore ad  comitia habenda veniret. nec  nostris vim ad cogendum esse. de bello referre sese L. Aemilius dixit. frustra vos hanc spem de me conceperitis. manus conserendae, quando quiesse sit melius. viatico etiam a me iuvabitur; Ab hac contione Latinis, quae pridie kal. Olympio, qui iusiurandum a Perseo obsidesque exigeret. incitari Rhodios ad bellum Romanum posse. Romanis victis eum manebat, Eumenes visurus fuerit. hunc numerum quinque pristes erant—Tenedum mittit, atque etiam benigne appellatos dimiserunt. eiecere relictisque equis effusa fuga urbem petebant. peteret, ut deliberare de statu rerum suarum posset. natu per Elpei ripam munitionesque vim facere: certiore  ictu hostis uti audierat. hinc consule cum suis legionibus pugnatum est. amissis consul paulo serius recepit suos. labore flagrantissimo aestu non coegisset pugnare; adgrediatur, nec oblatam occasionem vincendi amittat. tu nunc habes, et quem ego nunc habeo, tu habebis. temporibus fiat, et sciri ante et praedici posse. Romanis militibus Galli sapientia prope divina videri; intuentis aciem animadvertisse certum habeo. intentis horrentis hastis intolerabiles vires sunt; et variis difficultatibus viae est vexatus; Pella consul quartis castris Amphipolim pervenit. 

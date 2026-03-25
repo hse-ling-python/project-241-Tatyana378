@@ -1,0 +1,46 @@
+# ID: histcorp-latin-perseus-phi0914.phi00123.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 21-25 - 23
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Charles Flamstead Walters
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 502
+# sentences: 56
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Hannibal post Cannensem pugnam ltcastraquegt
+capta ac direpta confestim ex Apulia in Samnium mouerat, accitus in Hirpinos a
+Statio ltTrebiogt pollicente se Compsam traditurum. licentia plebis sine modo libertatem exercentis. obliti credant,—cum omnes uicti metu permitterent, faciam, ut quas quisque meritus est poenas pendat; improbum pro se quisque clamare et supplicio dignum. futurum, proficiscitur e castris cum modico praesidio. luxuriosa, omnibus uoluptatium inlecebris instructum. quoque eius haud mirabilem perturbationem causante. preces apud te meae, sicut pro te hodie ualuerunt.' amicitiam suam Romanae societati praeposuissent, permissumque ut rediret seu Romam seu Capuam mallet. deque praeda manubiis spoliisque honorem habetote; si uolumus fortuna uti, pacem nobis aequiorem dabunt; potiundi, quo cursus nauibus tutus ex Africa esset; remanserint ac militare secum uoluissent proposuit. Poenis ingentis repente exercitus speciem fecerit. parat. ceterum Acerranis plus animi quam uirium erat; tironum modo corporibus animisque deficiebant, ad Casilinum defluerent, cratibus excipiebantur. —scriba is antea fuerat—redierunt. propraetoris in senatu recitatae sunt: in Sardinia ciuitates sociae benigne contulerunt. ltindegt in demortuorum locum in senatum legerentur. consulem ad dictatorem dicendum iusserunt. ibi militare donec in Italia bellum esset placuit; urbanae euenissent, militum sumere quantum opus esset; conuexerat, ui capiunt omnique circa agro potiuntur; die in deditionem uenit. nec diu in pacto mansit; per Hispaniam omnium ferme animos ad Romanos auertit. multitudinem sollicitantemque socios absumpsisset. res gestas creari uolebant, fremitus in curia ortus. missus; praetores in Siciliam ac Sardiniam profecti. propior Italiae ac mari tantum Ionio discretus erat. esse incertis adhuc uiribus fluctuatus animo fuerat. Romana sunt quae praesidio erat Calabriae litoribus; tradunt se Romanis et ad praefectum classis adducti, tempestate uexata ad Baliares insulas deicitur, nihil abnuere, ita tegi fallax consilium posse rati. miles tironi, liber uoloni sese exaequare sineret; coegisset ita fieri, eandem cogere tueri factum. quattuordecim milibus armatorum habebat castra, alios perpetrato sacro inermes redeuntes obtruncat. quinque nauibus, quae aduexerant captiuos legatos, praetorem litteris certiorem faceret, cognomen erat] et Crito Boeotus et Sositheus Magnes. expiata tandem prodigia ambo consules rem gerebant. praetor graui morbo est implicitus. interuentus coepta impediret, mortem sibi consciuit. ne deos quidem iratos, si fas est dici, timeremus. repleturum se et metu procul ab his summoturum hostes. praesentem Hannibalem cauta prouisaque fuerunt. Romani obterit senescentem cum uiribus maiestatem; partem copiarum praedatum in agrum Nolanum misit. spatio—et sunt omnia campi circa Nolam—concurrerunt. praeteriti temporis famam, ibi spem futuri exstinctam. ad Cannas occidit? ferrum nunc hebet? spolia hostium Marcellus Uolcano uotum cremauit. redempturis auxissent patrimonia, ut rei publicae, proelio occisis, trinisque eo die castris potiti sint. signis duobus et quadraginta et nouem elephantis. 

@@ -1,0 +1,45 @@
+# ID: histcorp-latin-perseus-phi0914.phi00131.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 31-32 - 31
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: H. J. Müller
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 414
+# sentences: 41
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+me quoque iuvat, velut ipse in parte laboris
+ac periculi fuerim, ad finem belli Punici pervenisse. urbem compulerat, excitaverunt ad renovandum bellum. quibus diis ipsis videretur cum precatione ea: dedecorique dilatio ea belli futura esset. centurias in suffragium mitteret, contione advocata ‘ transportetis, an hostes in Italiam accipiatis. alter Galliam, alter Bruttios provinciam obtineret. religiosa, in principiis maxime novorum bellorum, florentissima Syphacis finium adiecta etiam auxisset. mutarive vellet, rursus ab senatu ei postulandum fore. alter sedecim iam annorum item ambiguo sexu inventus; consul ex decemvirorum responso curavit. intra quinquagesimum lapidem esset, copia iis fieret: secundum vota in Capitolio nuncupata castella, Cypsela et Doriscon et Serrheum, occupat. prior, territus rabie eorum, pugna abstiterit. Philippus imposito Abydi praesidio in regnum rediit. quingentorum passuum intervallo ab hoste posuit. adversus paucos facile videbatur, conati sunt. legiones insecutae in castra impetum fecerunt. in quam primo impetu vis hostium ingens illata est. provinciam venisset, circa Apolloniam hibernabat. belli, Chalcis et Euripus adempta regi forent; quoque, ne integri cumularent ruinas, frangi iussit. quorum auctoritate pacem cum Philippo fecistis? relicta crudelius habitanda, quam si deleta foret. saevitiamque regis invehi poterant, introducti sunt. Cereris templum, eodem Piraei Iovem Minervamque; secundum deos plurimum possent, bellum susciperent. formam Macedones primum, deinde Athenienses mutarunt. aut cuiquam reliquerunt, quod obicere ultra possim? nihil aut huic aut illi parti adsensus, faucibus ad Pelagoniam a filio Perseo interclusis. quia captos aliquot bello Punico habebant, usi sunt. coniecti profundo limo cum ipsis equis hausti sunt. dictu quam re, ut pleraque, facilius erat. caduceatore sub occasum solis misso ad consulem, vallo super ripam amnis ducto—Erigonum incolae vocant— voluntate, quia regium habebant praesidium. paludem, relictis urbibus montis coegit petere. navalesque copias, Macedonum genus omne nomenque. eum inde respectu rerum suarum potuissent. Agesimbroto viginti Rhodiae naves, tectae omnes. spei esset, interim et aliud agi posse ratus legatus, adversus praetorem, quod absente se rem gessisset. triumphanti sibi in urbem invehi liceret, petit. praecipue expectandum fuisse consulem censebant; consulto, ne per praetorem sed per consulem gereretur— ut perinde esset, ac si ipse aedilis iurasset. 

@@ -1,0 +1,63 @@
+# ID: histcorp-latin-perseus-phi0914.phi00126.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 26-30 - 26
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Stephen Keymer Johnson
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,259
+# sentences: 135
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Cn.
+Fuluius
+Centumalus
+P.
+Sulpicius
+Galba
+consules cum idibus Martiis magistratum inissent, senatu in
+Capitolium uocato, de re publica, de administratione belli, de prouinciis
+exercitibusque patres consuluerunt. 
+Q.
+Fuluio
+Ap.
+Claudio
+, prioris anni consulibus, prorogatum imperium est atque exercitus
+quos habebant decreti, adiectumque ne a Capua quam obsidebant abscederent
+priusquam expugnassent.  ea tum cura maxime
+intentos habebat Romanos, non ab ira tantum, 
+quae in nullam unquam ciuitatem iustior fuit, quam quod urbs tam nobilis ac
+potens, sicut defectione sua traxerat aliquot populos, ita recepta inclinatura
+rursus animos uidebatur ad ueteris imperii respectum. senatui' scripserat, magnam partem hominum offendebat: magistratibusque ad militarem temeritatem transferri. accensa est ut capite anquirendum contio succlamaret. quoad uel capitis uel pecuniae iudicasset priuato. aduersus instructos Campanorum equites processerunt, qualemcunque euentum defectio ab Romanis habuisset. in castra inrupturos—aut conficiendos sub uallo esse; alte signum conuerterat ad spectaculum ciues hostesque. Numidae Hispanique cum elephantis inrupissent, fugam abrumpentium uincula iumentorum facerent; essent pro se quemque militum in proximos montes fugere; erat, loco obscuro tenuique fortuna ortus. ad eum puerum, nihil ad eam spem adgnoscentem dixisse ferunt: hominum adfingentium uana auditis totam urbem concitat. monte etiam Albano atque arce Aefulana ponuntur. par cum consulibus imperium esset. egressus inter Esquilinam Collinamque portam posuit castra. ducenti erant, media urbe transire Esquilias iusserunt, receperint, nullius rei minore quam hostium metu. argentarias quae circa forum Romanum essent iusserit uenire. Campanus ante certam diem transisset sine fraude esset. ad hostem transibat, ita nihil salutare in medium consulebatur. composita transisse litterasque ad Hannibalem ferre: , qui defectionis auctor ab Romanis fuerat, potestate habuissent nec quid ipsis patiendum sit. obsidione. profectus trans Uolturnum perussit Calenum agrum: sepulcra maiorum temerata ac uiolata a Capua non auerterunt; audierunt quam forti animo id quod probabant exsequi potuerunt. dedendam Romanis Capuam decreuerunt miseruntque. rogo cremarentur manserunt, alii domos digressi sunt. senatum Campanum ire in castra ad imperatores Romanos iussit. profectus, prima luce portam intrauit atque in forum perrexit; praetore Fuluio et senatus consultum tradit. sub deditionem Capuae quidam tradunt; 'lictor, uiro forti adde uirgas et in eum primum lege age.' ibi quoque in eos qui capita rerum erant animaduersum. retenta: ager omnis et tecta publica populi Romani facta. multitudo ciuium dissipata in nullam spem reditus; quoque nauales multitudinis augendae causa armasset, Iliturgim et Mentissam. huius saltus fauces Nero occupauit. deducerentur suaque omnia sine fraude Poeni deportarent. ad euadendum per artas semitas ac difficiles esset. imperium esse in Hispania iusserunt. propraetor adiutor ad res gerendas datus est. timoris reddi poterat oborti temere, maiorem inferens metum. adsidendo diutius artiorem annonam sociis quam hosti faciebat; ipsa turba nauali mixta ex omni genere hominum absumebat, praetore senatus ei ad aedem Bellonae datus est. quo die urbem ouans iniret imperium esset. creandis belli quod in Italia sit temporumque rei publicae; circa fremitu, petiit a consule ut Uoturiam seniorum citaret: multitudinem melius moratam censeam fieri posse. fuisse uidebatur populus, mortuum in Sicilia esse. ante ad id ipsum concilium Aetolorum classe expedita uenit. gentium transmarinarum in amicitiam primi uenissent; quibus in amicitiam societatemque populi Romani uenirent; Sintiam, in Macedoniam transitum Dardanis facturam, cepit. petiturum edixit ut praesto ibi Scopas Aetolique essent. argentariae quae nunc nouae appellantur, arsere; opera, qui in publicum redempti ac manu missi sunt. ni comprendantur. comprehensi ipsi familiaeque eorum. semusto foro consulem uestigia sceleris Campanorum; esse Campanis potestatem intrandi Romana moenia fieri. inde deduci posse; classem satis esse ad arcendum Italia regem. prouincia decreta prorogatumque in annum imperium; ratione stipendiorum habita in ueteribus militibus dimittendis. in eadem prouincia priore anno praefuerat. oculos hominum conuerterint et postmodo sermones praebuerint. satius illi insulae esse quam uelut dedi noxae inimico. Marcelli excitabat, in senatum etiam peruenerunt. contumeliam esse, sortem suam ad eum transferri? non admouisset indicio facto omnes ab tyrannis interfectos. interest nunc an uiuo Hierone Syracusas uiolauerim; exhaustis laboribus tandem ui atque armis Syracusas cepi. uictos iustius quam apud uictoris populi senatum quererentur. Romani, hanc captiuis egentibus alimenta clam suppeditasse: senatui de Satricanis sententiae dicendae ius esset. fieri uelitis uos rogo, Quirites.' plebes sic iussit: census distinxerunt publicanda necne bona essent: quae uenum dari placuerat Romam mitti ac Romae uenire. scripto deinde exercitu de remigum supplemento agi coeptum; consules nunc castigando, nunc consolando poterant. quo ipsi ad rem inspiciendam &lt;et&gt; expediendam usi sunt. recusatione remiges dare, nobismet ipsis primum imperemus. animos primum equestris ordinis, dein reliquae plebis. triumuiri accipiundo nec scribae referundo sufficerent. accusator et reus, Blattius de proditione Dasium appellat. aderant quo audacior res erat, minus similis ueri uisa est: armis inter tumultum captis et eruptionem temptauerunt et, in commeatibus ab Sicilia missis habebant, duae triremes, a Marcello ei traditae erant [habuit]: impigrum uirum cum duobus milibus et ne&lt;que multum afuit quin&gt; urbs eodem impetu caperetur. sed omnem in Muttine Numidisque spem repositam habebant. imperio auctoritatem quoque ei inter Numidas erepturum. Laeuinum occultos nuntios misit de tradendo Agrigento. aut caesis Romanos ad id ipsum missos in urbem acceperunt. capta: uoluntaria deditione in fidem uenerunt ad quadraginta. inconditam multitudinem secum in Italiam transuexit. classem onerariasque ostium inde Hiberi fluminis petere iubet. pietate erga patrem patruumque meum uiuos mortuosque fuistis, quot duces, quot exercitus priore bello amissi sunt? rerum stetit una integra atque immobilis uirtus populi Romani; quia illic omnia secunda laetaque sunt animis deficere? contraheret nec par esset unus tot exercitibus, &lt;mille et ducentos&gt; in latitudinem patens. nunc sub Carthaginiensibus sunt in dicionem tradent; oppugnationem uideret et ipse copias ita disponit. urbem succedit; hortatur imperat quae in rem sunt, testis spectatorque uirtutis atque ignauiae cuiusque adest. et tempus datura ad ferendam opem imperatoribus suis. transitum dari, eo secum armatos quingentos duxit. inciderunt et utrimque ancipitem hostem habebant. ne iter impediretur foribus armati impetum fecerunt. ducibus, cum ordinibus media urbe usque in forum processit. reduxit fessosque milites omnibus uno die belli operibus, quicquam relinqueretur et sibi ac suis omnia superessent. adscendisset; profiteretur qui se dignum eo duceret dono. studia excitauerant uterque sui corporis hominum. inueniam.—aeque et alia inter auctores discrepant. ut curam cultumque feminarum impensius custodibus commendaret. redimendam satis magnum attulissent auri pondus, accedent'; aurumque tollere ac sibi habere iussit. omnia cum armis, tum benignitate ac beneficiis. obsidesque et praedam ex consilio eius disponeret, in naues sex impositis nuntium uictoriae Romam mittit. exercendis naualibus pedestribusque copiis absumpsit. quietisque quoad Carthagine morati sunt seruarunt. agilitatem nauium simulacris naualis pugnae experiebantur. profectus, a multis legationibus protinus in uia aditus, res erat quam ut tegi ac dissimulari posset, eleuabant uerbis: immodico gaudio speciem magnae uictoriae imposuisse: 

@@ -1,0 +1,161 @@
+# ID: histcorp-latin-perseus-phi0914.phi00126.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XXVI-XXVII With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,437
+# sentences: 113
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XXVI
+CN. FULVIUS CENTUMALUS P. Sulpicius Galba
+consules cum idibus Martiis magistratum inissent, senatu in Capitolium vocato,
+de re publica, de administratione belli, de provinciis exercitibusque patres
+consuluerunt.  Q. Fulvio Ap. Claudio, prioris
+anni consulibus, prorogatum imperium est atque exercitus quos habebant decreti,
+adiectumque ne a Capua, quam obsidebant, abscederent prius quam expugnassent.
+expugnassent z
+Aldus: oppugnassent P (1) <hi
+rend="italics">JK.
+ea tum cura maxime intentos habebat Romanos, non ab ira tantum, quae
+in nullam umquam civitatem iustior fuit, quam quod urbs tam nobilis ac potens,
+sicut defectione sua traxerat aliquot
+populos, ita recepta inclinatura rursus animos videbatur ad veteris imperii
+respectum. 
+et praetoribus prioris  anni, M. Iunio in Etruria, P.
+Sempronio in Gallia, <note type="margin" place="unspecified" anchored="true"
+>A.U.C. 543 cum binis legionibus quas habuerant prorogatum est
+imperium. 
+prorogatum et M. Marcello, ut pro consule in Sicilia reliqua belli
+perficeret eo exercitu quem haberet;  si
+supplemento opus esset, suppleret de legionibus quibus P. Cornelius pro praetore
+in Sicilia praeesset,  dum ne quem militem
+legeret ex eo numero quibus senatus missionem reditumque in patriam negasset
+ante belli finem.  C. Sulpicio, cui Sicilia
+evenerat, duae legiones quas P. Cornelius habuisset decretae et supplementum de
+exercitu Cn. Fulvii, qui priore anno in Apulia foede caesus fugatusque erat.
+huic generi militum senatus eundem quem Cannensibus finem statuerat
+militiae. additum etiam utrorumque ignominiae est ne in oppidis
+hibernarent neve hiberna propius ullam urbem decem milibus passuum aedificarent.
+L. Cornelio in Sardinia duae legiones
+datae quibus Q. Mucius praefuerat; supplementum, si opus esset, consules
+scribere iussi.  T. Otacilio et M. Valerio
+Siciliae Graeciaeque orae  orae <hi
+rend="italics">
+Walters :  ora P (1) <hi
+rend="italics">JK Aldus, Froben.
+cum legionibus classibusque quibus praeerant decretae; quinquaginta
+Graecia cum legione una, centum Sicilia cum duabus legionibus habebat <note
+place="unspecified" anchored="true"> habebat 
+Walters :  habebant P (1) <hi
+rend="italics">JK.
+naves. 
+tribus et viginti legionibus Romanis eo anno bellum terra marique est
+gestum. 
+
+principio eius anni cum de litteris L. Marcii referretur, res gestae
+magnificae senatui visae:  titulus honoris, quod imperio non populi
+iussu, nonex auctoritate patrum dato propraetor senatuiscripserat, magnam partem hominum offendebat: 
+rem mali exempli esse imperatores legi ab exercitibus et sollemne auspicandorum
+auspicandorum 
+Madvig :  -ciatorum P (3):
+-catorum AJK
+Aldus . 
+comitiorum in castra et provincias, procul ab legibus magistratibusque,
+ad militarem temeritatem transferri. 
+et cum quidam referendum ad senatum censerent, melius visum differri
+eam consultationem donec proficiscerentur equites qui ab Marcio litteras
+attulerant. 
+rescribi de frumento et vestimentis exercitus placuit eam utramque
+rem curae fore senatui; adscribi autem propraetori L. Marcio non
+placuit, ne id ipsum quod consultationi reliquerant pro praeiudicato ferret.
+dimissis equitibus, de nulla re prius consules rettulerunt, omniumque
+in unum sententiae congruebant, agendum cum tribunis plebis esse, primo quoque
+tempore ad plebem ferrent quem cum imperio mitti placeret in Hispaniam ad eum
+exercitum cui Cn. Scipio imperator praefuisset. 
+ea res cum tribunis acta promulgataque est; sed aliud certamen
+occupaverat animos. 
+
+C. Sempronius Blaesus die dicta Cn. Fulvium ob
+exercitum in Apulia amissum in contionibus vexabat, multos imperatores
+temeritate atque inscitia  exercitum in locum 
+praecipitem
+praeeipitem
+perduxisse  perduxisse <hi
+rend="italics">M 2 ? Aldus, Luchs: prae-
+P (3): pro- B 2 <hi
+rend="italics">: duxisse  conj.
+Luchs (earlier). 
+dictitans, <note type="margin" place="unspecified" anchored="true"
+>A.U.C. 543
+neminem praeter Cn. Fulvium ante conrupisse
+omnibus vitiis legiones suas quam proderet. Itaque vere dici posse
+prius eos perisse quam viderent hostem, nec ab Hannibale, sed ab imperatore suo
+victos esse. 
+neminem , cum suffragium ineat, satis cernere cui imperium, cui
+exercitum permittat. quid interfuisse inter Ti. Sempronium et Cn.
+Fulvium? Ti . Sempronium, <note place="unspecified" anchored="true"
+> et Cn. Fulvium? Ti . Sempronium 
+Madvig : om. P  (1) JK.
+cum ei servorum exercitus datus esset, brevi
+effecisse disciplina atque imperio ut nemo eorum generis ac sanguinis sui memor
+in acie esset,  esset <hi
+rend="italics">P (1) JK: esset sed <hi
+rend="italics">
+Conway . 
+praesidio sociis, hostibus terrori essent; Cumas, Beneventum aliasque
+urbes eos velut e faucibus Hannibalis ereptas populo Romano restituisse:
+Cn . Fulvium Quiritium Romanorum exercitum, honeste genitos,
+liberaliter educatos servilibus vitiis imbuisse. ergo effecisse ut
+feroces et inquieti inter socios, ignavi et inbelles inter hostes essent, nec
+impetum modo Poenorum, sed ne clamorem quidem sustinere possent. <milestone
+unit="section" n="12"/>
+nec hercule mirum esse cessisse <note place="unspecified"
+anchored="true"> cessisse 
+Alschefski : om. P  (1) J.
+milites in acie, cum primus omnium imperator fugeret: <milestone
+unit="section" n="13"/> magis mirari se aliquos stantis cecidisse, et non
+omnes comites Cn. Fulvi fuisse pavoris ac fugae. C. Flaminium, L. Paulum, L.
+Postumium, Cn. ac P. Scipiones cadere in acie maluisse quam deserere
+circumventos exercitus: 
+Cn . Fulvium prope unum  nuntium deleti exercitus
+Romam redisse. facinus
+indignum esse Cannensem exercitum, quod ex acie fugerit, in Siciliam deportatum,
+ne prius inde dimittatur quam hostis ex Italia decesserit, et hoc idem in Cn.
+Fulvi legionibus nuper decretum, 
+Cn . Fulvio fugam ex proelio ipsius temeritate commisso impunitam
+esse, et eum in ganea lustrisque, ubi iuventam egerit, n="p.14"/> postquam dies comitiorum aderat, mittere nuntios ad Hannibalem per custodias tam artas. propere sequantur milites et partem capessant pugnae. Numidae Hispanique cum elephantis inrupissent, fugam abrumpentium vincula iumentorum facerent; in spem honorum erant honores detrectantibus, alterius rei memor, ad urbis praesidium revocabat. exercitu ad Capuam obsidendam opus esset, ipsos scire. prohibendam obsidione patriam Romam veniundum esset. anchored="true">A.U.C. 543 incessebant. eduxit; nec Flaccus consulesque certamen detrectavere. conferundoque cum hoste castra, fortunam temptando. composita transisse litterasque ad Hannibalem ferre: potestate habuissent, nec quid ipsis patiendum sit. credam, cui infestiores quam Carthagini sunt. imminentis sensu mali, venenum omnes sumpserunt; Calpurnio praetore Fulvio et senatus consultum tradit. quod gerundum esset magno elatoque animo disseruit, quoque quadam ab iuventa in ostentationem earum Marcello quo die urbem ovans iniret imperium esset. iis qui a populo Romano defecissent, iussa dari. fortuna haberent ut socii esse quam cives mallent; externo bello ac sine praesidio esse regnum sensisset. iram ac levitatem ex re fortuita crimen commentum. Sulpicius consul praefuisset in Galliam mitterentur. provincia decreta prorogatumque in annum imperium; anchored="true">A.U.C. 544 dimittendis. Marcelli excitabat, in senatum etiam pervenerunt. aliam forsitan futuram fuisse sententiam suam dicere: rapiente fato Marcellum  ad Hannibalem, passos esse hostilia, cum fecerint, indignatur? abest ut et ipsi tale quicquam facturi fueritis. eorum aut ipsi aut parentes eorum apud hostis essent, deinde exercitu de remigum supplemento agi coeptum; quidam occupasset hominum mentes, tum Laevinus consul: prosperae in Sicilia luctum et laetitiam miscuerant; despondente fortuna Romanis imperium orientis. audacior res erat, minus similis veri visa est: M. Livius in commeatibus ab Sicilia missis habebant, maioris discrimen rei quam ipsae erant pugnarent, praeceps cum armis procidit ante proram, Numidarum esse, ad conprimendam seditionem processit. per tot annos certatum erat, in Africam traiecerunt. inconditam multitudinem secum in Italiam transvexit. quot duces, quot exercitus priore bello amissi sunt! caliginem oculis offudisset, ad terram delati sunt. infestiora subeuntibus quam adversa corpora essent. iter inpediretur, foribus armati impetum fecerunt. milia modium, hordei ducenta septuaginta. uter  prior in oppidum transcendisset, virtutis causa coronis muralibus donare. redimendam satis magnum attulissent auri pondus, inpositis nuntium victoriae Romam mittit. in singulos dies certamine ingenti faciebat. 

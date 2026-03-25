@@ -1,0 +1,81 @@
+# ID: histcorp-latin-perseus-phi0914.phi0017.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 6-10 - 7
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Robert Seymour Conway
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,074
+# sentences: 113
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+annus hic erit insignis noui hominis consulatu, insignis nouis duobus
+magistratibus, praetura et curuli aedilitate; hos sibi patricii quaesiuere
+honores pro concesso plebi altero consulatu. 
+plebes consulatum 
+L.
+Sextio
+, cuius lege partus erat, dedit: patres praeturam 
+Sp.
+Furio
+M. filio
+Camillo
+, aedilitatem 
+Cn.
+Quinctio
+Capitolino
+et 
+P.
+Cornelio
+Scipioni
+, suarum gentium uiris, gratia campestri ceperunt. 
+L.
+Sextio
+collega ex patribus datus 
+L.
+Aemilius
+Mamercus
+.  principio anni et de Gallis,
+quos primo palatos per Apuliam congregari iam fama erat, et de Hernicorum
+defectione agitata mentio.  cum de industria
+omnia, ne quid per plebeium consulem ageretur, proferrentur, silentium omnium
+rerum ac iustitio simile otium fuit,  nisi quod
+non patientibus tacitum tribunis quod pro consule uno plebeio tres patricios
+magistratus curulibus sellis praetextatos tamquam consules sedentes nobilitas
+sibi sumpsisset, 
+praetorem quidem etiam iura reddentem et
+collegam consulibus atque iisdem auspiciis creatum, uerecundia inde imposita est
+senatui ex patribus iubendi aediles curules creari. primo ut alternis annis ex
+plebe fierent conuenerat: postea promiscuum fuit. metu ac periculis uacarent, pestilentia ingens orta. tertio tum post conditam urbem lectisternium fuit; coeptum diuerbiaque tantum ipsorum uoci relicta. ferunt eoque Mineruae templo dicatam legem quia numerus uere imperioso patre se natum esse. at quam ob noxam? fouere si quid ex progenie sua parum prosperum sit; nunquam habiturum, se eum extemplo transfixurum minatur. prae se deinde tulit ea ui subactum se incepto destitisse. dictio est sed ipsi etiam adulescenti ea res honori fuit et, milite Curtio Mettio sed ab hoc appellatum. fidem; et lacus nomen ab hac recentiore insignitius fabula est. deinde turbato gentium iure comitia haberentur. legati res per occasionem gesta egregie est. Hernicis afuit; adeo turbatis inde ordinibus abscessere. animos, simul ceteros ad aemulandas uirtutes acuit. reseruati plus sibi quam pro uirili parte adnitendum scirent; potirentur incertis uiribus satis discerni poterat. uisum est—linguam etiam ab inrisu exserentem producunt. hostis uanum caesim cum ingenti sonitu ensem deiecit; gratulantes laudantesque ad dictatorem perducunt. ab Tiburtibus adiutus mox in Campaniam transierit. simul uerecundia misericordiaque militem accendebant. egit: Fabio satis uisum ut ouans urbem iniret. patres et plebem metu tam propinqui belli compressam. foedere uetusto, quod multis intermiserant annis, accepta. imperatoris aut dimicaturos aut agmine Romam ituros. ita desperasti ut te mancorum ac debilium ducem iudicares esse. externi imperatores, nostra quoque quidam aetate, usi sunt: modo ducturi fuerint, in castris feroces, in acie pauidi? omissa pugna est cursuque effuso ad castra ferebantur. operam nauaturos nec praedae magis quam pugnae paratos esse.' attoniti munimentis suis trepido agmine inciderunt; traiecto multos populatores agrorum uagos palantes oppressit; consul Fabius bello retinebatur, res ad interregnum redit. , partum sit, id obtinere uniuersi non possint? inter concitatos per se omnes uix duces eminent. caperet quae se rebus adfectis quondam populi Romani cepisset; Uestaliumque ab se caste ac religiose cultum inuocabant: populationis eius, quae sibi crimini detur, comites. annos factas in senatus consultum referri placuit. accepissent, ad undecimum interregem seditionibus certatum est. creatis quos mensarios ab dispensatione pecuniae appellarunt. impendio magis publico quam iactura sustinuerunt. patricii consules crearentur, rem ad interregnum perduxit. quam cum hominibus urendo populandoque gesserunt bella; censuram quoque in partem uocari plebes uolebat. in aduersum subissent, primo incerti restitere; fugiant; inferenda sunt signa et uadendum in hostem.' manipulos Gallorum; cuneis deinde in medium agmen perrumpunt. rogitabant num quem plebeii consulis paeniteret; nequiuerant, per campos maritimaque loca uagi populabantur; dictatorem adrogari haud satis decorum uisum est patribus. dissipati sunt; inde Apuliam ac mare inferum petierunt. praeter cetera necessaria usui deficiente Italiam reliquere. pensiones aequas triennii, ita ut quarta praesens esset, scribant, idque magis ueri simile est quam deditos uenisse. quam hostium animi inuenti; prima itaque acie debellatum est. Sidicino pulsi agro in se deinde molem omnem belli uerterunt. feceritis, id nos pro imperio uestro et gloria semper faciemus. iterum in Campania ipsa legiones nostras cecidere? atque iniuria iusta ui non uoltis, uestra certe defendetis; ille ad montem Gaurum, hic ad Saticulam castra ponunt. arma, magis magisque in imbelles gentes eos prodire. proeliis caesos postremo in mare ac naues fuga compulerit? anno familia ista consulatum quo urbs haec consulem habuit: uetustum familiae nostrae cognomen memoria excessit; omnia inter infimos militum haud grauate munia obeundo. 'nostrum' inquit, 'peditum illud, milites, est opus; inuadit hostem et cum quo forte contulit gradum obtruncat. superesse, accensi ira concitant se in hostem. si eam, quoniam caeci reliquere Samnites, impigre capimus. hoste est uisus quam loco quem petebat appropinquauit. uallem adoriantur. incertos quid agerent nox oppressit. incipit nemo, cum iam circumdati uallo potuerimus esse. locis praesidia ponant, qua pateat hinc exitus, exploremus.' pluribus opem tuleritis, ipsi nullius auxilio egueritis. imminentem capiti suo non ante uiderit quam captum a nobis, hinc atque abire; id aut interdiu aut nocte faciamus oportet. nec arma impigre capere nec obsistere nec insequi poterant. Romanum obuiis custodibus caesis ad castra consulis peruadit. meritas Deci laudes interfante ipso Decio distulit contionem; clamorem militarem, indicem omnium adsensus, gerebantur. ioco haud minus tribuni celebre nomen quam consulum esset. haberet qui suo sudore ac sanguine inde Samnites depulisset? alter Romae praetorque alias ex aliis fingendo moras retinebat. auctor, in omnibus meis imperiis in me seuerior quam in uos. natus consul patribus quoque ferox esse non solum plebi. clamor prius incipiet atque impetus, si dimicandum est. tergumque ciui dederis quam pugnaueris contra patriam. quis usus mei est, meliorem pacis quam belli habetis ducem. uincere possunt uolunt: quid nos uelle oportet? plebi, apparet haud paruas uires defectionem habuisse. inde ad quartum lapidem profectos loco munito consedisse; eamque compositam inter antiquos rerum auctores constat. 

@@ -1,0 +1,74 @@
+# ID: histcorp-latin-perseus-phi0914.phi00119s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 280
+# sentences: 28
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XVIIII Periocha
+CAECILIUS METELLUS rebus adversus Poenos prospere gestis speciosum egit
+triumphum, xiii ducibus hostium et cxx elephantis in eo ductis.
+Claudius Pulcher cos. contra auspicia profectus—iussit mergi
+pullos, qui cibari nolebant —infeliciter adversus Carthaginienses classe
+pugnavit, et revocatus a senatu iussusque dictatorem dicere Claudium Gliciam
+dixit, sortis ultimate hominem, qui coactus abdicare se magistratu pbstea ludos
+praetextatus spectavit. A. Atilius Calatinns <note anchored="true"
+place="unspecified"> calatinus vulg: calanus MSS.
+primus dictator extra Italiam exercitum  duxit.
+commutatio captivorum cum Poenis facta est. coloniae
+deductae sunt Fregenae, in agro Sallentino Brundisium. lustrum a
+censoribus conditum est. censa sunt civium capita <hi rend="overline"
+>CCXLI CCXII. Claudia, soror P. Claudi, qui contemptis auspiciis male
+pugnaverat, a ludis revertens cum turba premeretur, dixit: Utinam frater meus
+viveret; iterum classem duceret. ob eam causam multa ei dicta est.
+duo praetores tune primum creati sunt. Caecilius
+Metellus, pontifex maximus, A. Postumium <note anchored="true"
+place="unspecified"> A. Postumium vulg.: aurelium
+postumium MSS.
+consulem, quoniam idem et flamen Martialis erat, cum is ad bellum
+gerendum proficisci vellet, 'in urbe tenuit nec passus est a sacris recedere.
+rebus adversus Poenos a pluribus ducibus prospere gestis, summam
+victoriae  victoriae <hi
+rend="italics">vulg.: victoriam MSS.
+C. Lutatius cos. victa ad Aegates insulas classe Poenorum imposuit.
+petentibus Carthaginiensibus pax data est. cum templum
+Vestae arderet, Caecilius Metellus, pontifex maximus, ex incendio sacra rapuit.
+duae tribus adiectae sunt, Velina et Quirina. 
+
+

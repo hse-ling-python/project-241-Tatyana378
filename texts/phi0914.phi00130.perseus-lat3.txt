@@ -1,0 +1,66 @@
+# ID: histcorp-latin-perseus-phi0914.phi00130.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XXVIII-XXX With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 480
+# sentences: 45
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XXX
+CN. SERVILIUS et C. Servilius consules—sextus
+decimus is annus belli Punici erat—cum de re publica belloque et provinciis ad
+senatum rettulissent,  censuerunt patres ut
+consules inter se compararent sortirenturve uter Bruttios adversus Hannibalem,
+uter Etruriam ac Ligures provinciam haberet; 
+cui Bruttii evenissent exercitum a P. Sempronio acciperet; P. Sempronius—ei
+quoque enim pro consuleimperium in annum prorogabatur—P. Licinio succederet. <milestoneunit="section" n="4"/>
+is Romam reverteretur, bello quoque bonus habitus ad cetera, quibus
+nemo ea tempestate instructior civis habebatur, congestis omnibus humanis ab
+natura fortunaque bonis. 
+nobilis idem ac dives erat; forma viribusque corporis excellebat;
+facundissimus habebatur seu causa oranda, seu in senatu et apud <note
+place="unspecified" anchored="true"> et apud 
+Sp HVJK:  et ad N3
+Aldus , Froben:  ad P (1) <hi
+rend="italics">N: aut ad  conj.
+Weissenborn . 
+populum suadendi ac dissuadendi  locus esset; <milestone
+unit="section" n="6"/> iuris pontificii peritissimus; super haec <note
+type="margin" place="unspecified" anchored="true">A.U.C. 551 bellicae
+quoque laudis consulatus compotem fecerat. quod in Bruttiis
+provincia, idem in Etruria ac Liguribus decretum: debellatum in Africa foret, prorogatum imperium est; blanditiis, satis potentibus ad animum amantis, propediem adfore cum manu haudquaquam contemnenda. res, parte aliqua levari Uticae obsidionem; proelium navale et tamquam exituris contra Romanis. —ex Punicis navibus inici in Romanas coepti. hostem, primo barbari segnius permittere equos, quod petebatur obligandae fidei in regiam concedit. geniali mittere ad Scipionem conatus sit. tribuerint populi, Romanus Carthaginiensisque, in potestate duos imperatores, Poenum Romanumque. solum abnuisset Romanam, sed ultro bellum intulisset, cum Carthaginiensem matronam domum acceperit. quantum ab circumfusis undique voluptatibus. orassetque eum ut quantum res sineret fidei suae tritici quingenta, hordei trecenta milia modium. operam Masinissam et porro daturum esse. classe Romana quae circa Sardiniam erat capiuntur. hostes compulisset ut supplices pacem peterent, qui classi praeerat, sine publica fraude auso facinus, C. Livius Salinator et C. Aurelius Cotta. arma, puero quondam milite, vixdum iuvene imperatore, castra protulerunt, ut coire ex propinquo possent. ea habenda fortuna erit quam di dederint. acie Carthaginienses Afrosque et Macedonum legionem; quo tutior firmiorque media hastatorum acies esset. adeptus, singulari arte aciem eo die instruxisse: pensionibus aequis in annos quinquaginta, solverent; prodire iussus gaudiumque id populo inpertire. vestro consultum ab Romanis credatis. triumphoque omnium clarissimo urbem est invectus. ex praeda quadringenos aeris divisit. tamen mors eius fuit, quia publico funere est elatus. ab adsentatione familiari sit parum compertum habeo. 

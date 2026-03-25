@@ -1,0 +1,62 @@
+# ID: histcorp-latin-perseus-phi0914.phi00114s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 158
+# sentences: 16
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XIIII Periocha
+PYRRHUS in Siciliam traiecit. cum inter alia prodigia fulmine
+deiectum esset in Capitolio Iovis signum, caput eius per haruspices inventum
+est. Curius Dentatus cos. cum <note anchored="true"
+place="unspecified"> cos. cum 
+Rossbach :  'is' cum MSS.
+dilectum haberet, eius qui citatus non responderat bona primus vendidit;
+iterum Pyrrhum ex Sicilia in Italiam reversum vicit et Italia expulit.
+Fabricius censor P. Cornelium Rufinum consularem senatu movit,
+quod is x pondo argenti facti haberet. lustro a censoribus condito
+censa sunt civium capita CCLXXI ccxxiiii.
+cum Ptolemaeo, Aegypti rege, societas iuncta est.
+sextilia , virgo Vestalis, damnata incesti viva defossa est.
+coloniae deductae sunt Posidonia et Cosa.
+carthaginiensium classis auxilio Tarentinis venit, quo facto ab
+his foedus violatum est. res praeterea contra Lucanos et Bruttios et
+Samnites feliciter gestas et Pyrrhi regis mortem continet. 
+
+

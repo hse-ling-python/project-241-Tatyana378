@@ -1,0 +1,54 @@
+# ID: histcorp-latin-perseus-phi0914.phi00135.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 35-38 - 35
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,021
+# sentences: 99
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+principio anni, quo haec gesta sunt, <persName
+n="2">
+Sex.
+Digitius
+praetor in Hispania citeriore cum civitatibus iis, quae post
+profectionem 
+M.
+Catonis
+permultae rebellaverant, crebra magis quam digna dictu proelia
+fecit,  et adeo pleraque adversa, ut vix
+dimidium militum, quam quod acceperat, successori tradiderit. ludos Iovi, si fudisset cecidissetque hostis, propraetor vovit. praetor, cum haec in Hispania gerebantur. omni numero sex milia et ducentos pedites, equites trecentos: exercitu haud multum spei esse—rem gesturum. ad famam belli spemque praedae, circumsedebant. necdum noto satis inter se, ut fidere alii aliis possent. longe alia belli ratio quam cum Liguribus erat. cetero exercitu instructo ad hostem accessit. certaminis studio prius procurrerent, quam datum signum esset. non sustinere extraordinarios impetum Gallorum; subducta est, dextra in primam aciem subiit. immittere iubet et legionarios equites in subsidiis esse. dissipavit aciem Gallorum, non tamen ut terga darent. pernicie sociorum et damno rei publicae non posset. qui profligatum bellum haberet, ad comitia Romam rediret; ad magistratus subrogandos Romam venturum. senatu fuit, quia privatim plerisque senatoribus imperium habenti tradi exercitum quam legato: posset, donec ad liquidum veritas explorata esset. fulmine icta est, murusque circa multis locis de caelo tactus; consedisse; eas collectas cum cura et igni crematas esse. rei militaris gloria recens utrumque commendabat. Pessinunte venientem in urbem acciperet. saltu, quem obsiderent, et discurrere ad opem ferendam suis. in agrum latiorem evecti omnia propinqua viae tecta incendunt; senescerent consilia, concilium Naupactum indixerunt. eorum, sed suis quemque stimulis moverent ad Romanum bellum. rex quam tyrannus detractus erat, quoque plures ademptae res. facile deinde se ab eo sine ullo auxilio Romano tueri posset. Antiochus audito legatorum Romanorum adventu occurrit. alieno tempore incommodus obversaretur, Pergamum concessit; quae dicerentur, quemlibet ista quam se dicere maluit. Chalcidem Demetriadem et Thessalorum totam gentem? quaesita simpliciter iracundiae causa auditaque “ Antiochum, sed nihildum ad id bellum praeter animos parabant. eodem exercitu quindecim milia et equites quingenti. classis et Macedonia, Baebio Brutti decreti. socium ac Latini nominis et mille Romanos darent pedites. proficiscerentur, supplicatio fuit prodigiorum causa. hostium occidit, ceteros fusos fugatosque in castra compulit. castella vicosque eorum igni ferroque pervastavit. praetor cum classe missus in Graeciam est ad tuendos socios. dignitas erat, ad mille quingenti ad consules transfugerunt. ut cum imperio esset, qui classem eam duceret — praemittere edictum, quo comitia consulibus creandis ediceret. obsessis praesidium, agros eorum vastabat. unit="section"/> Achaei non antea ausi capessere bellum, miserunt, qui consilium ab eo peterent. censerent, multitudo Philopoemenis sententiam expectabat. humano positum esset, nec pacis eos paeniteret nec belli. ad tuendam urbem amitteretur, naves Achaeorum deduxit. lembos pristisque, tradita vetere classe ex foedere Romanis. clarorum imperatorum vel usu vel ingenio aequabat, Aegio putrem iam admodum et vetustate dilabentem iussit. et iaculis et alio levi genere armaturae imposuit. inconditum agmen et tantummodo aptum viae occurrere. impedimenta, quo sarcinas, quo turbam inermem reiceret; torrentem, unde aquari possent, rupem occupavit; popularibus suis, equitibus Lycortas Megalopolitanus praeerat; ex parte utraque hominum genere et armis paribus; viderunt, primo in castra recipere se conati sunt; ut vero ad postremos proelium ortum est, —, ipse gravius agmen via patentiore ad Eurotan amnem deduxit. toto sparsam vagari saltu, corpora curare eos iubet; e regione eorum occultis semitis se tenuerunt; tantum advehi auri, ut ipsos emere Romanos posset. omnia sub nutum dicionemque Romanam perventura. seniores auctoritate obtinuerunt, ut daretur iis concilium. liberandam Graeciam disceptandumque inter Aetolos et Romanos. Italia brevi castris super ripam Tiberis positis daturum: Thoas Chalcidem, Alexamenus Lacedaemonem, Diocles Demetriadem. inde frequenter ante urbem in campum ad Eurotan amnem coepere. cum in oculis res gereretur, pavor primo cepit; frequentes inde retenti in armis Aetoli sine iniuria cuiusquam; maturandam perniciem eorum, qui fecerant, sunt acta. Lacedaemonem cum omnia turbata metu invenisset, primo pavidi nihil usquam spei nisi in fuga ponebant; transgressi Euripum ad Salganea posuerunt castra. ad oppugnandos, sed ad liberandos ab Romanis venire sese; Chalcidenses aut servire ulli aut praesidio cuiusquam egere. ut qui spem omnem in eo, ut improviso opprimerent, terra munitae haudquaquam pares, domum rediere. veniens navibus, in Chalcidico Euripo Eumeni regi occurrit. utrum ad amicos an ad hostis venisse se mallent. tria milia et septingenti pedites ierunt, trecenti equites; fama de Antiochi bello et cura patribus crescebat; senatus censuisset, extemplo proficisci posset. praetor Gallico bello unam, alteram consul; dimittendam partem navium a classe regia censebat, Hannibale; comite et consiliario eodem ad bellum uti posse. laetus die postero in portum urbis navibus est invectus; decreturos sciebat, Phalara in sinum Maliacum processerat. magis in eam rem quam magno conatu et apparatu opus esse. processerunt. pauci utrimque ad colloquium congressi sunt. viribus non possent, ante portas esset. Antiochus relicto regno suo in Europam traiecisset: sed cum magno Asiae totius partisque Europae rege. adversus Romanos, priores socios atque amicos, laedatur: vidisse, cum ipse corpus suum pro eo telis hostium obiceret. quos verba faceret, dicere Archidamum rationem habuisse: existimationem, quibus notos esse se scirent, fecisse; non haberent, inflasse vana spe atque inflatos esse, “ illi eo tempore anni tam varia et multa venatio, regem nunc mendicantem prope frumentum ab Aetolis, crediderunt et Antiochus Aetolis et Aetoli regiae vanitati: repente colligi potuit, non ita multos Aetolos ducit. 

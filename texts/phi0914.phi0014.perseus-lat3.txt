@@ -1,0 +1,63 @@
+# ID: histcorp-latin-perseus-phi0914.phi0014.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books III and IV With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 465
+# sentences: 50
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber IV
+hos secuti M. Genucius et C. Curtius <note place="unspecified"
+anchored="true"> C. Curtius 
+Sigonius
+( cf. C.I.L. i2 p.
+108; 
+Diod .  XII. xxxi. 1— who however
+gives the prœnomen as
+)/Agrippan; — Varro, <hi rend="italics"
+>L.L. v. 150): p. curatius W .
+consules.fuit annus domi forisque infestus. nam
+Nam 
+Conway and Walters:  nam anni (ani <hi rend="italics"
+>B, animi PU ) <foreign xml:lang="greek"
+>W : anni nam M.
+principio et de conubio patrum et plebis C. Canuleius tribunus plebis
+rogationem promulgavit,  qua contaminari
+sanguinem suum patres confandique iura gentium rebantur, et mentio primo sensim
+inlata a tribunis, ut alterum ex plebe consulem liceret fieri, eo processit
+deinde ut rogationem novem tribuni promulgarent, patiantur. certum habere maiores quoque, quia tum concessum sit de tribunis, quam nunquam obviam eundum audaciae temeritatique. patiantur, sed audeat Canuleius in senatu proloqui se, servum aut libertinum aliquis consulem futurum dicat? populo,—ea ne si utilia quidem sint fieri oportet? ne sit conubium divitibus ac pauperibus? ipsi honori ius maiestatemque adicerent; et tribuni, severum consulem et plebs satis comem crediderint. auctorem solum desideraret sed etiam vindicem; onerarent,  et consul nihil remitteret, dux eorum in se intentam vim tanti imperii cernerent, peditum acies ingenti vi conflixit. consulem habeant, existimatio communis omnibus est. anchored="true">A.U.C. 317 suggerant. fuisse traditum a scriptoribus antiquis dissimulat. ut tribuni militum consulari potestate crearentur. esse et parto auxilio imperium quoque adscituram. temptato paulatim eventu certaminum suos praecipere. cognitioque eius rei L. Sergio et Q. Servilio et Mam. numerus agerque iis bello interemptorum adsignatus. anchored="true">A.U.C. 328 sese coniungunt. armis nihil praeter vitam petentes dictatori deduntur. fecerant, et consul legionesque Romanae cum quod ipsi, qua quemque in tenebris pavor tulit fugerunt. prae multitudine hostium credere perrumpi potuisse. exorta est, coepta ab duplicando quaestorum numero. intercessiones tribunicias senatus consultum fieri, >W .  copularent concordiam, perseverantem sub iudicii tempus plebem offensurum. tribunorum suspectum ante rem male gestam fuerat. scribendis fuerat, minimus natu ex patrum concilio, tribuniciae potestatis per collegarum intercessionem. seditiones agrariis legibus promulgandis cieret, publici cederent, se moram dilectui non facere, primum plebeiis quaestoribus creatis, clarissimarum familiarum iuvenibus praeferrentur. ad consulum comitia quae nondum promiscua essent: anno et opprimi Verruginis praesidium passi essent. oppugnandum sine ulla populatione accessit. stipendium tributum non  contulisset. 

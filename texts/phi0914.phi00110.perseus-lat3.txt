@@ -1,0 +1,192 @@
+# ID: histcorp-latin-perseus-phi0914.phi00110.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,414
+# sentences: 135
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber X
+L. Genucio Ser. Cornelio
+consulibus ab externis <note type="margin" place="unspecified" anchored="true"
+>A.U.C. 451-452 ferme bellis otium fuit. Soram atque
+Albam coloniae deductae. Albam in Aequos sex milia colonorum
+scripta: 
+Sora agri Volsci fuerat, sed possederant Samnites; eo quattuor
+milia hominum missa. 
+eodem anno Arpinatibus Trebulanisque civitas data.
+Frusinates tertia parte agri damnati, quod Hernicos ab eis
+sollicitatos compertum, capitaque coniurationis eius quaestione ab consulibus ex
+senatus consultohabita virgis caesi ac securi percussi. tamen ne prorsus imbellem agerent annum, parva expeditio in Umbriam
+facta est, quod nuntiabatur ex spelunca quadam excursiones armatorum in agros
+fieri. 
+in
+eam
+earn
+speluncam penetratum cum signis est, et ex loco <note
+place="unspecified" anchored="true"> ex loco 
+Madvig :  ex eo (ea O) loco <foreign xml:lang="greek"
+>W.
+obscuro multa volnera accepta maximeque lapidum ictu, donec altero
+specus eius ore—nam pervius erat— invento utraeque fauces congestis lignis
+accensae. 
+ita intus fumo ac vapore ad duo milia armatorum, ruentia novissime in
+ipsas flammas, dum evadere tendunt, absumpta. 
+
+M. Livio Dentre <note place="unspecified"
+anchored="true"> Dentre s: dentrice (
+or -cae) W:
+dentice ( PFU (not in O )  M. Aemilio <note
+place="unspecified" anchored="true"> M. Aemilio 
+sigon .  ( 
+diod .  xx. cvi. 1, CIL 12, <hi
+rend="italics">p. 132): ā U: c ( <hi
+rend="italics">or t) A 2 <foreign
+xml:lang="greek">s:
+omitted by
+W.
+consulibus <note type="margin" place="unspecified" anchored="true"
+>A.U.C. 451-452 redintegratum Aequicum bellum. coloniam
+aegre patientes velut arcem suis finibus impositam summa vi expugnare adorti ab
+ipsis colonis pelluntur. 
+ceterum tantum Romae terrorem fecere, quia vix credibile erat tam
+adfectis rebus solos per se Aequos ad bellum coortos, ut tumultus eius causa
+dictator diceretur C. 
+iunius
+lunius
+Bubulcus. 
+cum M. Titinio magistro equitum profectus primo congressu Aequos
+subegit, ac die octavo triumphans in urbem cum redisset, aedem Salutis, quam
+consul voverat censor locaverat, dictator dedicavit. 
+
+eodem anno classis Graecorum Cleonymo duce <note type="margin"
+place="unspecified" anchored="true">A.U.C. 452 Lacedaemonio ad
+Italiae litora adpulsa Thuriasurbem in Sallentinis cepit. adversus hunc hostem consul Aemilius missus proelio uno fugatum
+compulit in naves. Thuriae redditae veteri cultori, Sallentinoque
+agro pax parta. 
+Iunium Bubulcum dictatorem missum in Sallentinos in quibusdam
+annalibus invenio et Cleonymum, priusquam confligendum esset cum Romanis, Italia
+excessisse. 
+
+circumvectus inde Brundisii promunturium medioque sinu Hadriatico
+ventis latus, cum laeva importuosa Italiae litora, dextra Illyrii Liburnique et
+Histri, gentes ferae et magna ex parte latrociniis  maritimis
+infames, terrerent, penitus ad litora <note type="margin" place="unspecified"
+anchored="true">A.U.C. 452 Venetorum pervenit. <milestone
+unit="section" n="5"/>
+expositis paucis qui loca explorarent, cum audisset <note
+place="unspecified" anchored="true"> audisset A 2
+or A 4 s:
+audissent W.
+tenue praetentum litus esse, quod transgressis stagna ab tergo sint
+inrigua aestibus maritimis; agros haud procul <note place="unspecified"
+anchored="true"> haud procul falters and Conway:
+haud procul proximos (proximus F ) <foreign
+xml:lang="greek">W: haut proximos A:
+haud procul agro pax... Salluntinos ( repeated from
+§ 3) proximos ( omitting agros) <hi
+rend="italics">O.
+proximos
+capestres
+cerni,  cerni <foreign
+xml:lang="greek">s: cernit <foreign xml:lang="greek"
+>W.
+ulteriora colles videri;  esse ostium
+fluminis praealti, quo circumagi naves in stationem tutam possint <note
+place="unspecified" anchored="true"> possint 
+Walters and Conway:  possint vidisse <foreign
+xml:lang="greek">s: possent vidisse 
+Madvig :  vidisse <foreign xml:lang="greek"
+>W: vidisset PFUOT 2.  —
+Meduacus amnis erat—: eo invectam classem subire flumine adverso iussit.
+gravissimas navium non pertulit alveus fluminis; in leviora navigia
+transgressa 
+multitudo
+multitude
+armatorum ad frequentes agros, tribus maritimis Patavinorum vicis
+colentibus eam oram, pervenit. 
+ibi egressi praesidio levi navibus relicto vicos expugnant,
+inflammant tecta, hominum pecudumque praedas agunt et dulcedine praedandi
+longius usque a navibus procedunt. 
+
+haec ubi Patavium sunt nuntiata—semper autem eos in armis accolae
+Galli habebant—in duas partes iuventutem dividunt. altera
+altera A 2
+or A 4: alteram <foreign xml:lang="greek"
+>W: alterum F.
+in regionem, qua effusa populatio nuntiabatur, altera, ne cui praedonum
+obvia fieret, alio  alio <hi
+rend="italics">
+Gronovius :  altero ( wanting in
+O ) W.
+itinere ad stationem navium—milia autem quattuordecim ab oppido
+aberat—ducta. 
+in naves ignariscustodibus interemptis impetus factus, territique nautae coguntur navesin alteram ripam amnis traicere. et in terra prosperum aeque in <pb
+n="p.366"/> palatos praedatores proelium fuerat refugientibusque <note
+type="margin" place="unspecified" anchored="true">A.U.C. 452 ad
+stationem Graecis Veneti obsistunt;  ita in
+medio circumventi hostes caesique; pars capti classem indicant regemque
+Cleonymum tria milia abesse. 
+inde captivis proximo vico in custodiam datis pars fluviatiles naves,
+ad superanda vada stagnorum apte planis alveis fabricatas, pars captiva navigia
+armatis complent profectique ad classem immobiles naves et loca ignota plus quam
+hostem timentes circumvadunt;  fugientesque in
+altum acrius quam repugnantes usque ad ostium amnis persecuti captis quibusdam
+incensisque navibus hostium, quas trepidatio in vada intulerat, victores
+revertuntur. 
+Cleonymus vix quinta parte navium incolumi, nulla regione maris
+Hadriatici prospere adita, discessit. Rostra navium spoliaque
+Laconum in aede 
+iunonis
+lunonis
+veteri fixa multi supersunt qui viderunt Patavi. <milestone
+unit="section" n="15"/>
+monumentum navalis pugnae eo die quo pugnatum est quotannis sollemne
+certamen navium in flumine oppidi medio exercetur. 
+
+eodem anno Romae cum Vestinis petentibus amicitiam ictum est foedus.
+multiplex deinde exortus terror. 
+Etruriam rebellare ab Arretinorum  seditionibus motu
+orto nuntiabatur, ubi Cilnium genus <note type="margin" place="unspecified"
+anchored="true">A.U.C. 452 praepotens divitiarum invidia pelli armis
+coeptum; simul Marsos agrum vi tueri, in 
+quem
+quern
+colonia Carseoli deducta erat quattuor milibus hominum scriptis.
+itaque propter eos tumultus dictus M. Valerius Maximus dictator
+magistrum equitum sibi legit M. Aemilium Paulum. concitatior accidens clamor ab increscente certamine. equitum quam magistri equitum dictator esse potes. legem; ille tamen dies intercessione est sublatus. tertius ab eo casu dies finis vitae consuli fuit. auderet timorque ipsorum obsidioni similis esset. hostes ad Volaterras instructo agmine occurrerunt. quibus per eosdem qui tulissent fraus fieret. improviso ante signa evecti praebuerunt tumultus. consulem, adesse legiones gaudio alacres fremunt; spretoque eo hoste Decius in Samnium legiones duxit. a se auroque redemptum, haud vana iactantes, memorent; anchored="true">A.U.C. 458 noxae fore; parumper cunctati, quia dux aberat, Appio occurrere. signa canere iussit agmenque hostium adgreditur. consulis et consularia et praetoria comitia habita. supplicatum iere frequentes viri feminaeque. convocatis plebeiis matronis conquesta iniuriam inter se certamen intervenisse reor, patriciis castris remanserant militibus et ipsi Appio fecerunt; inde nusquam stativa Romanis fuere. Decio ut suae quisque provinciae sortem tueretur. qui inter urbem et castra erat aciem erexit. in medio, cum hostis undique urgeret, circumventa. eius tumultus Romanorum conterruit equos. Paelignis est; ex milibus quinque ad mille caesi. quaeque Volturno adiacent flumini descendere. qui primi Samnio arma intulerunt, agimus. coeperunt expellunt extra portam vallumque. inveniunt relictaque quae migratu difficilia essent. n="p.492"/> dimicantibus dubiam victoriam esse; contumeliam ignominiamque ab ignavissimo accipi hoste. id quod timuerint, ad impediendum iter Romanos; dum ab hostibus prius impetus prius clamor inciperet. locum in quo  commissa pugna erat. militum numerus relatus septem milium octingentorum. fanum tantum, id est locus templo effatus, fuerat. silentio surgit et pullarium in auspicium mittit. armatos arcent; inde lapidibus propulsant hostem. exercitus aut utriusque aut certe alterius, se Samnites quam armis ac viris moenia tutabantur. milia gravis aeris et stipendium eius anni militibus. 

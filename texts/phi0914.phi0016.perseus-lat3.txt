@@ -1,0 +1,148 @@
+# ID: histcorp-latin-perseus-phi0914.phi0016.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 6-10 - 6
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Robert Seymour Conway
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,374
+# sentences: 119
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+quae ab condita urbe Roma ad captam eandem Romani sub regibus primum, consulibus
+deinde ac dictatoribus decemuirisque ac tribunis consularibus gessere, foris
+bella,  domi seditiones, quinque libris
+exposui, res cum uetustate nimia obscuras uelut quae magno ex interuallo loci
+uix cernuntur, tum quid rarae per eadem tempora litterae fuere, una custodia
+fidelis memoriae rerum gestarum, et quod, etiam si quae in commentariis
+pontificum aliisque publicis priuatisque erant monumentis, incensa urbe
+pleraeque interiere.  clariora deinceps
+certioraque ab secunda origine uelut ab stirpibus laetius feraciusque renatae
+urbis gesta domi militiaeque exponentur. 
+ceterum primo quo adminiculo erecta erat eodem innixa 
+M.
+Furio
+principe stetit, neque eum abdicare se dictatura nisi anno
+circumacto passi sunt. 
+comitia in insequentem annum tribunos
+habere quorum in magistratu capta urbs esset, non placuit; res ad interregnum
+rediit.  cum ciuitas in opere ac labore assiduo
+reficiendae urbis teneretur, interim 
+Q.
+Fabio
+, simul primum magistratu abiit, ab 
+Cn.
+Marcio
+tribuno plebis dicta dies est, quod legatus in Gallos—ad quos missus
+erat orator—contra ius gentium pugnasset;  cui
+iudicio eum mors, adeo opportuna ut uoluntariam magna pars crederet, subtraxit.
+interregnum initum: 
+P.
+Cornelius
+Scipio
+interrex et post eum 
+M.
+Furius
+Camillus
+[iterum]. is tribunos militum consulari potestate creat <persName
+n="3">
+L.
+Ualerium
+Publicolam
+iterum 
+L.
+Uerginium
+P.
+Cornelium
+A.
+Manlium
+L.
+Aemilium
+L.
+Postumium
+.  hi ex interregno cum extemplo
+magistratum inissent, nulla de re prius quam de religionibus senatum consuluere.
+in primis foedera ac leges—erant autem
+eae duodecim tabulae et quaedam regiae leges—conquiri, quae comparerent,
+iusserunt; alia ex eis edita etiam in uolgus: quae autem ad sacra pertinebant a
+pontificibus maxime ut religione obstrictos haberent multitudinis animos
+suppressa. 
+tum de diebus religiosis agitari coeptum, diemque a. d. XV Kal.
+Sextiles, duplici clade insignem, quo die ad Cremeram Fabii caesi, quo deinde ad
+Alliam cum exitio urbis foede pugnatum, a posteriore clade Alliensem
+appellarunt, †insignemque rei nullius publice priuatimque agendae† fecerunt.
+quidam, quod postridie Idus Quintiles non
+litasset Sulpicius tribunus militum neque inuenta pace deum post diem tertium
+obiectus hosti exercitus Romanus esset, etiam postridie Idus rebus diuinis
+supersederi iussum, inde, ut postridie Kalendas quoque ac Nonas eadem religio
+esset, traditum putant. 
+
+nec diu licuit quietis consilia erigendae ex
+tam graui casu rei publicae secum agitare. 
+hinc Uolsci, ueteres hostes, ad exstinguendum nomen Romanum arma ceperant: hinc
+Etruriae principum ex omnibus populis coniurationem de bello ad fanum Uoltumnae
+factam mercatores adferebant.  nouus quoque
+terror accesserat defectione Latinorum Hernicorumque, qui post pugnam ad lacum
+Regillum factam per annos prope centum nunquam ambigua fide in amicitia populi
+Romani fuerant. 
+itaque cum tanti undique terrores
+circumstarent appareretque omnibus non odio solum apud hostes sed contemptu
+etiam inter socios nomen Romanum laborare, 
+placuit eiusdem auspiciis defendi rem publicam cuius reciperata esset
+dictatoremque dici 
+M.
+Furium
+Camillum
+.  is dictator 
+C.
+Seruilium
+Ahalam
+magistrum equitum dixit; iustitioque indicto dilectum iuniorum
+habuit ita ut seniores quoque, quibus aliquid roboris superesset, in uerba sua
+iuratos centuriaret.  exercitum conscriptum
+armatumque trifariam diuisit: partem unam in agro Ueiente Etruriae opposuit,
+alteram ante urbem castra locare iussit; 
+tribuni militum his 
+A.
+Manlius
+, illis quia aduersus Etruscos mittebantur 
+L.
+Aemilius
+praepositus; tertiam partem ipse ad Uolscos duxit nec procul a
+Lanuuio—ad Mecium is locus dicitur—castra oppugnare est adortus. <milestone
+n="9" unit="section"/> quibus ab contemptu, quod prope omnem deletam a
+Gallis Romanam iuuentutem crederent, ad bellum profectis tantum Camillus auditus
+imperator terroris intulerat ut uallo se ipsi, uallum congestis arboribus
+saepirent, ne qua intrare ad munimenta hostis posset. coici iussit; et forte erat uis magna uenti uersa in hostem; quo minus speratam minime largitore duce, eo militi gratiorem. uictorem uagum praedam ex hostium tectis egerentem. accisas a Camillo Uolscorum res possessionis haud ambiguae. uires et arma habuerint, incursiones eo factas; omnia praecipiant diuisus sit, locum ibi plebi fore. fateri regimen omnium rerum, ubi quid bellici terroris ingruat, pluribus et exercitibus administrandam rem publicam esse. legum, rerum omnium urbanarum, collegae facimus.' pugnaturos et aegre inermem tantam multitudinem, ferunt idque ut repeteretur concitatos antesignanos; tantum aciem sed etiam ad subsidiarios perlatum. proelium restituit, ostentans uincentem ceteram aciem. profectus, ut senatum ad excidendum Antium hortaretur. noctem, quae conspectum ademit, finem caedendi fecere. Nepesinorum prodente ciuitatem facta erat deditio; populationibus agri terror est oppidanis admotus; cur per eos annos militem ex instituto non dedissent. tot super alia aliis bellis exhauriri nequisse. aequum censebat excellere suas opes animaduertit, agrum Pomptinum, quo a Uolscis exercitum indictum audierat, uictoribus captum in seruitutem ac uincula duci uideam.' per omne fas ac nefas secuturi uindicem libertatis uiderentur. quam de te sum quaesiturus conuenturum satis confido. publicis thesauris ex praeda clandestina euoluas. diutius patiar a te multitudinem fallaci spe concitari.' obuersatamque uestibulo carceris maestam turbam. deduci iussit. bina iugera et semisses agri adsignati; interpretarentur, remedio inritatur seditio. fauore tollat, deinde in ipso discrimine periculi destituat: auxilii fuisse, nullam opem in tam multis uni esse? dictaturam fugisset sed ne senatus quidem sustinere potuisset. nec hoc natura insitum uobis est, sed usu possidemini. aduersus hos temptare magis quam tueri libertatem. dediderant—hi tum omnes quid opus facto sit consultant. causis ex Manliano supplicio magnae parti uideri orta: tribunis militum consulari potestate. Romanum exirent. haec noua iniuria exturbauit omnem spem pacis. nuntiarentur—omnia enim inde suspecta erant—relictis. ex errore gratiam potius eius sibi quam suam gloriam petiit. ciuiles iam res haud magnopere obeuntem bella excitabant. hostium signa inferendo superbam fiduciam uirium ostentare. occasionem, quod tempus, quem insidiis instruentem locum? immortalem esse deceat pati consenescere uires? terror et nouo hoste et supina ualle Romanam inclinauit aciem. possitis? uestra illa temeritas, uestra ignauia haec est. miserrimum est, fortunam cum omnibus, infamiam solus sentiam.' uidebatur, qua data in tam praecipitem casum res publica esset; comiter in castra ex urbe et ex agris deuehitur. ostentaretur etiam intra moenia esset scire cupiens, obuiam imperatoribus legionibusque uestris processimus. crediderunt et ubi nihil hostile erat ne ipsi quidem fecerunt. tribunicio et consensu plebis impediri coepta; fatalem se urbi Romanae locum cepisse inter se iactabant; lacum deuictum centum annorum pace obnoxia tenuerint: deuectum Iouis Imperatoris in Capitolium tulit. dedit. Manliis, quod genere plebeios, militum etiam sine rectore stabilis uirtus tutata est. censores facti ne rem agerent bello impediti sunt; laeua ad montes &lt;et&gt; Ecetram pergunt. dilectum impedirent non habebant tribuni plebis. Romam, qui certiorem de suo casu senatum facerent, misere. subeuntes moenia molientesque obices portarum arcere possunt. modo ad tribunatum militum inter patricios petendum, nupta in domo quam nec honos nec gratia intrare posset. locatis nullum speraret: accingendum ad eam cogitationem esse; aliquotiens incursauere et Tusculum oppugnare adorti sunt; uniuersa plebes de suis commodis suffragium ferret. necessarium aut locum sepulturae suus pateret ager? consulem, custodem suae libertatis, [plebi] fecissent. magna ipsis fruenda, maiora liberis relinquenda. quae ex promulgatis plebi, quae latoribus gratiora essent. consuli magistro equitum ex plebe dicendo dederit: honore tantum sed etiam sine spe honoris relinquat. quaedam contra uoluntatem fuerint, uere referri posse. ingenuis ortum et uiuere in libera ciuitate sciam, comitiis, non in legibus iubendis se permissuros esse? commodum est populo accipere, nemo erit qui ferat? in partem eius uenis, nisi partem petendo totum traxeris? exercituum caesum torque spoliauit, tum pugnatam. 

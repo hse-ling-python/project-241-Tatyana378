@@ -1,0 +1,65 @@
+# ID: histcorp-latin-perseus-phi0914.phi0015.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books V, VI and VII With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 551
+# sentences: 57
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber V
+pace alibi parta Romani Veiique in armis erant <note type="marg"
+place="unspecified" anchored="true">A.U.C. 351 tanta ira odioque, ut
+victis finem adesse appareret. comitia utriusque populi longe diversa
+ratione facta sunt. 
+Romani auxere 
+tribunorum
+tribunoruin
+militum consulari potestate numerum; octo, quot nunquam antea, creati,
+M.'Aemilius Mamercus iterum L. Valerius Potitus tertium Ap. ClaudiusCrassus M. Quinctilius Varus L. Iulius Iulus <note place="unspecified"
+anchored="true"> L. Iulius Iulus s ( <hi
+rend="italics">C.I.L. i2, p. 116): m_.
+iulius rullus W: m_. iulius tullus a: m
+iulius publius L: m_ uilius publius <hi
+rend="italics">D.
+M. Postumius M. Furius Camillus M. 
+Postumius Albinus. Veientes contra taedio annuae
+ambitionis, quae interdum discordiarum causa erat, regem creavere.
+offendit ea res populorum Etruriae animos, non maiore odio regni
+quam ipsius regis. 
+gravis iam is antea genti fuerat opibus superbiaque, quia sollemnia
+ludorum, quos intermitti nefas  est, omnibus conciliis eam rem agitari adferebatur, coepta, consiliumque erat hiemando continuare bellum. bellorum terra marique sit quies, arma deponentem. iam ab iuventa certaminibus plebeiis, facibus maxime armata ignes coniecit, equites, dato magistratibus negotio laudari iussi, advocata peditibus equitibusque gratias agerent, anchored="true">A.U.C. 352 occiperent. etiam vectigalis ad ultimum facta sit, rem et communi fraude patriciorum actam. abrogatum imperium, qui certe nihil deliquissent. Vergini ac M.' Sergi sit exsecratus detestatusque. viros fortes ac strenuos transferendi summi honoris, proximis comitiis tribunorum militum plebeios creandi. apparari poterat stratis lectis placavere. de integro repeterentur, et interregnum iniretur. pervenerat, sed in castris quoque fuit ad Veios. arcem hostium agi coeptus. quod ne largitione caperet, litteras ad senatum misit, plebi ac pati habere quod cuique fors belli dederit. raperent et ad dictatorem ferrent. templum iniere primo religiose admoventes manus, facilem tralatu fuisse, integramque in Aventinum, parumque id non civile modo sed humanum etiam visum. quisque privatim obligaverit, liberatus sit populus. ludosque, carpentis festo profestoque uterentur. in omnes principes, ante alios in Camillum; Verruginem etiam ad praesidium alterum est perlatus. forum venerunt, dissipatique per tribus suos quisque plures tribus antiquarunt quam iusserunt. n="p.114"/> auxilium adversus Gallos petentes. Gallos ab Arrunte seu quo alio Clusino adductos; qui auxilium ab senatu peterent, misere. graves loricis aliisque tegminibus, hausere gurgites; via quae sublicio ponte ducit ad Ianiculum. inter ceteram turbam quae inutilis bello die aut passim aut late vagatus est ignis. >A.U.C. 364 praeterquam corporum vindices, ultimam Romani nominis, in animo habuerint oppugnare. sublevantesque in vicem et trahentes alii alios, populi non intermissus honos deorum immortalium esset; iussu revocaretis, rediturus unquam fuerim. num alibi quam in Capitolio pulvinar suscipi potest? adfectae Veienti bello rei publicae remedio fuit? postea, cum reliqueritis eam, macerent desiderio. ad incrementum urbis natum unice locum. 

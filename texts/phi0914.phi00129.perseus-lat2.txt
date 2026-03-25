@@ -1,0 +1,72 @@
+# ID: histcorp-latin-perseus-phi0914.phi00129.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 26-30 - 29
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Stephen Keymer Johnson
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,128
+# sentences: 107
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Scipio postquam in Siciliam uenit, uoluntarios
+milites ordinauit centuriauitque.  ex iis
+trecentos iuuenes, florentes aetate et uirium robore insignes, inermes circa se
+habebat, ignorantes quem ad usum neque centuriati neque armati seruarentur.
+tum ex totius Siciliae iuniorum numero
+principes genere et fortuna trecentos equites qui secum in Africam traicerent
+legit, diemque iis qua equis armisque instructi atque ornati adessent edixit.
+grauis ea militia, procul domo, terra
+marique multos labores magna pericula allatura uidebatur; neque ipsos modo sed
+parentes cognatosque eorum ea cura angebat. 
+ubi dies quae dicta erat aduenit, arma equosque ostenderunt. tum Scipio
+renuntiari sibi dixit quosdam equites Siculorum tamquam grauem et duram horrere
+eam militiam: 
+si qui ita animati essent, malle eos
+sibi iam tum fateri quam postmodo querentes segnes atque inutiles milites rei
+publicae esse; expromerent quid sentirent; cum bona uenia se auditurum.
+ubi ex iis unus ausus est dicere se
+prorsus, si sibi utrum uellet liberum esset, nolle militare, tum Scipio ei:
+'quoniam igitur, adulescens, quid sentires
+non dissimulasti, uicarium tibi expediam cui tu arma equumque et cetera
+instrumenta militiae tradas et tecum hinc extemplo domum ducas exerceas docendum
+cures equo armisque.'  laeto condicionem
+accipienti unum ex trecentis quos inermes habebat tradit. ubi hoc modo
+exauctoratum equitem cum gratia imperatoris ceteri uiderunt, se quisque excusare
+et uicarium accipere.  ita trecentis Siculis
+Romani equites substituti sine publica impensa. docendorum atque exercendorum
+curam Siculi habuerunt, quia edictum imperatoris erat ipsum militaturum qui ita
+non fecisset.  egregiam hanc alam equitum
+euasisse ferunt multisque proeliis rem publicam adiuuisse. materia raptim factae erant, ut in sicco hibernarent. retinentibus, concessas sibi ab senatu repetebant. abscessum est quam castris quoque exuerunt hostem. arma tradenda deditionemque faciendam censuere. inducturos. haec dicta legatis renuntiataque in concilium. exercitui, et obsides ab triginta ferme populis accepti. agrum sub signis milites sociosque in auxilium nauales duxit. primo terror pauorque, dein maestitia animos incessit: transuectas; summae belli molem adhuc in Sicilia esse. fama Romanae classis excitus cum equitibus paucis uenit. gentis ingens ibi multitudo erat—concilium habuit; parte bellum aequum esse. Ligures haud abnuere: generis occulte ad eum a Gallicis populis mittebantur. defectionem Italiae desciuerat et ipsa ad Poenos. composuissent signaque quae procul edita obseruarent, propraetori scriptum ut rei agendae adesset. arcem—duae sunt haud multum inter se distantes—confugiunt. Locris rem uerti ipsumque Hannibalem aduentare, quicquam timentem patefacta porta erumpunt Romani. sacram pecuniam deae quam asportabant extulerant, sub eo quam ipse ab Regio adduxerat, pars sub tribunis erat. impetum lictoribus prius indignum in modum mulcatis faciunt. eam litem posse nisi qui atrocitatem eius patiendo sensisset, ullo foedere sociata ualetudinis populi causa arcessitum, absens cum prouinciam Graeciam haberet. uoluit condicionibus ad petendam et paciscendam subegit pacem. momentum ad opem ferendam sociis, oppressisset. finem belli facerent darentque eam Epirotis ueniam. imperio morari consuli e re publica uisum esset. iudicauerunt in tota ciuitate uirum bonorum optimum esse. naue acciperet et in terram elatam traderet ferendam matronis. namque coloniae in ea causa erant—Romam excirent; summae numerum peditum daret et equites centenos uicenos; mitterenturque ubicumque extra Italiam supplemento opus esset. iis coloniis agi ex formula ab Romanis censoribus data; Romani ut plus militum darent quam haberent posse efficere. debere in publica obligata fide suam praecipuam curam esse; nemo non illos sibi quam uos dominos praeoptet. Locros et cum eodem ibi relictus est praesidio. uirgines, ingenuos raptos ex complexu parentium. audire singula quae passi sumus: communiter omnia amplectar. cepere an cum exitiabilis tyrannus ui atque armis oppressit. uestros solum colatis deos sed etiam externos accipiatis. credo aliquam famam ad uos peruenisse Pyrrhi bello, pecunia in naues imposita ipse terra est profectus. iactabatur: cum pallio crepidisque inambulare in gymnasio; molliter cohortem totam Syracusarum amoenitate frui; consulem, spe destinauerit Hannibalem ex Italia retracturum, legerent qui duo cum praetore ac legatis irent: Proserpinae tacta ac uiolata elataque inde essent. sicuti mandatum erat, religionis curam habuere; cognosset prenderet, si quid non compareret repeteret; restitui; non leui defuncturum poena qui non restituisset. cum eo damnauerunt atque in catenis Romam miserunt. bellique alium apparatum uisendum praetor legatique ducti. effringendi carceris fugiendique haberet occasionem; essent ipse eligeret quos in Africam secum traiceret, pauentesque ad singulos nuntios sollicitam hiemem egissent, aut illa abnuentem alteram societatem sequi necesse sit: legatis propere priusquam res uolgaretur remissis in uenisse querentem quod cunctando tempus tereretur: locum eorum subiecit quos secum ex Italia adduxerat, tumultu conscenderent ipse eam sibi curam sumpsit: —quaestor is tum erat—onerariis futurum praesidio. longas naues quadringentis ferme onerariis exercitum trauexit. Carthaginiensium exempla edendi facultatem detis.' satis prouecti celeriter e conspectu terrae ablati sunt; inter se uitarent; lenior uentus in alto factus. conspectum terrae ademit et uentus premente nebula cecidit. inter se concurrerent naues aut terrae inferrentur iecere. parem quam tumultuarium exercitum suum Romano exercitui esse. praefectum quoque Hannonem, nobilem iuuenem, occiderunt. in principio rerum gerendarum aduentus fuit Masinissae; fortuna usus sit in amittendo reciperandoque paterno regno. uaria fortuna cum iis qui tum obtinebant certantis. †conueniret†, nec cum qua tantam rem adgredi satis auderet, regiis alios tradentes se recipit, alios uim parantes occidit; et puer Lacumazes ab Syphace auxilia ingentia adduxerat. prudentia inter Romana et Punica arma exercitati ducis; ratus cum fratre patruele gratiam reconciliare, praedae quam inter Numidas et latrocinium tutius erat. uiuum—id uero inaestimabile gaudium fore— cepisset. Masinissam ipsum cum paucis in uerticem montis compellit. occurrerent per obliqua tendentibus quinque hostes sequebatur. multitudine quae nimio maior erat Syphacem iuuante. pertinacior altera in repugnando telis obruta et confixa est. Numidas—id longe primum equitum in Africa est genus — sine signis omnibus portis excurrerent obsistendo. equitatus proelio cum adesset, sustineri ultra nequiere; pecoris et omnis generis praedae trahens in castra redit, si cepisset sedem ad cetera exsequenda habiturus. ante aduentum Syphacis castra propius hostem mouere est ausus. quam pugna ad mille et ducenti de exercitu consulis interfecti; si eo die hostes fudisset; composque eius uoti fuit. perculsus aduerso proelio Hannibal Crotonem exercitum reduxit. miserant ad Magonem de populorum suorum defectione, Romanum omnem, quattuor et triginta tribus, aerarios reliquit, 

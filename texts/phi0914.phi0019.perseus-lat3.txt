@@ -1,0 +1,73 @@
+# ID: histcorp-latin-perseus-phi0914.phi0019.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 645
+# sentences: 64
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber IX
+SEQUITUR hunc annum nobilis clade Romana <note
+type="margin" place="unspecified" anchored="true">A.U.C. 433 Caudina
+pax T. Veturio Calvino Sp. Postumio consulibus. 
+Samnites eo anno imperatorem C. Pontium Herenni filium habuerunt,
+patre longe prudentissimo natum, primum ipsum bellatorem ducemque. <milestone
+unit="section" n="3"/>
+is , ubi legati qui ad dedendas res missi erant pace infecta
+redierunt, 
+ne nihil actum  inquit 
+hac legatione censeatis, expiatum est quidquid ex
+foedere rupto irarum in nos caelestium fuit. 
+satis scio quibuscumque discordi fuit subigi nos ad necessitatem
+dedendi res quae ab nobis ex foedere repetitae fuerant, iis non fuisse cordi
+tam superbe ab Romanis foederis expiationem spretam. <milestone
+unit="section" n="5"/>
+quid enim ultra fieri ad placandos deos mitigandosque homines
+potuit quam quod nos fecimus? res hostium in praeda captas, quae
+belli iure nostrae videbantur, remisimus; auctores belli, <milestone
+unit="section" n="6?"/> quia vivos non potuimus, perfunctos iam fato
+dedidimus; bona eorum, ne quid ex contagione noxae remaneret penes nos,
+Romam portavimus. 
+quid ultra tibi, Romane, quid foederi, quid dis arbitris foederis
+debeo? quem tibi tuarum  irarum, quem meorum
+suppliciorum iudicem feram? <note type="margin" place="unspecified"
+anchored="true">A.U.C. 433
+neminem neque populum neque privatum fugio. <milestone
+unit="section" n="8"/>
+quod si nihil cum potentiore iuris humani relinquitur inopi, at
+ego ad deos vindices intolerandae superbiae quibus nulla nisi in armis relinquitur spes. incolumes et leges iis iure belli victis imponerentur, ruere volunt, quid habent quod morte sua servent? dedendo ad necem patriam deserimus ac prodimus. experiundo factura quam quae praeceperant animis. et primi traditi obsides atque in custodiam abducti. Samnitibus quam Romanis tristiorem memoriam fore; prius quam indictum; lati clavi, anuli aurei positi; nec pro vobis qui nihil mandaveratis possem. P. Deci consulis, aliis claris facinoribus aequabant: pugnam nulla adhortatio imperatoris audita est: vallum nec fossae arcerent memorantes, acies, obsidibus imperatis in deditionem accepit. praevertisset bellum seniorque in Italiam traiecisset. perpetuis praeceptis ordinatae modum venerat. victus esset consiliis iuvenis unius, quam bene ausus vana contemnere incruentus devicit. degenerantemque iam in Persarum mores adduxisset. tamen foedere sed ut in dicione populi Romani essent. repentino adventu Aemili consulis Nerulum vi captum. moenia compulit, tum totam aciem in Samnites obvertit. proditione urbium sicut Sora in potestatem venit. quam me pro magistratu quicquam incompertum dicere et offerre me inimicis reum, dictatura me abdico. pulsos, victorem hostem signa in perculsos inferentem. verecundia victus collega magistratu se abdicaverat; prandeat miles firmatisque cibo viribus arma capiat. cum tribunis ac plebe erat certamen oritur. iustam nec in volgus quam optimo cuique gratiorem. magistrate abieris, modo ne excedas finitum tempus. opulentusque rerum omnium copia in castra rediit. hostem sensere pugnam, ad vallum subeunt. alias ante simul copiis simul animis dimicarunt; propugnatoribus signa, fit ex secunda prima acies. fastigio aequali; ad imum cuneatior mobilitatis causa. fori ornandi ab aedilibus cum tensae ducerentur. consul nec dubia nec difficili victoria dimicat. expertis Gallica clade quam intutam urbem incolerent. tendit et vacua defensoribus capit atque incendit. quod aliquamdiu soli Hernicorum habuerunt, permissum. anchored="true">A.U.C. 450 res repetitum, licuerit suas leges Romanae civitati praeoptaverint: communium ad respectum suarum quemque rerum vertit, ut in dilapsis passim, primo errorem faciebant; honoris sui anxios invidia inimicos spectavit. 

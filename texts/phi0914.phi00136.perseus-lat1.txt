@@ -1,0 +1,163 @@
+# ID: histcorp-latin-perseus-phi0914.phi00136.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 35-38 - 36
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 921
+# sentences: 64
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+P.
+Cornelium
+Cn. filium
+Scipionem
+et M’. Acilium Glabrionem consules inito magistratu patres,
+priusquam de provinciis agerent, res
+divinas facere maioribus hostiis iusserunt in omnibus fanis, in quibus
+lectisternium maiorem partem anni fieri <note place="unspecified"
+anchored="true">
+a. u. 563.
+solet, precarique, quod senatus de novo bello in animo haberet, ut ea
+res senatui populoque Romano bene atque feliciter eveniret. <milestone
+unit="section" n="3"/> ea omnia sacrificia laeta fuerunt, primisque hostiis
+perlitatum est, et ita haruspices responderunt, eo bello terminos populi Romani
+propagari, victoriam ac triumphum ostendi. 
+haec cum renuntiata essent, solutis religione animis patres rogationem ad
+populum ferri iusserunt,  vellent iuberentne
+cum Antiocho rege, quique eius sectam secuti essent bellum iniri; si ea perlata
+rogatio esset, tum, si ita videretur consulibus, rem integram ad senatum
+referrent. 
+P.
+Cornelius
+eam rogationem pertulit; tum senatus decrevit, ut consules Italiam
+et Graeciam provincias sortirentur, cui Graecia evenisset, ut praeter eum
+numerum militum, quem 
+L.
+Quinctius
+consul in eam provinciam ex auctoritate senatus scripsisset
+imperassetve,  ut eum exercitum acciperet, quem
+M.
+Baebius
+praetor anno priore ex senatus consulto in Macedoniam traiecisset;
+et extra Italiam permissum, ut, si res
+postulasset, auxilia ab sociis ne supra quinque milium numerum acciperet.
+L.
+Quinctium
+superioris anni consulem legari ad id bellum placuit. <milestone
+unit="section" n="9"/>
+alter consul, cui Italia provincia
+evenisset, cum Bois iussus bellum gerere utro exercitu mallet ex duobus, quos
+superiores consules habuissent, alterum ut <note place="unspecified"
+anchored="true">
+a. Ch. 191.
+mitteret Romanam, eaeque urbanae legiones essent paratae quo senatus
+censuisset. 
+his ita in senatu <hi rend="italics"
+>intento ad id, quae cuius provincia foret, decretis, tum demum sortiri
+consules placuit. Acilio Graecia, Cornelio Italia evenit. <milestone
+unit="section" n="2"/> certa deinde sorte senatus consultum factum est, quod
+populus Romanus eo tempore duellum iussisset esse cum rege Antiocho quique sub
+imperio eius essent, ut eius rei causa supplicationem imperarent consules,
+utique M’. Acilius consul ludos magnos Iovi voveret et dona ad omnia pulvinaria.
+id votum in haec verba praeeunte <persName
+n="2">
+P.
+Licinio
+pontifice maximo consul nuncupavit: “si duellum, quod cum rege
+Antiocho sumi populus iussit, id ex sententia senatus populique Romani confectum
+erit, 
+tum tibi, Iuppiter, populus Romanus
+ludos magnosdies decem continuos faciet, donaque ad omnia pulvinaria dabuntur depecunia, quantam senatus decreverit.  quisquis
+magistratus eos ludos quando ubique faxit, hi ludi recte facti donaque data
+recte sunto.” supplicatio inde ab duobus consulibus edicta per biduum fuit. 
+
+consulibus sortitis provincias extemplo et
+praetores sortiti sunt. 
+M.
+Iunio
+Bruto
+iurisdictio utraque evenit, 
+A.
+Cornelio
+Mammulae
+Bruttii, 
+M.
+Aemilio
+Lepido
+Sicilia, 
+L.
+Oppio
+Salinatori
+Sardinia, 
+C.
+Livio
+Salinatori
+classis, 
+L.
+Aemilio
+Paulo
+Hispania ulterior.  his ita
+exercitus decreti: 
+A.
+Cornelio
+novi milites, conscripti priore anno ex senatus consulto a <persName
+n="2">
+L.
+Quinctio
+consule, dati sunt, iussusque tueri omnem oram circa Tarentum
+Brundisiumque. 
+L.
+Aemilio
+Paulo
+in ulteriorem Hispaniam, praeter eum exercitum, quem a <persName
+n="2">
+M.
+Fulvio
+proconsule accepturus esset, decretum est, ut novorum militum tria
+milia duceret et trecentos equites, ita ut in iis duae partes socium Latini
+nominis, tertia civium Romanorum esset.  idem
+supplementi ad 
+C.
+Flaminium
+, cui imperium prorogabatur, in Hispaniam citeriorem est missum.
+M.
+Aemilius
+Lepidus
+ab 
+L.
+Valerio
+, cui successurus esset,simul provinciam exercitumque accipere iussus; viginti navibus longis custodiret. comportandum devehendumque in Graeciam curaret. Graeciam sed Romam id frumentum portari placere. apparatum curamque eius belli civitas intenta fuit, renuntianda esset quam bellum indicendum. in multos annos deberent, praesens omne daturos; parem—qui quid tandem erit vobiscum comparatus? consilium specie amplum, re inane animo adiecto. clementiae aliquot populi Acarnaniae defecerunt. modica quiete exercitu Crannonem est progressus. quidem facile ullas ad transitum calles inveniant. Aetolorum utraeque manus Heracleam sese incluserunt. numero maior et militum genere aliquanto melior: tenuit: Scarpheam tamen eo die consecuti sunt hostem. profectus Tenum primo tenuit, inde Ephesum transmisit. urbem oppugnabant, Aetoli contra armis se tuebantur. strepitum pugnantium in tenebris currunt. morbo impeditus bello non interfuisset, congressus. per colloquia principum oppidanos temptabat rex, quae imperarentur et quae ipsis prope accidissent, Romanos, deinde Antiochum in Graeciam adduxissent. escendit Herculique sacrificium fecit in eo loco, nullo praesidio, ut clauderet transitum, insedisset. occurrit; et cum causas oppugnationis exponeret, legatos ad regem ne ipsi quidem misisse infitiabantur. aede Iovis optimi maximi, permissum ab senatu. consulibus in Palatium a mari detulerat. Antias Valerius est auctor, Megalesia appellatos. nobilibus equorum quoque captorum gregem traduxit. enim mari minus quam terra pollere Romana arma. imperatorum rei gerendae causa ex Italia venisse: Graecia perpacata erant—et ubi classis Romana esset, Livius una et octoginta constratis navibus, portum, qui super Cissuntem est, conati sunt traicere. 

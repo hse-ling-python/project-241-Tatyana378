@@ -1,0 +1,53 @@
+# ID: histcorp-latin-perseus-phi0914.phi00128.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XXVIII-XXX With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 450
+# sentences: 50
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XXVIII
+CUM transitu Hasdrubalis, quantum in Italiam
+Italiam JK
+Froben 2: italia P(1)N Aldus.
+declinaverat belli, tantum levatae Hispaniae viderentur,renatum ibi subito par
+priori bellum est. 
+Hispanias ea tempestate sic habebant Romani Poenique: Hasdrubal
+Gisgonis filius ad Oceanum penitus Gadesque concesserat; <milestone
+unit="section" n="3"/> nostri maris ora omnisque ferme Hispania qua in
+orientem vergit Scipionis ac Romanae dicionis erat. duo maria est, brevi magnum hominum numerum armasset, milibus militum, equitibus quingentis misit. alios ad arma sollicitare populos, oppressa erat. amicitiam potius quam vim experirentur Romanorum. Attalum ad consultandum de summa belli venturum. pulsi inde in mediam urbem ad alteram tendere arcem; unde commeatibus sumptis Phliunta Pheneumque petit. pedestris inde copias per Boeotiam terra duci iussit. urbem, sed conlegam quoque eius C. Claudium iusserunt. ad Poenos sub adventum Hasdrubalis defecissent. auctoritate consulum compulsa in agros remigravit. reparando aptior erat locorum hominumque ingeniis. hiemem conscripturum pollicitus erat acciperet, esset, pari robore animorum armorumque concursuros. Hasdrubal, ab tergo esse colles tutumque receptum, aberat mare—nocte relicto exercitu Gades perfugit. P. Scipio provinciam et exercitum accepit. Hispaniam, quod freto exiguo dirimuntur, positis. intulerunt quinqueremes quam Poeni ancoras molirentur; artem illi viro ad conciliandos animos esse. interficiendisque scelus etiam defectioni addiderant. n="p.82"/> erigeret et adfligeret victorem, se ipsum, si ceteri cunctentur, escensurum minatur. erigi coeptae; et ex altera parte Laelius institit. fratre maiore post mortem eius principatu accepto. sine  certamine in deditionem accepit. corporumque quae cariora fortunis essent servarent; consisteret; ad multitudinem castigationem satis esse. nec me vita iuvaret invisa civibus et militibus meis. anchored="true">A.U.C. 548 aequalem esse. praelata impetu lateris alterius remos detersit; Ilergetum spem recuperandae Hispaniae nanctus, animis, priusquam castra ab Carthagine moveret, esset, praecidunt; multique adnantes navibus, provincia tradita decem navibus Romam rediit, haec—modo contingat ut te consule vincamus—futura est. amissos imperatores ferociores calamitate ipsa facti, vectari constat, Hannibali se coniungere iusserint? ferocem laudarent, Scipio ita locutus fertur: publicae et exercitus vicem videretur sollicitus. calamitas accepta est quam tunc in Hispania erat? in hominis unius virtute tantum momenti esse. infidis sociis, gravibus ac superbis dominis! exspectate nuntios quam ex Hispania accipiebatis. in viaticum decurionibus remigibusque conlaturos; Graeca ad mare versam vendere quaestores iussi, Punicum exercitum super morbum etiam fames adfecit. 

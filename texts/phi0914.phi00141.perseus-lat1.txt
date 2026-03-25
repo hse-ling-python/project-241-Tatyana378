@@ -1,0 +1,133 @@
+# ID: histcorp-latin-perseus-phi0914.phi00141.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 41-42 - 41
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 839
+# sentences: 55
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+a patre in pace habitam armasse eoque iuventuti praedandi cupidae
+pergratus esse dicebatur. consilium de Histrico bello cum haberet consul, alii
+gerendum extemplo, antequam contrahere copias hostes possent, alii consulendum
+prius senatum censebant. 
+vicit sententia, quae diem non
+proferebat. profectus ab Aquileia consul castra ad lacum Timavi posuit; inminet
+mari is lacus. eodem decem navibus C.
+Furius
+duumvir navalis venit.  adversus
+Illyriorum classem creati duumviri navales erant. qui tuendae viginti navibus
+maris superi orae Anconam velut cardinem haberent; inde 
+L.
+Cornelius
+dextra litora usque ad Tarentum, 
+C.
+Furius
+laeva usque ad Aquileiam tueretur. 
+eae naves ad proximum portum in Histriae fines cum onerariis et magno commeatu
+missae, secutusque cum legionibus consul quinque ferme milia a mari posuit
+castra.  in portu emporium brevi perfrequens
+factum, omniaque hinc in castra subportabantur. et quo id tutius fieret,
+stationes ab omnibus castrorum partibus circumdatae sunt: <milestone
+unit="section" n="6"/> in Histriam versum praesidium stativum repentina
+cohors Placentina obposita; inter mare et castra et, ut idem aquatoribus ad
+fluvium esset praesidium, 
+M.
+Aebutius
+tribunus militum secundae legionis duos manipulos militum ducere
+iussus est; 
+T.
+et 
+C.
+Aelii
+tribuni militum legionem tertiam, quae pabulatores et lignatores
+tueretur, via, quae Aquileiam fert, duxerant. 
+ab eadem regione mille ferme passuum
+castra erantGallorum; Catmelus pro regulo praeerat tribus haud amplius milibusarmatorum. 
+
+Histri, ut primum ad lacum Timavi castra sunt
+Romana mota,  ipsi post collem occulto loco
+consederunt, et inde obliquis itineribus agmen sequebantur in omnem occasionem
+intenti, nec quicquam eos, quae terra marique agerentur, fallebat. <milestone
+unit="section" n="3"/> postquam stationes invalidas esse pro castris, forum
+turba inermi frequens inter castra et mare mercantium sine ullo terrestri aut
+maritimo munimento viderunt, duo simul praesidia, Placentinae cohortis et
+manipulorum secundae legionis, adgrediuntur. 
+nebula matutina texerat inceptum; qua dilabente ad primum teporem solis
+perlucens iam aliquid, incerta tamen, ut solet, lux speciem omnium multiplicem
+intuenti reddens, tum quoque frustrata Romanos, multo maiorem iis, quam erat,
+hostium aciem ostendit.  qua territi utriusque
+stationis milites ingenti tumultu cum in castra confugissent, haud paulo ibi
+plus, quam quod secum ipsi adtulerant, terroris fecerunt. <milestone
+unit="section" n="6"/>
+nam neque dicere, quid <note
+place="unspecified" anchored="true">
+a. u. 576.
+fugissent, nec percunctantibus reddere responsum poterant, et clamor in
+portis, ut ubi nulla esset statio, quae sustineret impetum, audiebatur, et
+concursatio in obscuro incidentium aliorum in alios incertum fecerat, an hostis
+intra vallum esset.  una vox audiebatur ad mare
+vocantium; id forte temere ab uno exclamatum totis passim personabat castris.
+itaque primo, velut iussi id facere,
+pauci, armati alii, maior pars inermes, ad mare
+decurrunt, dein plures, postremo prope omnes, et ipse consul, cum frustra
+revocare fugientes conatus nec imperio nec auctoritate nec precibus ad extremum
+valuisset.  unus remansit 
+M.
+Licinius
+Strabo
+, tribunus militum secundae legionis, cum tribus signis ab legione
+sua relictus. hunc in vacua castra impetu facto Histri, cum alius armatus iis
+nemo obviam isset, in praetorio instruentem atque adhortantem suos obpresserunt.
+proelium atrocius quam pro paucitate
+resistentium fuit, nec ante finitum est, quam tribunus militum quique circa eum
+constiterant interfecti sunt.  praetorio
+deiecto, direptisque quae ibi fuerunt, ad quaestorium, forum quintanamque hostes
+pervenerunt. 
+ibi cum omnium <note
+place="unspecified" anchored="true">
+a. Ch. 178.
+rerum paratam expositamque copiam et stratos lectos in quaestorio
+invenissent, regulus accubans epulari coepit. 
+mox idem ceteri omnes, armorum hostiumque obliti, faciunt et, ut quibus insuetus
+liberalior victus esset, avidius vino ciboque corpora onerant. 
+
+nequaquam eadem est tum rei forma apud
+Romanos; terra mari trepidatur; nautici tabernacula detendunt commeatumque in
+litore expositum in naves rapiunt;  milites in
+scaphas et mare territi ruunt; nautae metu, ne compleantur navigia, alii turbae
+obsistunt, alii ab litore naves in altum expellunt. Arimini pestilentia adfectus erat, domum dimissus. premi imperio, sed singulos iustum pati servitium. susceptum esse, sed gestum prudenter fortiterque. vinctos se Iunium Manliumque minitans Romam missurum. quo minus votis nuncupatis paludatus ab urbe exiret. pecore aberrasset, initam ac semine aspersam. praetorem adiutorem ab senatu datum esse. de provincia exercitum secum deportare liceret. proconsulem in Galliam proficisci iussit, Scipio inter peregrinos. Sicilia Lucio Claudio sine supplemento decreta. longinquo, maxime quartanae, inplicabantur morbo. caelo super aedem Saturni in foro Romano intentus, straverunt et † eo publico ab aede Veneris fecerunt. 

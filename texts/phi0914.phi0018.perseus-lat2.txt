@@ -1,0 +1,66 @@
+# ID: histcorp-latin-perseus-phi0914.phi0018.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 6-10 - 8
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Robert Seymour Conway
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 982
+# sentences: 98
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+iam consules erant 
+C.
+Plautius
+iterum 
+L.
+Aemilius
+Mamercus
+, cum Setini Norbanique Romam nuntii defectionis Priuernatium cum
+querimoniis acceptae cladis uenerunt. 
+Uolscorum item exercitum duce Antiati populo consedisse ad Satricum allatum est.
+utrumque bellum Plautio sorte euenit.  prius ad
+Priuernum profectus extemplo acie conflixit; haud magno certamine deuicti
+hostes; oppidum captum redditumque Priuernatibus praesidio ualido imposito;
+agri partes duae ademptae. inde uictor
+exercitus Satricum contra Antiates ductus. ibi magna utrimque caede atrox
+proelium fuit; et cum tempestas eos neutro inclinata spe dimicantes diremisset,
+Romani nihil eo certamine tam ambiguo fessi in posterum diem proelium parant.
+Uolscis recensentibus quos uiros in acie
+amisissent haudquaquam idem animus ad iterandum periculum fuit; nocte pro uictis
+Antium agmine trepido sauciis ac parte impedimentorum relicta abierunt.
+armorum magna uis cum inter caesa
+hostium corpora tum in castris inuenta est. ea Luae Matri dare se consul dixit
+finesque hostium usque ad oram maritimam est depopulatus. Romanis bellique ius aduersus Sidicinos petierunt: inuiti, ne saepius dimicandum foret, agro hostium excessere. nihil iam non concedentibus Romanis ferociores fecit. orbis, inuictum bellis, iuuenem fortuna morbo exstinxit. erit explicatis consiliis accommodare rebus uerba. omnia aequantur? cur non alter ab Latinis consul datur? unit="section"/> ubi pars uirium, ibi et imperii pars est. adest et uirtute uestra et deum benignitate uobis datum. exarsisse eos, cum plus ducentorum annorum morem solueremus? Samnites, foederatos suos, audierunt nec mouerunt se ab urbe. offenso impactus imo ita est saxo ut sopiretur. audita uox pariter sit: 'bene habet; di pium mouere bellum. disciplina militaris ad priscos redigeretur mores. , uir cum genere inter suos tum factis clarus. consulares agent?' 'aderunt in tempore' Manlius inquit, aduersus edictum nostrum extra ordinem in hostem pugnasti et, publicae mihi aut mei [meorum] obliuiscendum sit, tua prolapsam poena restituas—i, lictor, deliga ad palum'. ad triarios redisse, cum laboratur, prouerbio increbruit. in acie oblatus ex centurione Latino uictoriam tulit. exserta, super telum subiectum pedibus stantem sic dicere: populi Romani Quiritium terrore formidine morteque adficiatis. accensos ab nouissima acie ante signa procedere iubet. consulis pro uestra uictoria morte occubantis'. exorta acies, receptis in interualla ordinum antepilanis, omnes Latini deditionemque eam Campani sequerentur. Ueliternusque populus; uenerant et ab Lanuuio Antioque auxilia. aduersus rebellantes Latinos dici iussit, Aemilius, tres leges secundissimas plebei, aduersas nobilitati tulit: recepta in deditionem praesidiis tenentur uestris. sollicitant, quonam modo perpetua pace quietos obtineamus. firmissimum longe imperium est quo oboedientes gaudent. iussi ambo consules aduersus Sidicinos ducere exercitum. absumptos quorum mors infamem annum pestilentia fecerit; si ab eo fides sibi data esset haud futurum noxae indicium. referunt consensusque ordinis fides indici data. et, si sequi extemplo uelint, manifesto deprehendi posse. captisque magis mentibus quam consceleratis similis uisa; qua Uacci prata diruto aedificio publicatoque solo appellata. profectus haud procul castris eius consedit. propinqua castra haud aegre militem a multa caede est tutatus; receptaculum fugae Priuernum habuerit non patriam [Fundanos]. liberorum suorum in potestate populi Romani esse futuraque. capita coniurationis fuerant a consule scribit Claudius: obsideretur, alter consul comitiorum causa Romam reuocatus. temporis eius quiete a Gallis Priuernum omnis conuersa uis. suppliciis nocentium tutam mentionem de Priuernatibus ratus, ut ipse benigna interrogatione mitius responsum eliceret, aduersus Romanos agrum Campanum Falernumque incolentes fecit. eo neglegentius ea quae ipsis obicerentur purgabant: imposuerint, quam coloni eorum Fregellas appellent; concurrendum est, et arma et communis Mars belli decernet. qua, ut quisque locus premeretur, inter se usi fuerant. Molosside fluentem in Stagna Inferna accipit Thesprotius sinus. conditam urbem iisdem quibus ante placandis habitum est dies. abscisa erat, foediora aliquanto intra muros iis quibus hostis Romano milite implesset, tolli clamorem iussit; quippe qui inermes nulla rerum suarum non relicta inter hostes, consulibus uirgis caesos ac prope securi percussos esse. cum Samnitibus renouaretur, legatique ad eam rem mittuntur. accipere, caeci fraude et ira nihil recusarunt. feneratoris simul libidinem, simul crudelitatem insignem. tuendorum finium hostes prohibiti coniungere arma. dictitans, si illi impune spretum imperium fuisset. supplicium magistro equitum tunc uictori minetur? licuerit in magistro equitum in militibus ausurum. dictator aduenit classicoque extemplo ad contionem aduocauit. ad triarios tumultum iam [in contione] miscentes sese recepit. uiro, neu Fabiae genti eam iniungeret ignominiam. materiam seditioni non esse aetatis, non prudentiae eius; ira infestam multitudinem in se prauo certamine mouisset. ipsa exacerbatumque, clam ex castris Romam profugit; antiquorum et nouam superbiam crudelitatemque. legatum eum ad exercitum pro consule relinqueret. optione ab senatu data socium sibi imperii deligeret. tribunicium auxilium, memoria absentis exercitus; disciplinae militaris euersae iuuentuti gratiam facere. centurio tribuni, non tribunus legati, non legatus consulis, quae in discrimine fuerunt an ulla post hanc diem essent. populus, circumfusi ac gratulantes hinc magistro equitum, uetito quicquam pro magistratu agere, eo die cum Samnitibus potuisse pro haud dubio habitum sit; atque arx moeniaque et portae plena armatorum fuerint; prima luce nec auctor nec causa terroris comparuit. remotis. instruunt contra et hostes et animis et uiribus pares. pugnae in defatigationem ultimam aut noctem spectabat. munimento stare, auiditate praedae impetum faciunt. erat in conspectu et Cornelius respiciens ad manipulos militum, praetor graui morbo forte implicitus erat, facile est aut rem rei aut auctorem auctori praeferre. 

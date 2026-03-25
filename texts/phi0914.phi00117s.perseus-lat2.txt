@@ -1,0 +1,61 @@
+# ID: histcorp-latin-perseus-phi0914.phi00117s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 161
+# sentences: 12
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XVII Periocha
+CN. CORNELIUS consul a classe Punica circumventus et per fraudem, veluti in
+conloquium evocatus, captus est. C. Duillius consul adversus classem Poenorum
+prospere pugnavit, primusque omnium Romanorum ducum navalis victoriae duxit
+triumphum. ob quam causam ei perpetuus quoque honos habitus est, ut
+revertenti a cena tibicine canente funale praeferretur. L. Cornelius consul in
+Sardinia et Corsica contra Sardos et Corsos et Hannonem, Poenorum ducem,
+feliciter pugnavit. Atilius Calatinus <note anchored="true"
+place="unspecified"> Calatinus vlg.: calasinus <hi
+rend="italics">MSS.
+cos. cum in locum a Poenis circumsessum temere exercitum duxisset, M.
+Calpurni, tribuni militum, virtute et opera evasit, qui cum ccc militibus
+eruptione facta hostes in se converterat. Hannibal , dux Poenorum,
+victa classe cui praefuerat, a militibus suis in crucem sublatus est.
+Atilius Regulus cos. victis navali proelio Poenis in Africam
+traiecit. 
+
+

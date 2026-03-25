@@ -1,0 +1,110 @@
+# ID: histcorp-latin-perseus-phi0914.phi00123.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XXIII-XXV With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 940
+# sentences: 74
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XXIII
+HANNIBAL <note place="unspecified"
+anchored="true"> Hannibal 
+valla :  haec Hannibal P (1).
+post Cannensem pugnam castraque <note place="unspecified"
+anchored="true"> castraque 
+valla :  castra A x <hi
+rend="italics">z: binaque castra 
+luchs : om. P  (1). 
+capta
+ac direpta confestim ex Apulia in Samnium moverat, accitus in Hirpinos a Statio
+Trebio  Trebio 
+Gronovius : om. P  (1).  pollicente se Compsam
+traditurum. 
+compsanus erat Trebius nobilis inter suos; sed premebat eum Mopsiorum
+factio, familiae per gratiam Romanorum potentis. 
+post famam Cannensis pugnae volgatumque Trebi sermonibus adventum
+Hannibalis cum Mopsiani  Mopsiani <hi
+rend="italics">
+Gronovius :  compsam P (1).
+urbe excessissent, sine certamine tradita urbs Poeno praesidiumque
+acceptum est. 
+ibi praeda omni atque impedimentis relictis, exercitu partito Magonem
+regionis eius urbes aut deficientis ab Romanis accipere aut detractantis cogere
+ad defectionem iubet,  ipse per agrum Campanum
+mare inferum petit, oppugnaturus Neapolim, ut urbem maritimam haberet.
+ubi fines Neapolitanorum  intravit, Numidas partim in
+insidiis—et pleraeque <note type="margin" place="unspecified" anchored="true"
+>A.U.C. 538 cavae sunt viae sinusque occulti—quacumque apte poterat
+disposuit, alios prae se actam praedam ex agris ostentantis obequitare portis
+iussit. 
+in quos, quia nec multi et incompositi videbantur, cum turma equitum
+erupisset, ab cedentibus consulto tracta in insidias circumventa est; <milestone
+unit="section" n="8"/> nec evasisset quisquam, ni mare propinquum et haud
+procul litore naves, piscatoriae pleraeque, conspectae peritis nandi dedissent
+effugium. 
+aliquot tamen eo proelio nobiles iuvenes capti caesique, inter quos
+et Hegeas, praefectus equitum, intemperantius cedentes secutus cecidit.
+ab urbe oppugnanda Poenum absterruere conspecta moenia haudquaquam
+prompta oppugnanti. 
+
+inde Capuam flectit iter luxuriantem longa felicitate atque
+indulgentia fortunae, maxime tamen inter corrupta omnia licentia plebis sine
+modo libertatem exercentis. 
+senatum et sibi et plebi obnoxium Pacuvius Calavius fecerat, nobilis
+idem ac popularis homo, ceterum malis artibus nanctus opes. <milestone
+unit="section" n="3"/>
+is cum eo forte anno quo res male gesta ad Trasumennum est in summo
+magistratu esset, iam diu infestam senatui plebem ratus per occasionem novandi
+res magnum ausuram facinus ut, si in ea loca Hannibal cum victore exercitu
+venisset, trucidato senatu traderet  Capuam Poenis, <milestone
+unit="section" n="4"/> inprobus homo sed non ad extremum <note type="margin"
+place="unspecified" anchored="true">A.U.C. 538 perditus, cum mallet
+incolumi quam eversa re publica dominari, nullam autem incolumem esse orbatam
+publico consilio crederet, rationem iniit qua et senatum servaret et obnoxium
+sibi ac plebi faceret. 
+vocato senatu cum sibi defectionis ab Romanis consilium placiturum
+nullo modo, nisi necessarium fuisset, 
+praefatus esset, quippe qui liberos ex Appii Claudii filia haberet filiamque
+Romam nuptum M. Livio dedisset;  ceterum
+maiorem multo rem magisque timendam instare; non enim per defectionem ad 
+tollendum
+tollendurm
+ex civitate senatum plebem spectare, sed per caedem senatus vacuam rem
+publicam tradere Hannibali ac Poenis velle;  eo
+se periculo posse liberare eos, si permittant sibi et certaminum in re publica
+obliti credant,—cum omnes victi metu permitterent, senatores, non senatum omnino habere non voltis; sorte nomen excidit ipsumque e curia produci iussit. inlecebris omnis amoenitatis maritimae terrestrisque, multas familias claras ac potentis Romanis miscuerat, oportet, communem patriam tuendam arbitrari esse. anchored="true">A.U.C. 538 nomen Romanum. stipendia  facerent, permutatio fieret. conprehendi hominem vinctumque adtrahi ad sese iussit. omnibus voluptatium inlecebris instructum. digressi a conloquio extemplo in eum armaremus? unus adgressurus es Hannibalem? quid violentius capta Capua fieret? extemploque inpositus in navem et Carthaginem missus, gaudio minus laetum quod esset vobis loquerer; egrederetur nec armatus quisquam in muris esset. instaret, tumultum aliquem in urbe plebem moturam. hostium aut vis ulla aut ars deerat sociis Romanorum. Terentium consulem ad dictatorem dicendum iusserunt. sine magistro equitum dictatorem in sex menses dixit. veniret cum magistro equitum et praetore M. Marcello, venerunt relictis legatis qui legionibus praeessent. id bellum gereretur, consultandum atque agitandum. duae legiones urbanae alteri consuli, equites in supplementum missi ex Africa sunt. degressus colle pergit ire acie instructa ad castra. catervatim currerent, alii nondum e castris exissent. velut in circumventos proelio ancipiti pugnant; cornua elephantis quoque prae se actis deseruere. ne domus quidem Hieronis tota ab defectione abstinuit. Erycinae, quam dictator vovisset, dedicare liceret. daretur praeterquam qui milites ad Cannas fuissent. esse incertis adhuc viribus fluctuatus animo fuerat. habere ad consules ac senatum populumque Romanum. militibus corpora curare somnoque operam dare, /> ut primis tenebris convenire ad signum possent, receptui signum dedit ac suos intra muros recepit. inferum circumvectae prope omnem Italiae oram, sciretur, Gracchus obviam ex classe sua naves misit. ultro inferendo bello averterent ab Italia hostem. anchored="true">A.U.C. 539 est devecta. captus et Hanno et Mago, nobiles Carthaginienses, nam et filius Hampsicorae Hostus in acie cecidit, transvectus depopulatusque agrum Carthaginiensem, hostes populi Romani, Hannibal, interesset ipsos prope in medio sitos Nolanos scire. n="p.160"/> permissu eius arma extemplo cepit, quae vox in rusticum inde proverbium prodita est. pecunia in aerario esset, iis primis solveretur. 

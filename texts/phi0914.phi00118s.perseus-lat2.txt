@@ -1,0 +1,70 @@
+# ID: histcorp-latin-perseus-phi0914.phi00118s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 241
+# sentences: 17
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XVIII Periocha
+ATILIUS REGULUS in Africa serpentem portentosae magnitudinis cum magna clade
+militum occidit, et cum aliquot proeliis bene adversus Carthaginienses
+pugnasset, successorque ei a senatu prospere bellum gerenti non mitteretur, id
+ipsum per litteras ad senatum scriptas questus est, in quibus inter causas
+petendi successoris eratquod agellus eius a mercennariisdesertus esset. quaerente deinde Fortuna ut magnum utriusque casus
+exemplum in Regulo  proderetur, arcessito a Carthaginiensibus
+Xanthippo, Lacedaemoniorum duce, victus proelio et captus est. res
+deinde a ducibus Romanis omnibus terra marique prospere gestas deformaverunt
+naufragia classium. tib . Coruncanius primus ex plebe pontifex
+maximus creatus est. M'. Valerius Maximus P. Sempronius Sophus <note
+anchored="true" place="unspecified">
+The c  en sors' names, variously
+corrupted in the MSS., are
+corrected from the Fasti Capitolini, C.I.L. i2, <hi
+rend="italics">p. 24.  censores cum senatum legerent, xvi
+senatu moverunt. lustrum condiderunt, quo censa sunt civium capita
+CCXCVII nccxcvii. Regulus missus a
+Carthaginiensibus ad senatum ut de pace, et si eam non posset impetrare, de
+commutandis captivis ageret, et iureiurando adstrictus rediturum se Carthaginem,
+si commutari captivos non placuisset, utrumque negandi auctor senatui <note
+anchored="true" place="unspecified"> senatui vulg.:
+senatus MSS.
+fuit, et cum fide custodita reversus esset, supplicio a
+Carthaginiensibus de eo sumpto perit. 
+
+

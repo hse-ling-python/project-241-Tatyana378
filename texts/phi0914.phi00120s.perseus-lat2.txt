@@ -1,0 +1,81 @@
+# ID: histcorp-latin-perseus-phi0914.phi00120s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 276
+# sentences: 32
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XX Periocha
+FALISCI cum rebellassent, sexto die perdomiti in deditionem venerunt.
+Spoletium colonia deducta est. adversus Liguras tune
+primum exercitus promotus est. sardi et Corsi cum rebellassent,
+subacti sunt. tuccia ,virgo Vestalis, incesti damnata est. bellum Illyriis propterunum ex legatis qui ad eos missi erant occisum indictum est, subactique in
+deditionem venerunt. praetorum numerus ampliatus est, ut essent IIII.
+Galli transalpini qui in Italiam inruperant caesi sunt. eo bello
+populum  R. sui Latinique nominis DCCC
+armatorumhabuisse dicit Exercitibus Romanis tune primum trans Padum ductis Galli
+Insubres aliquot proeliis fusi in deditionem venerunt. M. Claudius Marcellus
+cos. occiso Gallorum Insubrium duce, Vertomaro, <note anchored="true"
+place="unspecified"> Vertomaro MSS.: Virtomane <hi
+rend="italics">
+propertius
+IV. x. 41 ( codex
+N): Viridomaro ed. prin. (
+cf. serv . Verg. Aen . 
+VI. 855).  opima spolia rettulit. Histri subacti sunt.
+iterum Illyri cum rebellassent, domiti in deditionem venerunt.
+lustrum a censoribus ter <note anchored="true"
+place="unspecified"> ter 
+Madvig :  per MSS.
+conditum est. primo lustro censa sunt civium capita <hi
+rend="overline">CCLXX ccxii**. Libertini in quattuor tribus redacti
+sunt, cum antea dispersi per omnes fuissent, Esquilinam Palatinam Suburanam
+Collinam. C. Flaminius censor viam Flaminius muniit <note anchored="true"
+place="unspecified"> C. Flaminius censor viam Flaminiam muniit <hi
+rend="italics">
+Sigonius
+muniit MSS.
+et circum Flaminium exstruxit. coloniae deductae sunt in agro
+de Gallis  de gallis <hi
+rend="italics">
+frobenius
+: gallis MSS.
+capto Placentia et Cremona. 
+
+

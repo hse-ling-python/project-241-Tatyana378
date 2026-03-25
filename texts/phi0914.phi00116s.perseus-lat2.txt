@@ -1,0 +1,61 @@
+# ID: histcorp-latin-perseus-phi0914.phi00116s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 116
+# sentences: 13
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XVI Periocha
+ORIGO Carthaginiensium et primordia urbis eorum referuntur. contra
+quos et Hieronem, regem Syracusanorum, auxilium Mamertinis ferendum senatus
+censuit, cum de ea re inter suadentes ut id fieret dissuadentesque contentio
+fuisset; transgressisque tunc primum mare equitibus <note anchored="true"
+place="unspecified"> equitibus MSS: exercitibus <hi
+rend="italics">
+Weissenborn . 
+Romanis adversus Hieronem saepius bene pugnatum. petenti pax
+data est. lustrum a censoribus conditum est. censa sunt
+civium capita CCCLXXXII ccxxxiiii. Decimus
+Iunius Brutus munus gladiatorium in honorem defuncti patris primus edidit.
+colonia Aesernia deducta est. res praeterea contra
+Poenos et Vulsinios  Vulsinios <hi
+rend="italics">vulg.: uulsinos MSS.
+prospere gestas continet. 
+
+

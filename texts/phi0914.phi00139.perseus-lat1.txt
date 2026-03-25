@@ -1,0 +1,45 @@
+# ID: histcorp-latin-perseus-phi0914.phi00139.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 39-40 - 39
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 496
+# sentences: 53
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+dum haec, si modo hoc anno acta sunt, Romae
+aguntur, consules ambo in Liguribus gerebant bellum. opibus ditiores quam fortiores exercitus faciebat. proelio devicit, in quo et aedem Dianae vovit. tenuerit, ubi plus tria milia hostium sint caesa. de Gallis qui Asiam incolunt triumphavit. , qui eas provincias obtinebant, venerunt. conventa dixit: mitteret nuntium ad eam, ut veniret. membrorum mulierem cepit, ut diu hiscere non posset. eius causa, non quod sciret quicquam, ea locutam esse. quinos singulis mensibus dies initiorum fecisse. virorum inter sese quam feminarum esse stupra. cura et sine ullo tumultu investigasset. nudavero, ne nimium terroris obtundam vobis, vereor. sed ut vindicarentur et obprimerentur, voluerunt. consules fassique de se nullam moram indicio fecerunt. si qua ibi vetusta ara aut signum consecratum esset. quaestionibus perfectis Romam redisset. sequendi Ligures finem quam fugae Romani fecerunt. , quos voverat Aetolico bello, fecit. maioribus consules procurarunt urbemque lustraverunt. Athamania expulerat et urbes receperat aliquot. quandoque data fortuna esset, ad bellum uteretur. totam Athamaniam sub ius iudiciumque regis venisse; enim iura possidendo per occasiones Aetoli miscuerant. parentem frenis asperioribus castigandum esse. regionis velut adpendices maioris muneris essent. belli partem, quamcumque mihi delegavit, gessi, praetendit, quo maxime et refelli et coargui potest; relictis in praesidio castrorum proelium instauratum; fuerant, ex quibus tam exigua pars pugnae superfuit. Thraciae ora a Philippo et Macedonibus liberaretur. concilio proximo damnatos cum legatis videbant; vos sint ac nos socii, immo ne meliore iure sint, sacrata sunt, ea cum periurio nostro tollere parant. agendo dignitatem suam tenere Romanos non posse. inter cives et peregrinos sortiti sunt, potestas facta esset, praetorem se voluisset facere; habuit, quia ita aptius visum erat, tenuerunt. metu mixta expectatione senatum legerunt; Galliam provinciam spe ingentium donorum perductum. ex illis miseris adtrahi iussum securi percussisse. cecinissent, necesse esse tabernacula in foro statui. ante tantum regionis eius hominum Romae fuerat. patrem pietate possit, amicum eum populi Romani esse, adtingere externa, nisi qua Romanis cohaererent rebus: hominum abstraxerunt dicente praetore Dinocrate, nec cuiquam uni custodiam eius satis credebant. exhausto haud ita multo post exspiravit. Hannibal et bellum adversus Eumenem motum faciebat. extemplo ad domum Hannibalis custodiendam missi sunt. Romanum, quando mortem senis expectare longum censent. nemo eorum satis dignum splendore vitae exitum habuit. aliis omnibus rebus frater superior esset; senatus facere. sed omnia maerens quidem et gemens, Philippopolin urbem fuga desertam oppidanorum, bellum se cum iis, ni dederentur, gesturum. postremo omnia alia, quae ferrent agerentque, adempta. tanta indulgentia plures ad talia audenda inpellantur. 

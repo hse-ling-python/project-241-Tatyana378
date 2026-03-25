@@ -1,0 +1,59 @@
+# ID: histcorp-latin-perseus-phi0914.phi00115s.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books VIII-X With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 127
+# sentences: 16
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Libri XV Periocha
+VICTIS Tarentinis pax et libertas data est. <note anchored="true"
+place="unspecified"> data est vulg.: nata est <hi
+rend="italics">MSS.
+legio Campana quae Regium occupaverat obsessa deditione facta securi
+percussa est. cum legatos Apolloniatium ad senatum missos quidam
+iuvenes pulsassent, dediti sunt Apolloniatibus. Picentibus victis
+pax data est. coloniae deductae Ariminum in Piceno, Beneventum in
+Samnio.  Beneventum in Samnio <hi
+rend="italics">editio princeps: Beneventum <hi rend="italics"
+>MSS.
+tune primum populus R.argento uti coepit. Umbri et Sallentini <noteanchored="true" place="unspecified"> Sallentini <hi rend="italics"
+>vulg.: salleni (or saleni or salerni) <hi
+rend="italics">MSS.
+victi in deditionem accepti sunt. quaestorum numerus
+ampliatus est, ut essent octo.

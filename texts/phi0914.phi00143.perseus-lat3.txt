@@ -1,0 +1,171 @@
+# ID: histcorp-latin-perseus-phi0914.phi00143.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XLIII-XLV With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Alfred C. Schlesinger, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,170
+# sentences: 95
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XLIII
+eadem aestate qua in Thessalia haec gesta sunt <note
+place="unspecified" anchored="true"> haec gesta sunt 
+kreyssig : om. V. 
+...,
+legatus in Illyricum a consule missus <note place="unspecified"anchored="true"> a consule missus 
+Fr :  a cons. omissus V.  opulenta duo oppida
+oppugnavit. 
+ceremiam vi atquearmis coegit in deditionem; omniaque iis sua concessit, ut opinioneclementiae eos, qui Carnuntem, munitam urbem, incolebant, adliceret. <milestone
+unit="section" n="3"/>
+postquam nec ut dederent se compellere neque capere obsidendo
+poterat, ne duabus oppugnationibus nequiquam fatigatus miles esset, quam prius
+intactam urbem reliquerat diripuit. 
+
+alter consul C. Cassius nec in Gallia, quam sortitus erat, memorabile
+quicquam gessit et per Illyricum ducere legiones in Macedoniam vano incepto est
+conatus. 
+ingressum hoc iter consulem senatus ex  Aquileiensium
+legatis cognovit, qui querentes coloniam <note type="margin" place="unspecified"
+anchored="true">A.U.C. 583 suam novam et infirmam necdum satis
+munitam inter infestas nationes Histrorum et Illyriorum esse, <milestone
+unit="section" n="6?"/> cum peterent ut senatus curae haberet quomodo ea
+colonia muniretur, interrogati, vellentne eam rem C. Cassio consuli mandari,
+responderunt Cassium Aquileiam indicto
+exercitu profectum per Illyricum in Macedoniam esse. <note place="unspecified"
+anchored="true"> esse 
+Fr :  se V. 
+ea res primo incredibilis visa, et pro se quisque credere Carnis
+forsitan aut Histris bellum illatum. 
+tum Aquileienses: nihil se ultra scire nec audere adfirmare, quam
+triginta dierum frumentum militi datum et duces qui ex Italia itinera in
+Macedoniam nossent conquisitos abductosque. 
+enimvero senatus indignari tantum consulem ausum, ut suam provinciam
+relinqueret, in alienam transiret, exercitum novo periculoso itinere inter
+exteras gentes  exteras gentes <hi
+rend="italics">
+Fr :  ceterasgetes V.
+duceret, viam tot nationibus in Italiam aperiret. <note
+place="unspecified" anchored="true"> duceret ... aperiret <hi rend="italics"
+>J. F. Gronovius: ducere ... aperire V. 
+decernunt frequentes ut C. Sulpicius praetor tris ex senatu nominet
+legatos, qui eo die proficiscantur ex urbe et, quantum adcelerare possint, <note
+place="unspecified" anchored="true"> possint 
+Madvig :  possent V. 
+Cassium consulem, ubicumque sit, persequantur; <milestone
+unit="section" n="11"/> nuntient ne bellum cum ulla gente moveat, nisi cum
+qua senatus  gerendum censuerit. <note place="unspecified"
+anchored="true"> censuerit I. Perizonius: censuerant
+V.
+legati hi profecti M. Cornelius <note type="margin"
+place="unspecified" anchored="true">A.U.C. 583
+Cethegus , M. Fulvius, P. Marcius Rex. metus de consule
+atque exercitu distulit eo tempore muniendae Aquileiae curam. 
+
+Hispaniae deinde utriusque legati aliquot populorum in senatum
+senatum 
+Sigonius :  senatu V.
+introducti. 
+ii de magistratuumRomanorum avaritia superbiaque conquesti, nixi genibus ab senatupetierunt ne se socios foedius spoliari vexarique quam hostes <note
+place="unspecified" anchored="true"> hostes 
+Fr :  hostiis V.  patiantur. <milestone
+unit="section" n="3"/>
+cum et alia indigna quererentur, manifestum autem esset pecunias
+captas, L. Canuleio praetori, qui Hispaniam sortitus erat, negotium datum est ut
+in singulos, a quibus Hispani pecunias repeterent, quinos recuperatores <note
+place="unspecified" anchored="true"> recuperatores 
+Fr :  recuperarent V.  ex ordine senatorio
+daret patronosque quos vellent sumendi potestatem faceret. <milestone
+unit="section" n="4"/>
+vocatis in curiam legatis recitatum est senatus consultum, iussique
+nominare patronos. 
+quattuor
+nominaverunt, M. Porcium Catonem, P. Cornelium Cn. F. Scipionem,
+L.
+Aemilium L. F. Paulum,C. Sulpicium Gallum. cum M. Titinio primum, <milestoneunit="section" n="6"/> qui praetor A. Manlio M. Iunio consulibus in
+citeriore Hispania fuerat, recuperatores sumpserunt. bis
+bis 
+Fr : vis V. 
+ampliatus, tertio absolutus est reus. 
+dissensio inter duarum provinciarum legatos est orta <note
+place="unspecified" anchored="true"> est orta 
+Fr :  estora V.  ; citerioris Hispaniae populi
+M. Catonem et P.  P. <hi
+rend="italics">add. H. J. Müller: om. V.
+Scipionem, ulterioris L. Paulum et Gallum Sulpicium patronos sumpserunt.
+ad recuperatores adducti a citerioribus populis P. Furius Philus, ab
+ulterioribus M. Matienus;  ille Sp. Postumio Q.
+Mucio consulibus triennio ante, hic biennio <note place="unspecified"
+anchored="true"> hi biennio 
+Fr :  hincuiennio V.
+prius L. Postumio M.  M. <hi
+rend="italics">
+Fr : C. V. 
+Popilio consulibus praetor fuerat. 
+gravissimis criminibus accusati ambo ampliatique; cum dicenda de
+integro causa esset, excusatiexilii causa solum vertisse. Furius Praeneste, MatienusTibur exulatum abierunt. 
+fama
+erat prohiberi a patronis nobiles ac potentes compellare; <note
+type="margin" place="unspecified" anchored="true">A.U.C. 583 auxitque
+auxitque eam 
+Fr
+: auxiadque V: atque auxit 
+hartel . 
+eam suspicionem Canuleius praetor, quod omissa ea re dilectum habere
+instituit, dein repente in provinciam abiit, ne <note place="unspecified"
+anchored="true"> abiit, ne 
+Fr :  abitinere V.
+plures ab Hispanis vexarentur. 
+ita praeteritis silentio obliteratis in futurum tamen consultum ab
+tamen consultum ab <hi
+rend="italics">
+kreyssig :  consultamentumab V.
+senatu Hispanis, quod impetrarunt, ne frumenti aestimationem magistratus
+Romanus haberet neve cogeret vicensimas vendere Hispanos, quanti ipse vellet,
+Hispanos, quanti ipse vellet <hi
+rend="italics">
+Fr :  hispanonisquantiipsevellent <hi rend="italics"
+>V.
+et ne praefecti in oppida sua ad pecunias cogendas imponerentur. 
+
+et alia novi generis hominum ex Hispania legatio venit. <milestone
+unit="section" n="2"/>
+ex militibus Romanis et ex Hispanis mulieribus, cum quibus conubium
+non esset, natos se memorantes, supra quattuor milia hominum, orabant <note
+place="unspecified" anchored="true"> hominum orabant 
+Fr :  hominumexhispaniaorabant <hi rend="italics"
+>V.
+ut sibi oppidum in quo habitarent daretur. legatus patris, et Carthaginienses venerunt. conscriptos ut a fraude Carthaginiensium caverent: quam apud Romanos militare, responsum est, nocturnus error dissiparet, ad urbem pervenerunt. ne plus sena milia peditum, treceni equites essent. scribi iussae, quae si quo opus esset educerentur. accederet sociusve aut adfinis eius conditionis esset. rogatio repente sub unius tribuni nomine promulgatur, anchored="true">A.U.C. 585 circumirent. proconsulem —ab eo enim missi erant —legati redierunt. societatem perlici posse, cum decem milibus peditum, hinc mons praealtus et aditu difficilis cingebat. Epidamni magis celebre nomen Graecis erat — missi. lustrato ad Stratum vocantibus Epirotis ducit. Macedones ad depopulationem profecti; revocatos Cassandream, praesidio ut essent, misit. 

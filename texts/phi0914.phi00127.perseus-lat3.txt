@@ -1,0 +1,58 @@
+# ID: histcorp-latin-perseus-phi0914.phi00127.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 26-30 - 27
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Stephen Keymer Johnson
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,296
+# sentences: 141
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+hic status rerum in Hispania erat. in Italia
+consul Marcellus Salapia per proditionem recepta Marmoreas et Meles de
+Samnitibus ui cepit.  ad tria milia militum ibi
+Hannibalis, quae praesidii causa relicta erant, oppressa: praeda— et aliquantum
+eius fuit—militi concessa. tritici quoque ducenta quadraginta milia modium et
+centum decem milia hordei inuenta.  ceterum
+nequaquam inde tantum gaudium fuit quanta clades intra paucos dies accepta est
+haud procul Herdonea urbe.  castra ibi
+Cn.
+Fuluius
+proconsul habebat spe recipiendae Herdoneae, quae post Cannensem
+cladem ab Romanis defecerat, nec loco satis tuto posita nec praesidiis firmata.
+neglegentiam insitam ingenio ducis augebat
+spes ea quod labare iis aduersus Poenum fidem senserat, postquam Salapia amissa
+excessisse iis locis in Bruttios Hannibalem auditum est. consilio et uiribus impar, copiis raptim eductis conflixit. euentum pugnae fore adfirmabat. neque ea spes uana fuit. quintam deinde atque eos qui ad prima signa erant auertit; cum undecim tribunis militum cecidit. plano, cum Poenus collem teneret, posuit castra. per otium legere et congestos in unum locum cremauere suos. stramento intecta, omne uelut de industria alimentum ignis. necatique; indicibus libertas et aeris dena milia data. Italiam esset, Ualerium potius consulem ex Sicilia reuocari. improuiso in agrum Uticensem escensionem fecit; in eo positam uictoriam credere Carthaginienses; Siciliam repetendam eamque se credere breui traiecturam. , qui tum ad Capuam erat, dictator diceretur. exciuit. ipse comitia in quem diem primum potuit edixit; ipsius ratio haberetur, comitiis se moram non facere. sacerdotes Romani eo anno mortui aliquot suffectique. ; inde et Licinius censura se abdicauit. Tarentum, Fuluius in Lucanis ac Bruttiis rem gereret. Sardiniam. exercitus ita per prouincias diuisi: quibus consul rem gesserat legiones decretae; sacerdos crearetur, uetus excitauerunt certamen, opus erat ceteris exercitibus militum scripserunt. legiones quae in Etruria erant Romam deducendas. omni ambitu litorum praesidio orae maritimae essent. egestatem perueniant, negandum populo Romano esse. prodendi imperii Romani, tradendae Hannibali uictoriae esse. qui precentur, uerecundiam imperii habituras esse. iis in curia gratias egissent, sequi in senatum eos iusserunt. etiam meritum eorum in rem publicam commemorarent. Uenusini et Brundisini et Hadriani et Firmani et Ariminenses, censor ex iis qui uiuerent fuisset, eum principem legerent; causa, sed erant perpauci quos ea infamia attingeret; et audacia et audendi omnia necessitatibus pares. memores Trasumenni Cannarumque contunderent ferociam hostis: abeat, quietius deinde tranquilliusque eum bellaturum. duodeuicesimam legionem in primam aciem inducit. amissa fuerant destrictis gladiis discinctos destituit; postero die ornati [armatique] ad edictum aderant. hesternum decus adnitentibus, Romanis ad demendam ignominiam. si quem inicere ea res tumultum ac pauorem posset. est genus anceps, in fugam uersi etiam integros auertere. caedes facta; caesa ad octo milia hominum, quinque elephanti. postero die rettulerunt Bruttios Hannibalem petere. Lucanis erat condicionem deditionis petentes uenissent. alii procul ex nauibus uolnerarent moenium propugnatores. tumulum a praesenti impetu tutum, ad cetera inopem, concessere. proditionem custodiae loci cui praepositus erat. agitare proditionis conciliator nuntiauerat iubet. [errans] per urbem cognitus, corpus nusquam inuentum est; tabulae prope ut Syracusarum ornamenta aequauerint. formati—deos iratos Tarentinis relinqui iussit. fore si Metapontum cum praesidio Punico prodidissent. moueret, qua coepissent ruerent, dimicare quam primum statuit. dimicare duce exercituque quam simul cum uniuersis malebat. sunt signaque Romana portis prope ipsis inlata. acies locusque ad euadendum et mediis datus est, elephantisque ante signa locatis nunquam euasissent. dextrum incucurrerat, maxime in nuda latera hostium pugnabat; regium nomen alibi magnum, Romae intolerabile esse. uocatum eum interrogat uelletne ad Masinissam reuerti. quibusdam ut confestim Hasdrubalem consequeretur, aestatis recipiendis in fidem Hispaniae populis absumpsit. Hispaniae amoti aut traducti in Galliam forent. Hannibale media aestate Uenusiam in tecta milites abduxisset. contionibus infamem inuisumque plebei Claudium fecerat, est ingenti concursu plebisque et omnium ordinum. Italiam prouinciam habeat, diutius ibi quam Carthagine uixerit; bis caesum exercitum eius aestiua Uenusiae sub tectis agere. legionibus obtineret quibus praetor obtinuisset. rosisse, Casini examen apium ingens in foro consedisse; uolasse in aedem Iouis, Uolsiniis sanguine lacum manasse. quae tamen magis in longos morbos quam in permitiales euasit. plerisque aequantibus eos Campanorum noxae poenaeque. habuerat cum supplemento in Lucanos est profectus. uouisset dedicatio eius a pontificibus impediebatur, ut ex Sicilia Locros cum classe traiceret scribunt; partem exercitus qui in praesidio erat duci eo iusserunt. signum dat ut pariter ab suis quisque latebris exorerentur. ni coepta ab Etruscis fuga pauorem ceteris iniecisset. proelio aut in fuga ceciderunt, duodeuiginti uiui capti. expeditionis reliquias ad castra uenientes cernunt. castra in tumulum in quo pugnatum erat extemplo transfert; urbisque opportuna loca in stationibus disponunt; opponunt. Hannibal quarta uigilia ferme ad urbem accessit. subducunt, in tantum altitudinis ut subire recti possent. urbem, prima spes morte nuntiata Marcelli adfulsit. tribunum militum Uenusiam abducere iussit: cum paucis ante diebus ex Sicilia redisset. Aetolis et ex finitimis pacificator Amynander, rex Athamanum. Graeciae, graue libertati futurum, immisceretur. ipse cum paucis equitum leuisque armaturae Argos uenit. potentes maris. ipse ab eo concilio Argos regressus; agrumque nobilissimae fertilitatis effuse uastauit. quod ab Eleis accitum acceptumque in urbem erat eiciendum. uolnerarentur, raptus ab suis atque alteri equo iniectus fugit. Menippo et Polyphanta ducibus ad praesidium sociorum, populus mentionem eius rei ortam a patribus est aspernatus. timentes ne crescendi ex se inimico collegae potestas fieret. animo consilioque administrarent rem publicam. proconsul acciperet eique in annum imperium esset. Auentinum, pureque et caste a matronis sacrificatum. uirgines sonum uocis pulsu pedum modulantes incesserunt. aduentu et minus iuuentutis erat unde scriberent milites. esset praeter Antiatem Ostiensemque uacatio obseruata est; cunctabatur parum fidens suarum prouinciarum exercitibus: esse traducendos. ea omnia cum summa concordia consulum acta. neque coniungi aut conferre in unum uires pateretur. et opibus certare. hae causae aperuerant Alpes Hasdrubali. se excidio eius urbis terrorem ceteris ratum iniecturum. secundis pensando rem ad id tempus extractam esse. Romana res, prospera bella in Hispania prolapsam eam erexisse; oris alterum bellum gereretur, spatium dedisse ad respirandum. respondisse ubi primum hostium agmen conspexisset pugnaturum. incomposito agmini terribilem tumultum intulit; spe recipiendi oppida quae per metum ad Romanos defecissent. praefectum socium edocet, quos cum iis mittebat. ruere ac palati per campum properare ad hostes. aliquot ita institit portis ut prope inferre signa uideretur, edocuerunt litteras se ab Hasdrubale ad Hannibalem ferre. fratri scribat legionem a Capua Romam arcessant, ingentes exercitus, duos prope Hannibales in Italia esse. paucos post dies laeti ouantibus uictoria obuiam irent. iter ut per otium ubi uelit Hasdrubali coniungatur. et ut attendant semel bisne signum canat in castris. sibi atque Hispanis—et ibi maxime in uetere milite contractum certamen erat, atroxque caedes utrimque edebatur. aduersum collem frustra signa erigere conatus esset, iungitur capiti ceruix quanto maximo poterat ictu adigebat. Cannensi clades uel ducis uel exercitus interitu uidebatur. ut compotes mentium prae gaudio essent celebratum est. celeritas fidem impediebat quod biduo ante pugnatum dicebatur. extemplo aliis porro impertiebant gaudium suum. emendo, mutuum dando argentum creditumque soluendo auderent. 

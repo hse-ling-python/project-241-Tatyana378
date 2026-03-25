@@ -1,0 +1,97 @@
+# ID: histcorp-latin-perseus-phi0914.phi00144.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 43-44 - 44
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 752
+# sentences: 64
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+principio veris, quod hiemem eam, qua haec
+gesta sunt, insecutum est, ab Roma profectus 
+Q.
+Marcius
+Philippus
+consul cum quinque milibus  , quot in supplementum legionum
+secum traiecturus erat, Brundisium pervenit. 
+M.
+Popilius
+consularis et alii pari nobilitate adulescentes tribuni militum in
+Macedonicas legiones consulem secuti sunt.  per
+eos dies et 
+C.
+Marcius
+Figulus
+praetor, cui classis provincia evenerat, Brundisium venit; et simul
+ex Italia profecti Corcyram altero die, tertio Actium, Acarnaniae portum,
+tenuerunt. 
+inde consul ad Ambraciam egressus
+itinere terrestri petit Thessaliam; praetor superato Leucata Corinthium sinum
+invectus et Creusae relictis navibus terra et ipse <note place="unspecified"
+anchored="true">
+a. Chr. n. 169.
+per mediam Boeotiam — diei unius expedito iter est — Chalcidem dem ad
+classem contendit.  castra eo tempore <persName
+n="2">
+A.
+Hostilius
+in Thessalia circa Palaepharsalum habebat, sicut nulla re bellica
+memorabili gesta, ita ad cunctam militarem disciplinam ab effusa licentia
+formato milite et sociis cum fide cultis et ab omni genere iniuriae defensis.
+audito successoris adventu cum arma,
+viros, equos cum cura inspexisset, ornato exercitu obviam venienti consuli
+processit.  et primus eorum congressus ex
+dignitate ipsorum ac Romani nominis,  et in
+rebus deinde gerendis  . proconsul  enim
+ad exercitum  . paucis post diebus consul contionem apud milites habuit.
+orsus ab parricidio Persei perpetrato in
+fratrem, cogitato in parentem, adiecit post scelere partum regnum veneficia,
+caedes, latrocinio nefando petitum Eumenen, iniurias in populum Romanum,
+direptiones sociarum urbium contra foedus. ea omnia quam dis quoque invisa
+essent, sensurum in exitu rerum suarum; 
+favere enim pietati fideique deos,
+per quae populus Romanus ad tantum fastigii venerit. <note place="unspecified"
+anchored="true">
+a. u. c. 585.
+vires deinde populi Romani iam terrarum orbem
+conplectentis cum viribus Macedoniae, exercitus cum exercitibus conparavit:
+quanto maiores Philippi Antiochique opes non maioribus copiis fractas esse?
+huius generis adhortatione accensis militum
+animis consultare de summa gerendi belli coepit. eo et 
+C.
+Marcius
+praetor a Chalcide classe accepta venit. extemplo castra atque pergere inde in Macedoniam, aptissimum ad loci naturam erat, sunt adclinata. animis suorum venienti agmini consulis obvius fuit. optabilius esse quam redire, qua venerant, si possent. templo, ne quid sacro in loco violaretur, iussit. fuisset, cui procul inde abscedere tutum non esset. transitu perdifficilem pro munimento habiturus. ad usum belli verso partem humillimam muri ceperunt. iis in urbem duorum signorum milites transcenderunt. ea urbs abest, adversus Pydnam posita, fertili agro. simul a terra adgredienti quicquam satis procedebat. spemque extemplo inciderunt, capi primo impetu posse. rend="italics">et magno usui consuli fuit. comitia eo die, qui dictus erat, sunt perfecta. consulem, cui eundum in Macedoniam esset, teneret. , simul senatus censuisset, exituros esse; Alexandreae abducturusque exercitum in Syriam esset. neminem eo anno placere, nisi qui honorem gessisset. frustra vos hanc spem de me conceperitis. in eodem velut navigio participes sunt periculi. Macedonibus irent, Parmenio et Morcus destinantur. cum Illyriis legatis Thessalonicae conscendere iussi. iam Antiochum victorem praemio belli, Aegypto arceri. ; proditor enim ac prope hostis habitus, ducibus, sub ipsis moenibus urbis conlocutus fuerat. prolapsorum equitum vacuos capientium ad pugnam equos. divideret, multitudinem credens trahi spe posse. peterent, omnes aut supprimebat aut spoliabat naves. palati milites agrestium concursu interfecti sunt. regione occidentis, ex Labeatide palude oriens. mittit ad conprehendendos amicos cognatosque regis; qua in ulteriorem ripam minime inicus ascensus esset. conspici ab hoste possint, ipsi nihil provideant. rumoribus volgi circumagatur, ibi nihil salutare esse. eo die amissis consul paulo serius recepit suos. recenti atque integro hosti non obicere; arte ad suos eludendos quam ad hostis opus esset. frontem castrorum et inpedimenta constituerent. Romanis militibus Galli sapientia prope divina videri; quid, quod hostes per summum otium instruxerant aciem, aliquid tumultus increpuit, ruinae modo turbantur, frequenti agmine equitum et regio comitatu fugit. rend="italics">et regii pueri praesto erant. consulis Pauli filius, adoptione Africani nepos. Gentio regi, deinde retenta fuerant, inventum est. 

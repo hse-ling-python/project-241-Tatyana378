@@ -1,0 +1,107 @@
+# ID: histcorp-latin-perseus-phi0914.phi00129.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XXVIII-XXX With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 658
+# sentences: 55
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Book XXIX
+Scipio postquam in Siciliam venit, voluntarios <note type="margin"
+place="unspecified" anchored="true">A.U.C. 549 milites ordinavit
+centuriavitque. 
+ex iis trecentos iuvenes, florentes aetate et virium robore insignes,
+insignes, inermes <hi
+rend="italics">
+Conway :  insignes s (or -is),
+Sp A3 
+N3 ( altsrn. ) <hi
+rend="italics">JK Froben 2: inermis ( or
+-es P (1) NH Aldus,Eds.
+inermes circa se habebat, ignorantes quem ad usum neque centuriati neque
+armati servarentur. 
+tum ex totius Siciliae iuniorum numero principes genere et fortuna
+trecentos equites qui secure in Africam traicerent legit, diemque iis qua equis
+armisque instructi atque ornati adessent edixit. 
+gravis ea militia procul domo, terra marique multos labores magna
+pericula allatura videbatur; neque ipsos modo sed parentes cognatosque eorum ea
+cura angebat. 
+ubi dies quae edictaerat advenit, arma equosque ostenderunt. tum
+tur
+Scipio renuntiari sibi dixit quosdam equites Siculorum tamquam gravem et
+duram horrere 
+eam
+earn
+militiam;  si qui ita animati essent,
+malle eos sibi iam tum fateri quam postmodo querentes segnes atque inutiles
+milites rei publicae esse; expromerent quid sentirent; cum bona venia se
+auditurum. 
+ubi ex iis unus ausus est dicere se  prorsus, si sibi
+utrum vellet  vellet <hi
+rend="italics">
+Sp ?JK Froben  2: velit P (1)
+NH.
+liberum esset, nolle <note type="margin" place="unspecified"
+anchored="true">A.U.C. 549 militare, tum Scipio ei: <milestone
+unit="section" n="8"/>
+quoniam igitur, adulescens, quid sentires non dissimulasti,
+vicarium tibi expediam cui tu arma equumque et cetera instrumenta militiae
+tradas et tecum hinc extemplo domum ducas, exerceas, docendum cures equo
+armisque. 
+laeto condicionem accipienti unum ex trecentis quos inermes habebat
+tradit. ubi hoc modo exauctoratum equitem cum gratia imperatoris
+ceteri viderunt, se quisque excusare et vicarium accipere. <milestone
+unit="section" n="10"/>
+ita trecentis Siculis Romani equites substituti sine publica inpensa.
+docendorum atque exercendorum <note place="unspecified"
+anchored="true"> atque exercendorum A 8 <hi
+rend="italics">N3
+H ( ac ) <hi rend="italics"
+>JK Aldus, Froben: om.
+P (1) N, a line, as they
+omit multisque proeliis rem publicam just
+below ( supplied as above ).  curam
+Siculi habuerunt, 
+quia
+quai
+edictum imperatoris erat, ipsum militaturum qui ita non fecisset.
+egregiam hane alam equitum evasisse ferunt multisque proeliis rem
+publicam adiuvisse. 
+
+legiones inde cum inspiceret, plurimorum stipendiorum ex iis milites
+delegit, maxime qui sub duce Marcello militaverant, qua equitatum, ubi tempus esset, emitterent. maxime in laevo  cornu, ceciderunt. Hispaniae populis reddita pax; concito et compresso, in Africam omnis terror versus. pro tot caesis exercitibus subolescentem; naves ac mittere ad Hipponem adversus Romanam classem. arcibus duabus proeliis cotidie levibus certabatur. vocatosque tribunos nudari ac virgas expediri iubet. lictoribus prius indignum in modum mulcatis faciunt. ut volens propitiaque urbem Romanam iniret, iniurias ab legato vestro militibusque fieri. virgis caesi tribuni ab legato sunt; n="p.280"/> quam vos, patres conscripti. sibi placere M. Pomponium praetorem, qui duo cum praetore ac legatis irent; absentis Scipionis favorem ad volgum conciliabat. virginem a Carthagine arcessit maturatque nuptias; iure iurando adfirmatur. ceterum Hasdrubal, prioribus suis promissis fretus in Africam traiciat; ubi illuxit, Scipio e praetoria nave addita vis vento. iam terram cernebant. ambo praeoptantes exsilio modicam domi fortunam, n="p.342"/> equitum aut ceperunt aut occiderunt. omnes Masinissam insignibus donis donat; Syphacis castra propius hostem movere est ausus. inquit Nero M. Livium ; priore anno mortuus erat, creatus inauguratusque; 

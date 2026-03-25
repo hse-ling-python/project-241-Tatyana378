@@ -1,0 +1,57 @@
+# ID: histcorp-latin-perseus-phi0914.phi00122.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 21-25 - 22
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Charles Flamstead Walters
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,259
+# sentences: 125
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+iam uer appetebat cum Hannibal ex hibernis
+mouit, et nequiquam ante conatus transcendere Appenninum intolerandis frigoribus
+et cum ingenti periculo moratus ac metu. 
+Galli, quos praedae populationumque conciuerat spes, postquam pro eo ut ipsi ex
+alieno agro raperent agerentque, suas terras sedem belli esse premique utriusque
+partis exercituum hibernis uidere, uerterunt retro in Hannibalem ab Romanis
+odia;  petitusque saepe principum insidiis,
+ipsorum inter se fraude, eadem leuitate qua consenserant consensum indicantium,
+seruatus erat et mutando nunc uestem nunc tegumenta capitis errore etiam sese ab
+insidiis munierat.  ceterum hic quoque ei timor
+causa fuit maturius mouendi ex hibernis. per idem tempus 
+Cn.
+Seruilius
+consul Romae idibus Martiis magistratum iniit. crebris ignibus fulsisse et scuta duo sanguine sudasse, uisum quaque patuerit ingens lumen effulsisse; caeli ardentis fuisse lunaeque inter imbrem cadentis. Flaminium consulem Arretium peruenisse fama erat, consulentem ferociter omnia ac praepropere acturum; potest caedibus incendiisque consuli procul ostendit. proripuit, signumque simul itineris pugnaeque cum conuelli iuberet et ipse in equum insiluisset, relicto spatio; deinde paulo latior patescit campus; pauentiumque clamores circumferebant ora oculosque. redeuntes in pugnam auertebat fugientium agmen. atrociter; circa consulem tamen acrior infestiorque pugna est. caeci euadunt, armaque et uiri super alium alii praecipitantur. aequalem temporibus huiusce belli, potissimum auctorem habui. nec quisquam satis certum habet quid aut speret aut timeat. notis, priusquam ordine omnia inquisissent, poterant. factum de integro atque amplius faciundum esse, multis aliis diuis bubus albis atque ceteris hostiis. quos in aliqua sua fortuna publica quoque contingebat cura. quintum Uolcano ac Uestae, sextum Mercurio et Cereri. nuntiaret ut sine lictoribus ad dictatorem ueniret. quibus liberi essent et aetas militaris, in uerba iurauerant. propalam de uirtute ac gloria esse, in castra rediit; castra populandoque in oculis eius agros sociorum coepit, omnia et infesta effusis hostium populatoribus praebebat; promissisque Hannibalis ad conciliandos popularium animos. festinari ad prohibendam populationibus Campaniam crediderant. fruendam oculis, sociorum caedes et incendia uenimus? nostra cunctatione et socordia iam huc progressus? postero die citra Gabios cecidit Gallorum legiones. quid? his segnibus consiliis quae timidi cauta uocant.' urbs Uolturno flumine dirempta Falernum a Campano agro diuidit; primum, inde prope inuiis callibus ad dictatorem perfugerunt. sese pugnauere; restitit suo loco Romana acies; Hispania quoque terra marique coeptum bellum est. Punicam stare in ostio fluminis castraque in ripa posita. classem Romanam iam haud procul portu esse. fuit sed quod una leui pugna toto eius orae mari potiti erant. postremo tecta quoque coniuncta muro portisque incenderunt. in usum fuit sublato ceterum omne incensum est. Mandonius Indibilisque, qui antea Ilergetum regulus fuerat, donum posset esse, 'obsides' inquit, 'in ciuitates remitte. ciuitatibus est suis, et publice populis gratum erit. eundem ordinem quo si Carthaginiensium nomine sic ageretur. Romanos cernentem, qui bellum ratione, non fortuna gereret, frumentatum duabus in castris retentis dimisit; frumentatores late caedem fugamque hostium palatorum fecit. temeritatem atque inscientiam ducum acceptas referret, ferendae dies adesset, nocte ad exercitum abiit. segnitie deorum hominumque iudicio damnata perstaret. qui occupasset haud dubie iniquiorem erat hosti locum facturus. occursurum ad obsistendum satis sciebat, contrahere. rupes, ut quaedam earum ducenos armatos possent capere. mitti uideret, instructis legionibus procedit. directa pugna esset, haudquaquam impar futura; quid in rem sit, secundum eum qui bene monenti oboediat; admirationem et ipsum et omnes qui circa erant conuerterunt. tum demum sentire cum Romanis atque in Italia bellum esse; ex propinquo quae in Boiis atque Insubribus gererentur. uideretur, alter eorum ad consules creandos Romam ueniret; expugnatum esse ut uitiosus dictator per augures fieret. quia spem posse uinci hostem dictator praebuerat. Sabinis, Caeretes aquas [fonte callidos] manasse; exanimatique fuerant. ea prodigia ex libris procurata. nulla sua propria regnique sui clade moueri magis potuerit. bonis fidelibusque sociis bella iuuari soleant misisse; laxamenti daretur iis ad auxilia Hannibali summittenda. id perinde ac deberet gratum populo Romano esse. dum ab sociis ac nomine Latino uenirent milites. Italiam ab nobilibus mansurumque in uisceribus rei publicae, posset qua cum hoste signis conlatis esset dimicaturus: consulte gesta essent satis prospere euenirent; solo nostro; omnia circa plena ciuium ac sociorum sunt; tertiam exercitus eius habet quem Hiberum amnem traiecit; prosecuta, turba conspectior cum dignitates deessent. hostium copias cernebat, tamen aduentu consulum mire gaudere. imperatorum orto haudquaquam par Poenis dimicatio fuit. dominorum castris occupatum impeditumque hostem opprimeret. propius adeuntibus insolitum silentium admirationem fecit. diripienda et consul alter uelut unus turbae militaris erat: speculatusque omnia cum cura renuntiat insidias profecto esse: temere per uias uel&lt;ut&gt; obiectum ad praedam uidisse. transfugia impeditiora leuibus ingeniis essent. nobilitandas clade Romana Cannas urgente fato profecti sunt. uento, qui campis torridis siccitate nubes pulueris uehit. Romanos quod summa imperii eo die penes Paulum fuerit. ceteris leuium armorum auxiliis prima acies facta. ripam laeuo in cornu aduersus Romanum equitatum; magnitudine corporum, tum specie terribilis erat: Romanis in meridiem, Poenis in septentrionem uersis; mox cornua extendendo clausere et ab tergo hostes. Gallis Hispanisque, quorum terga ceciderant, [et] deberent cum sua uoluntate milites in legionibus facti essent. gladium cuneoque facto per medios uadit hostes et, iugulumque et reliquum sanguinem iubentes haurire; utebantur) omnis cetera praeda diripienda data est. Romanum conquisitum sepultumque quidam auctores sunt. extemplo armati qui rem publicam saluam uellent; /> nulla uerius quam ubi ea cogitentur hostium castra esse. reliquum Romani nominis fecerint, ubi eae copiae sint; publico arceant continerique intra suum quamque limen cogant, senatus consulto diebus triginta luctus est finitus. propraetore, regnum Hieronis classe Punica uastari; Lilybaeum extemplo prouinciamque aliam Romanam adgrederentur; cum inter tot, ut fit, clades in prodigium uersum esset, spolia hostium detrahunt templis porticibusque. aliud fidei quam ut iurarent se redituros acceptum. forte ad pacem inclinaret animus, condiciones ferret. unquam ciuitati uiliores fuisse captiuos quam nostrae; fessi labore ac uolneribus, uallum sumus tutati; quibus trucidandis et ferrum et uires hostem defecerunt. censeamus cum indigni ut redimeremur a uobis uisi simus. orantes ut sibi liberos, fratres, cognatos redderent. uirorum immiscuerat. senatus summotis arbitris consuli coeptus. id facere conati sunt neque alium sequi uoluerunt. eripiamus ex obsidione circumuentas legiones", per ciuium agmen quam per hostium fuit erumpendum. quemadmodum hi boni fidelesque—nam "fortes" ne ipsi necessitatibus magis humanis quam armis uicti sunt. necesse est, et castra et arma et uos ipsos traditis hosti. ciuitatis minime in captiuos iam inde antiquitus indulgentis, cum magnis fletibus questibus legatos ad portam prosecuti sunt. necne, ita admissos esse ne tamen iis senatus daretur; captiuis relatum esse nec censuisse redimendos senatum; Hannibalem ex itinere regressi religione sese exsoluissent; autem ad Poenos hi populi: Atellani, Calatini, Hirpini, Metapontini, Crotonienses Locrique, et Cisalpini omnes Galli. postquam is rediit renouauitque memoriam acceptae cladis; 

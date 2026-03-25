@@ -1,0 +1,114 @@
+# ID: histcorp-latin-perseus-phi0914.phi00145.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XLIII-XLV With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Alfred C. Schlesinger, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 890
+# sentences: 86
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XLV
+VICTORIAE nuntii, Q. Fabius et L. Lentulus et
+Q. 
+Metellus, quanta potuit adhiberi festinatio, celeriter Romam cum venissent,
+praeceptam  praeceptam <hi
+rend="italics">
+ruperti :  praeceptum V.
+tamen eius rei laetitiam invenerunt. 
+quarto post die quam cum rege est pugnatum, cum in circo ludi
+fierent, murmur repente populi tota spectacula pervasit pugnatum in Macedonia et
+devictum regem esse;  dein fremitus increvit;
+postremo clamor, plausus velut certo nuntio victoriae allato est exortus.
+mirari magistratus et quaerere auctorem repentinae laetitiae; qui
+postquam nullus erat, evanuit quidem tamquam certae rei gaudium, omen tamen
+laetum insidebat animis. 
+quod postquam verius nuntiis Fabi Lentulique et Metelli adventu
+firmatum est, cum victoria ipsa, tum augurio animorum suorum laetabantur.
+et altera traditurcircensis turbae non minus similis veri laetitia. ante diemquintum decimum kalendas  Octobres, <note place="unspecified"
+anchored="true"> ante diem quintum decimum kalendas Octobres <hi
+rend="italics">
+manutius :  ad ix. k. octobrium <hi rend="italics"
+>V.
+ludorum Romanorum secundo die, C. Licinio <note type="margin"
+place="unspecified" anchored="true">A.U.C. 586 consuli ad quadrigas
+mittendas escendenti  escendenti <hi
+rend="italics">
+turnebus :  extendenti V.
+tabellarius, qui se ex Macedonia venire diceret, laureatas literas
+reddidisse  reddidisse <hi
+rend="italics"> add. Sigonius : om. V. 
+dicitur. 
+quadrigis missis consul currum conscendit et, cum per circum
+reveheretur ad foros publicos, laureatas tabellas populo ostendit. <milestone
+unit="section" n="8"/>
+quibus conspectis repente immemor spectaculi populus in medium
+decurrit. eo senatum consul vocavit recitatisque tabellis ex
+auctoritate patrum pro foris publicis denuntiavit populo L. Aemilium collegam
+signis conlatis cum rege Perseo pugnasse; 
+Macedonum exercitum caesum fusumque; regem cum paucis fugisse;
+civitates omnes Macedoniae in dicionem populi Romani venisse. <milestone
+unit="section" n="10"/>
+his auditis clamor cum ingenti plausu ortus; ludis relictis domos
+magna pars hominum ad coniuges, liberos laetum nuntium portabant. <milestone
+unit="section" n="11"/>
+tertius decimus dies erat ab eo, quo in Macedonia pugnatum est. 
+
+postero die senatus in curia habitus, supplicationesque decretae et
+senatus consultum factum est, ut consul, quos praeter milites sociosque navales
+coniuratos haberet, dimitteret;  de militibus
+sociisque navalibus dimittendis referretur, cum legati ab L. Aemilio consule, a
+quibus praemissus tabellarius esset, venissent. <note place="unspecified"
+anchored="true"> venissent  add. Sigonius :
+om. V. 
+ante diem sextum kal. 
+Octobres hora fere secunda legati urbem ingressi <note
+type="margin" place="unspecified" anchored="true">A.U.C. 586 sunt;
+ingentem secum occurrentium, quacumque ibant, prosequentiumque trahentes turbam
+in forum perrexerunt.senatus forte in curia erat; eo legatos consul introduxit.
+ibi tantum temporis retenti dum exponerent, quantae regiae copiae
+peditumequitumque fuissent, quot milia ex iis <note place="unspecified"anchored="true"> iis 
+Wesenberg :  his V.
+caesa, quot capta forent,  quam
+paucorum militum iactura tanta hostium strages facta, quam praeceps <note
+place="unspecified" anchored="true"> praeceps 
+heraeus :  pauci V: pavide <hi
+rend="italics">
+Madvig :  cum quam paucis 
+kreyssig :  raptim 
+Giarratano . 
+rex fugisset; existimari Samothraciam petiturum; paratam classem ad
+persequendum esse, neque terra neque mari elabi posse. quisque ex contione ad gratias agendas ire dis, in  Macedoniam mitterentur, omnes, qui in consulis verba iuraverant; lembum ad  Cotym deveheret. delata est; extemploque classis Amphipolim repetit. Punici belli fuerat, sicut Gentius Macedonici; ferat incertum sit. is demum vir erit, exercitus deinde in hiberna dimissus est. finis rubrum mare amplectitur, peragravit. metu, ad Alexandream modicis itineribus descendit. hibernabat;  legiones Romanae, in Africam deveherentur; et comitibus omnibus, statum alium ex regno formandas composuissent. potestate populi Romani essent, ut, quanta dona Ap. locationes praediorumque rusticorum tolli placebat; datam ad licentiam pestilentam traheret, paulo benignius quam si ipse rex Eumenes venisset. dicentes venisse petissent, ut senatus sibi daretur, essemus, quod nostrum in hoc bello crimen esset? regiae classi ex Syria venienti obviam ire. diceremus? pecuniane a nobis adiutum an frumento? sicut prioribus bellis, ad omnia paratos fore. Rhizoni et Olcinio, urbibus opportunis, C. Licinium. insulae, ponte continenti iunctae descendit. partem quod agri inter Strymonem et Nessum sit amnem; Claudius et Cn. Domitius, ut ipsi edicto evocarent. vagatus, portu receptum commeatibus iuvissent. advocatum concilium;  pronuntiatum, Sardis undique exercitum contraxerat. castris haberet, nullam in exercitu seditionem habuit. triumphum impedire debuit, quem, si nihil aliud, quoque et universi populi Romani esse decus censetis. ingrata et inimica bonis civitate velit? triumphus non communem nominis Romani gloriam habet? accessione potius belli quam de bello triumphari? traicienda et victore exercitu transportando. aestimaturum, filium atque obsides ei remissurum. Thracibus munera data in singulos binum milium aeris. publico sicut magistratibus Romanis praeberentur; filium iussisse donum populi Romani accipere. 

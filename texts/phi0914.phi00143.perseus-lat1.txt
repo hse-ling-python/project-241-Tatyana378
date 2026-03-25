@@ -1,0 +1,82 @@
+# ID: histcorp-latin-perseus-phi0914.phi00143.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 43-44 - 43
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: W. Weissenborn
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 487
+# sentences: 26
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+eadem aestate, qua in Thessalia <hi
+rend="italics">haec gesta sunt,
+legatus in Illyricum a consule missus opulenta duo oppida oppugnavit;
+Ceremiam vi atque armis coegit in
+deditionem omniaque iis sua concessit, ut opinione clementiae eos, qui
+Carnuntem, munitam urbem, incolebant, adliceret. postquam nec, ut dederent se,
+conpellere neque capere obsidendo poterat, 
+ne duabus oppugnationibus nequiquam
+fatigatus miles esset, quam prius intactam urbem reliquerat, diripuit. <note
+place="unspecified" anchored="true">
+a. u. c. 583.
+alter consul 
+C.
+Cassius
+nec in Gallia, quam sortitus erat, memorabile quicquam gessit et per
+Illyricum ducere legiones in Macedoniam vano incepto est conatus. <milestone
+unit="section" n="5"/> ingressum hoc iter consulem senatus ex Aquileiensium
+legatis cognovit, qui querentes coloniam suam novam et infirmam necdum satis
+munitam inter infestas nationes Histrorum et Illyriorum esse, <milestone
+unit="section" n="6"/> cum peterent, ut senatus curae haberet, quomodo ea
+colonia muniretur, interrogati, vellentne eam rem 
+C.
+Cassio
+consuli mandari,  responderunt
+Cassium Aquileiam indicto exercitu profectum per Illyricum in Macedoniam esse.
+ea res primo incredibilis visa, et pro se quisque credere Carnis forsitan aut
+Histris bellum inlatum.  tum Aquileienses:
+nihil se ultra scire nec audere adfirmare, quam triginta dierum frumentum militi
+datum et duces, qui ex Italia itinera in Macedoniam nossent, conquisitos
+abductosque. 
+enimvero senatus indignari tantum
+consulem ausum, ut suam provinciam relinqueret, in alienam transiret, exercitum
+novo periculoso itinere interexteras gentes duceret, viam tot nationibus in Italiam aperiret.decernunt frequentes, ut 
+C.
+Sulpicius
+praetor tris ex senatu nominet legatos, qui eo die proficiscantur ex
+urbe et, quantum adcelerare possint, Cassium consulem, ubicumque sit,
+persequantur;  nuntient, ne bellum cum ulla
+gente moveat, nisi cum qua senatus gerendum censuerit. et Gallum Sulpicium patronos sumpserunt. conplures eo nuntio audito in deditionem venerunt. propter quam causam consuli pro hostibus fuerint. placuit, qui indicarent, quae patrum sententia esset. numerum sagittariorum quam apud Romanos militare, possent, et ut primo quoque tempore in urbem rediret. qui rei publicae causa abessent, Romam revocaret: inter se Italiam et Macedoniam aut sortiri placuit; Anagnia duo prodigia eo anno sunt nuntiata, missio sibi visa esset, eos milites fieri iussuros. provinciam redire cogebant; omnibus redimendi et conducendi promiscue ius esset. obstreperetur, audientiam facere praeconem iussit. coactum ex Capitolio, ubi erat concilium, abiit. faceret, in ante diem octavum et septimum kal. adeo tamen ad extremum spei venit reus, sed omnia suspecta criminumque inter ipsos plena; amentiam eorum, qui ad Macedonas gentem trahebant; in potestatem redigendum et alioqui opportune situm, 

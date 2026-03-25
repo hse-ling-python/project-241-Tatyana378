@@ -1,0 +1,142 @@
+# ID: histcorp-latin-perseus-phi0914.phi00124.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XXIII-XXV With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,145
+# sentences: 96
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XXIV
+UT ex Campania in Bruttios reditum est, <note
+type="margin" place="unspecified" anchored="true">A.U.C. 539 Hanno
+adiutoribus et ducibus Bruttiis Graecas urbes temptavit, eo facilius in
+societate manentes Romana quod Bruttios, quos et oderant et metuebant,
+Carthaginiensium partis factos cernebant. 
+Regium primum temptatum est diesque aliquot ibi nequiquam absumpti.
+interim Locrenses frumentum lignaque et cetera necessaria usibus
+ex agris in urbem rapere, etiam ne quid relictum praedae hostibus esset, et in
+dies maior omnibus portis multitudo effundi; 
+postremo sescenti  sescenti (DC) <hi
+rend="italics">W. Heraeus: ob P: oc <hi
+rend="italics">P 1 ?: hoc (1): hi <hi
+rend="italics">x: ii z.
+modo relicti in urbe erant, qui reficere muros ac <note
+place="unspecified" anchored="true"> ac x: om. P
+(1).  portas, telaque in propugnacula congerere cogebantur.
+in permixtam omnium aetatium ordinumque multitudinem et vagantem in
+agris magna ex parte inermem Hamilcar Poenus <note place="unspecified"
+anchored="true"> Poenus P (1): Poenos <hi
+rend="italics">A 2.  equites emisit, qui violare quemquam
+vetiti, tantum ut ab urbe excluderent fuga dissipatos, turmas obiecere.
+dux ipse loco superiore capto, unde agros urbemque posset conspicere,
+Bruttiorum cohortem adire muros atque evocare  principes
+Locrensium ad conloquium iussit et <note type="margin" place="unspecified"
+anchored="true">A.U.C. 539 pollicentes amicitiam Hannibalis adhortari
+ad urbem tradendam. 
+Bruttiis in conloquio nullius rei primo fides est; deinde, ut
+Poenus apparuit in collibus et refugientes pauci aliam omnem multitudinem in
+potestate hostium esse adferebant, tum metu victi consulturos se populum
+responderunt. 
+advocataque extemplo contione, cum et levissimus quisque novas res
+novamque societatem mallent et, quorum propinqui extra urbem interclusi ab
+hostibus erant, velut obsidibus datis pigneratos haberent animos, <milestone
+unit="section" n="8"/> pauci magis taciti probarent constantem fidem quam
+prolatam  prolatam <hi rend="italics"
+>P (4) 
+Conway :  probatam DA:
+propalam 
+walch . 
+tueri auderent, haud dubio in speciem consensu fit ad Poenos deditio.
+L. Atilio praefecto praesidii quique cum
+eo milites Romani erant clam in portum deductis atque impositis in navis, ut
+Regium deveherentur, Hamilcarem Poenosque ea condicione ut foedus extemplo
+aequis legibus fieret in urbem acceperunt. 
+cuius rei prope non servata fides deditis est, cum Poenus dolo
+dimissum Romanum incusaret, Locrenses profugisse ipsum causarentur. <milestone
+unit="section" n="11"/>
+insecuti etiam equites sunt, si quo casu in freto aestus morari aut
+deferre naves in terram posset. et eos quidem quos sequebantur non
+sunt adepti: alias a Messana traicientis freto Regium naves conspexerunt.
+milites erant Romani a  Claudio praetore missi ad
+obtinendam urbempraesidio. itaque Regio extemplo abscessum est. locrensibus iussu
+Hannibalis data pax ut liberi suis legibus viverent, urbs pateret Poenis, portus
+in potestate Locrensium esset, societas eo 
+iure
+lure
+staret ut Poenus Locrensem Locrensisque Poenum pace ac bello iuvaret. 
+
+sic a freto Poeni reducti frementibus Bruttiis quod Regium ac Locros,
+quas urbes direpturos se destinaverant, intactas reliquissent. <milestone
+unit="section" n="2"/>
+itaque per se ipsi conscriptis armatisque iuventutis suae quindecim
+milibus ad Crotonem oppugnandum pergunt ire, Graecam et ipsam urbem et
+maritimam,  plurimum accessurum opibus, si in
+ora maris urbem ac portummoenibus validam tenuissent, credentes. ea cura angebat quod neque non accersere ad auxilium Poenos satis
+audebant, ne quid non pro sociis egisse viderentur et, si Poenus rursus magis
+arbiter pacis quam adiutor belli fuisset, ne in libertatem Crotonis, sicut ante
+Locrorum, frustra pugnaretur. 
+itaque optimum visum est ad Hannibalem mitti legatos caverique ab eo
+ut receptus Croto Bruttiorum esset. 
+Hannibal cum praesentium 
+eam
+earn
+consultationem esse respondisset et ad Hannonem eos reiecisset, ab
+Hannone nihil certi ablatum. 
+nec
+nec 
+riemann
+: nec eo P (1): nec enim <hi rend="italics"
+>A 3.  diripi volebat nobilem atque opulentam urbem et
+sperabat, cum Bruttius oppugnaret, Poenos nec  probare nec iuvare 
+eam
+earn
+oppugnationem appareret, <note type="margin" place="unspecified"
+anchored="true">A.U.C. 539 eo maturius ad se defecturos. <milestone
+unit="section" n="8"/>
+Crotone nec consilium unum inter populares nec voluntas erat.
+unus velut morbus invaserat omnes Italiae civitates ut plebes ab
+optimatibus dissentirent, senatus Romanis faveret, plebs ad Poenos rem traheret.
+eam
+earn
+dissensionem in urbe perfuga nuntiat Bruttiis: Aristomachum esse
+principem plebis tradendaeque auctorem urbis, et in vasta urbe lateque moenibus
+disiectis  moenibus disiectis <hi
+rend="italics">
+jacobs :  omnibus disiectis moenibus <hi rend="italics"
+>P (1).  raras stationes custodiasque senatorum esse;
+quacumque custodiant plebis homines, ea patere aditum. ab Dionysio Siciliae tyranno per dolum fuerat capta. se, circumsedente cum Bruttiis eos etiam plebe sua.. necessitate Hannonis auxilium inplorant. ritus mores legesque ac mox linguam etiam verterentur. conspexere purpuram ac diadema ac satellites armatos, voluntaria aut fuga praeverterent metum suppliciorum. parum meminisse videretur vestrae libertatis; conveniant, sub quorum tutela atque cura militent. suspectum cupiditatis imperii consulem haberet; Ianiculo videre concitaverunt civitatem ad arma, et M. Valerio ad classem circa Brundisium relinqui; obsidione Capuae bellum eius anni Romani inciperent. promisso tradendae urbis  venerunt. esse quaerentium, en umquam liberi militaturi essent, venisse eis libertatis quam diu sperassent potiundae; copias educit; nec hostes moram dimicandi fecerunt. opera in ea pugna fuerat, militaribus donis donasset, in aerarios relata tribuque omnes moti; pupillis ac viduis foret, a quaestore perscribebatur. se Ti. Gracchum proconsulem a Benevento acciturum. partem fierent, tenuit ne inrito incepto abiretur. facta etiam in urbe  fieri coepta est. exacta erat et hibernis placebat locus—conportat. saepe usurpatae Dionysi tyranni vocis, quidem tam iure caesi quam Hieronymus videbantur: voces et cum haud dubio adsensu multitudinis esse. tempus aiebat Siciliae per summum decus repetendae, coniunctus bellum adversus consulem Romanum gereret. in magnum portum Syracusas ex alto decurrere, Hennensium arbitrio haberet, sed eius qui commisisset. criminandum me concitandumque in vos populum. qui prior strinxerit ferrum, eius victoria erit. onerarias inpositis altero die Oricum pervenit; anchored="true">A.U.C. 540 omnes consedere. hominum captum cum sex et triginta militaribus signis. novem et triginta elephanti pilis confixi. et Ti. Sempronius Gracchus  iterum. legiones duceret, Tuditanus a M. Pomponio acciperet. velle. Cn . Fulvius castris praeerat; eorum adversus reges populosque Africae esset, 

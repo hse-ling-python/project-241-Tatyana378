@@ -1,0 +1,107 @@
+# ID: histcorp-latin-perseus-phi0914.phi00132.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita libri, erklärt von M. Weissenborn, books 31-32 - 32
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: H. J. Müller
+# publisher: Weidmannsche Buchhandlung
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,006
+# sentences: 77
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+consules praetoresque, cum idibus Martiis
+magistratum inissent, provincias sortiti sunt. 
+L.
+Lentulo
+Italia
+, 
+P.
+Villio
+Macedonia
+, praetoribus 
+L.
+Quinctio
+urbana, 
+Cn.
+Baebio
+Ariminum, 
+L.
+Valerio
+Sicilia
+, 
+L.
+Villio
+Sardinia
+evenit.  Lentulus consul novas
+legiones scribere iussus, Villius a 
+P.
+Sulpicio
+exercitum accipere; in supplementum eius, quantum militum videretur,
+ut scriberet, ipsi permissum.  praetori Baebio
+legiones, quas 
+C.
+Aurelius
+consul habuisset, ita decretae, ut retineret eas, donec consul novo
+cum exercitu succederet;  in Galliam ubi is
+venisset, omnes milites exauctorati domum dimitterentur praeter quinque milia
+socium; 
+iis obtineri circa Ariminum
+provinciam satis esse.prorogatum imperium praetoribus prioris anni, C.
+Sergio
+, ut militibus, qui in Hispania, Sicilia, Sardinia stipendia per
+multos annos fecissent,  agrum adsignandum
+curaret, 
+Q.
+Minucio
+, ut in Bruttiis idem de coniurationibus quaestiones, quas praetor
+cum fide curaque exercuisset,  perficeret et
+eos, quos sacrilegii compertos in vinculis Romam misisset, Locros mitteret ad
+supplicium, quaeque sublata ex delubro Proserpinae essent, reponenda cum
+piaculis curaret. 
+feriae Latinae pontificum decreto
+instauratae sunt, 
+
+ab Suessa nuntiatum est duas portas quodque
+inter eas muri erat de caelo tactum; et Formiani legati aedem Iovis, item
+Ostienses aedem Iovis, et Veliterni Apollinis et Sangus aedes, et in Herculis
+aede capillum enatum;  et ex Bruttiis ab
+Q.
+Minucio
+propraetore scriptum eculeum cum quinque pedibus, pullos gallinaceos
+tris cum ternis pedibus natos esse.  a
+P.
+Sulpicio
+proconsule ex Macedonia litterae adlatae, in quibus inter cetera
+scriptum erat lauream in puppi navis longae enatam. maioribus hostiis, quibus diis videretur, sacrificarent; traducerentur, concessum, ut Signiam et Ferentinum transirent. exhaustam, et finem aliquem militandi fieri aequum esse. nec eam nec ullam aliam satis iustam causam esse. Macedonum faciebant. et adiuvabat eos natura ipsa loci. campos terminare oculis haud facile queas. tuta urbs, sed quod saxo undique absciso rupibus imposita est. abscessit et in Macedoniam in hiberna copias reduxit. Epirum ad occupandas quae ad Antigoneam fauces sunt — primo in continentem travectus ad hostem ducere pergit. Macedoniam intraverat, circumduceret copias. consulatum ex quaestura petere non patiebantur: provincias; Aelio Italia, Quinctio Macedonia evenit. Catoni in Sardiniam ex eodem genere militum duo milia peditum, Sinuessae porcum cum humano capite. itinere per castra hostium vim facere conaretur, tutari rex voluisset, sine ullo effectu aestas extraheretur. vellent populorum, cum quibus pax utrisque fuisset, se usurum. Charopo, principe Epirotarum, missus deducitur ad consulem. motus Charopi experiri spem oblatam statuit et, locari equitatum, pedites, qua dux monstraret viam, ire; miles et virtute et scientia et genere armorum; regnum se reciperet, an praeverti in Thessaliam posset. nec tempus erat, omisso incepto in Macedoniam transcendit; restiterunt, quantum arma, quantum moenia tueri poterant. non sustinuissent, vicit pertinaciam Macedonum. eisdem petentibus datur; Phaloria incensa ac direpta est. proximam telis coniectis ad Gomphorum regionem agmen vertit. ferme milia ab Larisa abest; ex Perrhaebia oriundi sunt; Philippum primum in Epiri faucibus posuit castra, ut quaeque ex sua classe venissent naves, Euboeam petere. liberis in arcem confugit, deinde in deditionem venit. ratus, quod ex momentis parvarum plerumque rerum penderet, acuto inter spicula integrarum hastarum velut vallum explebat. Corinthium versa sinum, ad id opportunissime sita visa, Attalo et Rhodiis et Atheniensibus ad Achaeos missi. suspectum habebant pro eius crudelitate perfidiaque, graviorem post bellum dominum futurum cernebant. Philippo et Romanis mentio incidit, vix manibus temperatis? contionis tantae ex tot populis congregatae movit. rend="italics">ut pro sententiis dictas percenseamus, nos, sed ne quid respondeat quidem nobis sit inventurus, duces belli arma terra marique simul Macedoniae intulerunt. nulli apertior neque opportunior quam navali bello. id quod optandi vobis ac summopere petendum erat, fastidire. volunt, committere vos, cur pereatis, non patiuntur. magnis classibus exercitibusque mare traiecerunt. simul ab omni parte operibus armisque urbem est adgressus. omnes, inermi quoque sequente turba, confugerunt. steterat armatus cum paucis clientibus non excessit. iis, ut principum liberis, magna vis servorum erat. futuri erant, spectaculo intentum populum adgredi statuerant; coniurationem quaerendam atque opprimendam iussus, Romae, et quod Fregenis murus et porta de caelo tacta erant, Gallorum Boios, Ilvates Ligurum sub dicione erant; traiecerat Padum iunxeratque se Insubribus et Cenomanis, gesturos, ut et ipsi collatas in unum viris firmarent. quisque ut defenderent, rationem gerendi belli hosti mutarunt. rursus populari agros et urere tecta vicosque expugnare coepit. imperatorem Romanum nuntio usque in adventum eius tenuit urbem. rege venerat locum ac tempus petens colloquio. Macedonum et Achaeorum exul, vir insignis, Cycliadas. et Achaei duo, Aristaenus et Xenophon. rex in proram navis in ancoris stantis processisset, ‘ credo fidei, quos circa te video, atque omnium minime Aetolis’ qui cum hoste ad colloquium congrediuntur, si nulla fides sit. in meum locum substituant.’ secundum haec silentium fuit, fide Philippum agere nec bella vera virtute umquam gessisse. diripere urbes et vincentium praemia victum corrumpere. respondendum, et eam opinionem ipse adfirmavit petendo, tota Illyrici ora, perfugas remittere ac si qui sint captivi; instante nihil amitti dato spatio ad legatos mittendos; quietem ipsa hiems daret, senatus auctoritatem posse. regem Nabidis filiis matrimonio coniungere velle. mittit ad Attalum, ut ab Aegina Sicyonem sibi occurreret; quid Argivi vellent, praeberi debere dicebat rex; Apollinis agrum grandi quondam pecunia redemerat iis, 

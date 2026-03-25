@@ -1,0 +1,127 @@
+# ID: histcorp-latin-perseus-phi0914.phi00127.perseus-lat2
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books XXVI-XXVII With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,086
+# sentences: 96
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber XXVII
+HIC status rerum in Hispania erat.
+in Italia <note type="margin" place="unspecified" anchored="true"
+>A.U.C. 544 consul Marcellus Salapia per proditionem recepta
+Marmoreas et Meles de Samnitibus vi cepit. 
+ad tria milia militum ibi Hannibalis, quae praesidii causa relicta
+erant, oppressa: praeda—et aliquantum eius fuit—militi concessa.
+tritici quoque ducenta quadraginta milia modium et centum decem
+milia hordei inventa. 
+ceterum nequaquam inde tantum gaudium fuit quanta clades intra paucos
+dies accepta est haud procul Herdonea urbe. 
+castra ibi Cn. Fulvius proconsul habebat spe recipiendae Herdoneae,
+quae post Cannensem cladem ab Romanis defecerat, nec loco satis tuto posita nec
+praesidiis firmata. 
+neglegentiam insitam ingenio ducis augebat spes ea, quod labare iis
+adversus Poenum fidem senserat, postquam Salapia amissa excessisse iis locis in
+Bruttios Hannibalem auditum est. 
+ea omnia ab Herdonea per occultos nuntios delata Hannibali simul
+curam sociae retinendae urbis et spem fecere incautum hostem adgrediendi.
+exercitu
+expedito, ita ut famam prope praeveniret, magnis <note
+type="margin" place="unspecified" anchored="true">A.U.C. 544
+itineribus ad Herdoneam contendit et, quo plus terroris hosti obiceret, acie
+instructa accessit. 
+par audacia Romanus, consilio et viribus impar, copiis raptim eductis
+conflixit. 
+quinta legio et sinistra ala acriter pugnam inierunt; ceterum
+Hannibal signo equitibus dato ut, cum pedestres acies occupassent praesenti
+certamine oculos animosque, circumvecti pars castra hostium, pars terga
+trepidantium  trepidantium <hi
+rend="italics">
+Gronovius :  oppidantium P
+(3): oppugnantium AN Aldus: pugnantium <hi
+rend="italics">JK Froben: necopinantium 
+sauppe . 
+invaderent,  ipse Cn. Fulvi
+similitudinem nominis, quia Cn. Fulvium praetorem biennio ante in isdem
+devicerat locis, increpans, similem eventum pugnae fore adfirmabat. <milestone
+unit="section" n="10"/>
+neque ea spes vana fuit; nam cum comminus acie et peditum certamine
+multi cecidissent Romanorum,  starent tamen
+ordines signaque, equestris tumultus a tergo, simul a castris <note
+place="unspecified" anchored="true"> a castris A 3
+N 3 JK: acris <hi
+rend="italics">P (3).  clamor hostilis auditus sextam ante
+ante P
+(3) JK Froben 2 ( after
+legionem AN Aldus ): deleted by
+J. H. Voss, Conway.
+legionem, quae in secunda acie posita prior ab Numidis turbata est,
+quintam deinde atque eos qui ad prima signa erant avertit. <milestone
+unit="section" n="12"/>
+pars in fugam effusi, pars in medio caesi, ubi et ipse Cn. Fulvius
+cum undecim tribunis militum cecidit. 
+Romanorum sociorumque quot caesa in eo proelio milia sint, quis pro
+certo adfirmet, cum tredecim milia alibi, <note place="unspecified"
+anchored="true"> alibi P (3) AN
+Aldus, Froben ( after cum <hi
+rend="italics">JKC 4).  alibi <note place="unspecified"
+anchored="true"> alibi AN Aldus, Froben: om. PJK.
+haud plus quam  septem inveniam? castris
+praedaque victor potitur. <note type="margin" place="unspecified"
+anchored="true">A.U.C. 544
+Herdoneam , quia et defecturam fuisse ad Romanos comperit nec
+mansuram in fide, si inde abscessisset, multitudine omni Metapontum ac Thurios
+traducta incendit; occidit principes qui cum Fulvio conloquia occulta habuisse
+comperti sunt. 
+Romani qui ex tanta clade evaserant diversis itineribus semermes ad
+Marcellum consulem in Samnium perfugerunt. 
+
+Marcellus nihil admodum tanta clade territus litteras Romam ad
+senatum de duce atque exercitu ad Herdoneam amisso scribit: <milestone
+unit="section" n="2"/> ceterum eundem se, qui post Cannensem pugnam ferocem
+victoria Hannibalem contudisset,ire adversus eum, brevem illi laetitiam qua exsultet <noteplace="unspecified" anchored="true"> exsultet P (1)
+NJK Conway: -taret  conj.
+Conway
+( with -disset.  facturum. <milestone
+unit="section" n="3"/>
+et Romae quidem cum luctus ingens ex praeterito, tum timor in futurum
+erat:  consul ex Samnio in Lucanos transgressus
+ad Numistronem in conspectu Hannibalis loco 
+plano
+piano
+, cum Poenus collem teneret, posuit castra. magna, et ferme omnia Romanis secunda fuere. cui cedenti certamenque abnuenti gravis ipse instaret, terminari—negabant dictatorem dici posse. ipsius ratio haberetur, comitiis se moram non facere. reficiendi consules populo ius esset; similis iram fugae missi eo ab senatu fuerant. germano cognatisque aliis ob eadem vitia invisus. adeo ex parvis saepe magnarum momenta rerum pendent. Campanos neque Tarentinos esse eos sed Romanos, et Brundisini et Hadriani et Firmani et Ariminenses, prompta ad quattuor milia pondo auri. proditionis conciliator nuntiaverat iubet. maxime in nuda latera hostium pugnabat; esse. iudicarent; vocis usurpatione abstinerent. Carthaginiensibus venisset, in Hispaniam traiecisse; exercitum eius aestiva Venusiae sub tectis agere. eo metu conpressi Etrusci quieverunt. naves quas P. Scipio ex Hispania misisset. examen apium ingens in foro consedisse; habuerat cum supplemento in Lucanos est profectus. opere; neque tamen ab ipso aedes eae dedicatae sunt. tria milia equitum, duo peditum in occulto locata; equitum interfectorum rati occasionem supplicii peti, quantum adcelerare posset, cum peditum agmine sequi. cum pecoribus metu populationum compulsam audierat. posse, quia duos patricios creari non liceret; simul quod Olympiae ludicrum ea aestate futurum erat, utrius mallet consulum prioris anni exercitum sumeret; Sardinia et Gallia, duas C. Terentius in Etruria, anchored="true">A.U.C. 547 conferrent. quam prioribus annis quisquam meminerat habitum; quisque iure vacationem haberet ad senatum deferret. omnia cum summa concordia consulum acta. celeriorem iam moventem ex hibernis continuerat, prospera bella in Hispania prolapsam eam erexisse; tumultuaria pugna fuerat, quattuor occisi, duo capti. atque  inde Canusium procedit. praeter arma secum in expeditionem tulerat. substitit Nero, ne ante noctem castra ingrederetur. forte adustioris coloris ut ex recenti via essent; signo ut taciti vasa colligerent, signa ferri iussit. iis fidens quantum ab hoste timeri eos credebat; alia cum omnis generis, tum auri etiam argentique. si una equitum ala mittatur, omnes deleri: fidem impediebat, quod biduo ante pugnatum dicebatur. edixit, celebrataque a viris feminisque est. 

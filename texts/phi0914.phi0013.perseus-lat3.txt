@@ -1,0 +1,46 @@
+# ID: histcorp-latin-perseus-phi0914.phi0013.perseus-lat3
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Books III and IV With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 430
+# sentences: 55
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Liber III
+ANTIO capto T. Aemilius et Q. Fabius consules
+fiunt. hic erat Fabiusqui unus exstinctae ad Cremeram genti superfuerat. iam prioreconsulatu Aemilius dandi agri plebi fuerat auctor; eadem dextera armata quam pacatam illis antea dederat. fines Romanos ut ad urbem quoque terrorem pertulerint. quattuordecim dicuntur praeter orbos orbasque. urbemque ipsam, si qua fortuna daret, temptandam. arcendas  populationes finium missus. tanto tumultu, iustitium per aliquot dies servatum. castris eruptione facta agnam vim hostium circumvenit. principium anni agebatur, consulatum ineunt. itineribus suis instructum et ad certamen intentum. cum exitus haud in facili essent, circumveniunt. regium esse; quippe duos pro uno dominos acceptos, ita iacuisse per aliquot dies, ut nihil odor mutaret. ne possessione urbis pellantur, ne iugum accipiant. impetus tribunicios popularesque procellas sustinebat. sumpta sunt arma; in dubio fuit, sponte arma sumpsissent, capti et deleti eramus. quis fecisset, se id suffragium non observaturos. longe Romanae iuventutis habitus esset. abire sinerent Ab consule ad dictatorem ire iussi; subactam domitamque esse gentem, sub iugum abituros. emiserat—praedam omnem suo tantum militi dedit; Aequorum Corbione amissum praesidium nuntiatum esset. nequaquam splendore vitae pares decemviros creat, eorum catervae tribunalia obsederant. ignari quanta invidiae immineret tempestas: congressuque impotentium dominorum se amovissent. quam obnoxie dictas sententias accepimus. reperirent nec quo evasura res esset cernerent, id magis se illius causa orare quam rei publicae; igitur peregit nullum placere senatus consultum fieri. Crustumeriamque, loco edito castra communierant; egregie pugnantem militesque quosdam cum eo amissos. ad crudelem superbamque vim animum convertit. coniugesque regnum vestrae libidini datum est. est, cum Appius non Verginiam defendi ab Icilio, est praeesse vobis qui proximi invidiae sint. insignia magistratus eius quo anno iam ante abissent. iam quam Horatius ac Valerius vociferabantur: censebant vivosque igni concrematuros minabantur. provocatione creasset, tergo ac capite puniretur. iudicem non eat, pro damnato in vincla duci iubere. erant, magno detrimento certamen staturum fuerit. tantumque hos pudor quantum alios laudes excitabant. magnopere ad patrum aut plebis causam inclinati, nobilissimos viros honoratissimosque passi sumus. anchored="true">A.U.C. 308 rediturum. probassent causam;—omnis iuventus adfuit postero die. castris sunt coniuncta. tertio die, signa, ut simul omnis exercitus praeda potiretur. quantum amittatur alienandis iniuria sociorum animis. 

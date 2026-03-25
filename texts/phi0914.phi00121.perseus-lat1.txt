@@ -1,0 +1,122 @@
+# ID: histcorp-latin-perseus-phi0914.phi00121.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Boooks XXI-XXII With An English Translation
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Benjamin Oliver Foster, Ph.D.
+# publisher: Trustees of Tufts University
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,004
+# sentences: 86
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+Book XXI
+IN parte operis mei licet mihi praefari quod
+in 
+principio summae totius professi plerique sunt rerum scriptores, bellum maxime
+omnium memorabile quae unquam gesta sint me scripturum, quod Hannibale duce
+Carthaginienses cum populo Romano gessere. 
+nam neque validiores opibus ullae inter se civitates gentesque
+contulerunt arma, neque his ipsis tantum unquam virium aut roboris fuit, et haud
+ignotas belli artes inter sesesed expertas primo Punico conferebant <note place="unspecified"anchored="true"> conferebant s:
+conserebant CM.
+bello, et adeo varia fortuna belli ancepsque Mars fuit ut propius
+periculum fuerint qui vicerunt. 
+odiis etiam prope maioribus certarunt quam viribus, Romanis
+indignantibus quod victoribus victi ultro inferrent arma, Poenis quod superbe
+avareque crederent imperitatum victis esse. 
+
+fama est etiam Hannibalem annorum ferme novem <note type="margin"
+place="unspecified" anchored="true">A.U.C. 536-553 pueriliter
+blandientem patri Hamilcari ut duceretur in Hispaniam, cum perfecto Africo bello
+exercitum eo traiecturus sacrificaret, altaribus admotum tactis sacris iure
+iurando adactum se cum primum posset hostem fore populo Romano. <milestone
+unit="section" n="5"/>
+angebant ingentis spiritus virum Sicilia Sardiniaque amissae; nam et
+Siciliam nimis celeri desperatione rerum concessam et Sardiniam inter motum
+Africae fraude Romanorum stipendio etiam insuper imposito interceptam. 
+
+his anxius curis ita se Africo bello, quod fuit <note type="margin"
+place="unspecified" anchored="true">A.U.C. 517-525 sub recentem
+Romanam pacem, per quinque annos, ita deinde novem annis in Hispania augendo
+Punico  imperio gessit ut appareret maius eum
+quam quod gereret agitare in animo bellum, et si diutius vixisset, Hamilcare
+duce Poenos arma Italiae inlaturos fuisse, quae <note place="unspecified"
+anchored="true"> quae s: qui <hi
+rend="italics">CM: cui 
+heerwagen . 
+Hannibalis ductu intulerunt. 
+
+mors Hamilcaris peropportuna et pueritia <note type="margin"
+place="unspecified" anchored="true">A.U.C. 525-532 Hannibalis
+distulerunt bellum. medius Hasdrubal inter patrem ac filium octo
+ferme annos imperium obtinuit, flore aetatis, uti ferunt, primo Hamilcari
+conciliatus, gener inde ob aliam indolem profecto animi adscitus, <milestone
+unit="section" n="4?"/> et quia gener erat, factionis Barcinae <note
+place="unspecified" anchored="true"> Barcinae edd.:
+barchinae CM.
+opibus, quae  apud milites plebemque plus quam modicae
+erant,haud sane voluntate principum in imperio positus. <milestoneunit="section" n="5"/>
+Is plura consilio quam vi gerens hospitiis magis regulorum
+conciliandisque per amicitiam principum novis gentibus quam bello aut armis rem
+Carthaginiensem auxit. 
+ceterum nihilo ei pax tutior fuit; barbarus eum quidam <note
+place="unspecified" anchored="true"> quidam C 2 <hi
+rend="italics">M 3: quidam quidam C 1:
+quidam qui M 1.  palam ob iram interfecti
+interfecti <hi rend="italics"
+>M 3: interfecit CM.
+ab eo domini obtruncavit; comprensusque ab circumstantibus haud alio quam si evasisset vultu tormentis
+quoque cum laceraretur, eo fuit habitu oris ut superante laetitia dolores
+ridentis etiam speciem praebuerit. 
+cum hoc Hasdrubale, quia mirae artis in sollicitandis gentibus
+imperioque suo iungendis fuerat, foedus renovaverat populus Romanus, ut finis
+utriusque imperii esset amnis Hiberus Saguntinisque mediis inter imperia duorum
+populorum libertas servaretur. 
+
+in Hasdrubalis locum haud dubia res fuit <note type="margin"
+place="unspecified" anchored="true">A.U.C. 533 quin praerogativa
+militaris, qua extemplo iuvenis Hannibal in praetorium delatus imperatorque
+ingenti omnium clamore atque adsensu appellatus erat, a senatu comprobaretur.
+favor
+plebis sequebatur. hunc vixdum puberem Hasdrubal litteris ad se <note type="margin"
+place="unspecified" anchored="true">A.U.C. 533 accersierat; actaque
+res etiam in senatu fuerat. barcinis
+Barcinis <hi rend="italics"
+>edd.; barchinis CM ( <hi rend="italics"
+>also at chap. ix. § 4, chap. x. § 4 <hi
+rend="italics">and elsewhere ).  nitentibus ut adsuesceret 
+militiae
+militae
+Hannibal atque in paternas succederet opes, in proelium ibat, ultimus conserto proelio excedebat. medioque alveo haudquaquam pari certamine concursum, certamina cum finitimis serebantur, maxime Turdetanis. totum in Hispaniam Hannibalemque intenderant bellum; fidem socialem usque ad perniciem suam coluerunt. adfirmans qui sub condicionibus iis de pace ageret. praetorem Saguntinum—et ipse ita iubebat est deductus. quidquid relinquitur pro munere habituri estis. non cunctandum in tali occasione ratus Hannibal, aetatis ira fecerat et captivi militum praeda fuerant, milibus sociorum peditum, equitibus mille sescentis. quaerendum censeam, sed utrum iure an iniuria; seque non ducem solum sed etiam causam esse belli, longinquitate viae insuperabilique Alpium transitu. migrantium modo tuto transmisisse. per octo menses periculi, quid laboris exhaustum esse? aperto atque interdiu vim per angustias facturus. suos continuit, ne tumultum ac trepidationem augeret. Vergiliarum ingentem  terrorem adiecit. 2.  proxima gens erat in Italiam degresso. " ne genus belli neve hostem ignoretis, belli praemia Siciliam ac Sardiniam habetis. loqui existimet, ipsum aliter animo adfectum esse. ignoraturum certum habeo utrius exercitus sit consul. equites in medium accipit, cornua Numidis firmat. et luna pernox erat et sublatis armamentis veniebant; stationibus P.  pars in navibus erant. exitumque liberum e portu naves hostium haberent. sua auxit animum et paucitas illis minuit. magoni fratri ait,  quem teneas. insuper velut nube iaculorum a Baliaribus coniecta. tamen animis, si cum pedite solum foret pugnatum; duces, quas alias legiones esse quae arcessantur? accensa, armis arreptis obviam Hannibali procedit. perscindente vento  et rapiente; milia peditum quinque equitum adversus hostem ducit; partim novis instituendis, Romanae dicionis fecit. iam urbe, cum intrare vellent, excepit insidiis; animis, multa nuntiata et temere credita sunt; Capitolium et sollemnem votorum nuncupationem fugisse, 

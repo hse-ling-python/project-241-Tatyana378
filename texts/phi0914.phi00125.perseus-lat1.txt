@@ -1,0 +1,49 @@
+# ID: histcorp-latin-perseus-phi0914.phi00125.perseus-lat1
+# author: Livy
+# pseudonym: 
+# translator: 
+# title: Ab urbe condita, books 21-25 - 25
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2020-08-24
+# sourceDescription: 
+# genre: 
+# subgenre: 
+# location: 
+# language: la
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: Charles Flamstead Walters
+# publisher: Oxford University Press
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: The Perseus Project (http://www.perseus.tufts.edu/hopper/)
+# retrieveFormat: 
+# annotation: 
+# annotationMethod: 
+# words: 1,117
+# sentences: 118
+# sentenceOrder: original
+# URL: 
+# cite: 
+# availability: Creative Commons Attribution-ShareAlike 3.0 United States (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+
+dum haec in Africa atque in Hispania geruntur,
+Hannibal in agro Sallentino aestatem consumpsit spe per proditionem urbis
+Tarentinorum potiundae. ipsorum interim Sallentinorum ignobiles urbes ad eum
+defecerunt.  eodem tempore in Bruttiis ex
+duodecim populis, qui anno priore ad Poenos desciuerant, Consentini et Tauriani
+in fidem populi Romani redierunt et plures redissent, errore facilis, quem uelut concessae artis usu exercebant. ad patres etiam ac publicam querimoniam excessit res. sacrorum conati essent, haud procul afuit quin uiolarentur. . comitiorum consularium iam appetebat tempus; , cui Sicilia prouincia in praetura fuerat. . comitiis perfectis dictator magistratu abiit. tribus discursum est ut tribuni repente incepto destiterint. in Tuscos legiones urbanae prioris anni datae. cum magno prope motu rerum factum impediit. ad suffragium tribus uocarentur, intercessisset. est ut sortirentur ubi Latini suffragium ferrent. Casca, cui simul metus pudorque animum uersabat. Licinius Crassus, qui aedilitatem curulem petiturus erat. militabant in senatu recitatae sunt. miserunt, e quibus unus potestate dicendi facta: erant aduersus Pyrrhum ipsum pugnantes satisfecerunt. exercitum qui ab Allia Ueios transfugerat reciperaretur, nauata rei publicae opera et uno felici proelio reciperarunt; consultusque de iis litteris ita decreuit senatus: castris multis locis supra Suessulam, et duo uigiles exanimati; dederunt et per eosdem dies sacrum nouendiale fuit. in Italia Graecarum ciuitatium animos inritauit cum publice, interemptos aut propinquitate aut amicitia contingebat. minusque iterum ac saepius id eos audere miraculo fuit. maxime commeare propter metum hostium credebant. quis agrestium procul spectator agminis falleret; luce prima iuberet exire ad arcendum populationibus hostem; itinera quam maxime frequentia occupari iubet, Romanis seditio aliqua cum fraude uideri ab oppidanis mota. tum Hannibal Tarentinos sine armis conuocari iubet. ad omnem adeundam simul fortunam persecuti fuerant. per se ipsi Tarentini urbem ab iis tueri possent. ut uel sine praesidio tueri se aduersus Romanos possent. faciliora plaustra minorque moles in transitu esset. &lt;ad&gt; ante diem quintum kalendas Maias Latinae tenuerunt; alteri quoque, cuius nondum tempus uenerat, adferebat fidem. capris duabus albis auratis, Latonae boue femina aurata. iussit praesidiis datis quae commeatus eos prosequerentur. consules—circa Bouianum castra Romanorum erant—miserunt. n="11" unit="section"/> castra Punica oppugnanda esse. signum et hic centurio' inquit 'intra uallum hostium erit; fortissima cohors sociorum et ciuium legio esset. erant, quam ira in Romanos propter obsides nuper interfectos. admouissent, se in potestatem eorum urbem tradituros esse. Romanorum, Carthaginienses in urbem accipiunt. magistratu erat, ab iisdem illis creatus praetor. capere eas latebras ingentem numerum—occuleret. descissent, persuasisse ut redirent in amicitiam Romanorum, contingere dextram &lt;et&gt; id pignus fidei secum ferre: exspirantium inimicorum cumulata armaque et corpora cadant. Hannibale omni rerum uerborumque honore exsequias celebrante. leue est quod non magnae interdum rei momentum faciat. summotisque aliis uter bello melior sit decernamus.' hospitali caede dextram uiolet; conuersusque abibat. simulantemque parcere cui sciat parem se non esse. oppugnatum uenisset. si uir esset, congrederetur. uolnere ex equo desiluit ut pedes iacentem conficeret. plures tamen ab Romanis primo incursu equitum ceciderunt. tamquam eaedem militares et imperatoriae artes essent. telis cecidit, fusa extemplo est Romana acies; haud dubia suo id arbitrio ubi uellent facturos. accessissent, extemplo in castra mitterent frumentum, circumsessis modo sed etiam circumuallatis ferret. legati Campani ad eum uenerunt querentes simul orantesque; obsidionem et nunc aduentum suum consules non laturos. uerteret bellum an obsidione Syracusas premeret, alia subinde spes, postquam haec uana euaserat, excepit. Philippum regem, captus ab Romanis nauibus erat. iubet, ut mature corpora curarent quietique darent: unit="section"/> nocte in expeditionem eundum esse. et ad mille fere armati tenui agmine per silentium eo deducti. erat et iam undique non furtim sed ui aperta gerebatur res. salire de muro praecipitarique turba pauentium. opemque si quam possent iam captae prope urbi ferendam. contineri ab discursu miles auidus praedae non posset. uenerunt, precantes ut a caedibus et ab incendiis parceretur. cetera praedae futura. castra obiectu parietum pro muro saepta; rediret, deducto praesidio tradidit tumulum Romanis. quinquaginta nauibus Epicydae et Syracusanis relictis; circumsedendo Syracusas caelo aquisque adsuerant magis. mercennariorum militum ducibus ad Bomilcarem nauigat. ipsorum esset potestate quam diu ea paterentur; Hieronymus, nequaquam tam in uos impius quam in nos, libertatis tempus fuisse quod pacis uobiscum non fuerit. composuissetque agendae ordinem rei, Achradinam redit. regione portae quae prope fontem Arethusam est. Achradina erant transfugis spatium locusque fugae datus est, sed ne transfugarum duces captam et oppressam tenerent. Carthagine tum fuisset cum qua uiribus aequis certabatur. uiginti milia Celtiberorum ea hieme ad arma excita. in conspectu hostium dirimente amni ponunt castra. Romanis erat, quippe tam paucis, si ui retinerent. sui roboris suarumque proprie uirium in castris habeant. in promptu esse, retro quantum posset cedere statuit, par terror, periculum maius ab nouo hoste urgebat. quem deinde clarum potentemque Romana fecit amicitia. Suessetanorum aduentare fama erat, Poenis coniunxisset, uictoribus et Romani pro uictis essent, fecit. hostium non posset, ipse certe cum fratre coniungeret copias? latera incursantes, consistere coegerunt ac tutari agmen; aliquamdiu haud multum procederetur et nox iam instaret, ducendae fossae aliiue ulli operi apta inueniri posset; morte eorum non Romae maior quam per totam Hispaniam fuit; alienata prouincia et publica trahebat clades; hostem neglegenter atque incomposite uenientem incurrunt. illos fuisse maxime censeam, id optimum ducere. quod neglexeris incautum atque apertum habeas. castra hostium inrumpatis quo uestra tutati estis.' spatio cohors Romana arte Punica abditur et equites. occulto procurrentibus circumuenti caesique ad unum omnes sunt; triginta septem cum imagine Barcini Hasdrubalis. cedentes nostros effuse sequeretur, caesa ex insidiis scribit. sensu cum magno pauore circumstantium militum; templo clipeum, Marcium appellatum, cum imagine Hasdrubalis. deuexit, hostium quidem illa spolia et parta belli iure; sub Hannibale magistro omnes belli artes edoctus. eorum ferendo in tempore cuique auxilium adiit, interuallo consedit, quid agerent pararentue exspectaturus. incusso ne ab suomet ipsi equite oppugnarentur. inde Syracusas rediit. iam ferme in exitu annus erat; praetor litteras Capuam ad consules mitteret, 
